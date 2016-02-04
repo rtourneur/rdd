@@ -1,0 +1,372 @@
+La quantité d'informations concernant un personnage est telle que celles-ci ne sauraient tenir sur une seule page. On utilise donc jusqu'à cinq ­« feuilles de personnage ». Seul l'usage des deux premières est traité dans ce chapitre.<BR>
+Il y a en tout :
+* La feuille de personnage proprement dite où est décrit le personnage.
+* La feuille de route qui sert à tenir à jour tout ce qui varie en cours de partie (endurance, fatigue, blessures, ...)
+* La feuille d'équipement où est décrit en détail ce qu possède le personnage, ''voir le chapitre [[Au Fil des Jours]]''.
+* La feuille d'archétype qui est la somme de toutes les vies antérieures du personnage, ''voir le chapitre [[L'Archétype]]''.
+* La feuille de sorts qui est réservée aux magiciens, ''voir [[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]''.
+
+Sur la feuille du personnage, la création se déroule en quatre étapes : détermination des caractéristiques, détermination des compétences, calcul des points et seuils, choix des signes particuliers.
+ [[Naissance d'un Voyageur|Retour à la Naissance d'un Voyageur]]
+
+[[Fichier:Feuille de personnage.jpeg|vignette|La Feuille de Personnage]]
+
+== Haut-rêvant ou non ? ==
+Avant de commencer la création de votre personnage, il vous faut faire un choix fondamental : sera-t-il haut-rêvant, c'est-à-dire magicien, ou non ? Le don de haut-rêve est censé s'acquérir pendant l'enfance, et votre personnage n'aura pratiquement aucune chance de devenir haut-rêvant par la suite.<BR>
+Le principe de création des haut-rêvants et des autres personnages (appelés vrai-rêvants) est identique, mais les haut-rêvants doivent réserve des points pour les compétences de magie ([[Les Compétences#Draconic|Draconic]]) et pour les sorts. Les non-haut-rêvants peuvent bénéficier de la règle additionnelle des vrai-rêvants (voir les [[Rêve de Dragon Seconde Édition|Règles additionnelles]]).
+
+== Caractéristiques : 160 points ==
+Déterminer les 14 premières caractéristiques, de [[Les Caractéristiques#TAILLE |TAILLE à CHANCE]], en répartissant librement entre elles 160 points, soit 11,4 de moyenne. Aucune caractéristique ne peut être inférieure à 6 ni supérieure à 15.<BR>
+Inscrire les caractéristiques dans la colonne de gauche, la colonne de droite étant réservée aux points d'expérience que le personnage ne manquera pas de gagner au cours de sa carrière.
+=== Limitation ===
+La [[Les Caractéristiques#FORCE|FORCE]] peut au maximum être égale à [[Les Caractéristiques#TAILLE |TAILLE ]] + 4. Un personnage de 6 en [[Les Caractéristiques#TAILLE |TAILLE ]] peut au maximum avoir une [[Les Caractéristiques#FORCE|FORCE]] de 10. Pour bénéficier de la [[Les Caractéristiques#FORCE|FORCE]] maximale, il faut un minimum de 11 en [[Les Caractéristiques#TAILLE |TAILLE ]].
+=== Beauté ===
+Tous les personnages ont un minimum de 10 dans ce signe particulier. Pour avoir davantage, ils peuvent réserver de 1 à 6 points sur les 160 qui leur sont alloués.
+=== Dérivées ===
+Les quatre dernières caractéristiques sont obtenues par des moyennes d'autres caractéristiques. Toutes sont arrondies au chiffre inférieur.
+* [[Les Caractéristiques#Mêlée|Mêlée]] :  ( [[Les Caractéristiques#AGILITÉ|AGILITÉ]] + [[Les Caractéristiques#FORCE|FORCE]]) / 2
+* [[Les Caractéristiques#Tir|Tir]] :  ([[Les Caractéristiques#VUE|VUE]] + [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]) / 2
+* [[Les Caractéristiques#Lancer|Lancer]] :  ([[Les Caractéristiques#Tir|Tir]] + [[Les Caractéristiques#FORCE|FORCE]]) / 2 
+* [[Les Caractéristiques#Dérobée|Dérobée]] : ((21 - [[Les Caractéristiques#TAILLE|TAILLE]]) + [[Les Caractéristiques#AGILITÉ|AGILITÉ]]) / 2
+
+== Compétences : 3000 points ==
+Chaque compétence demande qu'on lui alloue un certain nombre de points pour monter au niveau supérieur. Chacun, haut-rêvant ou non, dispose de 3000 points d'expériences préliminaires à répartir dans les compétences de son choix. Seuls les haut-rêvants peuvent mettre des points en [[Les Compétences#Draconic|Draconic] et doivent penser à en réserver pour les sorts.<BR>
+Quel que soit le niveau de base d'une compétence, il faut le même nombre de points pour passer d'un niveau donné au niveau supérieur.
+{|style="border:1px solid black;text-align:center;"
+|-
+| width="50%" | <small>'''''Niveau visé'''''</small> || <small>'''''Points à dépenser'''''</small>
+|-
+| de -10 à -8 || 5
+|-
+| de -7 à -4 || 10
+|-
+| de -3 à 0 || 15
+|-
+| de +1 à +3 || 20
+|}
+
+Pour passer de 0 en [[Les Compétences#CHANT|Chant]] (compétence générale, base -4) à +1, il faut 20 points. Pour passer de 0 en [[Les Compétences#CHIRURGIE|Chirurgie]] (compétence spécialisée, base -11) à +1, il faut également 20 points. Mais pour acquérir [[Les Compétences#CHIRURGIE|Chirurgie]] à +1 depuis la base de -11, il faut beaucoup plus de points que pour acquérir [[Les Compétences#CHANT|Chant]] à +1 depuis la base de -4. Par ailleurs, les niveaux les plus bas (les plus négatifs) coûtent moins de points que les niveaux plus hauts.<BR>
+On trouvera au chapitre [[L'Archétype]], le nombre de points nécessaires pour les niveaux +4 et au-delà. À la création, aucune compétence ne peut dépasser le niveau +3.<BR>
+Comme pour les caractéristique, inscrire le niveau dans la colonne de gauche, la droite étant réservée aux futurs points d'expérience gagnés par la compétence.<BR>
+Le choix étant très grand, aucune compétence de combat ne figure préalablement sur la feuille. C'est au joueur de noter lui-même celles qu'il possède. Voir leur liste et niveaux de base au chapitre [[Anatomie d'un Voyageur]].
+
+{|style="border:1px solid black;text-align:center;"
+|-
+! ''Niv'' !! ''(-11)'' !! ''(-8)'' !! ''(-6)'' !! ''(-4)''
+|-
+!scope=row| -10
+| 5 || || ||
+|-
+!scope=row| -9 
+| 10 || || ||
+|-
+!scope=row| -8
+| 15 || || ||
+|-
+!scope=row| -7 
+| 25 || 10 || ||
+|-
+!scope=row| -6 
+| 35 || 20 || ||
+|-
+!scope=row| -5
+| 45 || 30 || 10 ||
+|-
+!scope=row| -4 
+| 55 || 40 || 20 ||
+|-
+!scope=row| -3 
+| 70 || 55 || 35 || 15
+|-
+!scope=row| -2 
+| 85 || 70 || 50 || 30
+|-
+!scope=row| -1 
+| 100 || 85 || 65 || 45
+|-
+!scope=row| 0
+| 115 || 100 || 80 || 60
+|-
+!scope=row| +1
+| 135 || 120 || 100 || 80
+|-
+!scope=row| +2
+| 155 || 140 || 120 || 100
+|-
+!scope=row| +3 
+| 175 ||160 ||140 ||120
+|}
+
+La table ci-dessus donne directement le nombre de points d'expérience à dépenser pour atteindre un certain niveau. Cette table, de même que la liste complète des compétences, figure sur la feuille d'archétype. Quand aucun point ne lui est allouée, la compétence reste a niveau de base et sera utilisée à ce niveau.
+
+== Compétences tronc ==
+Certaines compétences sont dites ''troncs'', car elles englobent plusieurs compétences distinctes pour une seule et même dépense de points. Toutefois, au-delà du niveau 0, chaque compétence du tronc devient une branche qui doit être développée et achetée séparément.<BR>
+[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|'''Corps à corps''', '''Dague de mêlée''' et '''Esquive''']] sont ''troncs'' jusqu'au niveau zéro, c'est-à-dire que, jusqu'au niveau zéro inclus, il suffit d'en acheter une pour avoir gratuitement les deux autres. Les niveaux au-delà de zéro doivent être achetés séparément. Les posséder toutes les trois à zéro coûte donc 80, toutes les trois à +1 coûte 140, à +2 200 pointes, et à +3 260 points.<BR>
+Toutes les compétences  [[Les Compétences#ÉPÉE À UNE MAIN, ÉPÉE À DEUX MAINS|'''d'armes pouvant être tenues à une ou deux mains''']] sont ''troncs'' jusqu'au niveau zéro. Au-delà, les deux compétences doivent faire l'objet de points d'expérience distincts.
+
+== Survie en Extérieur ==
+Aucune des survies : Désert, Forêt, Glaces, marais, Montagne, Sous-sol ne peut dépasser [[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en Extérieur]] tant que celle-ci n'a pas au moins atteint le niveau zéro. Dès que [[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en Extérieur]] est à zéro, les autres peuvent la dépasser. Ce ne sont pas des compétences troncs, tous les points doivent être dépensés.
+
+== Les haut-rêvants ==
+Sur leur 3000 points d’expérience préliminaire, les haut-rêvants peuvent également développer les 4 vois du [[Les Compétences#Draconic|Draconic : ''Oniros, Hypnos, Narcos et Thanatos'']]. Comme pour les autres compétences, aucune ne peut dépasser +3 au départ. par ailleurs, la [[Thanatos|voie de Thanatos]] a ceci de spécifique que chaque niveau dont elle est augmentée détruit un nombre équivalent de ''points d'expérience'' dans une autre voie. Cela revient à dire qu'elle coûte le double de points. Monter  [[Les Compétences#THANATOS|Thanatos]] à +3 coûte au départ 350 points.<BR>
+Sur leur 3000 points, les haut-rêvants peuvent consacrer un maximum de 300 points à l'achat de sorts et rituels. Ils peuvent dépenser moins, mais pas plus. Chaque sort ou rituel coûte sa difficulté fois dix points. Ainsi [[Narcos#ENCHANTEMENT|ENCHANTEMENT]] R-4 coûte 40 points, [[Oniros#CLAMEUR|CLAMEUR]] R-2 coûte 20 points, [[Thanatos#PEUR|PEUR]] R-5 en coûte 50. [[Oniros#ANNULATION DE MAGIE|ANNULATION DE MAGIE]], étant variable, coûte un forfait de 70 points. Il n'y a aucune limitation au nombre de sorts ou rituels achetés au départ tant que le quota de 300 points n'est pas dépassé.
+=== Sorts accessibles ===
+Il est normalement impossible d'acquérir un sort ou un rituel d'une difficulté supérieure de plus de trois niveaux au niveau de Draconic correspondant. Ainsi, un personnage ayant +3 en [[Les Compétences#ONIROS|Oniros]] peut au maximum acquérir dans cette voie des sorts ou rituels R-6 ; un personnage n'ayant que +1 doit se contenter de sorts R-4 au maximum. Toutefois, certains parchemins ou grimoires conférant des bonus, les sorts de départ peuvent exceptionnellement avoir jusqu'à 5 niveau de plus. Un personnage ayant +3 dans une voie peut acquérir pour cette voir jusqu'à des sorts R-8. Cependant, chaque niveau excédentaire coûte un supplément de 20 points.
+
+== Nitouche ==
+''Pour nous servir de modèle tout au long de ces règles, nous allons créer Nitouche, une jeune voyageuse haut-rêvante.''
+
+''<big>Caractéristiques :</big>''<BR>
+''Nitouche sera plutôt mince, 9 en TAILLE, et d'un charisme moyen : 11 en APPARENCE (nous la voulons toutefois mignonne, et nous réservons 3 points pour sa Beauté). 13 en CONSTITUTION nous semble un minimum car les haut-rêvants se fatiguent beaucoup à « marcher dans leur tête ».''<BR>
+''Ce ne sera pas une Amazone et, quoique inférieur à la moyenne, elle se contentera de 9 en FORCE. Il faut qu'elle soit souple et pas trop maladroite ; 12 en AGILITÉ et en DEXTÉRITÉ. Une VUE moyenne avec 10.''<BR>
+''Comme nous projetons d'en faire une musicienne, il faut qu'elle ait l'oreille musicale : 12 en OUÏE. Elle n'aura par contre que 7 en ODORAT-GOÛT parce qu'il faut bien prendre les points quelque part.''<BR>
+''Puis nous terminerons avec 12 en VOLONTÉ et en INTELLECT, un bon « feeling » avec 13 en EMPATHIE, une chance moyenne avec 10, et naturellement, puisqu'elle est haut-rêvante, le maximum en RÊVE avec 15. Les dérivées sont ensuite rapidement calculées : Mêlée (moyenne de 9 en FORCE et de 12 en AGILITÉ) donne 10 ; Tir (moyenne de 10 en VUE et de 12 en DEXTÉRITÉ) donne 11 ; Lancer (moyenne de 11 en Tir et de 9 en FORCE) donne 10 ; et Dérobée (moyenne de 21 - 9 de TAILLE = 12  et de 12 en AGILITÉ) donne 12.''
+
+''<big>Compétences :</big>''<BR>
+''Nitouche commence par songer à ses compétences de combat. Elles seront réduites au minimum, mais ce serait commettre une grave faute de survie que de totalement les négliger. Zéro en Dague de mêlée lui coûte 80 points ; zéro en Corps à corps ne coûte rien de plus, puisque la compétence est tronc jusqu'au niveau zéro ; +2 en Esquive ne lui coûte qu'un supplément de 40 points ; puis elle en dépense 100 pour un niveau zéro en Dague de jet. Pour le reste, Nitouche sera assez discrète et vigilante, mais décidément peu sportive (-2 en Course et Saut). Elle saura monter à cheval (0 en Équitation) et sera bonne musicienne. Sa compétence de Musique (+1) lui donnant droit à la connaissance d'un instrument, elle choisit la mandoline. On se rend compte qu'elle est nettement plus citadine (+3 en Srv en Cité) que fille des bois (0 en Extérieur et -3 en Forêt). Elle saura tout de même nager (0 en Natation) et ne tombera pas évanouie à la vue d'une goutte de sang (+2 en Chirurgie). Mais ses points forts seront surtout dans sa tête : d'Alchimie à Zoologie, sans oublier le Draconic. Les points restant sont finalement répartis ainsi :''
+
+* ''Chant +1 (80 pts),''
+* ''Course -2 (30 pts),''
+* ''Discrétion +3 (120 pts),''
+* ''Escalade 0 (60 pts),''
+* ''Saut -2 (30 pts),''
+* ''Séduction 0 (60 pts),''
+* ''Vigilance +3 (120 pts)''
+
+* ''Équitation 0 (100 pts),''
+* ''Musique, mandoline +1 (120 pts),''
+* ''Survie Extérieur 0 (100 pts),''
+* ''Survie en Cité +3 (160 pts),''
+* ''Survie en Forêt -3 (55 pts)''
+
+* ''Chirurgie +2 (155 pts),''
+* ''Natation 0 (115 pts),''
+
+* ''Alchimie -3 (70 pts),''
+* ''Astrologie +1 (135 pts),''
+* ''Botanique 0 (115 pts),''
+* ''Écriture +3 (175 pts),''
+* ''Légendes +2 (155 pts),''
+* ''Médecine -1 (100 pts),''
+* ''Zoologie -2 (85 pts)''
+
+* ''Voie d'Oniros -2 (85 pts),''
+* ''Voie d'Hypnos +3 (175 pts),''
+* ''Voie de Narcos 0 (115 pts)''
+
+''<big>Sorts</big>''<BR>
+''Restent 285 points pour acheter les sorts. Nitouche aimerais entre autre connaître l'invocation d'un Guerrier Sorde R-8. Avec son +3 en Hypnos, ce rituel ne lui est normalement pas accessible, et l'on doit supposer qu'elle a pu l'apprendre grâce à un grimoire spécial. Toutefois, il lui faut dépenser 120 points au lieu de 80 (deux niveaux supplémentaires font une majoration de 40 points).''
+
+''<big>Points et Seuils</big>''<BR>
+''Avec 9 en TAILLE et 13 en CONSTITUTION, Nitouche a 11 points de vie. La somme de TAILLE + CONSTITUTION donne 22, celle de points de vie + VOLONTÉ donne 23, c'est donc cette dernière qu'elle choisit, pour avoir 23 points d'endurance. Avec 13 en CONSTITUTION, nous lisons sur la table un SC de 4, tandis que 9 en TAILLE donne un seuil de sustentation de 2. La moyenne de TAILLE + FORCE ne lui donne ni malus ni bonus personnel aux dommages, soit +dom 0 ; cette même moyenne lui donne un seuil d'encombrement de 9. Comme elle projette de ne se vêtir que de cuir souple, elle n'aura pas de malus armure.''
+
+''<big>Signes particuliers</big>''<BR>
+''Nitouche est donc une jeune femme de 19 ans, née à l'heure du Dragon. Elle est blonde avec des yeux noirs. Avec 9 en TAILLE, elle peut faire entre 61 et 65 kg : disons qu'elle est plutôt près de 61, pour 1m69, c'est-à-dire mince sans maigreur. Elle est droitière, et comme elle a réservé 3 points pour sa Beauté, avec 13, elle est mignonne.''
+
+== Points et seuils ==
+Les points et seuils sont directement calculés à partir des caractéristiques et reportés sur la feuille de personnage.
+
+=== Vie ===
+Le nombre de points de vie est obtenue par la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]. Cette moyenne est la seule qui soit arrondie au chiffre supérieur.
+
+=== Endurance ===
+Il y a deux façons de calculer ne nombre de points d'endurance. Soit l'on prend la somme de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], soit l'on prend la somme de points de vie + [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]. On prend évidemment celle qui donne le plus grand nombre de points.
+
+=== S.Const. ===
+Le seuil de consitution (également abrégé SC) dépend de la [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], d'après la table ci-dessous.
+{|style="border:1px solid black;text-align:center;"
+|-
+| width="50%" | '''''CONSTITUTION''''' || '''''S C'''''
+|-
+| 6 || 2
+|-
+| 7 || 2
+|-
+| 8 || 2
+|-
+| 9 || 3
+|-
+| 10 || 3
+|-
+| 11 || 3
+|-
+| 12 || 4
+|-
+| 13 || 4
+|-
+| 14 || 4
+|-
+| 15 || 5
+|}
+
+=== Sust ===
+Le seuil de sustentation, indiquant le minimum de nourriture journalier d'un personnage, dépend directement de la [[Les Caractéristiques#TAILLE|TAILLE]] selon la table ci-après.
+{|style="border:1px solid black;text-align:center;"
+|-
+| width="50%" | '''''TAILLE''''' || '''''Sust'''''
+|-
+| 6 || 2
+|-
+| 7 || 2
+|-
+| 8 || 2
+|-
+| 9 || 2
+|-
+| 10 || 3
+|-
+| 11 || 3
+|-
+| 12 || 3
+|-
+| 13 || 3
+|-
+| 14 || 4
+|-
+| 15 || 4
+|}
+
+=== +dom ===
+Le bonus aux dommages personnel dépend de la [[Les Caractéristiques#TAILLE|TAILLE]] et de la [[Les Caractéristiques#FORCE|FORCE]]. Faire la moyenne de ces deux caractéristiques, arrondie à l'inférieur, et consulter la table ci-après.
+{|style="border:1px solid black;text-align:center;"
+|-
+| width="50%" | '''''(TAILLE + FORCE)/2''''' || '''''+dom'''''
+|-
+| 6 || -1
+|-
+| 7 || -1
+|-
+| 8 || 0
+|-
+| 9 || 0
+|-
+| 10 || 0
+|-
+| 11 || 0
+|-
+| 12 || +1
+|-
+| 13 || +1
+|-
+| 14 || +2
+|-
+| 15 || +2
+|}
+
+=== Malus armure ===
+Le malus armure, qui restreint les jets d'[[Les Caractéristiques#AGILITÉ|AGILITÉ]] et de [[Les Caractéristiques#Dérobée|Dérobée]], dépend de l'armure portée. Voir [[Le Combat]].
+
+=== Encombrement ===
+Le seuil d'encombrement se calcule en faisant la moyenne de  [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#FORCE|FORCE]]. L'encombrement étant souvent calculé au dixième de points, ne pas arrondir cette moyenne.
+
+== Signes particuliers ==
+Il n'y a pas de points a répartir pour les signes particuliers. Hormis le poids et la possibilité d'être ambidextre, ils sont librement choisis par le joueur.
+
+=== Nom ===
+Trouver un nom pour le personnage et l'inscrire dans la banderole.
+
+=== Heure de naissance ===
+Choisir librement une heure parmi les douze (voir [[Au Fil des Jours]]).
+{|style="border:1px solid black;text-align:center;" 
+|-
+|colspan="2" |'''Heures de Naissance'''
+|-
+| width="25%" | 1. || Le Vaisseau
+|-
+| 2. || La Sirène
+|-
+| 3. || Le Faucon
+|-
+| 4. || La Couronne
+|-
+| 5. || Le Dragon
+|-
+| 6. || Les Épées 
+|-
+| 7. || La Lyre
+|-
+| 8. || Le Serpent
+|-
+| 9. || Le Poisson Acrobate
+|-
+| 10. || L'Araignée
+|-
+| 11. || Le Roseau
+|-
+| 12. || Le Château-Dormant
+|}
+
+=== Sexe ===
+Homme ou femme. Comme au cinéma, il est préférable que les rôles féminins soient tenus par des femmes et les rôles masculins par des hommes. Mais rien ne vous empêche de choisir un rôle travesti. C'est une question de goût.
+
+=== Âge ===
+Les voyageurs sont généralement jeunes, entre 18 et 40 ans. Si vous choisissez un personnage de moins de 18 ans, le gardien des rêves peut décider de vous donner moins de 3000 points d'expérience préliminaire, et d'amputer certaines de vos caractéristiques (qui n`ont pu raisonnablement se développer qu'avec l'âge). En revanche, un personnage plus vieux ne bénéficie pas d'un surcroît de points. Sous prétexte qu'il a une barbe blanche, un vieux haut-rêvant débutant ne sera pas plus doué qu'un jeunot.
+
+=== Poids et taille ===
+Le poids doit être choisi dans la fourchette indiquée, selon la caractéristique [[Les Caractéristiques#TAILLE|TAILLE]]. Puis la taille, c'est-à-dire la hauteur en mètre et centimètres, est librement décidée par le joueur en respectant la vraisemblance. Un personnage trop maigre (ou trop gros), par exemple [[Les Caractéristiques#TAILLE|TAILLE]] 6, 35 kg, prétendant faire 1m80, peut être déclaré gravement malade par le gardien des rêves et se voir obligé de baisser sa [[Les Caractéristiques#FORCE|FORCE]] et/ou sa [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] de moitié, sans pour autant récupérer les points.
+{|style="border:1px solid black;text-align:center;" 
+|-
+! TAILLE !! Poids en Kg
+|-
+| 6 || 31 - 40
+|-
+| 7 || 41 - 50
+|-
+| 8 || 51 - 60
+|-
+| 9 || 61 - 65
+|-
+| 10 || 66 - 70
+|-
+| 11 || 71 - 75
+|-
+| 12 || 76 - 80
+|-
+| 13 || 81 - 90
+|-
+| 14 || 91 - 100
+|-
+| 15 || 101 - 110
+|}
+
+=== Cheveux, yeux ===
+ La couleur des cheveux, des yeux, de même que tout autre élément de l'apparence du personnage, est librement déterminée par le joueur.
+
+=== Beauté ===
+La Beauté est réellement la joliesse des traits, la grâce générale du corps, a différencier complètement de l'[[Les Caractéristiques#APPARENCE|APPARENCE]]. Quoique n'étant qu'un signe particulier, elle est noté de 1 a 20 comme les caractéristiques. Il n'y a jamais de jet de Beauté, mais qu'un personnage soit plus ou moins beau peut modifier la difficulté de ses jets d'[[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#SÉDUCTION|Séduction]] par exemple.<BR>
+Tous les personnages ont une base gratuite de 10 en Beauté. Ils peuvent librement se retrancher des points pour être plus laids, ces points étant alors perdus, non utilisables pour autre chose. Ils peuvent de même augmenter leur Beauté jusqu'à 16, mais doivent pour cela retrancher des points à leurs caractéristiques, c'est-à-dire prélever les 1 à 6 points de supplément de Beauté sur les 160 points alloués.
+{|style="border:1px solid black;text-align:center;" 
+|-
+| colspan="2" | '''Beautés'''
+|-
+|width="25%" | 3 || style="text-align:left;" | hideux
+|-
+| 4 || style="text-align:left;" | repoussant
+|-
+| 5 || style="text-align:left;" | franchement très laid
+|-
+| 6 || style="text-align:left;" |  laid
+|-
+| 7 || style="text-align:left;" |  très désavantagé
+|-
+| 8 || style="text-align:left;" |  désavantagé
+|-
+| 9 || style="text-align:left;" |  pas terrible
+|-
+| 10 || style="text-align:left;" |  commun
+|-
+| 11 || style="text-align:left;" |  pas mal
+|-
+| 12 || style="text-align:left;" |  avantagé
+|-
+| 13 || style="text-align:left;" |  mignon
+|-
+| 14 || style="text-align:left;" |  beau
+|-
+| 15 || style="text-align:left;" |  très beau
+|-
+| 15 || style="text-align:left;" |  éblouissant
+|}
+
+=== Ambidextre ===
+Le joueur choisit librement la main de son personnage, gaucher ou droitier. Pour être ambidextre, c'est-à-dire pouvoir indifféremment utiliser l`une ou l'autre main pour une manipulation donnée, il faut réussir 1 sur 1d12 (environ 8% de chances).

@@ -1,0 +1,164 @@
+Dans nombre de cas, savoir qu'on a réussi ou échoué est insuffisant. On aimerait savoir si c'est très réussi ou très échoué ; on aimerait, par exemple, connaître la qualité du morceau de musique que l'on vient de jouer. Deux règles complémentaires permettent d'aboutir à cela : les résultats spéciaux et les points de qualité.
+
+ [[L’Étincelle de Vie|Retour vers L’Étincelle de Vie]]
+
+== Résultat spéciaux ==
+Certaines réussites et échecs spéciaux sont à considérer par rapport aux chances de succès. ce sont :
+* Réussite particulière (en abrégé Part.) = 20% des chances de succès.
+* Réussite significative (en abrégé Sign.) = 50% des chances de succès.
+* Échec particulier (en abrégé Ech.P.) = 20% des chances d'échec.
+* Échec total (en abrégé Ech.T.) = 10% des chances d'échec.
+Toute réussite en deçà de la significative est appelée réussite normale (en abrégé ''Norm.'') ; tout échec en deçà de l'échec particulier est appelé échec normal (en abrégé ''Échec'').<BR>
+{|style="border:1px solid black;"
+|-
+| '''Réussite particulière'''<BR><small>(en abrégé ''Part.'')</small> || 20% des chances de succès.<BR>Résultat au-delà de toute espérance
+|-
+| '''Réussite significative'''<BR><small>(en abrégé ''Sign.'')</small> || 50% des chances de succès.<BR>Résultat excellent
+|-
+| '''Échec particulier'''<BR><small>(en abrégé ''Ech.P.'')</small> || 20% des chances d'échec.<BR>Très mauvais résultat
+|-
+| '''Échec total'''<BR><small>(en abrégé ''Ech.T.'')</small>  || 10% des chances d'échec.<BR>Résultat désastreux
+|}
+Les réussites significatives se calculent aisément de tête, puisqu'il ne s'agit que de diviser les chances de succès par deux. Pour les nombre impairs, on arrondit à l'inférieur (50% de 15 = 7). Le calcul des autres résultats spéciaux étant moins aisé, on les trouve tout calculés dans la table des Résultats spéciaux.
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="4" | '''Résultats spéciaux'''
+|-
+! <small>''% de Norm.''</small> !! <small>''Part.''</small> !! <small>''Ech.P.''</small> !! <small>''Ech.T.''</small>
+|-
+| 01-05 || 01 || 81 || 92
+|-
+| 06-10 || 02 || 82 || 92
+|-
+| 11-15 || 3 || 83 || 93
+|-
+| 16-20 || 4 || 84 || 93
+|-
+| 21-25 || 5 || 85 || 94
+|-
+| 26-30 || 6 || 86 || 94
+|-
+| 31-35 || 7 || 87 || 95
+|-
+| 36-40 || 8 || 88 || 95
+|-
+| 41-45 || 9 || 89 || 96
+|-
+| 46-50 || 10 || 90 || 96
+|-
+| 51-55 || 11 || 91 || 97
+|-
+| 56-60 || 12 || 92 || 97
+|-
+| 61-65 || 13 || 93 || 98
+|-
+| 66-70 || 14 || 94 || 98
+|-
+| 71-75 || 15 || 95 || 99
+|-
+| 76-80 || 16 || 96 || 99
+|-
+| 81-85 || 17 || 97 || 100
+|-
+| 86-90 || 18 || 98 || 100
+|-
+| 91-95 || 19 || 99 || 100
+|-
+| 96-100 || 20 || 100 || 100
+|-
+| 101-105 || 21 || - || -
+|-
+| 106-110 || 22 || - || -
+|}
+En termes d'événement, les conséquences des différentes sortes de résultat sont à juger par le gardien des rêves. D'une manière générale, un ''échec total'' indique un résultat désastreux, un ''échec particulier'' un très mauvais résultat, un ''échec normal'' un ratage ou un mauvais résultat sans plus, une ''réussite normale'' un résultat passable, une ''réussite significative'' un résultat excellent, une ''réussite particulière'' un résultat au-delà de toute espérance. Certains cas sont directement explicités dans les règles (maladresses en combat, échecs totaux eu lancer des sorts).<BR>
+''Retrouvons Nitouche devant sa haie. Avec 30% de chances de succès, elle obtient une réussite particulière en faisant 06 ou moins, une réussite significative en faisant entre 07 inclus et 15 inclus, une réussite normale en faisant entre 16 inclus et 30 inclus.''<BR>
+''Si elle fait plus de 30, mais moins de 86, son échec n'est que normal. À partir de 86 inclus, l'échec est particulier jusqu'à 93 ; et à partir de 94 (inclus), c'est un échec total. Avec 78% de chances d'être discrète, Nitouche obtient une Sign. à partir de 39, une Part à partir de 16, un Ech.P.; à partir de 96 et un Ech.T. à partir de 99.''
+
+== Ajustement inférieurs à -10 ==
+Quand l'ajustement général est inférieur à -10, c'est-à-dire à partir de -11, les chances de succès tombent uniformément à 01, et ni les significatives ni les particulières ne sont plus prises en compte. Tout échec est un échec particulier, tandis que les chances d'échec total augmentent de façon foudroyante. À partir de -10, tout résultat, même 01, est un échec total.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+! <small>''Ajst. général''</small> !! <small>''Norm.''</small> !! <small>''Ech.T.''</small>
+|-
+| style="text-align:left" | -11 || 01 || 90
+|-
+| style="text-align:left" | -12 || 01 || 70
+|-
+| style="text-align:left" | -13 || 01 || 50
+|-
+| style="text-align:left" | -14 || 01 || 30
+|-
+| style="text-align:left" | -17 || 01 || 10
+|-
+| style="text-align:left" | -16 || 01 || 02
+|-
+| style="text-align:left" | -17 <small>''et au-delà''</small> || - || 01
+|}
+
+== Succès supérieur à cent ==
+Quand les chances de succès sont supérieures à 100, il n'y a plus d'échec particulier ni total. Toutefois, un résultat de 00 (cent) au jet de dés indique toujours un échec normal, quel que soit le pourcentage de chances.
+
+== Les points de qualité ==
+La règle des ''points de qualité'' n'est utilisée que lorsqu'il est important de connaître la qualité obtenue. C'est uniquement le cas des œuvres, création, improvisation ou interprétation : musique, chant, dessin, cuisine, artisanat, etc.<BR>
+LEs qualités sont représentées par une échelle de 0 à 10+. Zéro est la qualité minimale, la plus ordinaire. Plus bas, on ne peut plus guère parler de qualité, mais plutôt de défaut : -1 est un pe raté, -2 est encore plus raté, -10 est un désastre. Il n'y a théoriquement pas de limite aux qualités, mais rares sont celles qui dépassent +10.
+{|style="border:1px solid black;" 
+|-
+|colspan="2" style="text-align:center;" |'''Résultats spéciaux'''
+|-
+| -1 || style="text-align:right;" | un peu raté
+|-
+|  0 || style="text-align:right;" | passable
+|-
+| +1 || style="text-align:right;" | pas mal
+|-
+| +2 || style="text-align:right;" | assez bien
+|-
+| +3 || style="text-align:right;" | plutôt mieux
+|-
+| +4 || style="text-align:right;" | bien
+|-
+| +5 || style="text-align:right;" | très bien
+|-
+| +6 || style="text-align:right;" | excellent
+|-
+| +7 || style="text-align:right;" | superbe
+|-
+| +8 || style="text-align:right;" | parfait
+|-
+| +9 || style="text-align:right;" | fantastique
+|-
+| +10 <small>''et au-delà'</small>' || style="text-align:right;" | génial
+|}
+
+== Création, improvisation ==
+Le personnage joue un jet de Caractéristique/Compétence concernées avec une difficulté de base de zéro. À cette base peut s'ajouter un ajustement de condition, à l'appréciation du gardien des rêves, en fonction par exemple du matériel disponible. Puis le personnage note le type de résultat obtenu et le nombre de points de qualité correspondant sur la table suivante.
+{|style="border:1px solid black;text-align:center;"
+|-
+! Résultat !! Points de qualité
+|-
+| ''Ech.T.'' || -6
+|-
+| ''Ech.P.'' || -4
+|-
+| ''Ech.'' || -2
+|-
+| ''Norm.'' || 0
+|-
+| ''Sign.'' || +1
+|-
+| ''Part.'' || +2
+|}
+Le personnage ajoute alors les points obtenus à son niveau de compétence, et la somme indique la qualité finale de son oeuvre. En cas de réussite particulière, la qualité minimale est zéro, même si la somme des facteurs donne un nombre négatif.
+ '''Qualité = niveau de compétence + points de qualité obtenus'''
+''Nitouche a -4 e, Cuisine, 7 en ODORAT-GOÛT, et tente de confectionner un ragoût de lapin pour Brucelin, un voyageur qu'elle vient de rencontrer. En fonction des conditions et du matériel possédé, le gardien des rêves lui octroie un difficulté -1. Nitouche joue un jet de ODORAT-GOÛT/Cuisine à -1, soit avec un ajustement final de -5, 17%. Elle obtient 86, échec particulier lui valant -4 points. Ces -4 points sont ajoutés à son niveau de compétence (-4) pour donner au ragoût une qualité -8. « Empoisonneuse ! » hurle Brucelin devenu tout vert. Le lendemain, il décide de cuisiner lui-même, difficulté identique. Brucelin a +3 en Cuisine, et 13 en ODORAT-GOÛT. Il obtient 25 sur 78, réussite significative lui valant +1 points, lequel, ajouté à sa compétence, donne une qualité +4. « Cesse de t'empiffrer comme ça ! » grommelle Nitouche.''<BR>
+On suppose un rapport direct et proportionnel entre la qualité et la qualité que celle-ci peut impliquer à son tour, la difficulté étant toujours égale à la qualité, signe inversé. Par exemple une mélodie de qualité 5 donne une difficulté -5 à interpréter, une serrure de qualité 0 donne une difficulté 0 à crocheter, un piège de qualité -2 donne une difficulté +2 à détecter.
+
+== Interprétation ==
+Lorsqu'un personnage tente de reproduire une oeuvre préexistante, partition musicale, pantomime, recette de cuisine, etc., il doit jouer un et de la compétence, ajustée négativement par la qualité préexistante de l'oeuvre. Réussite ou échec, la qualité obtenue est au ''maximum'' égale à la qualité préexistante.
+=== Réussite ===
+Si le jet de dés réussit, la qualité obtenue est égale à la qualité préexistante de l'oeuvre. En cas de réussite significative ou particulière, l'interprétation ou l'exécution sont respectivement ''brillante'' ou ''très brillante'', mais ne changent pas la qualité de l'oeuvre.<BR>
+''Sur sa mandoline, Nitouche joue le « Prélude à l'heure du Vaisseau », un morceau de qualité 1, donc de difficulté -1. Avec son niveau +1 en mandoline, elle joue DEXTÉRITÉ à +1 -1 = 0 (60%) et obtient 28, une significative. Le résultat est une interprétation brillante d'une musique de qualité 1.''
+=== Échec ===
+Si le jet de dés échoue, le personnage ajoute à son niveau de compétence les points de qualité obtenus selon son type d'échec, points en l’occurrence forcément négatifs, et la somme indique la qualité de ce qui est finalement obtenu. Cette qualité peut être inférieure à la qualité préexistante, mais au ''maximum'' égale à celle-ci.<BR>
+''Nitouche tente maintenant la « Fugue du Poisson Acrobate », une oeuvre de qualité 5, donc de difficulté -5. Avec 36% de chances, elle obtient 48, un échec normal, valant -2 points de qualité. Ajoutés à son niveau +1 en mandoline, ces -2 points aboutissent finalement à une qualité -1. On est loin de la qualité normale de l'oeuvre.''

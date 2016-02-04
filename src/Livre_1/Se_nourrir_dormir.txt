@@ -1,0 +1,26 @@
+
+ [[Au Fil des Jours|Retour au Fil des Jours]]
+
+== Se nourrir ==
+Boire et Manger sont deux préoccupations importantes de la vie des voyageurs, faute de quoi ils ne vont pas bien loin, pire encore, ils peuvent mourir de ''famine''.
+
+=== Sustentation ===
+En termes de jeu, nourriture et boisson sont traduits en termes de points de ''sustentation''. Chaque personnage possède un seuil de sustentation qui dépend de sa taille. Ce seuil représente le nombre de points de sustentation qu'il absorbe normalement dans un repas. Il indique également le minimum vital par jour. Par exemple, un personnage ayant un seuil de 4 mange usuellement 4 points par repas, et ''doit'' au minimum en manger 4 ''par jour'', comme s'il se contentait d'un seul repas, plus ou moins étalé dans la journée. La liste d'équipement fournit la valeur nutritive, en points de sust, des provisions de voyage.<BR>
+Même principe pour la boisson. Le seuil de sustentation indique le nombre minimum de ''mesures'' d'eau devant être bues par jour. En termes de jeu, une mesure vaut 20 cl. Une outre de 2 litres fait 10 mesures.
+
+=== Famine ===
+Voir ''[[La Santé]]''.
+
+== Dormir ==
+Dormir est important puisque cela permet de rêver, activité primordiale pour certains. C'est en dormant que l'on récupère l'endurance perdue et que l'on efface la fatigue. On ne peut toutefois dormir que si l'on a sommeil.
+
+=== De jour ===
+De jour, un personnage ne peut avoir sommeil, et ne peut donc dormir, que s'il a au moins un segment de fatigue plein à récupérer (voir ''[[La Santé]]''). Dès que toute la fatigue est récupérée, il se réveille, même s'il lui manque encore des points de rêve. Dans cette optique, l'heure crépusculaire de la Lyre est considérée comme de jour.
+
+=== De nuit===
+La nuit est naturellement hypnotique dans Rêve de Dragon et tout personnage peut dormir, et donc rêver, même s'il n'a aucun point de fatigue à récupérer. Dans cette optique, l'heure crépusculaire du Vaisseau est considérée comme de nuit.
+
+
+''Nitouche a consommé 2 points de sustentation et Brucelin, qui a 13 en TAILLE, en a consomme 3.''<BR>
+''« Je vais me coucher, bâille Nitouche, voici l'heure du Serpent, et j'ai tellement de fatigue que je pourrais dormir même s'il faisait jour. »''<BR>
+''Sur quoi, elle se coule sous l'abri de fortune, non sans ajouter : « Je compte sur toi pour monter la garde, c'est tellement mieux de voyager à deux ! »''

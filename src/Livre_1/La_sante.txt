@@ -1,0 +1,20 @@
+Toutes les actions que nous avons vu effectuées au fil des jours par notre personnage, marcher, courir, sauter, ne sont pas sans laisser des traces sur lui : il se fatigue, il s'épuise, il doit récupérer. Pire encore, il peut se blesser.<BR>
+Comment le maintenir en forme, le soigner, le panser, comment utiliser les herbes de soins, les remèdes, les antidotes ? C'est cet aspect extrêmement important de sa santé que nous allons traiter maintenant.
+
+ [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
+
+== [[La Fatigue]] ==
+
+== [[L'Endurance]] ==
+
+== [[Les Points de Vie]] ==
+
+== [[Les Blessures]] ==
+
+== [[Soins et Guérison]] ==
+
+== [[Les Maladies]] ==
+
+== [[Les Venins]] ==
+
+== [[Autres Sources de Dommages]] ==

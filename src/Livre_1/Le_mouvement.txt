@@ -1,0 +1,215 @@
+Le mouvement dans ''Rêve de Dragon'' est traité de deux façons : par heure et par round. Par heure, il s'agit essentiellement de la vitesse de marche, du voyage, activité quotidienne du voyageur. Par round, c`est surtout les mouvements en combat, la course.
+
+ [[Au Fil des Jours|Retour au Fil des Jours]]
+
+== La marche ==
+Au début de chaque nouvelle heure de marche, les voyageurs ont le choix entre 5 vitesses, de la plus lente, V1, à la plus rapide, V6. Le nombre de km parcourus dépend du type de terrain.
+
+=== Aisé ===
+Route ou chemin.
+
+=== Malaisé ===
+Hors piste en plaine vallonnée (herbes et buissons).
+
+=== Difficile ===
+Hors piste en terrain accidenté (collines), ou en forêt.
+
+=== Très difficile ===
+Hors piste en terrain très accidenté (montagne), en forêt épaisse (jungle), ou en marais.
+
+Si les conditions climatiques sont mauvaises, trop chaud ou trop froid, pluie, vent, etc., aisé devient malaisé, malaisé devient difficile, etc.
+
+=== Fatigue en marche ===
+Pour chaque heure de marche, le voyageur marque un nombre de points de fatigue équivalent à la vitesse adoptée : 1 point pour V1, 2 points pour V2, 3 pour V3, 4 pour V4, 6 pour V6.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="6" | '''Marche (km/h)'''
+|-
+! style="text-align:left;"| Terrain !! width="10%" | V1 !! width="10%" | V2 !! width="10%" | V3 !! width="10%" | V4 !! width="10%" | V6
+|-
+| style="text-align:left;"| '''Aisé''' || rowspan="2" | 4  || rowspan="2" | 6  || rowspan="2" | 8  || rowspan="2" | 10  || rowspan="2" | 12
+|-
+| style="text-align:left;"| <small>Route ou chemin</small> 
+|-
+| style="text-align:left;"| '''Malaisé''' || rowspan="2" | 3  || rowspan="2" | 5  || rowspan="2" | 6  || rowspan="2" | 8  || rowspan="2" | 10
+|-
+| style="text-align:left;"| <small>Hors piste (herbes et buissons)</small> 
+|-
+| style="text-align:left;"| '''Difﬁcile''' || rowspan="2" | 2  || rowspan="2" | 3  || rowspan="2" | 4  || rowspan="2" | 5  || rowspan="2" | 6
+|-
+| style="text-align:left;"| <small>Hors piste (collines, forêt)</small> 
+|-
+| style="text-align:left;"| '''Très difﬁcile''' || rowspan="2" | 1  || rowspan="2" | 1,5  || rowspan="2" | 2 || rowspan="2" | 2,5  || rowspan="2" | 3
+|-
+| style="text-align:left;"| <small>Hors piste (montagne, jungle, marais)</small> 
+|}
+
+
+''Durant l'heure du Vaisseau, Nitouche a parcouru 8 km sur un petit chemin, soit en condition aisée. Sa vitesse était V3, indiquant une fatigue de 3 points.''<BR>
+''À l'heure suivante, heure de la Sirène, notre voyageuse peu pressée, décide de ralentir en V2. Elle ne parcourt que 6 km, et ne marque que 2 autres points de fatigue.''
+
+== Mouvement par round ==
+
+=== Vitesse de combat ===
+Tous les personnages, y compris les voyageurs, ont une vitesse dite de combat de 12 m/round. Quand la vitesse de combat d'une créature est différente de 12 m/round, elle est spécifiée dans ses caractéristiques. 12 in/round représente 7 km/60 mn, c'est une marche bondissante, un petit trot. Cette vitesse ne comptabilise aucun point de fatigue ni ne fait perdre de points d'endurance.
+
+=== Vitesse de course===
+La vitesse dite de course est le double de la vitesse de combat, permettant de parcourir 24 m durant le round (14 km/60 mn). Le gardien des rêves peut soit se contenter de cette vitesse, notamment pour les courses de fond où il serait fastidieux de jeter des dés à chaque round, soit différencier la distance parcourue par un jet de Course, usuellement ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#COURSE|Course]] à zéro'', mais si le terrain est malaisé (encombré, glissant etc.), le gardien des rêves peut corser la difficulté. Puis, sur la table de Course, selon un système comparable aux points de qualité, est ajouté ou retranché un certain nombre de mètres à la distance de base. La table fournit entre parenthèses la distance parcourue pour la vitesse standard de 24 m.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Course'''
+|-
+! scope="row" width="50%" style="text-align:left;" | ''Ech.T.''
+| maladresse
+|-
+! scope="row" style="text-align:left;"  | ''Ech.P.''
+| -6 m (18 m)
+|-
+! scope="row" style="text-align:left;" | ''Échec.''
+| -4 m (20 m)
+|-
+! scope="row" style="text-align:left;" | ''Norm.''
+| +0 m (24 m)
+|-
+! scope="row" style="text-align:left;" | ''Sign.''
+| +4 m (28 m)
+|-
+! scope="row" style="text-align:left;" | ''Part.''
+| +6 m (30 m)
+|}
+
+
+On pourra trouver que la vitesse de course est lente comparée à nos modernes sprinters de 100 m. La différence est que les voyageurs sont usuellement bottés et armés, au lieu d'être en short, muscles bien massés, avec des chaussures à crampons sur une piste en cendré.
+
+=== Maladresse ===
+En cas d'échec total, le personnage ne parcourt que 1d12 m, puis chute.
+
+=== Fatigue en course ===
+'''A.''' En vitesse de course, les personnages ne dépensent aucune endurance ni ne prennent de fatigue pendant un nombre de rounds égal à leur seuil de constitution (SC).<BR>
+'''B.''' Au-delà, ils dépensent un point d'endurance par round jusqu'à ce qu'ils arrivent à ''une demi-endurance'' (arrondie à l'inférieur). A ce moment, toute l'endurance perdue est également traduite en fatigue, laquelle peut éventuellement apporter des malus.<BR>
+'''C.''' Puis, si le personnage continue de courir, il perd 1 point d'endurance toutes les SC minutes, marquant simultanément 1 point de fatigue. Quand l'endurance arrive à zéro, le personnage tombe inconscient.<BR>
+Si, quand il se met à courir, le personnage est déjà à une demi-endurance ou moins, c'est directement la partie C de la règle qui s'applique. Un personnage blessé gravement ne peut pas courir.
+
+''Nitouche est surprise par une averse au début de l'heure du Faucon. Apercevant un petit bois à 200 m de là, elle décide de courir s'y abriter, ce qui lui demande un peu plus de 8 rounds. Son SC étant de 4, elle ne perd aucun point d'endurance pour les 4 premiers rounds, puis un point pour chacun des quatre suivants. Reprenant son souffle, elle n’oublie pas de traduire également ces 4 points en fatigue.''
+
+== Nage ==
+Quand il s'agit de ne nager que quelques mètres en eau peu dangereuse, aucun jet de dés n'est nécessaire pour les personnages qui ont au moins zéro en Natation. jouer sinon un jet de ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#NATATION|Natation]] a zéro''.
+
+=== Encombrement ===
+Chaque point d'encombrement porté, et non pas seulement excédentaire au seuil d'encombrement, confère un malus de -1 aux jets de [[Les Compétences#NATATION|Natation]]. Dans cette optique, compter l'encombrement de tous les vêtements portés. (Appliquer la même règle pour l'utilisation de la compétence Acrobatie.)<BR>
+''Frissonnant sous les arbres, Nitouche se rappelle le jour ou elle a failli se noyer, étant tombée dans une rivière. Elle était vêtue de cuir souple, bottée, armée de deux dagues, chargée d”une outre pleine et d'une lourde besace. Ses vêtements de cuir souple, qui ne comptent usuellement pas, lui valaient 1 enc, de même que ses deux dagues. Son outre en valait également 1 et sa besace 3. Pour refaire surface, la voyageuse avait eu un malus de -6.''
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Nage'''
+|-
+! scope="row" width="50%" style="text-align:left;" | ''Ech.T.''
+| maladresse
+|-
+! scope="row" style="text-align:left;" | ''Ech.P.''
+| -4 m (2 m)
+|-
+! scope="row" style="text-align:left;" | ''Échec.''
+| -2 m (4 m)
+|-
+! scope="row" style="text-align:left;" | ''Norm.''
+| +0 m (6 m)
+|-
+! scope="row" style="text-align:left;" | ''Sign.''
+| +2 m (8 m)
+|-
+! scope="row" style="text-align:left;" | ''Part.''
+| +4 m (10 m)
+|}
+
+=== Distance parcourue ===
+En barbotant, la distance parcourue en un round est du quart de la vitesse de combat, soit 3 m. En nage rapide, elle est de la moitié de la vitesse de combat, soit 6 m. Pour différencier les distances parcourues, on peut également utiliser la table de Nage, après un jet de ''[[Les Caractéristiques#Mêlée|Mêlée/]]/[[Les Compétences#NATATION|Natation]]''.
+
+=== Maladresse ===
+Le personnage commence à se noyer, voir ''[[La Santé]]''.
+
+=== Fatigue ===
+En barbotant, le personnage peut nager pendant 2 x SC minutes, puis il applique la règle de course en ce qui concerne perte d'endurance et fatigue. En nage rapide appliquer directement la règle de course concernant l'endurance et la fatigue.
+
+== Monture ==
+C'est la monture qui se fatigue. Chaque heure de monte ne coûte qu'un point de fatigue au cavalier. Voir les vitesses des différentes montures au ''[[Le Livre des Mondes|Livre des Mondes]]''.
+
+== Saut ==
+Pour sauter par dessus un obstacle, on utilise ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#SAUT|Saut]]. La difficulté dépend de la hauteur et peut être extrapolée d'après la table de Saut en hauteur. Mêmes règles pour le saut en longueur. Ces deux sauts sont supposés avec élan. Sans élan, la distance sautée est divisée par deux pour une même difficulté. Pour
+le saut en contrebas, on utilise ''[[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[[Les Compétences#SAUT|Saut]]. Dans ce dernier cas, un échec, même normal, se traduit toujours par une chute.
+
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Saut en hauteur'''
+|-
+! scope="row" width="50%" style="text-align:left;" | 2m
+| -8
+|-
+! scope="row" style="text-align:left;" | 1m70
+| -6
+|-
+! scope="row" style="text-align:left;" | 1m50
+| -4
+|-
+! scope="row" style="text-align:left;" | 1m20
+| -2
+|-
+! scope="row" style="text-align:left;" | 1m
+| 0
+|-
+! scope="row" style="text-align:left;" | 0m70
+| +2
+|}
+
+
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Saut en longueur'''
+|-
+! scope="row" width="50%" style="text-align:left;" | 7m
+| -8
+|-
+! scope="row" style="text-align:left;" | 6m
+| -6
+|-
+! scope="row" style="text-align:left;" | 5m
+| -4
+|-
+! scope="row" style="text-align:left;" | 4m
+| -2
+|-
+! scope="row" style="text-align:left;" | 3m
+| 0
+|-
+! scope="row" style="text-align:left;" | 2m
+| +2
+|}
+
+
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Saut en contrebas'''
+|-
+! scope="row" width="50%" style="text-align:left;" | 6m
+| -8
+|-
+! scope="row" style="text-align:left;" |'5m
+| -6
+|-
+! scope="row" style="text-align:left;" | 4m
+| -4
+|-
+! scope="row" style="text-align:left;" | 3m
+| -2
+|-
+! scope="row" style="text-align:left;" | 2m
+| 0
+|-
+! scope="row" style="text-align:left;" | 1m50
+| +2
+|}

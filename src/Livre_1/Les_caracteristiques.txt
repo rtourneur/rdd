@@ -1,0 +1,72 @@
+Les caractéristiques représentent les dispositions innées du personnage, et, pouvant augmenter avec l'expérience, sont également une partie de son acquis. On peut naître avec une bonne constitution, ou au contraire une mauvaise vue, à l'individu d'en tirer le meilleur parti, de développer ce qui est faible, de maintenir ce qui est fort.
+Pour simuler ces différences entre les individus, les caractéristiques sont exprimées par des valeurs , des notes allant de zéro à 20. Seuls les créatures et les monstres peuvent avoir des caractéristiques au-delà de 20. Inversement, quand une caractéristique vaut zéro, c'est qu'elle n'existe pas, ou n'existe plus. Par exemple, un aveugle a zéro en [[#VUE|VUE]].
+La moyenne statistique est de 10,5, qui, pour simplifier, est arrondie à 10. Un individu entièrement moyen a 10 dans toutes ses caractéristiques.
+Les caractéristiques sont au nombre de 18. Les 14 premières sont déterminées en répartissant entre elles un certain nombre de points. Les 4 dernières sont obtenues en faisant la moyenne de certaines autres. À la création d'un personnage, aucune caractéristique ne peut être supérieure à 15 ou inférieure à 6.
+
+ [[Anatomie d'un Voyageur|Retour vers L'Anatomie d'un Voyageur]]
+
+== TAILLE ==
+Cette caractéristique représente la masse générale d'un personnage. Ce n'est pas sa hauteur, c'est plutôt sa « pointure », indiquant le poids minimal qu'il peut faire. La [[#TAILLE|TAILLE]] intervient dans le calcul des [[Points, Seuils & Signes particuliers#Les principaux points|points de vie et d'endurance]], les [[Points, Seuils & Signes particuliers#Les principaux seuils|seuils d'encombrement (enc) et de sustentation (sust)]], le [[Points, Seuils & Signes particuliers#Les principaux seuils|bonus au dommage (+dom) personnel]] et la caractéristique [[#Dérobée|Dérobée]]. Elle limite la caractéristique [[#FORCE|FORCE]].
+
+== APPARENCE ==
+C'est la mesure du charisme, de la présence que dégage le personnage, sans le moindre rapport avec sa beauté. Un personnage ayant une forte [[#APPARENCE|APPARENCE]] est revêtu d'une autorité naturelle, il impressionne, il peut séduire mais également faire peur. Un personnage de faible [[#APPARENCE|APPARENCE]] passe inaperçu, on ne l'écoute pas quand il parle, il ne fait pas peur et n'a aucune séduction.
+
+== CONSTITUTION ==
+C'est la mesure de la vigueur et de la santé d'un personnage, sa résistance aux chocs et aux maladies. Quel que soit le genre de personnage que vous désirez incarner, une bonne [[#CONSTITUTION|CONSTITUTION]] est toujours préférable. Les personnages n'ayant que 6 dans cette caractéristique n'ont que peu de chance de survivre. La [[#CONSTITUTION|CONSTITUTION]] intervient dans le calcul des points de vie et d'endurance.
+
+== FORCE ==
+C'est la force musculaire d'un personnage. Avec 15 en [[#FORCE|FORCE]], un personnage n'est qu'un gros paquet de muscles. Avec 6, il est incapable de soulever la plupart des armes. La [[#FORCE|FORCE]] peut être au maximum égale à la [[#TAILLE|TAILLE]] +4. Un personnage ayant 10 en [[#TAILLE|TAILLE]] ne pourra pas dépasser 14 en [[#FORCE|FORCE]]. La [[#FORCE|FORCE]] intervient dans le calcul des caractéristiques [[#Mêlée|Mêlée]] et [[#Lancer|Lancer]], du [[Points, Seuils & Signes particuliers#Les principaux seuils|+dom personnel]] et du [[Points, Seuils & Signes particuliers#Les principaux seuils|seuil d'encombrement]].
+
+== AGILITÉ ==
+C'est la souplesse générale du corps, la coordination harmonieuse des mouvements, et en particulier des membres inférieurs. l'[[#AGILITÉ|AGILITÉ]] intervient dans le calcul des caractéristiques [[#Mêlée|Mêlée]] et [[#Dérobée|Dérobée]].
+
+== DEXTÉRITÉ ==
+C'est l'habileté manuelle, tactile, d'un personnage. La [[#DEXTÉRITÉ|DEXTÉRITÉ]] est aux bras et aux mains ce que l'[[#AGILITÉ|AGILITÉ]] est aux jambes. Elle intervient dans le calcul des caractéristiques [[#Tir|Tir]] et [[#Lancer|Lancer]].
+
+== PERCEPTION ==
+Seuls les animaux ont une caractéristique globale de perception. Les humanoïdes, et en particulier les Humains incarnés par les joueurs, subdivisent cette caractéristique en [[#VUE|VUE]], [[#OUÏE|OUÏE]] et [[#ODORAT-GOÛT|ODORAT-GOÛT]].
+
+== VUE ==
+Plus encore que l'acuité, c'est la mémoire visuelle, et surtout, le sens de l'observation. [[#VUE|VUE]] intervient dans le calcul des caractéristiques [[#Tir|Tir]] et [[#Lancer|Lancer]].
+
+== OUÏE ==
+Plus encore que « l'oreille fine », c'est l'analyse et l'interprétation correctes des sons entendus, la mémoire auditive. Chanter juste dépend de l'[[#OUÏE|OUÏE]].
+
+== ODORAT-GOÛT ==
+L'odorat et le goût ont des rapports si étroits qu'il sont ici regroupés en une seule et même caractéristique. Analyse, interprétation, identification des odeurs et des saveurs. Caractéristique indispensable pour être un bon cuisinier.
+
+== VOLONTÉ ==
+C'est la force de caractère d'un personnage, son courage, mais aussi son ego, son tonus, son moral. Avec 6 en [[#VOLONTÉ|VOLONTÉ]], le personnage est mou, influençable, à tendance dépressive. Avec 15, il « pète la forme », sa tendance est à l'exaltation. La [[#VOLONTÉ|VOLONTÉ]] intervient dans le calcul des [[Points, Seuils & Signes particuliers#Les principaux points|points d'endurance]].
+
+== INTELLECT ==
+Cette caractéristique représente les facultés intellectuelles d'un personnage, ses dispositions à acquérir des connaissances et à s'en servir, sa mémoire. Ce n'est en aucun cas son intelligence. On peut être extrêmement ''intellectuel'' et n'être qu'un parfait crétin : c'est même plus courant qu'on ne le croit. L'intelligence du personnage n'est autre que celle du joueur.
+
+== EMPATHIE ==
+Autre caractéristique mentale, l'[[#EMPATHIE|EMPATHIE]] représente la faculté de se mettre à la place des choses, des créatures, des gens. En termes simple, cela représente l'intuition du personnage, sa faculté de ''sentir'' les choses, son accord spontané avec l'environnement. Avec 6 en [[#EMPATHIE|EMPATHIE]], un personnage est complètement ''bouché''. Avec 15, il est chez lui partout.
+
+== RÊVE ==
+C'est la faculté de rêver et de se souvenir de ses rêves. Le rêve tenant une place prépondérante dans ''Rêve de Dragon'', cette caractéristique fait partie des plus importantes. C'est par elle que l'on progresse le plus vite en expérience ; c'est par elle que les magiciens, justement appelés ''haut-rêvants'', pratiquent leur art. C'est une sorte de caractéristique « Pouvoir ». Quel que soit le personnage que vous désirez jouter, haut-rêvant ou non, ne la négligez pas.
+
+== CHANCE ==
+C'est la chance pure et simple d'un personnage. Elle est souvent utilisée en ultime rattrapage, en cas de jet de dés désastreux (significatif quant à lui de la malchance du ''joueur'') pouvant conduire à une catastrophe. Il est toujours bon d'avoir de la chance.
+
+== Mêlée ==
+Cette caractéristique est obtenue en faisant la moyenne de [[#FORCE|FORCE]] + [[#AGILITÉ|AGILITÉ]]. Elle est utilisée pour grand nombre d'actions physiques (courir, escalader, sauter), chaque fois qu'intervient l'action combinée de la force musculaire et de la souplesse. Elle doit son nom à ce qu'elle est principalement utilisée lors des combats de [[Mêlée|''mêlée'']].
+
+== Tir ==
+Cette caractéristique est obtenue en faisant la moyenne de [[#VUE|VUE]] + [[#DEXTÉRITÉ|DEXTÉRITÉ]]. Elle est utilisée quand intervient l'action combinée de la vue et de la dextérité. Elle doit son nom à ce qu'on l'utilise pour les armes de tir, mais sert aussi à dessiner, ''tirer'' un trait.
+
+== Lancer ==
+Cette caractéristique est obtenue en faisant la moyenne de [[#Tir|Tir]] et de [[#FORCE|FORCE]]. Elle ajoute la force musculaire à la précision du tir, et est donc principalement utilisée pour les armes de lancer.
+
+== Dérobée ==
+Cette caractéristique est obtenue en faisant la moyenne d'[[#AGILITÉ|AGILITÉ]] et de (21 - [[#TAILLE|TAILLE]]). Plus on est petit et agile, mieux on se dérobe. Cette caractéristique sert donc à se dérober, à être discret, silencieux, et lors des combats, à esquiver.
+
+== Calcul des caractéristiques ==
+
+ '''[[#FORCE|FORCE]]''' : Valeur maximale = [[#TAILLE|TAILLE]] +4
+ 
+ '''[[#Mêlée|Mêlée]]''' : moyenne de [[#FORCE|FORCE]] + [[#AGILITÉ|AGILITÉ]]
+ '''[[#Tir|Tir]]''' : moyenne de [[#VUE|VUE]] + [[#DEXTÉRITÉ|DEXTÉRITÉ]]
+ '''[[#Lancer|Lancer]]''' : moyenne de [[#Tir|Tir]] + [[#FORCE|FORCE]] 
+ '''[[#Dérobée|Dérobée]]''' : moyenne de [[#AGILITÉ|AGILITÉ]] + (21 - [[#TAILLE|TAILLE]])

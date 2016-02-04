@@ -1,0 +1,127 @@
+La feuille de route est le complément de la feuille de personnage. C'est sur elle que sont reportés les compteurs (vie, endurance, etc.) et que le joueur tient à jour l'état général de son personnage.
+ [[Naissance d'un Voyageur|Retour à la Naissance d'un Voyageur]]
+
+[[Fichier:Feuille de route.jpeg|vignette|La Feuille de Route]]
+
+== Partie gauche ==
+La partie supérieure est essentiellement réservée aux haut-rêvants pour prendre note des sorts en réserve, queues et souffles de Dragon en cours (voir ces notions dans ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]''). <BR>
+La partie inférieure est un rappel de tables très utilisées : résultats spéciaux, Éthylisme (voir ''[[Rêve de Dragon Seconde Édition#La Destinée|Règles additionnelles]]''), Marche (voir ''[[Au Fil des Jours]]''), Stress (voir ''[[L'Archétype]]'').<BR>
+Le bas de la feuille est un calendrier mensuel ou les astrologues peuvent noter les nombres astraux qu'ils ont découverts. Voir ''[[Au Fil des Jours]]'' pour le calendrier spécifique de ''Rêve de Dragon'', et ''[[Rêve de Dragon Seconde Édition#La Destinée|Règles additionnelles]]'' pour l”Astrologie.
+
+== Partie droite ==
+
+=== Rêve ===
+C'est le compteur de points de rêve. Les points de rêve sont au départ égaux à la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]]. (Voir ''[[Le Livre du Haut-Rêve]]'').
+
+=== Endurance ===
+C'est le compteur des points d'endurance.
+
+=== Vie ===
+C'est le compteur des points de vie. Entre les parenthèses, inscrire le seuil de Constitution.
+
+=== Fatigue ===
+C'est le compteur de fatigue, sous la forme d'un tableau qui doit être ajusté à chaque personnage. Le nombre de points de fatigue qu’un personnage peut se permettre dépend de son Endurance.<BR>
+Ces points de fatigue sont notés sur le tableau : un schéma précis qui permet à tout moment de juger de l'état du personnage, du malus en cours, et de ce qu'il peut récupérer en une heure de sommeil. Ces points sont cochés dans des cases, qui sont groupées en segments, qui sont eux-mêmes répartis en lignes. Autrement dit, la case est une subdivision du segment, qui est lui-même une subdivision de la ligne.<BR>
+Le nombre de lignes de fatigue est fixe, quel que soit le personnage. Il est de 8. Les lignes ont toujours le même nombre de segments : les lignes 0 et -1 en ont trois chacune, les six autres n'en ont qu'un. Le nombre de cases des segments, par contre, varie selon l'Endurance du personnage. <BR>
+Le nombre total de cases est toujours égal au double de l'Endurance du personnage. En divisant cette Endurance par 6, on obtient le nombre de cases par segment. Sur le tableau, supprimer les cases excédentaires en les noircissant a l'encre, par exemple.<BR>
+Pour les Endurances qui ne sont pas un multiple de 6, utiliser le tableau de répartition ci-dessous :
+{| style="border:1px solid black;text-align:center;"
+|-
+| colspan="9" |  '''Fatigue'''
+|-
+! ''<small>Lignes</small>'' !! width="11%" | ''<small>0</small>'' !! width="11%" | ''<small>-1</small>'' !! width="11%" | ''<small>-2</small>'' !! width="11%" | ''<small>-3</small>'' !! width="11%" | ''<small>-4</small>'' !! width="11%" | ''<small>-5</small>'' !! width="11%" | ''<small>-6</small>'' !! width="11%" | ''<small>-7</small>'' 
+|- 
+! scope="row" | End 16 
+| 2/3/3 || 2/3/3 || 2 || 3 || 3 || 2 || 3 || 3 
+|- 
+! scope="row" | End 17 
+| 2/3/3 || 3/3/3 || 2 || 3 || 3 || 3 || 3 || 3 
+|- 
+! scope="row" | End 18 
+| 3/3/3 || 3/3/3 || 3 || 3 || 3 || 3 || 3 || 3 
+|- 
+! scope="row" | End 19 
+| 3/3/3 || 3/3/4 || 3 || 3 || 3 || 3 || 3 || 4 
+|- 
+! scope="row" | End 20 
+| 3/3/4 || 3/3/4 || 3 || 3 || 4 || 3 || 3 || 4 
+|- 
+! scope="row" | End 21 
+| 3/3/4 || 3/4/4 || 3 || 3 || 4 || 3 || 4 || 4 
+|- 
+! scope="row" | End 22 
+| 3/4/4 || 3/4/4 || 3 || 4 || 4 || 3 || 4 || 4 
+|- 
+! scope="row" | End 23 
+| 3/4/4 || 4/4/4 || 3 || 4 || 4 || 4 || 4 || 4 
+|- 
+! scope="row" | End 24 
+| 4/4/4 || 4/4/4 || 4 || 4 || 4 || 4 || 4 || 4 
+|- 
+! scope="row" | End 25 
+| 4/4/4 || 4/4/5 || 4 || 4 || 4 || 4 || 4 || 5 
+|- 
+! scope="row" | End 26 
+| 4/4/5 || 4/4/5 || 4 || 4 || 5 || 4 || 4 || 5 
+|- 
+! scope="row" | End 27 
+| 4/4/5 || 4/5/5 || 4 || 4 || 5 || 4 || 5 || 5 
+|- 
+! scope="row" | End 28 
+| 4/5/5 || 4/5/5 || 4 || 5 || 5 || 4 || 5 || 5 
+|- 
+! scope="row" | End 29 
+| 4/5/5 || 5/5/5 || 4 || 5 || 5 || 5 || 5 || 5 
+|- 
+! scope="row" | End 30 
+| 5/5/5 || 5/5/5 || 5 || 5 || 5 || 5 || 5 || 5 
+|}
+
+
+''Nitouche a une Endurance de 23.''<BR>
+''Elle possède donc au total 46 cases de fatigue, ainsi réparties sur son tableau :''<BR>
+
+'''''Fatigue'''''
+{| style="text-align:left";
+|-
+| style="text-align:right"; | <small>0</small> || ¤¤¤ || ¤¤¤¤ || ¤¤¤¤
+|-
+| style="text-align:right"; | <small>-1</small> || ¤¤¤¤ || ¤¤¤¤ || ¤¤¤¤
+|-
+| style="text-align:right"; | <small>-2</small> || ¤¤¤ 
+|-
+| style="text-align:right"; | <small>-3</small> || ¤¤¤¤
+|-
+| style="text-align:right"; | <small>-4</small> || ¤¤¤¤ 
+|-
+| style="text-align:right"; | <small>-5</small> || ¤¤¤¤
+|-
+| style="text-align:right"; | <small>-6</small> || ¤¤¤¤
+|-
+| style="text-align:right"; | <small>-7</small> || ¤¤¤¤
+|}
+
+=== État général ===
+C'est ici que le joueur garde en mémoire l'état général de son personnage.<BR>
+Un personnage en pleine forme a un état général de 0.
+
+=== Blessures ===
+Compteur des 4 types de blessures (contusions, blessures légères, graves et critique). Au départ, le personnage nia évidemment aucune blessure.
+
+=== Sust & Eau ===
+Compteur de nourriture et d'eau absorbée. Sert à se rappeler combien le personnage a déjà mangé et bu dans la journée.
+
+=== Moral === 
+Compteur des points de moral si la règle additionnelle du Moral est utilisée, ainsi que des points de dissolution ('''diss''') et d”exaltation ('''exal''').
+
+=== Chance ===
+Compteur des points de chance si les règles additionnelles d'appel à la Chance sont utilisées, ainsi que des points de '''Destinée'''.
+
+=== Stress ===
+Compteur des points de stress. Voir ''[[L'Archétype]]''.
+
+=== Armure===
+Le joueur note ici la nature et les points de détérioration de son armure ou de ses vêtements, ainsi que leur valeur actuelle de protection.
+
+== Note ==
+Les jeux de rôle ont grosso modo deux façons de créer les personnages : ''globalement'' ou ''façon rnécano''. Globalement, on simplifie le choix pour vous, on vous propose des types de personnages tout faits : des guerriers, des voleurs, des barbares, etc. Imaginez un casier contenant dix portraits : vous devez choisir un des dix. Si un détail des physionomies ne vous plaît pas, vous êtes néanmoins obligé d'en choisir une. En échange, votre personnage est censé être bien composé, équilibré et jouable. ''Rêve de Dragon'' préfère la liberté du jeu de construction. Dans le casier, vous trouvez à la place 10 sortes de nez, 10 sortes d'oreilles, 10 sortes de bouches, etc. À vous de composer le portrait qui vous inspire, un très grand nombre de combinaisons étant possible. Il y a toutefois un revers de médaille : il est tout à fait possible de créer ainsi un personnage absurde et injouable. C'est au joueur d`avoir le bon sens de ses choix. S'il met trois yeux à son personnage et oublie les oreilles, qu'il ne vienne pas se plaindre ensuite que son personnage est sourd. Un exemple plus concret : se mettre un bon niveau en [[Les Compétences#ALCHIMIE|Alchimie]], mais rien du tout en [[Les Compétences#ÉCRITURE|Écriture]]. Nous aurons un soi-disant alchimiste incapable de déchiffrer le moindre grimoire. Pourtant RIEN dans la règle n'oblige à mettre des points en [[Les Compétences#ÉCRITURE|Écriture]] ET en [[Les Compétences#ALCHIMIE|Alchimie]].

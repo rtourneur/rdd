@@ -1,0 +1,535 @@
+ [[Au Fil des Jours|Retour au Fil des Jours]]
+
+== Le système monétaire ==
+Le système monétaire de ''Rêve de Dragon'' est décimal. L'unité monétaire est le ''sol'' divisé en cent centimes appelés ''deniers''. Il y a donc cent deniers dans un sol.<BR>
+Le sol est le plus couramment représenté par une pièce d'''argent'',
+le denier par une pièce d’''étain''. On trouve également des pièces de ''bronze'' de 10 deniers, et des pièces d'''or'' de 10 sols.<BR>
+On peut donc dire qu'il y a dix étains dans un bronze, dix bronzes dans un argent et dix argents dans un or, mais uniquement si l'étain vaut 1 denier, le bronze 10 deniers, etc. On peut fort bien imaginer des pièces d'étain un peu plus grosses valant 2 deniers, ou des pièces d'or un peu plus petites valant 5 sols. Dans la liste d'équipement, le prix des articles d'équipement est exprimé en sols (s) ou en deniers (d).
+
+== Richesse de départ ==
+La richesse de départ d'un personnage dépend essentiellement de la campagne que le gardien des rêves s'apprête a lui faire jouer. Certains préféreront un départ pauvre, d'autres un départ plus aisé. A défaut d'idée préconçue, on peut faire commencer le personnage avec une fortune globale de 50 sols.<BR>
+Sur cette somme, il doit acheter ses vêtements, ses armes, et son équipement, puis garder le reste - si reste il y a - sous forme d'espèces sonnantes et trébuchantes. La liste d,équipement est reproduite dans le cahier mobile pour plus de commodité de consultation.<BR>
+Pour estimer le prix des choses, le gardien des rêves peut utiliser l'équivalence 3 deniers = 1 euro. Le sol est alors l'équivalent de 33 euros. Avec 50 sols, le personnage commence sa carrière avec 1 500 euros : ce n'est pas une somme phénoménale.
+
+== L'encombrement ==
+Tous les objets qu'un personnage peut porter, sacs, armes, vêtements, cordes, etc., possèdent un encombrement exprimé en points d'encombrement (enc). À mesure qu'il se charge et remplit sa feuille d'équipement, le joueur doit additionner ces points et veiller a ne pas dépasser le seuil d'encombrement de son personnage.<BR>
+L'encombrement de chaque objet figure sur la liste d'équipement. Appliquer par ailleurs la règle suivante : '''2 kilogrammes = 1 point d'encombrement'''. Ainsi, une outre de 2 litres d'eau fait 1 enc, une mesure d'eau (20 cl) fait 0,1 enc. La plupart des pièces de monnaie faisant 20 grammes, compter 0,1 enc toutes les 10 pièces.
+
+=== Surencombrement === 
+Chaque point d'encombrement porté qui dépasse le seuil d'encombrement du personnage confère un malus de -1 a toutes ses actions physiques. Sur la table de résolution, ce malus s'ajoute (négativement) à l'ajustement général. L'encombrement étant souvent exprimé en dixièmes de point, arrondir ''au plus près''. Ainsi 11,4 vaut 11, mais 11,5 vaut 12.
+
+== La feuille d'équipement ==
+La feuille d'équipement est conçue pour ranger logiquement les possessions du personnage, c”est-à-dire par ''contenants''. Dans la partie supérieure de chaque case, inscrire le nom du contenant : sac, bourse, outre, fiole, boîte, carquois, etc., et dans la partie droite, l'encombrement. Dans la case-même, noter ce que contient le contenant en question. l'exemple est donné, en haut à gauche de la feuille, avec une bourse destinée à recevoir l'argent. Quand il y a plusieurs contenants du même type, les différencier par un numéro : fiole N°1, fiole N°2, etc.<BR>
+La partie droite de la feuille est destinée à recevoir ce que le personnage porte finalement sur lui : vêtements, armes, contenants et autres objets directement portés, une corde sur l'épaule par exemple.<BR>
+Pour chaque objet ou contenant de cette colonne, indiquer à droite un sous-total d'encombrement, et enfin, l'encombrement final et total du personnage.<BR>
+Noter que bien souvent un contenant figurera dans un autre contenant, lui-même pouvant figurer dans un autre, comme les poupées russes. Si par exemple, dans la case « Sac à dos », un joueur indique « 1 litre d'huile », cela signifie textuellement qu'il a versé 1 litre d'huile dans son sac. Plus intelligemment, il
+devra mentionner parmi les possessions du sac à dos : « outre N°x », et dans une autre case intitulée « Outre N°x », indiquer « 1 litre d°huile ». Cela permet à tout moment de distinguer le contenant du contenu et de savoir où il se trouve.<BR>
+
+<small>''2 kilogrammes font 1 point d'encombrement (enc). 0,1 enc = 200 grammes.Quand un objet de la liste fait moins de 200 g, aucun encombrement ne lui est assigné, ce qui ne veut pas dire qu'il ne pèse rien. Au gardien des rêves de faire respecter la vraisemblance.''</small>
+
+{|style="text-align:right;"
+|-
+| style="text-align:left;" | '''CUIRS ET BAGAGES''' || '''enc''' || '''prix''' 
+|-
+| style="text-align:left;" | Pourpoint de cuir souple || 0,3 || 2s 
+|-
+| style="text-align:left;" | Cotte de cuir souple || 0,4 || 2s 
+|-
+| style="text-align:left;" | Culottes de cuir souple || 0,2 || 2s 
+|-
+| style="text-align:left;" | Bottes de cuir souple || 0,4 || 2s 
+|-
+| style="text-align:left;" | Sandales || 0,1 || 30d 
+|-
+| style="text-align:left;" | Gants || - || 1s 
+|-
+| style="text-align:left;" | Ceinturon || 0,1 || 50d 
+|-
+| style="text-align:left;" | Chapeau || - || 50d 
+|-
+| style="text-align:left;" | Manteau de fourrure || 1 || 1-20s 
+|-
+| style="text-align:left;" | Sac à dos || 0,4 || 1s 
+|-
+| style="text-align:left;" | Besace || 0,2 || 50d 
+|-
+| style="text-align:left;" | Aumônière || 0,1 || 20d 
+|-
+| style="text-align:left;" | Bourse || - || 10d 
+|-
+| style="text-align:left;" | Outre 2 litres || - || 20d 
+|-
+| style="text-align:left;" | Tube à parchemins || 0,1 || 50d 
+|-
+| style="text-align:left;" | Étui à luth || 0,2 || 1s 
+|-
+| style="text-align:left;" | Carquois || 0,1 || 50d 
+|-
+| style="text-align:left;" | Lacet ''1 mètre'' || - || 6d 
+|-
+| style="text-align:left;" | '''JUTE, FIL, CORDE''' || '''enc''' || '''prix''' 
+|-
+| style="text-align:left;" | Sac en jute 50 litres || 0,1 || 8d 
+|-
+| style="text-align:left;" | Sac en jute 20 litres || - || 4d 
+|-
+| style="text-align:left;" | Bâche ''1 m²'' || 0,5 || 20d 
+|-
+| style="text-align:left;" | Toile de voile ''1 m²'' || 0,2 || 10d 
+|-
+| style="text-align:left;" | Tresse de crins || - || 10d 
+|-
+| style="text-align:left;" | Bobineau de fil || - || 10d 
+|-
+| style="text-align:left;" | Ficelle ''10 m'' || - || 10d 
+|-
+| style="text-align:left;" | Cordelette ''10 m'' || 0,2 || 20d 
+|-
+| style="text-align:left;" | Corde ''10 m'' || 1 || 30d 
+|-
+| style="text-align:left;" | '''LAINE, LIN''' || '''enc''' || '''prix''' 
+|-
+| style="text-align:left;" | Pourpoint de drap matelassé || 0,2 || 1s 
+|-
+| style="text-align:left;" | Cotte de drap matelassé || 0,3 || 1s 
+|-
+| style="text-align:left;" | Culottes de drap matelassé || 0,1 || 2s 
+|-
+| style="text-align:left;" | 1 m² tissu de laine || 0,1 || 10d 
+|-
+| style="text-align:left;" | 1 m² tissu de lin || - || 1 5d 
+|-
+| style="text-align:left;" | Bas de laine || - || 10d 
+|-
+| style="text-align:left;" | Chemise de laine || 0,1 || 20d 
+|-
+| style="text-align:left;" | Chemise de lin || - || 30d 
+|-
+| style="text-align:left;" | Culottes de laine || 0,1 || 20d 
+|-
+| style="text-align:left;" | Robe de laine || 0,2 || 40d 
+|-
+| style="text-align:left;" | Robe de lin || 0,1 || 60d 
+|-
+| style="text-align:left;" | Cotte de laine || 0,1 || 30d 
+|-
+| style="text-align:left;" | Bonnet de laine || - || 6d 
+|-
+| style="text-align:left;" | Chaperon de laine || 0,1 || 20d 
+|-
+| style="text-align:left;" | Manteau de laine || 0,8 || 60d 
+|-
+| style="text-align:left;" | Couverture de laine || 0,6 || 30d
+|-
+| style="text-align:left;" | '''VELOURS ET SOIES''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | 1 ml soie ou velours || - || 3s 
+|-
+| style="text-align:left;" | Chemise de soie || - || 6s 
+|-
+| style="text-align:left;" | Robe de soie || - || 10s 
+|-
+| style="text-align:left;" | Robe de velours || 0,3 || 10s 
+|-
+| style="text-align:left;" | Culottes de velours || 0,2 || 6s 
+|-
+| style="text-align:left;" | Pourpoint de velours || 0,2 || 8s 
+|-
+| style="text-align:left;" | Manteau de velours || 1 || 10s 
+|-
+| style="text-align:left;" | Béret de velours || - || 3s 
+|-
+| style="text-align:left;" | Bas de soie || - || 3s 
+|-
+| style="text-align:left;" | '''FEUX''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | Chandelle de suif (1 h) || 0,1 || 2d 
+|-
+| style="text-align:left;" | Bougie de cire (2 h) || 0,1 || 5d 
+|-
+| style="text-align:left;" | Torche (1/2 h) || 0,3 || 2d 
+|-
+| style="text-align:left;" | Huile (4h) ''20 cl'' || 0,1 || 4d 
+|-
+| style="text-align:left;" | Lanterne à huile || 1 || 5s 
+|-
+| style="text-align:left;" | Lanterne à bougie || 1 || 3s 
+|-
+| style="text-align:left;" | Briquet à silex || - || 40d 
+|-
+| style="text-align:left;" | Soufflet || 0,2 || 40d 
+|-
+| style="text-align:left;" | Pot à braise || 0,1 || 20d 
+|-
+| style="text-align:left;" | Pipe en bois || - || 10d 
+|-
+| style="text-align:left;" | '''POTERIE, CUISINE''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | Fiole de grès 20 cl || 0,1 || 10d 
+|-
+| style="text-align:left;" | Fiole de verre 20 cl || - || 20d 
+|-
+| style="text-align:left;" | Mortier en marbre || 0,3 || 20d 
+|-
+| style="text-align:left;" | Pilon en marbre || 0,1 || 10d 
+|-
+| style="text-align:left;" | Pichet de grès 1 litre || 0,2 || 15d 
+|-
+| style="text-align:left;" | Chope de grès 20 cl || 0,1 || 10d 
+|-
+| style="text-align:left;" | Chope de fer 20cl || - || l5d 
+|-
+| style="text-align:left;" | Écuelle de grès || 0,1 || 10d 
+|-
+| style="text-align:left;" | Écuelle de fer || 0,1 || 15d 
+|-
+| style="text-align:left;" | Poêle à frire 40cm || 0,3 || 50d 
+|-
+| style="text-align:left;" | Casserole de fer 1 litre || 0,2 || 30d 
+|-
+| style="text-align:left;" | Marmite de fer 3 litres || 0,6 || 60d 
+|-
+| style="text-align:left;" | Marmite de fer 5 litres || 1 || 1s 
+|-
+| style="text-align:left;" | Bouilloire de fer 2 litres || 0,5 || 50d 
+|-
+| style="text-align:left;" | Entonnoir de fer || 0,1 || 15d 
+|-
+| style="text-align:left;" | Cuillère de fer || - || 10d 
+|-
+| style="text-align:left;" | Cuillère de bois || - || 3d 
+|-
+| style="text-align:left;" | Seau de fer et bois 10 litres || 1 || 20d 
+|-
+| style="text-align:left;" | Tonnelet 10 litres || 1 || 25d 
+|-
+| style="text-align:left;" | Charbon de bois ''1 kg'' || 0,5 || 6d 
+|-
+| style="text-align:left;" | '''OUTILLAGE''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | Hachette || 1 || 4s 
+|-
+| style="text-align:left;" | Grappin || 0,5 || 2s 
+|-
+| style="text-align:left;" | Pelle || 1 || 1s 
+|-
+| style="text-align:left;" | Marteau || 0,3 || ls 
+|-
+| style="text-align:left;" | Maillet || 0,1 || 5d 
+|-
+| style="text-align:left;" | Burin, gouge || 0,2 || 30d 
+|-
+| style="text-align:left;" | Lime, râpe || 0,2 || 50d 
+|-
+| style="text-align:left;" | Scie || 1 || 1s 
+|-
+| style="text-align:left;" | Gros clou || 0,1 || 5d 
+|-
+| style="text-align:left;" | Alêne, poinçon || - || 10d 
+|-
+| style="text-align:left;" | Aiguille à coudre || - || 10d 
+|-
+| style="text-align:left;" | Hameçon || - || 10d 
+|-
+| style="text-align:left;" | Couteau de cuisine || 0,2 || 1s 
+|-
+| style="text-align:left;" | Pierre à aiguiser || 0,2 || 30d 
+|-
+| style="text-align:left;" | Crochets de serrurier || 0,2 || 3s 
+|-
+| style="text-align:left;" | Graisse à bottes ''500 g'' || - || 5d 
+|-
+| style="text-align:left;" | Cire d'abeille ''500g'' || - || 15d 
+|-
+| style="text-align:left;" | '''SOINS''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | Miroir de cuivre 20 cm || 0,2 || 1s 
+|-
+| style="text-align:left;" | Brosse à cheveux || - || 1s 
+|-
+| style="text-align:left;" | Peigne en corne || - || 40d 
+|-
+| style="text-align:left;" | Éponge || - || 1s 
+|-
+| style="text-align:left;" | Savon ''500 g'' || 0,2 || 20d 
+|-
+| style="text-align:left;" | Petit pot de fard || - || 30d 
+|-
+| style="text-align:left;" | Matériel de chirurgie || rowspan="2" | - || rowspan="2" | 1s 
+|-
+| style="text-align:left;" | <small>''(pincettes, lancette, crin, aiguille)''</small> ||  || 
+|-
+| style="text-align:left;" | Rasoir || 0,1 || 2s 
+|-
+| style="text-align:left;" | '''ÉCRIRE''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | Parchemin ''1 feuille'' || - || 20d 
+|-
+| style="text-align:left;" | Encre ''20cl'' || 0,1 || 10d 
+|-
+| style="text-align:left;" | Crayon à mine de plomb || - || 30d 
+|-
+| style="text-align:left;" | Écritoire || 1 || 1s 
+|-
+| style="text-align:left;" | Plume de fer || - || 10d 
+|-
+| style="text-align:left;" | Porte-plume en bois || - || 5d 
+|-
+| style="text-align:left;" | Cire à cacheter || - || 20d 
+|-
+| style="text-align:left;" | Craie ''1 bâton'' || - || 1d 
+|-
+| style="text-align:left;" | Sablier 15 minutes || 0,1 || 2s 
+|-
+| style="text-align:left;" | Verre grossissant || - || 2s 
+|-
+| style="text-align:left;" | Cristal alchimique || - || 4s 
+|-
+| style="text-align:left;" | '''JOUER''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | Flûte à bec || - || 1s 
+|-
+| style="text-align:left;" | Luth, viole || 1 || 7s 
+|-
+| style="text-align:left;" | Harpe || 1 || 5s 
+|-
+| style="text-align:left;" | Tambourin || 0,1 || 50d 
+|-
+| style="text-align:left;" | Cor en corne || 0,1 || 60d 
+|-
+| style="text-align:left;" | Dé à jouer en os || - || 10d 
+|-
+| style="text-align:left;" | Échecs draconics en bois || 0,5 || 2s 
+|-
+| style="text-align:left;" colspan="2" | '''LOCOMOTION'''  || '''prix'''
+|-
+| style="text-align:left;" colspan="2" | Cheval de selle  || 40s 
+|-
+| style="text-align:left;" colspan="2" | Cheval de trait  || 30s 
+|-
+| style="text-align:left;" colspan="2" | Mule  || 15s 
+|-
+| style="text-align:left;" colspan="2" | Ane  || 8s 
+|-
+| style="text-align:left;" colspan="2" | Aligate  || 20s 
+|-
+| style="text-align:left;" colspan="2" | Zyglute  || 15s 
+|-
+| style="text-align:left;" colspan="2" | Selle et harnais  || 5s 
+|-
+| style="text-align:left;" colspan="2" | Chariot 4 roues  || 30s 
+|-
+| style="text-align:left;" colspan="2" | Charrette 2 roues  || 20s
+|-
+| style="text-align:left;" colspan="2" | '''SUSTENTATION'''  || '''prix''' 
+|-
+| style="text-align:left;" colspan="2" | <small>''1 sust= 0,1 enc 20cl= 0,1 enc''</small>  ||
+|-
+| style="text-align:left;" colspan="2" | <small>''F = force étylique''</small>  || 
+|-
+| style="text-align:left;" colspan="2" | Provisions non cuites  || rowspan="2" | 1d
+|-
+| style="text-align:left;" colspan="2" | <small>''(légumes secs, viande salée) 1 sust''</small>  
+|-
+| style="text-align:left;" colspan="2" | Provisions cuites  || rowspan="2" | 2d
+|-
+| style="text-align:left;" colspan="2" | <small>''(pain, fromage, viande séchée) 1 sust''</small> 
+|-
+| style="text-align:left;" colspan="2" | Repas moyen à l'auberge  || rowspan="2" | 3d
+|-
+| style="text-align:left;" colspan="2" | <small>''(sans la boisson) 1 sust''</small> 
+|-
+| style="text-align:left;" colspan="2" | Vin ''20 cl'' (F-2)  || 1d 
+|-
+| style="text-align:left;" colspan="2" | Bière ''20 cl'' (F-1)  || 1d
+|-
+| style="text-align:left;" colspan="2" | Hydromel ''20 cl''( P-4)  || 4d
+|-
+| style="text-align:left;" colspan="2" | Brandevin ''10 cl'' (F-5)  || 10d
+|-
+| style="text-align:left;" colspan="2" | Lait ''20 cl''  || 1d
+|-
+| style="text-align:left;" colspan="2" | '''HERBES DE SOIN'''  || '''prix''' 
+|-
+| style="text-align:left;" colspan="2" | <small>''(voir [[La Santé]])''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | <small>''unité = 1 brin''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | Fausse Suppure  || 2d 
+|-
+| style="text-align:left;" colspan="2" | Suppure  || 3d 
+|-
+| style="text-align:left;" colspan="2" | Méritoine  || 6d 
+|-
+| style="text-align:left;" colspan="2" | Ortigal  || 10d 
+|-
+| style="text-align:left;" colspan="2" | Ortigal noir  || 20d 
+|-
+| style="text-align:left;" colspan="2" | Belidane  || 30d 
+|-
+| style="text-align:left;" colspan="2" | Faux Murus   || 40d 
+|-
+| style="text-align:left;" colspan="2" | Murus   || 60d 
+|-
+| style="text-align:left;" colspan="2" | Tanemiel  || 90d 
+|-
+| style="text-align:left;" colspan="2" | Tanemiel doré  || 2s 
+|-
+| style="text-align:left;" colspan="2" | '''HERBES DIVERSES'''  || '''prix''' 
+|-
+| style="text-align:left;" colspan="2" | <small>''(voir [[Accueil#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]] ''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | <small>'' et [[Accueil#Le Livre des Mondes|Le Livre des Mondes]])''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | <small>''unité = 1 brin''</small>  ||  
+|-
+| style="text-align:left;" | Herbe de Lune ''7 brins''  || colspan="2" | 1s x qualité 
+|-
+| style="text-align:left;" colspan="2" | Mercurion  || 2d 
+|-
+| style="text-align:left;" colspan="2" | Sarum  || 3d 
+|-
+| style="text-align:left;" colspan="2" | Névropenthe  || 6d 
+|-
+| style="text-align:left;" colspan="2" | Chronophile ''3 brins''  || 60d 
+|-
+| style="text-align:left;" colspan="2" | Herbe à pipe ''1 dose''  || 1d 
+|-
+| style="text-align:left;" colspan="2" | '''REMÈDES & ANTIDOTES'''  || '''prix''' 
+|-
+| style="text-align:left;" colspan="2" | <small>''(voir [[La Santé]])''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | <small>''unité = 1 dose, enc 0.1''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | Bitume de Camphre  || 2s 
+|-
+| style="text-align:left;" colspan="2" | Gelée royale  || 20d 
+|-
+| style="text-align:left;" colspan="2" | Tournegraisse  || 2s 
+|-
+| style="text-align:left;" colspan="2" | Perle de Bjwal  || 1s 
+|-
+| style="text-align:left;" colspan="2" | Sable-Poudre  || 2s 
+|-
+| style="text-align:left;" colspan="2" | Topazoïne  || 2s 
+|-
+| style="text-align:left;" colspan="2" | Élixir des Gnomes  || 1s 
+|-
+| style="text-align:left;" colspan="2" | Lait de lune  || 1s 
+|-
+| style="text-align:left;" colspan="2" | Liqueur de Bagdol  || 50d 
+|-
+| style="text-align:left;" colspan="2" | Mirobolant  || 2s 
+|-
+| style="text-align:left;" colspan="2" | Teinture d'Érozonne  || 2s 
+|-
+| style="text-align:left;" colspan="2" | Huile de Sélikanthe  || 1s 
+|-
+| style="text-align:left;" colspan="2" | '''SELS ALCHIMIQUES'''  || '''prix''' 
+|-
+| style="text-align:left;" colspan="2" | <small>''(voir [[Accueil#Le Livre des Mondes|Le Livre des Mondes]])''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | <small>''unité = 1 pépin''</small>  ||  
+|-
+| style="text-align:left;" colspan="2" | Candique  || 2d 
+|-
+| style="text-align:left;" colspan="2" | Boralm  || 3d 
+|-
+| style="text-align:left;" colspan="2" | Qbyssum vert  || 5d 
+|-
+| style="text-align:left;" colspan="2" | Obyssum gris  || 10d 
+|-
+| style="text-align:left;" colspan="2" | Obbadion  || 20d 
+|-
+| style="text-align:left;" colspan="2" | Nartha  || 40d 
+|-
+| style="text-align:left;" colspan="2" | Chramaelium  || 50d 
+|-
+| style="text-align:left;" | '''ARMES DE MÊLÉE''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | <small>''(Voir [[Le Combat]])''</small>  ||
+|-
+| style="text-align:left;" | Dague || 0,5 || 3s 
+|-
+| style="text-align:left;" | Épée gnome || 1 || 12s 
+|-
+| style="text-align:left;" | Esparlongue || 1,5 || 20s 
+|-
+| style="text-align:left;" | Épée cyane || 2 || 25s 
+|-
+| style="text-align:left;" | Épée dragonne || 2 || 20s 
+|-
+| style="text-align:left;" | Épée sorde || 2 || 20s 
+|-
+| style="text-align:left;" | Épée bâtarde || 3 || 30s 
+|-
+| style="text-align:left;" | Double dragonne || 4 || 50s 
+|-
+| style="text-align:left;" | Hachette || 1 || 4s 
+|-
+| style="text-align:left;" | Hache de bataille || 2 || 10s 
+|-
+| style="text-align:left;" | Grande hache || 3 || 15s 
+|-
+| style="text-align:left;" | Gourdin || 1 || - 
+|-
+| style="text-align:left;" | Bâton || 2 || 50d 
+|-
+| style="text-align:left;" | Massette || 1 || 2s 
+|-
+| style="text-align:left;" | Masse lourde || 3 || 4s 
+|-
+| style="text-align:left;" | Fléau léger || 2 || 12s 
+|-
+| style="text-align:left;" | Fléau lourd || 3 || 15s 
+|-
+| style="text-align:left;" | Lance courte || 2 || 3s 
+|-
+| style="text-align:left;" | Javeline || 1 || 1s 
+|-
+| style="text-align:left;" | Arme d'hast || 4 || 10s 
+|-
+| style="text-align:left;" | Bouclier léger || 1 || 4s 
+|-
+| style="text-align:left;" | Bouclier moyen || 2 || 6s 
+|-
+| style="text-align:left;" | Bouclier lourd || 3 || 8s 
+|-
+| style="text-align:left;" | '''ARMES DE TIR''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | <small>''(Voir [[Le Combat]])''</small>  || 
+|-
+| style="text-align:left;" | Arbalète || 3 || 30s 
+|-
+| style="text-align:left;" | Arc || 1 || 10s 
+|-
+| style="text-align:left;" | Fronde || - || 60d 
+|-
+| style="text-align:left;" | Flèche, carreau || 0,1 || 10d 
+|-
+| style="text-align:left;" | '''ARMES DE LANCER''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | <small>''(Voir [[Le Combat]])''</small>  || 
+|-
+| style="text-align:left;" | Dague || 0,5 || 3s 
+|-
+| style="text-align:left;" | Javelot || 1 || 1s 
+|-
+| style="text-align:left;" | Fouet || 0,5 || 1s 
+|-
+| style="text-align:left;" | '''ARMURES''' || '''enc''' || '''prix'''
+|-
+| style="text-align:left;" | <small>''(Voir [[Le Combat]])''</small>  || 
+|-
+| style="text-align:left;" | Drap matelassé || - || 4s 
+|-
+| style="text-align:left;" | Cuir souple || - || 6s 
+|-
+| style="text-align:left;" | Cuir épais || 2 || 10s 
+|-
+| style="text-align:left;" | Cuir/métal || 4 || 20s 
+|-
+| style="text-align:left;" | Mailles de fer || 6 || 50s 
+|-
+| style="text-align:left;" | Plaques de fer || 8 || 100s 
+|}

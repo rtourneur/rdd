@@ -1,0 +1,25 @@
+Les ''points'', sans cesse dépensés puis regagnés, servent à indiquer l'état actuel du personnage, sa santé, sa puissance onirique.<BR>
+Les ''seuils'' sont des limites, au-delà ou en deçà desquelles des modifications peuvent intervenir dans son comportement. Points et seuils dérivent directement des caractéristiques.<BR>
+Les ''signes particuliers'' achèvent de dessiner le personnage et lui confèrent la touche de finition. Pour la plupart, ils sont librement choisis par le joueur.<BR>
+Tous les détails de création sont donnés dans la [[Naissance d'un Voyageur]]. par ailleurs, les [[Rêve de Dragon Seconde Édition#La Destinée|Règles Additionnelles]] proposent encore d'autres points et seuils, pour faire du personnage une entité aussi complète que possible et pour un maximum de simulation (''Moral, Chance, Destinée'').
+
+ [[Anatomie d'un Voyageur|Retour vers L'Anatomie d'un Voyageur]]
+
+== Les principaux points ==
+* Les ''points de rêve'', qui baissent à chaque usage de la magie.
+* Les ''points de vie'', qui baissent à chaque diminution du potentiel vital de l'individu (blessure, maladie).
+* les ''points d'endurance'', qui baissent à chaque traumatisme ou effort violent, entraînant parallèlement une augmentation des ''points de fatigue''.
+
+== Les principaux seuils ==
+* Le ''seuil d'encombrement'' (en abrégé ''enc''), qui indique la charge maximale qu'un individu peut porter, au-delà de laquelle il souffre de malus à ses actions.
+* Le ''seuil de sustentation'' (en abrégé ''sust''), qui indique l quantité de nourriture dont il a besoin pour survivre sans malus.
+* Le ''seuil de constitution'' (en abrégé ''SC''), qui indique principalement la limite négative de points de vie qu'il ne peut dépasser.
+* Le ''seuil de rêve'' (en abrégé ''SR''), qui est la limite de récupération des points de rêve (voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'').
+* Le ''bonus aux dommages'' (en abrégé ''+dom'') ''personnel'',  qui modifie, selon sa carrure, les dommages qu'il peut occasionner en combat.
+
+== Les principaux signes particuliers ==
+* ''L'heure de naissance'' du personnage, importante pour les haut-rêvants.
+* Son ''âge'', il est préférable d'être jeune.
+* Ses ''mensurations'', en relation avec sa caractéristique [[Les Caractéristiques#TAILLE|TAILLE]], sa hauteur en cm, son poids.
+* Sa ''description'', couleur des yeux, des cheveux, etc.
+* Sa ''beauté'', à ne pas confondre avec sa caractéristique [[Les Caractéristiques#APPARENCE|APPARENCE]].

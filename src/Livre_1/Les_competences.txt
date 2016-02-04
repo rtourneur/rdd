@@ -1,0 +1,165 @@
+Les compétences complètent les caractéristiques et représentent l'''acquis'' du personnage. Ce sont les domaines , les matières, où le personnage a acquis de l'expérience.
+Les compétences sont représentées par des niveaux relatifs, c'est-à-dire  pouvant être positif, zéro ou négatifs.
+De même que 10 est une caractéristique statistiquement moyenne, 0 est un niveau statistiquement moyen. Un personnage ayant 10 dans une caractéristique et 0 dans la compétence conjointe  possède 50% de chances de réussir une action de difficulté statistiquement ''moyenne''.
+Les compétences n'ont pas de limite théorique dans le positif, encore que rares soient les niveaux supérieurs à +11. Il existe en revanche une limite dans le négatif, appelé ''niveau de base''. Le niveau de base varie selon la famille de compétences.
+Les compétences augmentent par l'acquisition pour chacune d'elles de points d'expérience, représentant l'acquis progressif.
+Au départ le personnage reçoit un certain nombre de points d'expérience préliminaire qu'il répartit dans les compétences qu'il veut développer.
+Si aucun point n'est alloué dans une compétence, cette dernière sera possédée au niveau de base, par exemple [[#BRICOLAGE|Bricolage]], base -4, sera à -4.
+
+ [[Anatomie d'un Voyageur|Retour vers L'Anatomie d'un Voyageur]]
+
+{|
+|+<big>'''Compétences et Niveau de base'''</big>
+|-
+!  !! '''''niveau de base'''''
+|-
+| '''[[#Compétences générales|Compétences générales]]''' || align="center"|'''-4'''
+|-
+| '''[[#Combat de Mêlée|Compétences de combat de mêlée]]''' || align="center"|'''-6'''
+|-
+| '''[[#Compétences particulières|Compétences particulières]]''' || align="center"|'''-8'''
+|-
+| '''[[#Tir et Lancer|Tir et Lancer]]''' || align="center"|'''-8'''
+|-
+| '''[[#Compétences spécialisées|Compétences spécialisées]]''' || align="center"|'''-11'''
+|-
+| '''[[#Connaissances|Connaissances]]''' || align="center"|'''-11'''
+|-
+| '''[[#Draconic|Draconic]]''' || align="center"|'''-11'''
+|}
+
+== Compétences générales ==
+'''(Base -4)'''
+==== BRICOLAGE ====
+L'art d'être  inventif avec ses doigts, pour de petits aménagements ou réparations. Ne peut en aucun cas se substituer aux compétences d'artisanat, [[#CHARPENTERIE|Charpenterie]], [[#MAÇONNERIE|Maçonnerie]], etc. Bricolage est utilisé quand l'usage de ces compétences n'est pas pertinent.
+==== CHANT====
+Savoir chanter juste, se souvenir de mélodies, improviser.
+==== COURSE====
+Sprinter le plus vite possible, ou courir sur de longues distances en ménageant son souffle.
+==== CUISINE ====
+Identifier les saveurs culinaires, les épices et les aromates. Exécuter, inventer une recette. Faire griller un gibier sur un feu de camp n'est généralement pas de la cuisine, mais de la simple survie.
+==== DANSE ====
+Être capable de danser en mesure, de danser harmonieusement avec une personne ou un groupe, de charmer un public par une exhibition.
+==== DESSIN ====
+Avoir le sens des proportions. Savoir dessiner, faire le portrait de quelqu'un mais également savoir faire un schéma, une carte, un plan, aux proportions exactes.
+==== DISCRÉTION ====
+Se déplacer en silence, sans se faire remarquer, passer inaperçu. Se fondre dans l'anonymat, se cacher.
+==== ESCALADE ====
+Escalader des obstacles, grimper à la corde, à un arbre, le long d'une paroi.
+==== SAUT ====
+Sauter par dessus un obstacle ou sauter en contrebas ; rattraper une chute en la transformant en saut.
+==== SÉDUCTION ====
+L'art d'être galant, de paraître attirant aux personnes de sexe opposé. Permet les conquêtes amoureuses
+==== VIGILANCE ====
+Le talent d'être toujours sur ses gardes, prêt à déceler la moindre anomalie, de bruit, d'odeur, de mouvement, etc. Permet de ne pas être surpris en combat, par exemple. Indispensable pour monter sérieusement la garde.
+
+== Compétences particulières==
+'''(Base -8)'''
+==== CHARPENTERIE ====
+C'est au sens large le travail du bois, charpenterie, menuiserie, ébénisterie. Évaluer la qualité, solidité, d'une structure en bois.
+==== COMÉDIE ====
+L'art de paraître sur une scène : jouer un rôle, déclamer des vers, mimer, conter. Peut aussi servir à simuler, mystifier.
+==== COMMERCE ====
+Évaluer le prix d'une marchandise, la valeur d'une monnaie locale. Savoir jusqu'où l'on peut marchander (lequel marchandage doit être fait en ''jeu de rôle'' par le joueur lui-même).
+==== ÉQUITATION ====
+Monter à cheval, et, d'une manière générale, connaissance des chevaux. Peut s'appliquer aux autres montures de ''Rêve de Dragons'' : [[Les Animaux#Aligate|aligates]], [[Les Animaux#Zyglute|zyglutes]], etc.
+==== MAÇONNERIE ====
+C'est au sens large le travail de la pierre. Évaluer la qualité, solidité d'une structure maçonnée.
+==== MUSIQUE ====
+Solfège et règles musicales, jeu d'un instrument. Musique donne droit à la connaissance d'un instrument de musique, un seul, à spécifier.
+==== PICKPOCKET ====
+Art extrêmement dangereux du vol à la tire.
+==== SURVIE EN CITÉ ====
+Se sentir à son aise dans un milieu urbain, dans une foule. Savoir s'orienter intuitivement dans le dédale d'une cité inconnue, et en déceler les dangers : coupeurs de bourse, escrocs, tout autant que patrouilles de gardes. Savoir à qui s'adresser.
+==== SURVIE EN EXTÉRIEUR ====
+Se sentir à son aise dans la nature, hors de toute civilisation, s'orienter. Construire un abri, allumer un feu en mauvaises conditions, trouver de l'eau, pêcher, savoir dépecer un gibier et l'accommoder sur un feu de braise. Quand un milieu particulier devient déterminant, utiliser à la place une des 6 survies spécifiques :<BR>
+'''SRV EN DÉSERT, SRV EN FORÊT, SRV EN GLACES, SRV EN MARAIS, SRV EN MONTAGNE, SRV EN SOUS-SOL'''<BR>
+Par exemple pister un gibier en forêt demande l'usage de Survie en Forêt, trouver une grotte pour s'abriter en montagne demande Survie en Montagne. Survie en Extérieur tient lieu de survie spécifiques pour les plaines et collines non boisées.
+==== TRAVESTISSEMENT ====
+L'art de se déguiser, de se grimer, de se rendre méconnaissable.
+
+== Compétences spécialisées ==
+'''(Base -11)'''
+==== ACROBATIE ====
+Pirouettes, sauts périlleux, art du funambule, et d'une manière générale, toutes les performances d'agilité spécialisées.
+==== CHIRURGIE ====
+L'art de soigner les blessures, panser, recoudre : savoir se servir d'un rasoir. Chirurgie est utilisée pour accomplir les premiers soins et soins complets sur toutes les blessures, et par extension, pour tous les actes de secourisme et réanimation.
+==== JEU ====
+Jeux de tripot, manipuler les dés. Connaître les jeux et les meilleures stratégies, déceler un tricheur et tricher soi-même.
+==== JONGLERIE ====
+Balles, quilles, couteaux, torches enflammées : l'art traditionnel du jongleur.
+==== MAROQUINERIE ====
+Travail du cuir et de la peau. Dépecer correctement un animal en vue de conserver la peau, préparation au tannage, tannage. Évaluer la qualité, solidité d'un travail de cuir.
+==== MÉTALLURGIE ====
+C'est au sens large le travail du métal, et principalement du fer. Battre le fer, forger, tremper, limer, poncer, riveter. Évaluer la qualité, solidité, d'un objet de fer, une arme par exemple.
+==== NATATION ====
+Nager, plonger.
+==== NAVIGATION ====
+Connaissance des manœuvres à accomplir sur un voilier, connaissance de la mer, de ses courants. (''Voir [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]]''.)
+==== ORFÈVRERIE ====
+Travail et connaissance des métaux précieux : or, argent, cuivre, étain, et par extension des pierres et perles précieuses. Évaluer la taille et la pureté d'une gemme, le prix d'un bijou.
+==== SERRURERIE ====
+Compréhension des mécaniques et mécanismes, et plus particulièrement des serrures. Comprendre un mécanisme, le faire fonctionner, le réparer, le désarmer , le crocheter.
+
+== Connaissances ==
+'''(Base -11)'''
+==== ALCHIMIE ====
+Connaissance des recettes et préparation alchimiques. Identification, élaboration, des solutions diverses, breuvages, poudres, onguents, crèmes, etc. (''Voir [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]]''.)
+==== ASTROLOGIE ====
+Connaissance des étoiles et de leur signification symbolique. Calculer les nombres astraux gouvernant la chance de chaque individu. ('' Voir [[L'Astrologie]]''.) S'orienter aux étoiles.
+==== BOTANIQUE ====
+Identification des espèces végétales et de leurs propriétés. Permet de savoir si une plante connue pousse dans un milieu donné. Recherche de cette plante.
+==== LÉGENDES ====
+Connaissance des légendes et des faits du passé. Légendes tient lieu d'histoire.
+==== ÉCRITURE ====
+Lire et écrire. Savoir composer un texte, un poème. Connaissance générale des langues anciennes.
+==== MÉDECINE ====
+Diagnostic et soin de maladies. Connaissance des remèdes.
+==== ZOOLOGIE ====
+Connaissance des espèces animales, de leurs mœurs , leur habitat.
+
+== Draconic ==
+'''(Base -11)'''
+Les quatre voies de Draconic correspondent aux quatre grands champs d'investigation des magiciens, les haut-rêvants. Le [[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Livre du Haut-Rêve]] leur est entièrement consacré.
+==== VOIE D'ONIROS ====
+Magie s'appliquant au monde inanimé.
+==== VOIE D'HYPNOS ====
+Magie d'illusion, suggestion, invocation.
+==== VOIE DE NARCOS ====
+Magie d'enchantement
+==== VOIE DE THANATOS ====
+Magie noire des forces du cauchemar.
+
+== Combat de Mêlée ==
+'''(Base -6)'''
+==== BOUCLIER ====
+Utilisation de toutes les sortes de bouclier pour parer.
+==== CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE ====
+Groupées en une seule jusqu'au niveau zéro, ces compétences sont les principes de base du combat de mêlée. Corps à corps permet de se battre sans armes ; Esquive permet d'esquiver toute sorte de coups ; Dague de mêlée permet l'utilisation de la dague au contact.
+==== ÉPÉE À UNE MAIN, ÉPÉE À DEUX MAINS ====
+Groupées en une seule jusqu'au niveau zéro, ces compétences permettent l'utilisation des sept types d'épées de ''Rêve de Dragon'' pour attaquer ou parer.
+==== FLÉAU ====
+Utilisation de tous les type de fléaux, pour attaquer.
+==== HACHE À UNE MAIN, HACHE À DEUX MAINS ====
+Groupées en une seule jusqu'au niveau zéro, ces deux compétences permettent l'utilisation des hachettes, cognées et haches de bataille, pour attaquer.
+==== LANCE ====
+Utilisation en mêlée de la lance courte et de la javeline, pour attaquer, voire parer.
+==== MASSE À UNE MAIN, MASSE À DEUX MAINS ====
+Groupées en une seule jusqu'au niveau zéro, ces compétences permettent l'utilisation des masses, gourdins, bâtons, pour attaquer, voire parer.
+==== ARME D'HAST ====
+Utilisation de toutes les piques, vouges, hallebardes, toujours maniées à deux mains, pour attaquer.
+
+== Tir et Lancer ==
+'''(Base -6)'''
+==== ARBALÈTE ====
+Utilisation de tous les types d'arbalètes.
+==== ARC ====
+Utilisation de tous les types d'arcs.
+==== FRONDE ====
+Utilisation de la fronde giratoire.
+==== DAGUE DE JET ====
+Utilisation de la dague en lancer.
+==== JAVELOT ====
+Utilisation de la lance courte ou de la javeline en lancer.
+==== FOUET ====
+Utilisation du fouet.

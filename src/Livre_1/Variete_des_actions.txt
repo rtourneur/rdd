@@ -1,0 +1,92 @@
+On trouvera ci-après les exemples les plus courants d'association Caractéristique/Compétence. Nombre d'indications complémentaires figurent aux chapitres appropriés, ainsi que dans les règles additionnelles.
+
+ [[L’Étincelle de Vie|Retour vers L’Étincelle de Vie]]
+
+== Art et artisanat ==
+''Il peut être intéressant pour ces actions d'évaluer la qualité obtenue avec la règle des points de qualité.''
+
+Chanter, performance vocale : [[Les Caractéristiques#OUÏE|OUÏE]]/[[Les Compétences#CHANT|Chant]]<BR>
+Improviser, composer un poème ou des paroles : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#LÉGENDES|Légendes]]<BR>
+Danser : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#DANSE|Danse]]<BR>
+Créer une chorégraphie : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#DANSE|Danse]]<BR>
+Composer ou improviser une musique : [[Les Caractéristiques#OUÏE|OUÏE]]/[[Les Compétences#MUSIQUE|Musique]]<BR>
+Exécuter une partition musicale : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#MUSIQUE|Musique]]<BR>
+Dessiner : [[Les Caractéristiques#Tir|Tir]]/[[Les Compétences#DESSIN|Dessin]]<BR>
+Créer une pièce de théâtre : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#COMÉDIE|Comédie]]<BR>
+Jouer ou improviser un rôle : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#COMÉDIE|Comédie]]<BR>
+Cuisiner : [[Les Caractéristiques#GOÛT|GOÛT]]/[[Les Compétences#CUISINE|Cuisine]]<BR>
+Acrobatie, équilibre, funambulisme : [[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[[Les Compétences#ACROBATIE|Acrobatie]]<BR>
+Jongler : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#JONGLERIE|Jonglerie]]<BR>
+Travail du bois : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHARPENTERIE|Charpenterie]]<BR>
+Travail de la pierre : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#MAÇONNERIE|Maçonnerie]]<BR>
+Travail du métal: [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#MÉTALLURGIE|Métallurgie]]<BR>
+Travail du cuir: [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#MAROQUINERIE|Maroquinerie]]<BR>
+Bijoux : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#ORFÈVRERIE|Orfèvrerie]]<BR>
+Se travestir : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#TRAVESTISSEMENT|Travestissement]]<BR>
+Travestir un tiers : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#TRAVESTISSEMENT|Travestissement]]<BR>
+
+== Mouvement ==
+''Pour ces actions, il suffit souvent de savoir si l'on réussit ou échoue, la qualité étant sans importance, à part la maladresse en cas d'échec total. Pour la hauteur des sauts, les distances parcourues, etc. voir le chapitre [[Au Fil des Jours]].''
+
+Escalader : [[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[[Les Compétences#ESCALADE|Escalade]]<BR>
+Sauter en hauteur, en longueur : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#SAUT|Saut]]<BR>
+Sauter en contrebas : [[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[[Les Compétences#SAUT|Saut]]<BR>
+Sprint : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#COURSE|Course]]<BR>
+Course de fond : [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/[[Les Compétences#COURSE|Course]]<BR>
+Se faufiler,se cacher : [[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#DISCRÉTION|Discrétion]]<BR>
+Jouer des coudes dans une foule : [[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#SURVIE EN CITÉ|Survie en Cité]]<BR>
+Tenir sur une monture : [[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[[Les Compétences#ÉQUITATION|Équitation]]<BR>
+Calmer sa monture : [[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#ÉQUITATION|Équitation]]<BR>
+Nager, plonger : [[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[[Les Compétences#NATATION|Natation]]<BR>
+Plonger en apnée : [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/[[Les Compétences#NATATION|Natation]]<BR>
+
+== Combat ==
+''Les règles détaillées se trouvent au chapitre [[Le Combat]].''
+
+Combattre sans armes : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps à corps]]<BR>
+Attaquer avec une arme : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#Combat de Mêlée|Compétence d'arme utilisée]]<BR>
+Parer avec une arme : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#Combat de Mêlée|Compétence d'arme utilisée]]<BR>
+Parer avec un bouclier : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#BOUCLIER|Bouclier]]<BR>
+Esquiver : [[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Esquive]]<BR>
+Tirer une flèche : [[Les Caractéristiques#Tir|Tir]]/[[Les Compétences#ARC|Arc]]<BR>
+Lancer un projectile (dague, javelot) : [[Les Caractéristiques#Lancer|Lancer]]/[[Les Compétences#Tir et Lancer|Compétence d'arme utilisée]]<BR>
+
+== Connaissances ==
+''Les connaissances ne peuvent pas êtres utilisées quand elles ne sont qu'au niveau de base -11.''
+
+Identifier une substance : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ALCHIMIE|Alchimie]]<BR>
+Observer les étoiles : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ASTROLOGIE|Astrologie]]<BR>
+Identifier une plante : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#BOTANIQUE|Botanique]]<BR>
+Test de culture générale : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#LÉGENDES|Légendes]]<BR>
+Déchiffrer un document ancien : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ECRITURE|Ecriture]]<BR>
+Diagnostiquer un mal : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#MÉDECINE|Médecine]]<BR>
+Identifier un animal : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ZOOLOGIE|Zoologie]]<BR>
+
+== Influencer ==
+''Les personnages n'ont pas de caractéristique/compétence d'éloquence ni de discours. C'est au joueur de réellement jouer son rôle : marchander, convaincre. Selon les efforts déployés (et son scénario), le gardien des rêves décide que ses créatures sont influencées ou non. De la même manière, il ne joue pas de dés pour déclarer ensuite au joueur : « j'ai fait 01, tu es obligé de me croire ! » ; il y a réciprocité totale du procédé. Entre eux, les personnages des joueurs ne jouent pas non plus de dés pour se convaincre : c'est uniquement la parole des joueurs qui entre en ligne de compte. Seule l'APPARENCE des personnages - qui n'est pas celle des joueurs - peut donner lieu à des jets de dés.''
+
+Séduire une personne du sexe opposé : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#SÉDUCTION|Séduction]]<BR>
+Mystifier : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#COMÉDIE|Comédie]]<BR>
+Imposer confiance : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#SURVIE EN CITÉ|Survie en milieu considéré]]<BR>
+Impressionner, effrayer : [[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#Combat de Mêlée|Compétence de combat]]<BR>
+
+== Survivre ==
+''La caractéristique de Perception n'existe pas en tant que telle pour les personnages des joueurs, c'est une commodité de règle. À chaque fois que Perception est demandée, il faut en réalité utiliser VUE, OUÏE, ODORAT-GOÛT ou EMPATHIE selon le sens qui est sollicité.''
+
+Jauger l'ambiance d'un lieu public : [[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#SURVIE EN CITÉ|Survie en Cité]]<BR>
+Trouver son chemin en ville : [[Les Caractéristiques#VUE|Perception]]/[[Les Compétences#SURVIE EN CITÉ|Survie en Cité]]<BR>
+S'approvisionner au meilleur prix : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#COMMERCE|Commerce]]<BR>
+Voler la bourse d'un passant : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#PICKPOCKET|Pickpocket]]<BR>
+Être sur ses gardes : [[Les Caractéristiques#VUE|Perception]]/[[Les Compétences#VIGILANCE|Vigilance]]<BR>
+Repérer un détail insolite : [[Les Caractéristiques#VUE|Perception]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu considéré]]<BR>
+Suivre des traces : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu considéré]]<BR>
+Repérer un piège en extérieur : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu considéré]]<BR>
+repérer un piège ou un passage secret dans une construction : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#MAÇONNERIE|Maçonnerie]]<BR>
+Idem dans un ouvrage de bois : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#CHARPENTERIE|Charpenterie]]<BR>
+Trouver du gibier : [[Les Caractéristiques#VUE|Perception]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu considéré]]<BR>
+Pêcher : [[Les Caractéristiques#VUE|VUE]],[[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en Extérieur]]<BR>
+Préparer un gibier : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#SURVIE EN CITÉ|Survie en Extérieur ]] ou [[Les Compétences#CUISINE|Cuisine ]]<BR>
+Trouver des herbes connues : [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu considéré]]<BR>
+Fabriquer un abri : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en Extérieur ou milieu considéré]]<BR>
+Préparer une peau pour le tannage : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#MAROQUINERIE|Maroquinerie]]<BR>
+Soigner un blessé : [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]]<BR>

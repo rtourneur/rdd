@@ -1,0 +1,68 @@
+Le temps des personnages n'est évidemment pas le même que celui des joueurs, il faut souvent plus de temps pour simuler l'action que l'action n'en demande elle-même. Pour savoir où l'on en est au niveau des personnages, il faut donc se référer à des unités de temps conventionnelles. Il y en a deux principales dans ''Rêve de Dragon'' : l'heure et le round.
+
+ [[Au Fil des Jours|Retour au Fil des Jours]]
+
+== Les heures draconiques ==
+La journée de ''Rêve de Dragon'' est égale à la nôtre en durée, vingt-quatre fois soixante minutes, toutefois, faute d'horloges précises, les heures ne sont pas comptées pareillement.<BR>
+Seuls douze moments privilégiés ont été retenus pour marquer le passage du temps journalier. Chacun de ces moments, ou ''heures'', fait donc 120 minutes.<BR>
+Quand le mot ''heure'' est utilisé dans ''Rêve de Dragon'', c'est donc toujours d'une période de 120 mn qu'il s'agit, d'une ''heure draconique''. Pour désigner une heure « normale », si besoin est, on dira simplement 60 mn.<BR>
+
+''À l'aube naissante, autrement dit a l 'heure du Vaisseau, Nitouche décide de reprendre la route. Durant cette heure, elle parcourt 8 km. Il s'agit de 8 km en 120 mn, soit une moyenne de 4 km/60 mn.''
+
+{|style="border:1px solid black;"
+|-
+| width="20%" rowspan="2" | <big>1</big> || L'aube,
+|-
+| l'heure du <big>Vaisseau</big>.
+|-
+| rowspan="2" | <big>2</big> || Le début du matin,
+|-
+| l'heure de la <big>Sirène</big>.
+|-
+| rowspan="2" | <big>3</big> || La ﬁn de matinée,
+|-
+| l'heure du <big>Faucon</big>.
+|-
+| rowspan="2" | <big>4</big> || Le milieu du jour, midi,
+|-
+| l'heure de la <big>Couronne</big>.
+|-
+| rowspan="2" | <big>5</big> || Le début d'après midi,
+|-
+| l'heure du <big>Dragon</big>.
+|-
+| rowspan="2" | <big>6</big> || La fin d'après-midi,
+|-
+| l'heure des <big>Épées</big>.
+|-
+| rowspan="2" | <big>7</big> || Le crépuscule du soir,
+|-
+| l'heure de la <big>Lyre</big>.
+|-
+| rowspan="2" | <big>8</big> || Le début de la nuit,
+|-
+| l'heure du <big>Serpent</big>.
+|-
+| rowspan="2" | <big>9</big> || L'heure d'avant minuit,
+|-
+| l'heure du <big>Poisson Acrobate</big>.
+|-
+| rowspan="2" | <big>10</big> || Le milieu de la nuit, minuit,
+|-
+| l'heure de l' <big>Araignée</big>.
+|-
+| rowspan="2" | <big>11</big> || L'heure d'après minuit,
+|-
+| l'heure du <big>Roseau</big>.
+|-
+| rowspan="2" | <big>12</big> || I'heure précédant l'aube,
+|-
+| l'heure du <big>Château Dormant</big>.
+|}
+
+''Les heures ont reçu les noms des douze constellations zodiacales. Ces mêmes noms servent également a désigner les mois des quatre saisons. L’année commence toujours au printemps, au mois du Vaisseau, jour de l'équinoxe. On trouvera plus de détails sur les signes du zodiaque et les saisons aux [[Rêve de Dragon Seconde Édition#La Destinée|Règles Additionnelles]], L 'Astrologie, ainsi que dans [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]].''
+
+== Le round == 
+Le round est la plus petite division conventionnelle du temps, et dure ''approximativement'' 6 secondes. Il n'est quasiment utilisé qu'en combat ou dans les situations d'urgence où chaque seconde peut être décisive. Le flou artistique de « approximativement 6 secondes » est voulu. Plus qu'une durée précise de
+chronomètre, c”est une séquence permettant un nombre limité d'actions : porter ''une'' attaque à un adversaire, courir de son plein potentiel de mouvement, etc.<BR>
+Les actions permises en un round de combat seront détaillées au chapitre ''[[Le Combat]]''.<BR>

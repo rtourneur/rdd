@@ -1,0 +1,19 @@
+Maintenant, notre personnage existe. Nous savons de quoi il est constitué et comment il fonctionne dans ses applications les plus simples.<BR>
+Une constatation cependant : il est nu.<BR>
+Il nous faut donc songer à l'équiper avant de le lancer sur la route. Cela fait, nous pourrons le faire évoluer dans ses occupations journalières : voyager, marcher, dormir. Cela nous amènera à parler du temps qui passe, le calendrier particulier de ''Rêve de Dragon'', et du temps mis pour effectuer les actions avec le système des points de tâche.
+
+ [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
+
+== [[L'Équipement]] ==
+
+== [[Le Temps]] ==
+
+== [[Le Mouvement]] ==
+
+== [[Discrétion]] ==
+
+== [[Points de Tâche]] ==
+
+== [[Se nourrir, Dormir]] ==
+
+== [[Un Nouveau Jour]] ==

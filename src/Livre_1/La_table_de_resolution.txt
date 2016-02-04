@@ -1,0 +1,109 @@
+La plupart des actions des personnages ne nécessitent aucun jet de dés, elles sont dites automatiques : marcher, parler, manger, dormir...<br>
+Pour d'autres, au contraire, le succès ne saurait être assuré à 100%. C'est par exemple escalader, se cacher, combattre, lancer un sort. Pour ces dernières, il faut déterminer à chaque fois un ''pourcentage de succès''. Selon les cas et les difficultés relatives, ce pourcentage peut être élevé, par exemple 95% de chances d'escalader tel mur, ou au contraire dramatiquement bas : 5% de chances d'esquiver tel coup d'épée.<BR>
+Une fois le pourcentage déterminé, le joueur joue un jet de pourcentage (1d100). Si le résultat est égal ou inférieur aux chances de réussite, il réussit ; si le résultat est supérieur, il échoue.<BR>
+Le pourcentage évaluant les chances de succès est trouvé sur la ''table de Résolution''. Toutes les actions entreprises par les personnages dépendent d'une des 18 caractéristiques, et, éventuellement, d'une des nombreuses compétences.<BR>
+Parallèlement, toute action se voit attribuer une ''difficulté'', exprimée comme pour les compétences par un nombre relatif : ''zéro'' (= statistiquement moyen), ''négatif'' (plus c'est négatif, plus c'est difficile) ; ''positif'' (plus c'est positif, plus c'est facile).
+
+ [[L’Étincelle de Vie|Retour vers L’Étincelle de Vie]]
+
+{| class="wikitable alternance centre" style="text-align:center;"
+|+ La table de Résolution
+|-
+! -10 !! -9 !! -8 !! -7 !! -6 !! -5 !! -4 !! -3 !! -2 !! -1 !! 0 !! +1 !! +2 !! +3 !! +4 !! +5 !! +6 !! +7
+|-
+| 1 || 3 || '''6''' || 9 || 12 || 15 || 18 || 21 || 24 || 27 || 30 || 33 || 36 || 39 || 42 || 45 || 48 || 51
+|-
+| 1 || 3 || '''7''' || 10 || 14 || 17 || 21 || 24 || 28 || 31 || 35 || 38 || 42 || 45 || 49 || 52 || 56 || 59
+|-
+| 2 || 4 || '''8''' || 12 || 16 || 20 || 24 || 28 || 32 || 36 || 40 || 44 || 48 || 52 || 56 || 60 || 64 || 68
+|-
+| 2 || 4 || '''9''' || 13 || 18 || 22 || 27 || 31 || 36 || 40 || 45 || 49 || 54 || 58 || 63 || 67 || 72 || 76
+|-
+| 2 || 5 || '''10''' || 15 || 20 || 25 || 30 || 35 || 40 || 45 || 50 || 55 || 60 || 65 || 70 || 75 || 80 || 85
+|-
+| 2 || 5 || '''11''' || 16 || 22 || 27 || 33 || 38 || 44 || 49 || 55 || 60 || 66 || 71 || 77 || 82 || 88 || 93
+|-
+| 3 || 6 || '''12''' || 18 || 24 || 30 || 36 || 42 || 48 || 54 || 60 || 66 || 72 || 78 || 84 || 90 || 96 || 102
+|-
+| 3 || 6 || '''13''' || 19 || 26 || 32 || 39 || 45 || 52 || 58 || 65 || 71 || 78 || 84 || 91 || 97 || 104 || 110
+|-
+| 3 || 7 || '''14''' || 21 || 28 || 35 || 42 || 49 || 56 || 63 || 70 || 77 || 84 || 91 || 98 || 105 || 112 || 119
+|-
+| 3 || 7 || '''15''' || 22 || 30 || 37 || 45 || 52 || 60 || 67 || 75 || 82 || 90 || 97 || 105 || 112 || 120 || 127
+|-
+| 4 || 8 || '''16''' || 24 || 32 || 40 || 48 || 56 || 64 || 72 || 80 || 88 || 96 || 104 || 112 || 120 || 128 || 136
+|-
+| 4 || 8 || '''17''' || 25 || 34 || 42 || 51 || 59 || 68 || 76 || 85 || 93 || 102 || 110 || 119 || 127 || 136 || 144
+|-
+| 4 || 9 || '''18''' || 27 || 36 || 45 || 54 || 63 || 72 || 81 || 90 || 99 || 108 || 117 || 126 || 135 || 144 || 153
+|-
+| 4 || 9 || '''19''' || 28 || 38 || 47 || 57 || 66 || 76 || 85 || 95 || 104 || 114 || 123 || 133 || 142 || 152 || 161
+|-
+| 5 || 10 || '''20''' || 30 || 40 || 50 || 60 || 70 || 80 || 90 || 100 || 110 || 120 || 130 || 140 || 150 || 160 || 170
+|}
+ '''CARACTÉRISTIQUE = Colonne -8'''
+ '''Ajustement général = (difficulté)+(compétence)+(état général)'''
+ '''Pourcentage = Ligne CARACTÉRISTIQUE / Colonne Ajustement'''
+ 
+== Fonctionnement ==
+Tout en haut de la table de Résolution, en abscisse (horizontal), se trouvent des nombres allant de -10 à +7.<BR>
+Ces nombres, appelés ajustements, représentent les difficultés. Sous l'ajustement -8, une colonne présente en ordonnée (vertical) des nombres allant de 6 à 20. Ces nombres correspondent aux caractéristiques. Dans la table, le croisement de la caractéristique et de l'''ajustement final'' en abscisse donne les chances de succès exprimées en pourcentage.<br>
+L'''ajustement final'' est la somme algébrique de la difficulté et de la compétence utilisée.
+
+== Extension de la table de Résolution ==
+La table de Résolution peut être indéfiniment étendue, tant en abscisse pour les ajustements positifs, qu'en ordonnée pour des caractéristiques inférieures à 6 ou supérieures à 20.<BR>
+L'ajustement -8, celui où l'on trouve précisément la caractéristique, correspond à cette dernière multipliée par 1.<BR>
+L'ajustement -7 correspond à la caractéristique multipliée par 1,5. L'ajustement -6 à la caractéristique multipliée par 2, l'ajustement -6 à la caractéristique multipliée par 2,5 ; et ainsi de suite par incrément de 0,5. Tous les résultats sont arrondis au chiffre inférieur.<BR>
+L'ajustement zéro est ainsi la caractéristique x5 et l'ajustement +10 la caractéristique x10. Seule exception à cette progression rigoureuse, l'ajustement -9 correspond à la caractéristique divisée par 2, et -10 à la caractéristique divisée par 4. Il est ainsi facile d'extrapoler de rares jets de dés hors table. 22 à +12 correspond à la caractéristique x11, soit 242%. Significative =121, particulière = 49.
+
+== Les difficultés ==
+Évaluer les difficultés est la tâche principale du gardien des rêves. Les règles présentent un grand nombre de cas de figure préétablis, saut, soins des blessures, lancer des sorts, etc. ; dans les scénarios, les principales difficultés sont indiquées ; mais la variété totale des actions est telle, les conditions de chacune sont tellement spécifiques, qu'on ne saurait tout prévoir et mettre en table. C'est donc à chaque gardien des rêves de prendre en charge cet important aspect du jeu, en se basant sur les tables existantes et les exemples des scénarios.<BR>
+Un peu de bon sens suffit, aidé par la table des Difficultés, qui octroie un qualificatif aux principaux ajustements. Se rappeler que la difficulté zéro n'est « moyenne » que statistiquement parlant.
+{| class="wikitable"
+|+ Difficultés
+|-
+| -10 <small>''et en deça''</small>  || chimérique
+|-
+| -9 || presque insurmontable
+|-
+| -8 || extrêmement difficile
+|-
+| -7 || très difficile
+|-
+| -6 || difficile
+|-
+| -5 || problématique
+|-
+| -4 || laborieux
+|-
+| -3 || très malaisé
+|-
+| -2 || malaisé
+|-
+| -1 || assez malaisé
+|-
+| 0 || moyen
+|-
+| +1 || assez facile
+|-
+| +2 || facile
+|-
+| +3 || très facile
+|-
+| +4 <small>''et au delà''</small>|| encore plus facile
+|}
+''Nitouche, le personnage qui nous servira d'exemple tout au long de ces règles, tente de sauter par dessus une haie. Le gardien des rêves estime la difficulté malaisée (-2). L'action requiert la caractéristique Mêlée et la compétence Saut. Nitouche a 10 en Mêlée et -2 en Saut.''<BR>
+''On calcule ainsi son ajutement final : (-2)+(-2) = -4.''<BR>
+''Dans la colonne -8, on repère sa caractéristique de Mêlée (10) ; tout en haut de la table,  en horizontal, on repère l'ajustement final (-4) ; et l'on voit que la croisée des deux donne 30. Cela signifie que Nitouche a 30% de chances de sauter correctement. On joue un jet de pourcentage, et si le résultat est égal ou inférieur à 30, l'action réussit ; dans le cas contraire, elle échoue.''
+=== État général ===
+La difficulté est souvent la somme (algébrique) de la difficulté en soi et de l'''état général'' du personnage. Ce nouvel ajustement dépend essentiellement de son état de santé? Un personnage « normal » a un état général de zéro, c'est-à-dire qu'on n'en tient pas compte. Par contre, sa fatigue, ses blessures, son surencombrement, voire son état d'ébriété peuvent lui donner des malus. Sur cette question, le gardien des rêves n'a pas à improviser : des règles précises sont prévues.<BR>
+''Devant la même haie, supposons Nitouche très fatiguée, souffrant d'un malus de -2 dû à la fatigue, et surencombrée de 1 point. La haie reste la même, difficulté -2. Mais la difficulté réelle à laquelle Nitouche oppose sa compétence de Saut doit maintenant tenir compte des malus de son état général. Ajustement final : (-2) difficulté + (-2) fatigue + (-1) surencombrement + (-2) compétence de saut = -7. Dans la table, 10 à -7 donne 15%, ce qui commence à être assez faible !''
+
+== Multiples combinaisons ==
+Le dynamisme du système Caractéristique/Compétence permet en théorie toutes les combinaisons possibles. Selon le cas, pour une compétence donnée, ce n'est pas la même caractéristique qui est utilisée. Supposons, par exemple, qu'un personnage veuille acheter un cheval. Il se rend au marché aux chevaux et examine les bêtes. Pour trouver un cheval sans défaut, on lui demandera de jouer VUE/Équitation, puis pour monter en selle, AGILITÉ/Équitation. Le voilà dans la campagne, mais il sent son cheval inquiet et nerveux. Saura-t-il le calmer ? Jouer EMPATHIE/Équitation. La bête commence à se cabrer. Le personnage aura-t-il le courage de rester en selle ? Qu'il joue VOLONTÉ/Équitation. Hélas, après un superbe vol plané, le voilà dans le fossé, tandis que la carne s'enfuit au grand galop ! Plus tard, il entend hennir derrière une haie. Saura-t-il reconnaître son cheval ? OUÏE/Équitation.<BR>
+Finalement, écœuré par un nouvel échec, il se rend à l'auberge et commande un steak tartare afin de savourer sa vengeance avec ODORAT-GOÛT/Équitation. (Le dernier exemple est très spécieux et ne dois pas forcément être pris pour modèle, mais il montre jusqu'où peut théoriquement aller le système.)
+=== Compétences concurrentes ===
+Lorsque plusieurs compétences sont déterminantes pour l'action entreprise, on utilise la plus basse de toutes.<BR>
+''Nitouche tente de se déplacer discrètement en forêt. Elle a +3 en Discrétion, mais -3 en Survie en Forêt. C'est malheureusement pour elle Survie en Forêt qui prime, la plus basse, et qui est utilisée pour résoudre son action.
+=== Compétence absente ===
+Il est pour finir des cas où aucune compétence n'est pertinente par rapport à l'action entreprise. Dans ce cas, la caractéristique utilisée n'est ajustée que par la difficulté (et l'éventuel état général). Par exemple, soulever une lourde pierre n'est du domaine d'aucune compétence. On se contentera de jouer FORCE/Difficulté.
