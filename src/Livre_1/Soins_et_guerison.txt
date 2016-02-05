@@ -1,0 +1,48 @@
+__NOTOC__
+Les soins se font en deux phases : ''premiers soins'' et ''soins complets''. La première phase consiste essentiellement à arrêter l'hémorragie, c'est-a-dire le décompte des points d”endurance ou de vie ; la seconde soigne véritablement (suture, application d'herbes) et permet la future guérison. Les deux se font avec la compétence [[Les Compétences#CHIRIRGIE|Chirurgie]]. Pour déterminer leur durée, qui peut être capitale en cas de personnage mourant. on utilise la règle des points de tâche.<BR>
+La périodicité des jets est de 1 round, quel que soit le type de blessure. Le nombre de points a obtenir et la difficulté dépendent de la gravité de la blessure.<BR>
+Les nombres-clés à retenir, s'appliquant respectivement aux blessures légères, graves et critiques, sont : 2, 4, 6. Ils indiquent la difficulté des soins, premiers et complets, le nombre de points de tâche à obtenir, de points de pansement, le nombre de brins d'herbes a appliquer, le nombre de jours minimum pour qu'une blessure soignée commence à guérir, et dans l'optique d'une potion enchantée, le nombre de points de guérison nécessaires.
+
+ [[La Santé|Retour à La Santé]]
+
+== Premiers soins ==
+Effectuer les premiers soins consiste à obtenir le nombre de points de tâche demandé par la blessure. Un minimum de matériel est nécessaire : de l'eau, des chiffons propres pour servir de pansements. Pour la commodité du jeu, les chiffons ou pansements, sont évalués en points. Un mètre carré de tissu fournit 6 points. Une chemise fournit autant de points que la [[Les Caractéristiques#TAILLE|TAILLE]] de son propriétaire. En ce qui concerne l'eau, les nombres-clés s'appliquent à des demi-mesures (10 cl). Ainsi, pour soigner une grave, il faut 4 points de pansements et 4 demi-mesures d'eau (40 cl). Chaque point de pansement ou demi-mesure manquants confère un malus de -1 aux premiers soins. Dès que le nombre de points de tâche est obtenu, les décomptes d'endurance et de vie s'arrêtent aussitôt.<BR>
+Autrement dit, dans le round où s'achèvent les premiers soins, il n'y a ni perte d”endurance ni jet de Vie.<BR>
+Un échec total, outre qu'il apporte -4 points de tâche, confère un malus définitif de -1 aux soins (premiers et complets) de la blessure considérée, même s`il y a
+changement d'opérant. Si le dernier jet apporte un excédent de points de tâche, cet excédent (+1 ou +2) ajustera positivement le jet de soins complets de la blessure considérée, même s'il y a changement d'opérant.<BR>
+Il peut y avoir changement d'opérant à tout moment, soit durant les premiers soins, soit entre ceux-ci et les soins complets. Les malus et bonus encourus par un opérant s'appliquent au suivant.<BR>
+Les points de tâche, par contre, ne sont conservés d'un opérant à l'autre que s'ils sont positifs.
+
+== Soins complets ==
+Les soins complets supposent un minimum de matériel (ligatures, sutures, etc). Leur durée peut varier de 10 a 30 minutes à l'appréciation du gardien des rêves.
+L'exactitude n'a pas d'importance puisqu'à cette phase il n'y a plus urgence.<BR>
+Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours aux points de tâche. La difficulté est la même que celle des premiers soins, éventuellement modifiée par un ajustement (bonus ou malus) précédemment encouru. Consulter la table des Soins complets pour connaître le résultat final qui est fonction de la qualité du jet.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="7" | '''Soins des blessures'''
+|-
+! !! ''Diff.'' !! ''Tâches'' !! ''Pansement'' !! ''Herbes'' !! ''Temps'' !! ''Magie''
+|-
+| style="text-align:left;" | Légère || -2 || 2 pts || 2 pts || 2 brins || 2 jours || 2 pts
+|-
+| style="text-align:left;" | Grave || -4 || 4 pts || 4 pts || 4 brins || 4 jours || 4 pts
+|-
+| style="text-align:left;" | Critique || -6 || 6 pts || 6 pts || 6 brins || 6 jours || 6 pts
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Soins complets'''
+|-
+| '''''Ech. T'''''. L'hémorragie recommence. Les décomptes d'endurance et de vie repartent. Les soins doivent être repris au tout début (phase de premiers soins) avec un malus de -1. Pansements et eau doivent être dépensés à nouveau.
+|-
+| '''''Ech.P. ou Échec.''''' La blessure est soignée, sans plus. Le blessé peut commencer à guérir normalement.
+|-
+| '''''Norm.''''' Idem. Mais, quand sera venu le moment de tester sa blessure, le blessé bénéficiera d”un bonus de +1 à son jet de CONSTITUTION, bonus s'ajoutant aux herbes éventuellement appliquées.
+|-
+| '''''Sign.''''' Idem avec un bonus de +2.
+|-
+| '''''Part.''''' Idem avec un bonus de +3.
+|}
