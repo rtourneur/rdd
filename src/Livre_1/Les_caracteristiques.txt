@@ -1,3 +1,4 @@
+__NOTOC__
 Les caractéristiques représentent les dispositions innées du personnage, et, pouvant augmenter avec l'expérience, sont également une partie de son acquis. On peut naître avec une bonne constitution, ou au contraire une mauvaise vue, à l'individu d'en tirer le meilleur parti, de développer ce qui est faible, de maintenir ce qui est fort.
 Pour simuler ces différences entre les individus, les caractéristiques sont exprimées par des valeurs , des notes allant de zéro à 20. Seuls les créatures et les monstres peuvent avoir des caractéristiques au-delà de 20. Inversement, quand une caractéristique vaut zéro, c'est qu'elle n'existe pas, ou n'existe plus. Par exemple, un aveugle a zéro en [[#VUE|VUE]].
 La moyenne statistique est de 10,5, qui, pour simplifier, est arrondie à 10. Un individu entièrement moyen a 10 dans toutes ses caractéristiques.

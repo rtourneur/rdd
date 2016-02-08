@@ -1,3 +1,4 @@
+__NOTOC__
 Nous savons maintenant de quoi est composé notre personnage et comment ses rouages s'engrènent pour simuler sa vie.<BR>
 Ce troisième chapitre va être intégralement consacré à sa création. Pour ce faire, vous avez besoin d'un jeu de feuilles de personnage et de quoi écrire. Quoique les calculs ne soient en rien compliqués, une petite calculatrice peut être utile pour vérifier que tous les points disponibles ont bien été alloués.<BR>
 Pour la création du personnage, aucun dé n'est nécessaire.

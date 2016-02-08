@@ -1,3 +1,4 @@
+__NOTOC__
 Le temps des personnages n'est évidemment pas le même que celui des joueurs, il faut souvent plus de temps pour simuler l'action que l'action n'en demande elle-même. Pour savoir où l'on en est au niveau des personnages, il faut donc se référer à des unités de temps conventionnelles. Il y en a deux principales dans ''Rêve de Dragon'' : l'heure et le round.
 
  [[Au Fil des Jours|Retour au Fil des Jours]]

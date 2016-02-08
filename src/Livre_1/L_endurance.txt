@@ -1,3 +1,4 @@
+__NOTOC__
 L'endurance représente une couche plus profonde et plus vitale des ressources de l'individu. Quand un personnage a coché toute la fatigue qui lui est permise, il tombe endormi. Quand il a dépensé tous ses points d'endurance, il tombe ''évanoui''. La différence est grande.
 
  [[La Santé|Retour à La Santé]]

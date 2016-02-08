@@ -1,3 +1,4 @@
+__NOTOC__
 Nous avons découvert les deux rouages principaux dont est composé notre personnage : les caractéristiques et les compétences.<BR>
 Mais ces rouages sont toujours au repos, ils ne tournent pas encore, notre personnage ne vit pas.<BR>
 Le sujet de ce chapitre est de mettre ces rouages en fonction, provoquant ainsi l'étincelle de vie. Notre personnage va se mettre à vivre : à courir, à sauter, à chanter, etc.<BR>

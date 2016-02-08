@@ -1,3 +1,4 @@
+__NOTOC__
 Avant de créer un personnage, il importe de savoir de quoi il est fait, de découvrir les ingrédients qui le composent, les rouages qui l'animent.<BR>
 Ce chapitre décrit les constituantes fondamentales d'un personnage, les caractéristiques, telles que Force, Intellect ; les compétences, telles que Charpenterie, Équitation ; les points, seuils, et signes particuliers, tels que point de vie, seuil d'encombrement, âge, poids, beauté, etc.<BR>
 Le chapitre suivant [[L’Étincelle de Vie]] explique comment le personnage fonctionne.<BR>

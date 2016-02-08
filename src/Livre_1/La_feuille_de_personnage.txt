@@ -1,3 +1,4 @@
+__NOTOC__
 La quantité d'informations concernant un personnage est telle que celles-ci ne sauraient tenir sur une seule page. On utilise donc jusqu'à cinq ­« feuilles de personnage ». Seul l'usage des deux premières est traité dans ce chapitre.<BR>
 Il y a en tout :
 * La feuille de personnage proprement dite où est décrit le personnage.

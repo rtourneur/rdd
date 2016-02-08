@@ -1,3 +1,4 @@
+__NOTOC__
 La plupart des actions des personnages ne nécessitent aucun jet de dés, elles sont dites automatiques : marcher, parler, manger, dormir...<br>
 Pour d'autres, au contraire, le succès ne saurait être assuré à 100%. C'est par exemple escalader, se cacher, combattre, lancer un sort. Pour ces dernières, il faut déterminer à chaque fois un ''pourcentage de succès''. Selon les cas et les difficultés relatives, ce pourcentage peut être élevé, par exemple 95% de chances d'escalader tel mur, ou au contraire dramatiquement bas : 5% de chances d'esquiver tel coup d'épée.<BR>
 Une fois le pourcentage déterminé, le joueur joue un jet de pourcentage (1d100). Si le résultat est égal ou inférieur aux chances de réussite, il réussit ; si le résultat est supérieur, il échoue.<BR>

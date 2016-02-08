@@ -1,3 +1,4 @@
+__NOTOC__
 Les différents types de résultats et les points de qualité nous ont montré comment estimer la valeur d'une action ou d'une création. Maintenant que nous avons introduit la notion de temps, il devient utile de savoir combien de temps un personnage met pour venir à bout d'une œuvre ou d'une action. Cet aspect est simulé par la règle des ''points de tâche''.
 
  [[Au Fil des Jours|Retour au Fil des Jours]]

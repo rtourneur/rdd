@@ -1,3 +1,4 @@
+__NOTOC__
 Les compétences complètent les caractéristiques et représentent l'''acquis'' du personnage. Ce sont les domaines , les matières, où le personnage a acquis de l'expérience.
 Les compétences sont représentées par des niveaux relatifs, c'est-à-dire  pouvant être positif, zéro ou négatifs.
 De même que 10 est une caractéristique statistiquement moyenne, 0 est un niveau statistiquement moyen. Un personnage ayant 10 dans une caractéristique et 0 dans la compétence conjointe  possède 50% de chances de réussir une action de difficulté statistiquement ''moyenne''.

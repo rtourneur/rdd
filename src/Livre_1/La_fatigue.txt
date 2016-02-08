@@ -1,7 +1,8 @@
+__NOTOC__
 Chaque fois qu'un personnage se fatigue, il coche une case sur le tableau, en commençant par la case la plus à gauche de la ligne zéro, et ainsi de suite vers la droite, changeant de segment quand le premier est plein. Rien ne se passe de spécial tant qu'il est dans ligne zéro. Par contre, dès qu'il coche la première case de la ligne -1, toutes ses actions physiques et mentales, y compris le rêve pour les haut-rêvants, souffrent d'un malus de -1. Dès qu'il commence la ligne -2, toutes ses actions ont un malus de -2, etc. Le malus maximum dû à la fatigue est de -7, correspondant la dernière ligne. Quand le tableau de fatigue est entièrement plein, le personnage tombe assommé de fatigue et doit avoir récupéré au moins un segment pour se réveiller.
 
  [[La Santé|Retour à La Santé]]
- 
+
 == Acquisition de la fatigue ==
 Chaque point d'endurance perdu augmente la fatigue d'un point (l'inverse n'étant pas vrai). Mais nombreux sont les cas où un personnage marque de la fatigue sans pour autant avoir perdu de l'endurance. Pour la plupart, c'est au gardien des rêves de décider combien cocher de points de fatigue par rapport à l'effort fourni. Certaines règles plus poussées le précisent exactement, notamment la vitesse de marche (V1 à V6), ou la vitesse de course ou de nage, présentées au chapitre précédent. D'une manière générale se référer à la table ci-après.
 
@@ -27,5 +28,3 @@ La fatigue se récupère en dormant. Dormir une pleine heure (120 mn), diurne ou
 == Limite à la récupération de la fatigue == 
 Chaque point diendurance manquant empêche de récupérer 1 case de fatigue. Si par exemple, il manque 3 points d'endurance au personnage, les 3 premières cases (les plus à gauche de la ligne zéro) ne peuvent être effacées. Elles ne pourront l'être, en dormant, que quand les points d'endurance responsables auront été eux-mêmes récupérés.<BR>
 ''Nitouche et Brucelin voyagent maintenant en montagne et leurs journées sont harassantes. C'est l'heure du Serpent, et tandis que Brucelin monte la garde, Nitouche sombre dans le sommeil. Au cours de la journée, la voyageuse a totalisé 13 cases de fatigue : sa ligne zéro est pleine et le premier segment de sa ligne -1 est entamé de 2 cases, lui conférant un état général de -1. Ce segment est entamé de la moitié et compte donc pour un segment plein. Durant l'heure du Serpent, Nitouche n'efface que lui. Si ce segment n'avait été entamé que dune case, le prochain segment plein aurait pu être effacé en même temps. Brucelin laissant dormir sa compagne durant l'heure suivante, elle peut effacer le segment suivant, le troisième de la ligne zéro. Si elle dort encore deux heures, toute sa fatigue aura disparu.''
-
-

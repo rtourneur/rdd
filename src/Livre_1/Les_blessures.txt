@@ -1,3 +1,4 @@
+__NOTOC__
 La plupart des blessures sont occasionnées en combat, mais peuvent également se produire lors des chutes ou autres maladresses. Quelle que soit la cause de blessure, la règle d'application est la même. La victime joue un ''jet d'encaissement''.<BR>
 L'agression est représentée par un ''bonus aux dommages'' (en abrégé ''+dom''), un nombre pouvant être positif, zéro, ou négatif. Par ailleurs, le personnage peut bénéficier d'une ''protection'', un nombre pouvant pareillement être positif, zéro, ou négatif.
 

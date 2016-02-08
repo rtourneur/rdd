@@ -1,3 +1,4 @@
+__NOTOC__
 Il arrive fréquemment qu'un personnage veuille être discret par rapport a une créature ou un personnage non joueur : s'approcher silencieusement pour le surprendre, se cacher à son approche, lui dérober sa bourse. L'avantage est toujours pour le ''discret'' au détriment de la victime. Le discret sait quant a lui ce qu'il tente de faire, tandis que la victime ne sait même pas, a priori, qu'il se trame quelque chose.
 
  [[Au Fil des Jours|Retour au Fil des Jours]]

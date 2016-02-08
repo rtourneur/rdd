@@ -1,4 +1,6 @@
+__NOTOC__
 La feuille de route est le complément de la feuille de personnage. C'est sur elle que sont reportés les compteurs (vie, endurance, etc.) et que le joueur tient à jour l'état général de son personnage.
+
  [[Naissance d'un Voyageur|Retour à la Naissance d'un Voyageur]]
 
 [[Fichier:Feuille de route.jpeg|vignette|La Feuille de Route]]

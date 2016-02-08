@@ -1,3 +1,4 @@
+__NOTOC__
 Les ''points'', sans cesse dépensés puis regagnés, servent à indiquer l'état actuel du personnage, sa santé, sa puissance onirique.<BR>
 Les ''seuils'' sont des limites, au-delà ou en deçà desquelles des modifications peuvent intervenir dans son comportement. Points et seuils dérivent directement des caractéristiques.<BR>
 Les ''signes particuliers'' achèvent de dessiner le personnage et lui confèrent la touche de finition. Pour la plupart, ils sont librement choisis par le joueur.<BR>

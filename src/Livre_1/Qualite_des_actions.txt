@@ -1,3 +1,4 @@
+__NOTOC__
 Dans nombre de cas, savoir qu'on a réussi ou échoué est insuffisant. On aimerait savoir si c'est très réussi ou très échoué ; on aimerait, par exemple, connaître la qualité du morceau de musique que l'on vient de jouer. Deux règles complémentaires permettent d'aboutir à cela : les résultats spéciaux et les points de qualité.
 
  [[L’Étincelle de Vie|Retour vers L’Étincelle de Vie]]
