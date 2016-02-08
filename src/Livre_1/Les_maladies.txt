@@ -1,0 +1,118 @@
+__NOTOC__
+Les maladies sont essentiellement combattues par la constitution-même du personnage, qui doit se montrer plus forte que son mal. Un ''remède'' adéquat peut grandement l'aider en lui conférant un bonus substantiel.<BR>
+En termes de jeu, un personnage n'est déclaré ''malade'' qu'à partir du moment où, un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ayant échoué, il a commencé à subir des dommages. Si sa perte de points de vie dépasse les limites usuelles, il meurt. Dès qu'un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] obtient une ''particulière'', la maladie est enrayée. Le personnage a néanmoins toutes les chances d'être encore faible (points de vie manquants), mais peut dès maintenant commencer à récupérer ses points de vie selon la règle standard.<BR>
+Le ''téthanatos'' est pris en exemple de maladie dans ce chapitre. D'autres maladies sont décrites dans [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]].
+
+ [[La Santé|Retour à La Santé]]
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Caractéristiques des maladies'''
+|-
+! Malignité 
+| C'est la difficulté ajustant les jets de CONSTITUTION.
+|-
+! Périodicité 
+| Indique au bout de quelles périodes de temps doivent être joués les jets de CONSTITUTION.
+|-
+! Dommages 
+| Indique les dommages subis, pertes de points de vie ou autre, ainsi que les symptômes, lorsque le jet de CONSTITUTION échoue.
+|-
+! Remèdes 
+| La difficulté indiquée est celle à diagnostiquer la maladie et à en connaître les remèdes. Puis ces derniers sont indiqués avec leur efficacité, c'est-à-dire les bonus qu'ils confèrent aux jets de CONSTITUTION.
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Le Téthanatos'''
+|-
+| colspan="2" | Le téthanatos est un mal mortel, usuellement transmis par les blessures causées par les objets souillés, les armes des Groins, par exemple. Dans tous les cas, c'est au gardien des rêves de décider si la maladie peut être contractée ou non (par un jet de CHANCE par exemple).
+|-
+! Malignité 
+| 7
+|-
+! Périodicité 
+| 6 heures
+|-
+! Dommages 
+| Perte de 2 points de vie. Fièvre, apparition progressive de plaques noires, odeur nauséabonde.
+|-
+! Remèdes 
+| -3\ Bitume de Camphre +12, Mirobolant +8
+|}
+
+== Fonctionnement ==
+Au bout de chaque période, le malade joue un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté ''négativement'', soit par la malignité de la
+maladie, soit par le nombre de points de vie déjà perdus, en prenant le plus défavorable des deux, et ''positivement'' par l'efficacité d'un remède éventuellement absorbé. Puis selon le résultat, il consulte la table de Test de Maladie.<BR>
+On ne peut prendre qu'un seul remède efficace par période. Et si lion veut continuer à en bénéficier, il faut en reprendre pour la période suivante.<BR>
+Les pertes de points de vie s'accompagnent toujours du double de perte de points d'endurance, et cette dernière doit également être traduite en fatigue.
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Test de Maladie'''
+|-
+! Particulière 
+| Fin de la maladie.
+|-
+! Significative 
+| État stationnaire. Bonus de +1 au prochain jet de CONSTITUTION.
+|-
+! Normale 
+| État stationnaire sans plus.
+|-
+! Échec 
+| État aggravé : dommages subis.
+|-
+! Échec particulier 
+|  État  aggravé : dommages subis.
+|-
+! Échec total 
+| État aggravé : les dommages sont doublés.
+|}
+
+== Ordre de guérison ==
+Dans tous les cas, les points de vie ne peuvent commencer à remonter que quand toutes les blessures (s'il y a lieu) ont rétrogradé au stade d'éraflure, et les blessures elles-mêmes ne peuvent être guéries, magiquement ou non, que quand toute maladie a été éliminée. On a toujours dans l'ordre : maladie, blessures, points de vie. En conséquence, un blessé ''malade'' (pour cause d'infection, par exemple) ne peut avoir ses blessures ni ses points de vie guéris magiquement tant que sa maladie n'a pas été éliminée. Les potions d'herbes de soin enchantées ne font plus effet.
+
+== Enchantement des remèdes ==
+Les remèdes se présentant sous une forme suffisamment fluide (voir la liste ci-après) peuvent être enchantés. Toutefois, la maladie étant une atteinte beaucoup plus complexe à l'intégrité du personnage qu'une blessure, l'enchantement a un effet moindre. Les points de rêve conférés par l'enchantement ne multiplient pas l'efficacité du remède, mais ne font que s'y ''additionner''.
+
+=== Points de guérison ===
+Dans l'optique d'une guérison magique, une maladie nécessite un nombre de points de guérison égal à 3 fois la malignité. Ainsi le téthanatos, malignité 7, demande 21 points de guérison. Le seul remède enchantable étant le ''mirobolant'' (+8), il faut y ajouter 13 points de rêve pour obtenir les 21 nécessaires.<BR>
+Si le nombre de points de guérison est obtenu au complet, la guérison magique intervient. Cette guérison est très semblable, dans son fonctionnement, à celle des blessures. Il n'y a aucun jet de dés (hormis le jet de résistance à la magie), le malade s'endort magiquement pour une durée égale à 5 minutes x points de guérison, au bout de quoi sa maladie est définitivement enrayée. Endurance et points de vie manquants peuvent alors être récupérés selon la règle normale.<BR>
+Si le nombre de points de guérison n'est pas obtenu au complet, il n'y a pas de guérison magique. Le malade ne s'endort pas magiquement et doit attendre la fin de la période pour tenter son jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] normal. Toutefois, chaque point de rêve conféré au remède augmente de +1 l'efficacité de celui-ci, favorisant ainsi ses chances d'obtenir l'indispensable réussite ''particulière''.<BR>
+Enchanter un remède est le seul apport du haut-rêve à la guérison des maladies. Pas plus qu'il n'y a de sort de guérison directe des blessures, il n'y a de sort de
+guérison des maladies ni des venins.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="3" | '''Remèdes et antidotes'''
+|-
+| colspan="3" style="text-align:left;" | Les remèdes et antidotes sont des préparations alchimiques complexes. On peut les trouver chez les apothicaires. Leur efficacité n'est pas fixe et dépend cas par cas des maladies et venins. Le prix indiqué correspond à une dose. Se souvenir que seuls les fluides peuvent être enchantés.
+|-
+! Nom !! Consistance !! Prix à la dose
+|-
+| style="text-align:left;" | Bitume de Camphre || ''crème sirupeuse'' || 2s
+|-
+| style="text-align:left;" | Gelée royale || ''crème sirupeuse'' || 20d
+|-
+| style="text-align:left;" | Tournegraisse || ''crème sirupeuse'' || 2s
+|-
+| style="text-align:left;" | Perle de Bjwal || ''granulé'' || 1s
+|-
+| style="text-align:left;" | Sable-Poudre || ''granulé'' || 2s
+|-
+| style="text-align:left;" | Topazoïne || ''granulé'' || 2s
+|-
+| style="text-align:left;" | Élixir des Gnomes || ''ﬂuide'' || 1s
+|-
+| style="text-align:left;" | Lait de lune || ''ﬂuide'' || 1s
+|-
+| style="text-align:left;" | Liqueur de Bagdol || ''ﬂuide'' || 50d
+|-
+| style="text-align:left;" | Mirobolant || ''ﬂuide'' || 2s
+|-
+| style="text-align:left;" | Teinture d”Érozonne || ''ﬂuide'' || 2s
+|-
+| style="text-align:left;" | Huile de Sélikanthe || ''ﬂuide'' || 1s
+|}

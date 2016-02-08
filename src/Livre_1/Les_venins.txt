@@ -1,0 +1,103 @@
+__NOTOC__
+Nombre de créatures, reptiles, insectes, sont venimeuses ; nombre de végétaux, baies, champignons, sont vénéneux. Plus redoutables que les maladies sont alors les poisons et les venins. Leur fonctionnement est analogue à celui des maladies. La différence est qu'ils sont beaucoup plus foudroyants et que la constitution seule a peu de chances de les vaincre. En guise de remède, on utilise des ''antidotes'', mais le fonctionnement est le même : jets de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/ - Malignité (ou -Vie déjà perdue) + Antidote.
+
+ [[La Santé|Retour à La Santé]]
+
+== Fonctionnement ==
+Tout comme pour les maladies, une réussite particulière met fin a l'empoisonnement. Toutefois cela n'est possible que tant qu'aucun échec n'est encore survenu au jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], mais uniquement des réussites insuffisantes, normales ou significatives. Dès qu'un échec survient, indiquant des dommages subis, seul un antidote peut sauver le personnage. Sans ce dernier, la particulière n'indique plus qu'un état stationnaire. Par contre, dès que l'antidote est pris, une réussite ''normale'' suffit à mettre fin à l'empoisonnement.<BR>
+Des premiers soins (vomitif, extraction du venin, etc) ne sont possibles que tant que la victime n'a encore subi aucun dommage, c'est-à-dire n'a encore commis aucun échec. Ensuite, le poison est dans le sang, et seul l'antidote peut apporter une aide efficace. Utiliser les mêmes règles de premiers soins que pour les blessures :
+ '''Périodicité''' : 1 round.
+ '''Difficulté''' : égale à la malignité.
+ '''Nombre de points de tâche''' : égal a la malignité.
+
+Si tous les points de tâche sont obtenus avant que l'empoisonné n'ait subi de dommages, l'empoisonnement est enrayé.
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Test d'Empoisonnement'''
+|-
+| colspan="2" | '''Sans antidote'''
+|-
+! Particulière 
+| Fin d'empoisonnement si aucun dommages subis.
+|-
+! Significative 
+| État stationnaire.
+|-
+! Normale 
+| État stationnaire.
+|-
+! Échec 
+| État aggravé : dommages subis.
+|-
+! Échec particulier 
+|  État  aggravé : dommages subis.
+|-
+! Échec total 
+| État aggravé : dommages doublés.
+|-
+| colspan="2" | '''Avec antidote'''
+|-
+! Toute réussite 
+| Fin d'empoisonnement.
+|-
+! Tout échec 
+| État aggravé : dommages subis.
+|}
+
+
+''Quelques jours plus tard, nos voyageurs ont découvert un petit lac. Il fait chaud et ils se baignent dans le plus simple appareil. Soudain, Nitouche pousse un cri : « Quelque chose m'a mordu la cuisse ! c'est une vipère jaune ! » Le temps de regagner la berge, 6 rounds sont passes. Nitouche joue un jet de CONSTITUTION a -2 (malignité du venin), 52%, mais n'obtient qu 'une réussite normale, état stationnaire sans plus. « Vite ! sanglote-t-elle, aspire le venin avant qu il ne soit entièrement dans mon sang !''<BR>
+''- Je ne sais pas le faire, gémit Brucelin, je n'aí aucune compétence de chirurgie.''<BR>
+''- Alors, sors une fiole de suppure de ma besace, c'est un antidote universel. » Six nouveaux rounds sont passés, et Nitouche obtient un échec. Elle perd 1 point de vie, sa jambe se contracte. Brucelin trouve enfin la ﬁole de décoction. Contre les venins, la suppure n'a qu'un bonus de zéro, mais comme c'est un antidote, une réussite normale suffit a sauver la jeune fille.''
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Le venin de la vipère jaune'''
+|-
+! Malignité 
+| 2
+|-
+! Périodicité 
+| 6 rounds
+|-
+! Dommages 
+| Perte de 1 point de vie, spasmes musculaires.
+|-
+! Remèdes 
+| -3\ Liqueur de Bagdol +14, Topazoïne +10.
+|}
+
+Un même antidote peut être pris plusieurs fois s'il ne fait pas effet du premier coup, mais une seule fois par période. BR>
+En cas de double ou triple empoisonnement, jouer 2 ou 3 fois le jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] à chaque période et appliquer une seule fois le moins favorable des résultats.<BR>
+Dès que l'empoisonnement est enrayé (particulière, premiers soins ou antidote), le personnage peut commencer à récupérer ses points de vie et d'endurance selon la règle standard.
+
+=== Enchantement des antidotes ===
+L'enchantement des antidotes est analogue en tous points à celui des remèdes, de même que le nombre de points de guérison demandé (malignité x 3). Si une herbe de soin est utilisée en guise d'antidote, des points de rêve supplémentaires peuvent être conférés à la potion, au coût usuel, pour guérir également des blessures, voire récupérer des points de vie. On aura toujours dans l'ordre : empoisonnement, blessure, point de vie.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="3" | '''Antidotes universels'''
+|-
+| colspan="3" style="text-align:left;" | Les 10 grandes herbes de soin connues, préparées en décoctions, sont des ''antidotes universels'', valables contre tous les venins et substances vénéneuses. Leur efﬁcacité est malheureusement très faible, comparée aux antidotes plus spécifiques. Pour posséder un pouvoir d'antidote, elles doivent avoir été préparées avec le nombre optimal de brins, c'est à dire 12 - ''bonus standard de l'herbe''. L'efﬁcacité d'antidote des 10 herbes diffère sensiblement du bonus standard.
+|-
+! Nom !! Efficacité !! Prix à la dose
+|-
+| style="text-align:left;" | Fausse Suppure || 0 || 22d
+|-
+| style="text-align:left;" | Suppure || 0 || 30d
+|-
+| style="text-align:left;" | Méritoine || 0 || 54d
+|-
+| style="text-align:left;" | Ortigal || +1 || 80d
+|-
+| style="text-align:left;" | Ortigal noir || +1 || 1,4s
+|-
+| style="text-align:left;" | Bélidane || +1 || 1,8s
+|-
+| style="text-align:left;" | Faux Murus || +2 || 2s
+|-
+| style="text-align:left;" | Murus || +2 || 2,4s
+|-
+| style="text-align:left;" | Tanemiel || +3 || 2,7s
+|-
+| style="text-align:left;" | Tanemiel doré || +5 || 4s
+|}
