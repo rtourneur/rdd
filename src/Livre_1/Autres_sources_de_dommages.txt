@@ -1,0 +1,103 @@
+__NOTOC__
+
+ [[La Santé|Retour à La Santé]]
+
+== Chute ==
+Ces dommages dépendent de la hauteur de chute et du type de sol de réception. Quelle que soit la protection ou armure portée par le personnage, un maximum de 2 points sont seulement applicables. Pour les chutes « de sa propre hauteur », utiliser la table des Coups non mortels.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Chutes'''
+|-
+| ''hauteur en mètres'' || ''+dom''
+|-
+| style="text-align:left;" | 41+ || +20
+|-
+| style="text-align:left;" | 31-40 || +17
+|-
+| style="text-align:left;" | 21-30 || +15
+|-
+| style="text-align:left;" | 16-20 || +12
+|-
+| style="text-align:left;" | 13-15 || +9
+|-
+| style="text-align:left;" | 9-12 || +7
+|-
+| style="text-align:left;" | 7-8 || +5
+|-
+| style="text-align:left;" | 5-6 || +2
+|-
+| style="text-align:left;" | 4 || +1
+|-
+| style="text-align:left;" | 3 || 0
+|-
+| style="text-align:left;" | 2,5 || -1
+|-
+| style="text-align:left;" | 2 || -2
+|-
+| style="text-align:left;" | 1,5 || -3
+|-
+| style="text-align:left;" | de sa propre hauteur || (0)
+|}
+
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Sol de réception'''
+|-
+| style="text-align:left;" | Paille, neige || -4
+|-
+| style="text-align:left;" | Terre meuble || -2
+|-
+| style="text-align:left;" | Plancher || 0
+|-
+| style="text-align:left;" | Terre dure || +2
+|-
+| style="text-align:left;" | Roc || +5
+|}
+
+
+''Le ravin de Brucelin faisait 5 m de proﬁmdeur (+2) avec un sol constitué de roc (+5). Le jet d'encaissement du voyageur fut donc de: (+2) + (+5) = +7.''
+
+== Asphyxie ==
+L”asphyxie survient quand le milieu ambiant devient irrespirable. C'est essentiellement le cas des noyades. Chaque round d'asphyxie, le personnage perd directement 1d6 points d'endurance. Quand son endurance arrive à zéro, il sombre dans l'inconscience et perd 1 point de vie. Puis, tous les rounds suivants, il perd directement 1d4 points de vie. N'étant pas réellement blessé, il n'a pas a jouer de jet de Vie. S'il n”est pas réanimé avant d'avoir dépassé son seuil de  constitution en points de vie négatifs, il meurt.
+
+== Réanimation ==
+Pour réanimer un asphyxié ou un noyé, on utilise [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]] à -4 (comme pour une blessure grave), mais le système de tâche est un peu différent. La périodicité est de 1 round, et chaque point de tâche obtenu rend 1 point de vie à l'asphyxié. Dès que 1 point de tâche est obtenu, l'asphyxié cesse de perdre 1d4 points de vie par round ; tant qu'aucun point de tâche n'est obtenu, il continue à les perdre. S'il survient un échec total ou particulier au jet de réanimation, il n'y a pas de points de tâche négatifs : à la place, le patient recommence à mourir, c'est-a-dire à perdre 1d4 points de vie par round ; et ainsi de suite jusqu'à ce que 1 point de tâche soit enfin, ou à nouveau, obtenu. En cas d'échec total, la difficulté du jet de réanimation augmente de 1.<BR>
+Le patient est sauvé dès que tous ses points de vie lui ont été rendus. Toutefois, étant tombé inconscient, il conserve malgré tout la perte de 1 point de vie. Son endurance et sa fatigue pourront être récupérées selon les règles normales.
+
+== Les brûlures ==
+Quoique le résultat physique ne soit pas tout à fait le même, les dommages par le feu sont considérés semblables aux autres dommages.<BR>
+Quand un personnage est touché par le feu, il joue un jet d'encaissement modulé par le +dom du feu. Comme pour les chutes, 2 points de protection sont au maximum applicable. Face à chaque cas précis, c'est au gardien des rêves de juger si les vêtements du personnage peuvent ou non prendre feu, continuant alors à le brûler les rounds suivants.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''Feux'''
+|-
+! Nature !! +dom
+|-
+| style="text-align:left;" | Zone d”air en feu || +10
+|-
+| style="text-align:left;" | Brasier || +8
+|-
+| style="text-align:left;" | Feu de camp || +4
+|-
+| style="text-align:left;" | Torche || 0
+|-
+| style="text-align:left;" | Vêtements enﬂammés || +1
+|}
+
+
+== Famine ==
+Au moment privilégié de l'extrême ﬁn du Château Dormant, chaque personnage considère la sustentation absorbée au cours de cette journée qui s'achève. Ceux qui ont mangé autant ou plus que leur seuil de sustentation commencent la nouvelle journée normalement.<BR>
+Ceux qui ont mangé moins que leur seuil, mais ont au moins mangé la moitié de celui-ci, perdent 1 point d'endurance.<BR>
+Ceux qui ont mangé moins de la moitié, mais ont au moins mangé un demi-point, perdent 2 points d'endurance.<BR>
+Ceux qui n'ont rien mangé du tout en perdent 3.<BR>
+Les points perdus en endurance sont aussitôt traduits en fatigue correspondante. Ni cette endurance ni cette fatigue ne pourront être récupérées tant qu'un repas normal (plein seuil de sustentation) n'aura pas été pris.<BR>
+Tant que l'on mange au moins un demi-point par jour (moins qu'un demi est considéré comme zéro), l'endurance stationne à une demi-endurance et ne descend pas plus bas. Il y a toutefois ''malnutrition'', et à l'appréciation du gardien des rêves, une maladie due a la famine peut se déclarer, le ''mal glauque'', par exemple.<BR>
+Si l'endurance vient à zéro pour cause de famine totale, le personnage tombe évanoui (-1 point de vie) et perd alors 1 point de vie toutes les 6 heures. Une potion de soin enchantée peut redonner des points de vie (s'il n'y a pas maladie), mais n'enraie pas la famine.
+
+== Boisson ==
+Appliquer les mêmes règles pour le manque de boisson et la déshydratation, sauf que les pertes d'endurance sont respectivement de 3, 6 et 12 points. Quand l'endurance tombe à zéro, la perte de 1 point de vie survient toutes les heures.
+
+''Nitouche a un seuil de sustentation de 2. Si elle ne mange qu'un point au cours d'une journée, elle commencera le jour suivant avec -1 point d'endurance (et une case de fatigue non récupérable). Si elle ne mange qu'un demi-point, sa pénalité d'endurance sera de 2 points, et 3 points si elle ne mange rien du tout. Avec une endurance de 23, elle peut tenir huit jours avant de tomber inconsciente, à condition de boire. Si elle ne boit rien du tout, elle tient à peine deux jours.''
