@@ -1,0 +1,49 @@
+__NOTOC__
+Les protections portées par les personnages, sous la forme de vêtements épais ou d`armures, sont représentées par une valeur fixe, de 1, la plus faible, à 6, la meilleure. Les animaux ont une ''protection naturelle'', dépendant tout autant de leur morphologie générale que de l'épaisseur réelle de leur cuir, et pouvant dépasser 6. Dans tous les cas, armure ou protection naturelle, cette valeur est soustraite du résultat du jet d'encaissement, et c'est le résultat finalement obtenu qui indique le type de blessure reçu.
+
+ [[Le Combat|Retour au Combat]]
+
+=== Encombrement ===
+L'encombrement des vêtements de drap matelassé ou de cuir souple ne compte pas quand ces vêtements sont portés sur soi. Il compte en revanche quand ils font partie des bagages. Les manteaux comptent toujours qu'ils soient portés ou non. La fourrure est assimilée au cuir souple. Tous les autres encombrements doivent être comptés.
+=== Malus armure ===
+En plus de l'encombrement, et indépendamment de celui-ci, certaines armures restreignent les mouvements. Le ''malus armure'' s'applique a tous les jets d'[[Les Caractéristiques#AGILITÉ|AGILITÉ]] et de [[Les Caractéristiques#Dérobée|Dérobée]], c'est-a-dire qu'il diminue essentiellement les possibilités d'esquive. Le malus armure ne s'applique pas aux jets de [[Les Caractéristiques#Mêlée|Mêlée]], et ne restreint pas les jets d'attaque ni de parade. Les protections naturelles des animaux n'encourent jamais de malus armure.
+=== Protection ===
+Pour mériter la valeur indiquée, tous les éléments de la protection doivent être présents. Si un seul manque, la protection devient aléatoire : 1d2 au lieu de 2, 1d3 au lieu de 3, etc. Pour faire 1d1, jouer en réalité 1d2-1 (résultat 0 ou 1). Si plus d'un élément manque, le gardien des rêves peut décider que la valeur est à la fois aléatoire et diminuée. Cette décision est une question de bon sens en face de chaque cas particulier. Encombrement, malus armure, et prix s'appliquent également à l'ensemble de l'armure.
+
+== Protection 1 :drap matelassé ==
+(deux épaisseurs de drap surpiquées, avec rembourrage de laine). Pourpoint ou cotte de drap matelassé + culottes de drap matelassé + bottes de cuir souple. (Le pourpoint est une sorte de veste ; la cotte est une sorte de tunique, lacée sur la poitrine, et descendant jusqu'aux genoux, façon Robin des Bois.)
+
+== Protection 2 : cuir souple ==
+(même épaisseur que nos modernes blousons de cuir). Pourpoint ou cotte de cuir souple + culottes de cuir souple + bottes de cuir souple.
+
+== Protection 3 : cuir épais ==
+(cuir très épais comme le cuir de botte). Pectoral de cuir épais + jupon de bandes ou de tresses de cuir ou cuissards de cuir épais sur culottes de cuir souple + bottes dures + casque de cuir.
+
+== Protection 4 : cuir/métal ==
+(cuir épais clouté, ou petites plaquettes, écailles ou anneaux de fer cousus sur le cuir). Pectoral ou cotte de cuir/ métal + jupon ou cuissards de cuir/ métal sur culottes de cuir souple + bottes de cuir/ métal + casque de métal.
+
+== Protection 5 : mailles de fer ==
+Grand haubert de mailles avec capuche (enﬁlé sur cotte de cuir souple ou de drap matelassé) + bottes de cuir/ métal.
+
+== Protection 6 : plaques de fer ==
+(l'armure classique du chevalier). Armure complète de plaques (heaume, cuirasse, épaulières, cubitières, ventrière, cuissards, jambières).
+
+{|style="border:1px solid black;text-align:center;"
+|-
+! matériau !! protection !! enc. !! malus armure !! sols
+|-
+| style="text-align:left;" | drap matelassé || 1 || 0 || 0 || 4
+|-
+| style="text-align:left;" | cuir souple || 2 || 0 || 0 || 6
+|-
+| style="text-align:left;" | cuir épais || 3 || 2 || -1 || 10
+|-
+| style="text-align:left;" | cuir/métal || 4 || 4 || -2 || 20
+|-
+| style="text-align:left;" | mailles de fer || 5 || 6 || -4 || 50
+|-
+| style="text-align:left;" | plaques de fer || 6 || 8 || -6 || 100
+|}
+
+
+''Nitouche voudrais se protéger de cuir épais, mais elle n'a pas de casque. Au lieu de valoir 3 points fixes, son armure en vaut 1d3. Elle a également les cuisses nues. Le gardien des rêves décide que son armure rétrograde à une valeur de 1d2.''

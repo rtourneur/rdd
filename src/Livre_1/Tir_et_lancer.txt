@@ -1,0 +1,94 @@
+__NOTOC__
+À la résolution de chaque tir ou lancer, le gardien des rêves indique une difficulté. Celle-ci dépend de la ''distance'' de la cible par rapport a la ''portée'' de l'arme, de la ''taille'' de la cible et
+de l'''activité'' de cette dernière, immobile ou au contraire courant en zigzag. D'une manière générale, c'est au gardien des rêves à apprécier la difficulté globale. Il peut toutefois s'aider des tables suivantes :
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Difficulté de tir'''
+|-
+| Portée courte || 0
+|-
+| Portée moyenne || -3
+|-
+| Portée extrême || -5
+|-
+| Taille « ogre » || +2
+|-
+| Taille « humaine » || 0 
+|-
+| Taille « chien » || -2 
+|-
+| Taille « chat » || -4
+|-
+| Taille « souris » || -8
+|-
+| Cible immobile || 0
+|-
+| Cible active || -3
+|-
+| Cible en mouvement || -4
+|-
+| Cible zigzaguant || -5
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="4" style="text-align:center;" | '''Portée des armes'''
+|-
+| colspan="4" style="text-align:center;" | <small>'''(en mètres)'''</small>
+|-
+! !! courte !! moyenne !! extrême
+|-
+| '''Arc''' || 1-10 || 11-20 || 21 -50
+|-
+| '''Arbalète''' || 1-15 || 16-50 || 51-70
+|-
+| '''Fronde''' || 1-8 || 9-15 || 16-25
+|-
+| '''Dague''' || 1-3 || 4-8 || 9-15
+|-
+| '''Javelot''' || 1-6 || 7- 12 || 15-20
+|-
+| '''Fouet''' || 1-2 || - || -
+|}
+
+
+ [[Le Combat|Retour au Combat]]
+
+Arcs et arbalètes peuvent assurément envoyer leurs projectiles au-delà de 50 ou 70 m ! Toutefois, dans le stress du combat, toucher sa cible au-delà de ces distances tient plus de la chance que de l'habileté.<BR>
+Pour dague et javelot, chaque point de [[Les Caractéristiques#FORCE|FORCE]] au-dessus de 10 augmente les portées respectives de 1 m. Chaque point de [[Les Caractéristiques#FORCE|FORCE]] en-dessous de 9 les diminue de 1.
+
+''Chassant avec son arc, Brucelin débusque un lapin et tire. La cible a une taille « chat » (-4), elle est à portée « courte » (0) et détale en « bondissant » (-4). Tout cela donne au tir un ajustement final de -8. Avec 10 en Tir et +1 à l'arc, Brucelin n'a que 15% de chances de rapporter du gibier à Nitouche. S'il voulait lancer sa dague, avec 15 en FORCE, la portée courte, moyenne et extrême, serait pour lui de 8, 13 et 20 m.''
+
+=== Lancer improvisé ===
+Lancer un objet improvisé, un caillou, une cruche, une tomate, se joue également sur [[Les Caractéristiques#Lancer|Lancer]], mais sans aucune compétence (''compétence absente''). En fonction du poids et de la maniabilité de l'objet, c'est au gardien des rêves d'en déterminer difficulté, portée, possibilité d'esquive et de parade, éventuel +dom, en se fondant les exemples des armes réelles.
+
+== Défense contre les projectiles ==
+Flèches, carreaux et pierres de fronde ne peuvent être esquivés. Ils ne peuvent être que ''parés au bouclier''. Ce n'est toutefois possible que si le défenseur voit son attaquant le viser. La difficulté de parade dépend de l’''activité'' du défenseur, du type de ''projectile'' et du type de ''bouclier'' utilisé. Ces ajustements sont cumulatifs pour donner la difficulté finale.<BR>
+Dague, javelot et fouet, peuvent non seulement être parés au bouclier, mais également ''esquivés''. Dans tous les cas, il faut comme précédemment que l'attaque soit visible.
+
+''Les ennuis reparaissent pour nos voyageurs, sous la forme de trois Groins qui surgissent de l'orée d'un bois. Prompte comme l'éclair, Nitouche lance sa dague sur le plus gros. Celui-ci, armé d'un bouclier lourd, la voit agir et va tenter de parer. On estime d'abord la difficulté du lancer. Nitouche a 9 en FORCE et le Groin est à 4 m, portée moyenne = -3. Le Groin est important = +1, et il gesticule = -3. Tout cela pour une difficulté ﬁnale de -5. Nitouche a 10 en Lancer et 0 en Dague de jet. Avec un 24 sur 25%, elle réussit tout juste. Tout va maintenant dépendre de la parade du Groin. Son bouclier est lourd = +3, une dague donne toujours -2, il était en train de gesticuler = -3. En ﬁnal, c'est une difficulté -2. Il ne reste qu'à espérer qu'il échoue...''
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Parade/ Esquive'''
+|-
+| Immobile et prêt || 0
+|-
+| Activité autre || -3
+|-
+| Bouclier léger || -3
+|-
+| Bouclier moyen || 0
+|-
+| Bouclier lourd || +3
+|-
+| Flèche, carreau ''(parade)'' || -5
+|-
+| Pierre de fronde''(parade)'' ||  -4
+|-
+| Dague, javelot ''(parade, esquive)'' || -2
+|-
+| Fouet ''(parade, esquive)'' || 0
+|}

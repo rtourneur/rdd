@@ -1,0 +1,64 @@
+__NOTOC__
+Lorsque survient une occasion de combat, le décompte du temps est immédiatement traduit en ''rounds''. Chaque round se décompose en sept phases suivant la table ci-contre.<BR>
+Les rounds se succèdent ainsi, phase après phase, toujours dans cet ordre.
+
+ [[Le Combat|Retour au Combat]]
+
+== Déclaration d'intention ==
+Au début de chaque round, chaque joueur indique ce que son personnage va tenter de faire durant le round. S'il attaque (tir, lancer, mêlée), il doit préciser quelle cible. Le gardien des rêves indique pareillement ce que vont tenter de faire les personnages non joueurs. Lors de la résolution du round, une action déclarée peut être annulée, mais en aucun cas modiﬁée.
+
+== Initiative ==
+Les armes de tir ont priorité sur les armes de lancer, qui ont elles-mêmes priorité sur les combats de mêlée. Toutefois, pour qu'une attaque soit possible, il faut que l'arme soit prête. Préparer une arme (bander un arc, préparer une fronde, dégainer une lame) prend usuellement un round.<BR>
+Quand, dans sa catégorie (tir, lancer, mêlée), plusieurs attaques entrent en concurrence, on détermine une ''initiative aléatoire''. Quelle que soit la catégorie, la procédure est semblable : ''facteur d'initiative'' + ''1d6'' Le plus haut résultat final attaque le premier. S'il y a égalité, les projectiles partent simultanément en ce qui les concerne ; tandis que les combattants de mêlée restent en garde, sans trouver d'ouverture de part ni d'autre, et le round est nul.
+
+=== Facteur d'initiative=== 
+On le calcule pour chaque compétence d'arme. C'est la somme de : ''une demi-caractéristique utilisée (arrondie au chiffre inférieur) + niveau de compétence''.
+
+''Nitouche a 10 en Lancer et zéro en Dague de jet. Pour cette arme son facteur d'initiative est de 5. Brucelin a 14 en Melee et +3 en Épée à une main. Pour cette arme son facteur d'initiative est de 10.''
+
+=== Mêlée inégale ===
+En cas de mêlée inégale, a deux ou trois contre un par exemple, chaque membre du groupe rajoute a son initiative 1 point par membre du groupe. A deux contre un, chacun gagne ainsi 2 points, à trois contre un, chacun gagne 3 points, et à quatre contre un, 4 points. Si les initiatives tirées donnent égalité, le round n'est pas nul dans ce cas. mais l'initiative échoie aux membres du groupe.
+
+=== Initiative prioritaire ===
+Dans un round d'engagement, c'est-à-dire quand les combattants s'affrontent pour la première fois, l'initiative va toujours à l'arme la plus longue. À égalité de longueur, c'est l'arme la plus rapide.<BR>
+Pour les principales armes, l'ordre décroissant figure ainsi : arme d'hast, lance, bâton, double-dragonne, esparlongue, dragonne, bâtarde, cyane, sorde, grande hache, hache de bataille, épée gnome, masses, gourdin, fléaux, dague, armes naturelles. Pour les rounds suivants, l'initiative est tirée normalement.
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''Phases du round de combat'''
+|-
+! rowspan="2" width="15%" | Phase 1 
+| '''Déclaration d'intention'''
+|-
+| ''Combat, déplacement, retraite, actions diverses,...'' 
+|-
+! rowspan="2" | Phase 2 
+| '''Magie'''
+|-
+| ''Montée en TMR, lancer, ciblage (voir Le Livre du Haut-Rêve).''
+|-
+! rowspan="2" | Phase 3 
+| '''Tirs'''
+|-
+| ''Initiative, attaque, parade, dommages.''
+|-
+! rowspan="2" | Phase 4 
+| '''Lancers'''
+|-
+| ''Initiative, attaque, esquive/parade, dommages.''
+|-
+! rowspan="2" | Phase 5 
+| '''Mêlée'''
+|-
+| ''Initiative, attaque, esquive/parade, dommages.''
+|-
+! rowspan="2" | Phase 6 
+| '''Actualisation des mouvements'''
+|-
+| ''Résolution des déplacements indiqués dans la déclaration d'intention.''
+|-
+! rowspan="2" | Phase 7 
+| '''Santé'''
+|-
+| ''Pertes d 'endurance et jets de Vie dus aux précédentes blessures.''
+|}
