@@ -53,7 +53,7 @@ La fronde peut être armée et tirer tous les rounds. Face aux projectiles des f
 
 == Les armes de lancer ==
 === Fouet ===
-Bien qu'étant toujours tenu en main, le fouet est considéré comme une arme de lancer. Sa portée est limitée par sa longueur, maximum 3 m. Ses dommages sont déterminés sur la table des Coups non mortels, c'est-à-dire qu'ils ne font essentiellement perdre que des points d'endurance. Face aux fouets, les armures sont majorées de 2 points. Le drap matelassé vaut ainsi 3 et le cuir souple 4. Qui plus est, le cuir épais, le cuir/métal, les mailles et les plaques, et toute protection naturelle d'une créature de 5 points ou plus, protège ''totalement'' des dégâts du fouet. Il est inutile de vouloir fouetter un rhinocéros. Inversement, vêtements ordinaires ou pas de vêtements du tout valent toujours zéro de protection.
+Bien qu'étant toujours tenu en main, le fouet est considéré comme une arme de lancer. Sa portée est limitée par sa longueur, maximum 3 m. Ses dommages sont déterminés sur la [[Les Blessures#Coups non mortels|table des Coups non mortels]], c'est-à-dire qu'ils ne font essentiellement perdre que des points d'endurance. Face aux fouets, les armures sont majorées de 2 points. Le drap matelassé vaut ainsi 3 et le cuir souple 4. Qui plus est, le cuir épais, le cuir/métal, les mailles et les plaques, et toute protection naturelle d'une créature de 5 points ou plus, protège ''totalement'' des dégâts du fouet. Il est inutile de vouloir fouetter un rhinocéros. Inversement, vêtements ordinaires ou pas de vêtements du tout valent toujours zéro de protection.
 
 {|style="border:1px solid black;text-align:center;"
 |-
@@ -141,4 +141,4 @@ Bien qu'étant toujours tenu en main, le fouet est considéré comme une arme de
 |}
 
 
-''Corps à corps, gourdin et fouet (+dom entre parenthèses) utilisent la table des Coups non mortels.''
+''Corps à corps, gourdin et fouet (+dom entre parenthèses) utilisent la [[Les Blessures#Coups non mortels|table des Coups non mortels]].''

@@ -1,0 +1,78 @@
+__NOTOC__
+Il y a deux sortes de combat sans arme : le ''pugilat'' et ''l'empoignade''. Le pugilat comprend toutes les sortes de coups que l'on peut donner (coups de poing, coups de pied, coups de tête, etc.). L'empoignade comprend toutes les tentatives d'empoigner, ceinturer, immobiliser. Les deux façons se jouent avec [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]].
+
+ [[Le Combat|Retour au Combat]]
+
+== Pugilat ==
+Ce type de combat est joué selon les règles de [[Mêlée]] (initiative, difficulté libre pour l'attaque, parade, esquive), en notant toutefois les différences suivantes :<BR>
+Un combattant sans arme n'a jamais l'initiative sur un combattant armé, à moins que ce dernier ne soit en complète ou demi-surprise.<BR>
+Quand les deux combattants sont sans armes, les attaques peuvent être indifféremment esquivées ([[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Esquive]]) ou parées ([[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]]), tout en conservant une possibilité d'attaque. Autrement dit, on peut attaquer et parer avec ses bras.
+=== Dommages ===
+Les dommages de pugilat ne sont pas encaissés sur la [[Les Blessures#Jet d'encaissement|table des Blessures]], mais toujours sur la [[Les Blessures#Coups non mortels|table des Coups non mortels]]. Il peuvent assommer, mais causent au maximum des blessures légères. Les armes naturelles humaines (pied, poing) ont en soi un +dom de zéro, mais ne pas oublier le bonus personnel dû à la [[Les Caractéristiques#FORCE|FORCE]] et à la [[Les Caractéristiques#TAILLE|TAILLE]].
+
+== Empoignade ==
+Le but de l'empoignade est d'immobiliser le défenseur. on utilise pour cela un système simplifié de points de tâche, appelés points d'empoignade (''emp''). L'attaquant utilise [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]], difficulté libre. Une réussite particulière est obligatoirement passée en finesse, exigeant une significative. Le défenseur peut esquiver ([[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Esquive]]) ou contrer ([[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]]) selon les cas.
+=== Points d'empoignade ===
+Chaque fois qu'une attaque d'empoignade n'est ni esquivée ni contrée, l'attaquant marque 1 point d'''emp''. 
+Dès qu'à la fin d'un round il totalise 2 points d'''emp'', son adversaire en ayant zéro, ce dernier est considéré totalement immobilisé. Le round suivant, l'attaquant peut automatiquement (= sans jets de dés) lui faire perdre un nombre quelconque de points d'endurance, à son choix, y compris réduire directement son endurance à zéro, c'est-à-dire le rendre inconscient.<BR>
+Soulignons qu'il ne s'agit pas d'avoir 2 points d'''emp'' à un moment quelconque du combat, mais de les avoir a la fin d'un round, c'est-a-dire après que chaque adversaire ait eu la possibilité d'agir durant le round, pour attaquer ou tenter de se libérer.
+=== Contre et esquive ===
+Le contre est l'équivalent d'une parade. Il se joue en défense, avec [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]], la difficulté étant celle de l'attaque. Le défenseur ne peut esquiver que dans les cas d'engagement, c'est-a-dire tant qu'aucun point d'''emp'' n'a encore été marqué. 
+Dès qu'un point d'''emp'' a été marqué, les combattants se tiennent, même si l'immobilisation n'est pas définitive, et seul un contre peut annuler une attaque.
+=== Libération ===
+Se libérer consiste à annuler 1 point d'''emp'' de l'adversaire. Cette action se joue comme une attaque, avec [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]], et peut également être contrée. 
+Si elle réussit, l'adversaire perd 1 point d'''emp'', si elle échoue, il n'en perd aucun. 
+Quand un empoigneur retourne a zéro point d'''emp'', son adversaire est totalement libre et l'on en revient à un cas d'engagement.
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Cas d'engagement'''
+|-
+| '''1. Empoigneur contre personnage armé'''. Le personnage armé a automatiquement l'initiative et un bonus de +4 à l'attaque. L'empoigneur ne peut qu'esquiver. S'il est touché, ne serait-ce que d'une contusion, sa tentative d'empoignade échoue du même coup. On passe directement au round suivant avec les mêmes conditions, le personnage armé conservant l'initiative et +4 à l'attaque. Si l'empoigneur esquive, il peut livrer son attaque d'empoignade, que le personnage armé peut tenter d'esquiver à son tour. S'il esquive, on revient aux mêmes conditions qu'au tout début. S'il n'esquive pas, l'empoigneur marque 1 point d'''emp'', et l'on passe à Empoignade en cours. À ce stade, le personnage armé doit utiliser Corps à corps pour se libérer, il ne peut plus se servir de son arme, à moins qu'il ne s'agisse d une dague (voir ci-après).
+|-
+| '''2. Empoigneur contre pugiliste'''. Même cas de figure que ci-dessus, le pugiliste étant considéré personnage arme même s il ne s agit que de ses poings.
+|-
+| '''3. Empoigneur contre défenseur refusant le combat'''. Le défenseur est considéré se désengageant et l'empoigneur a automatiquement l'initiative. Le défenseur peut esquiver l'attaque. S'il réussit, il est considéré désengagé et peut commencer à fuir le round suivant ; s'il échoue, son adversaire marque 1 point d'''emp'', et l'on passe à Empoignade en cours.
+|-
+| '''4. Empoignade mutuelle'''. Dans ce cas, l'initiative est jouée normalement. Le premier empoigneur livre une attaque de difficulté libre qui, si elle réussit, peut être esquivée ou contrée (au choix) par le défenseur. Si l'attaque échoue finalement, le défenseur devient l'attaquant et vice versa. Si l'attaque réussit, l'attaquant marque 1 point d'''emp'', et l'on passe à Empoignade en cours.
+|}
+
+== Empoignade en cours ==
+L'empoignade est en cours quand un combattant possède 1 point d'''emp''. Il y a alors trois possibilités. Soit il en gagne un second et le conserve jusqu'à la fin du round, auquel cas il triomphe et son adversaire est considéré totalement réduit à l'impuissance. Soit il n'en gagne aucun autre, mais ne perd pas celui qu'il possède ; on reste dans le même cas pour le round suivant. Soit il le perd sans pouvoir le regagner avant la fin du round, auquel cas l'empoignade est brisée, et l'on retourne à l'un des quatre cas d'engagement.<BR>
+Les deux grands types d'actions possibles en cours d'empoignade sont resserrer la prise, pour l'un, ou tenter de se libérer, pour l'autre. Les deux se font en guise d'attaque, dans l'ordre déterminé par une initiative normale, et peuvent être contrés par l'adversaire. Resserrer la prise consiste à obtenir un second point d'''emp''.
+Se libérer consiste a annuler un point d'''emp'' à son adversaire.<BR>
+Seul un des deux adversaires totalise des points d'''emp''.
+Pour marquer des points d'''emp'' contre un adversaire, il faut que ce dernier n'en ait aucun. S'il en a, il faut d'abord s'en libérer et repasser par l'un des quatre cas d'engagement.
+=== Ajustement dû à la Taille ===
+En cours d'empoignade, le plus petit des adversaires souffre d'un malus à tous ses jets d'attaque (resserrer, se libérer) et de contre. Ce malus est égal à la différence des TAILLES, moins 1 point.  Autrement dit, quand les TAILLES n'ont qu'une différence de 1 point, on n'en tient pas compte. Le plus grand n'a ni malus ni bonus. Ce malus ne concerne que le cours de l'empoignade, c'est-à-dire la tentative de libération ou d'obtention d'un second point d'''emp'' ; il ne s'applique pas aux cas d'engagement.
+
+''Nitouche a 9 en TAILLE et Brucelin 13. En cours d'empoignade, Nitouche aurait un malus de -3.''
+
+=== Frapper ===
+Au lieu de resserrer la prise ou de tenter de se libérer, il est possible de frapper, de tenter de « faire mal », en cours d'empoignade, dans le but d'affaiblir l'adversaire (de le sonner, par exemple). Cette attaque se joue avec [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]], difficulté libre, et peut être contrée. En cas de réussite, elle ne modifie pas les points d''emp'', mais cause des pertes d'endurance ([[Les Blessures#Coups non mortels|table des Coups non mortels]]). La seule arme véritable que l'on puisse utiliser en cours d'empoignade est une dague (ou une arme plus petite encore). Toutefois, pour avoir la possibilité de sien servir au cours d'un round donné, il faut commencer par jouer  [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Dague]] à -4. En cas d'échec, on est trop gêné pour l'utiliser, et en cas d'échec total, on est même désarmé.
+=== Réussite particulière ===
+Dans une empoignade, une réussite particulière est toujours considérée ''en finesse''. Elle exige donc une significative du défenseur pour être contrée.
+=== Échec Total ===
+En cours d'empoignade, un échec total a toujours les mêmes conséquences, qu'il s'agisse d'une attaque pour resserrer la prise ou se libérer, ou d'un contre. Le fauteur se fait mal et perd 2d6 points d'endurance (pouvant être sonné).
+
+== Personnage seul contre plusieurs ==
+Appliquer les mêmes règles, sachant que le personnage seul ne peut normalement esquiver qu'une seule fois au cours de l'engagement, et qu'il ne peut contrer qu'une seule attaque et ne peut lui-
+même attaquer (= tenter de se libérer) qu'une seule fois par round. Les points d'''emp'' de ses adversaires ne sont pas cumulatifs, mais il suffit qu'un seul d'entre eux totalise ses 2 points pour l'immobiliser totalement.
+
+== Placage ==
+C'est une variante d'engagement d'empoignade, pour laquelle l'empoigneur se jette sur le défenseur dans le but de l'entraîner au sol. Il ne peut lui-même esquiver. S'il est touché, sa tentative de placage échoue automatiquement, et, outre les dommages causés par son adversaire, il chute obligatoirement. Si son attaque de placage peut finalement avoir lieu, il la joue avec  [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps a corps]], difficulté libre. Si le défenseur esquive, le plaqueur chute, comme précédemment. S'il n'esquive pas, le défenseur doit tester un recul sous le choc quand bien même le plaqueur nia pas obtenu de réussite particulière. Pour calculer l'Impact du plaqueur, considérer qu'il utilise un +dom de +4 (ou de +9 en cas d'effective particulière). Si le défenseur manque son jet de Recul, il chute automatiquement, encaissant des dommages, et le placage
+étant réussi, le plaqueur peut marquer 1 point d'''ernp''. Les deux adversaires sont maintenant au sol. Si le défenseur tient bon, le placage échoue, et considérer que tout le monde reste debout.
+
+== Entraîner au sol ==
+En cours dlempoignade, des qu'un combattant atteint 2 points d'''emp'', il peut choisir d'entraîner son adversaire au sol (lui-même allant au sol avec lui). 
+Ce choix est libre, sans nécessiter d'autre jet de dés, et revient au premier à obtenir 2 points d'''ernp''. Cela peut avoir lieu en cours de round, c'est-a-dire même si l'immobilisation n'est pas définitive. Si le défenseur se libère, partiellement ou entièrement, les combattants n'en poursuivent pas moins leur combat au sol. Pour se relever, il faut être totalement libre (= que l'adversaire ait zéro point d'''emp''), et réussir un désengagement. Aucun malus n'est applicable quand deux empoigneurs mutuels sont au sol. Noter qu'un empoigneur debout ne peut immobiliser un défenseur au sol, et réciproquement. Il peut par contre le frapper (pugilat), et dans ce cas l'ajustement de condition de demi-surprise est applicable. Il n'y a pas de dommages de chute pour un entraînement au sol.
+
+== Projeter au sol ==
+Quand une immobilisation définitive (2 points d'''emp'' non libérés en fin de round) a eu lieu debout, le vainqueur peut choisir de projeter son adversaire au sol au lieu de le maintenir. La projection
+a lieu en fin du round d'immobilisation.<BR>
+Cela peut sembler compliqué de projeter quelqu'un au sol de cette façon, mais si l'on est compétent, c'est en fait très rapide : premier round, je t'attrape (1 point d'''ernp'' non libéré) ; second round, je te tiens bien (2ème point non libéré), et instantanément, fin du même round, je te balance... Une fois tombé, le défenseur est libre. Mais rien n'empêche l'attaquant de se re-jeter sur lui.
+
+''Il y a de l'orage dans l'air entre nos deux personnages : Brucelin tente d'empoigner Nitouche, et la jeune femme s'en défend.''<BR>
+''ROUND 0. Brucelin réussit une attaque d'empoignade (Mêlée/Corps a corps, difficulté libre) sur Nitouche qui tente de fuir (cas d'engagement n'3) et va donc esquiver. Elle échoue, et, au terme du round d'engagement, Brucelin marque donc 1 emp.''<BR>
+''ROUND 1. Nitouche ne peut plus esquiver. Elle doit maintenant utiliser Mêlée/Corps a corps pour se libérer. L'initiative est normalement tirée (noter que le mieux que Nitouche puisse obtenir est un nul : 5 + 6 = 11 contre 10 + 1 = 11). Brucelin a donc l'initiative et  resserre la prise, toujours par un jet de Mêlée/Corps à corps, difficulté libre. Il échoue et ne gagne pas un second point d'emp. À son tour Nitouche attaque, ce qui consiste pour elle à se libérer du point d'emp de Brucelin. À son tour, elle utilise Mêlée/Corps a corps, difficulté libre. Elle réussit, mais Brucelin la contre sans probeme et conserve son point d'emp.''<BR>
+''ROUND 2. Même initiative que précédemment. Cette fois Brucelin réussit sans être contré par Nitouche, et marque un second point d'emp. Toutefois, le round n'est pas terminé. Nitouche a  encore droit a son attaque, qui consiste toujours pour elle à se libérer. Son jet réussit, mais Brucelin réussit une fois de plus à la contrer sans difficulté. En fin du round 2, il totalise donc ses 2 points non contestabes. En termes de jeu, cela signiﬁe que Nitouche est totalement à sa merci. « Tu n'es qu 'une brute... gémit-elle, embrasse-moi....»''

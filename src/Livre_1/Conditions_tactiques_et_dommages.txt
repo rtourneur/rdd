@@ -23,7 +23,7 @@ Lors d'une charge, l'initiative est toujours aléatoire, la priorité de longueu
 La ''feinte'' ne peut avoir lieu que dans les duels, c'est-à-dire à un contre un. Elle est impossible lors des mêlées inégales. Pour en bénéficier, il faut posséder l'initiative (de longueur d'arme ou aléatoire) et y renoncer, laissant l'autre attaquer en premier. Si, quand revient le tour d'attaquer du ''feintant'', il n'a été ni blessé ni sonné, il bénéficie d'un bonus de +1 à l'attaque et d'un bonus de +1 aux dommages. S'il a té blessé ou sonné, le bénéfice de la feinte est perdu.
 
 == Dommages ==
-Les dommages occasionnés en combat sont réglés de la façon standard indiquée au chapitre précédent : 2d10 + (+dom total) - (protection). On utilise normalement la table des Blessures. Pour les coups retenus, ainsi que toutes les armes ou attaques dont le +dom est indiqué entre parenthèses, on utilise la table des Coups non mortels.
+Les dommages occasionnés en combat sont réglés de la façon standard indiquée au chapitre précédent : 2d10 + (+dom total) - (protection). On utilise normalement la [[Les Blessures#Jet d'encaissement|table des Blessures]]. Pour les coups retenus, ainsi que toutes les armes ou attaques dont le +dom est indiqué entre parenthèses, on utilise la [[Les Blessures#Coups non mortels|table des Coups non mortels]].
 === Tir ===
 Le ''+dom total'' des tirs se limite au +dom de l'arme. En cas de réussite ''particulière'', le +dom est majoré de +5. Le +dom personnel n'entre pas en ligne de compte, non plus que les bonus de condition.
 === Lancer ===

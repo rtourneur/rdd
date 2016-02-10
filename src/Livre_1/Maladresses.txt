@@ -13,7 +13,7 @@ En cours de combat, un échec total indique toujours qu'une dangereuse maladress
 |-
 | 03 || 03 || Ami bousculé <ref name="ami bousculé">Le compagnon bousculé doit réussir [[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#VIGILANCE|Vigilance]] à -1d6 ou être en demi-surprise jusqu'à la fin du round suivant</ref>
 |-
-| 04 || 04 || Chute <ref name="chute">Encaissement à -1d6 sur la table des Coups non mortels.</ref>
+| 04 || 04 || Chute <ref name="chute">Encaissement à -1d6 sur la [[Les Blessures#Coups non mortels|table des Coups non mortels]].</ref>
 |-
 | 05 || || Désarmé
 |-

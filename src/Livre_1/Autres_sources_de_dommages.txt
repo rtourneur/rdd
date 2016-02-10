@@ -3,7 +3,7 @@ __NOTOC__
  [[La Santé|Retour à La Santé]]
 
 == Chute ==
-Ces dommages dépendent de la hauteur de chute et du type de sol de réception. Quelle que soit la protection ou armure portée par le personnage, un maximum de 2 points sont seulement applicables. Pour les chutes « de sa propre hauteur », utiliser la table des Coups non mortels.
+Ces dommages dépendent de la hauteur de chute et du type de sol de réception. Quelle que soit la protection ou armure portée par le personnage, un maximum de 2 points sont seulement applicables. Pour les chutes « de sa propre hauteur », utiliser la table[[Les Blessures#Coups non mortels|table des Coups non mortels]].
 
 {|style="border:1px solid black;text-align:center;"
 |-
