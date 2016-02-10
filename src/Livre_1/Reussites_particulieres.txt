@@ -1,0 +1,42 @@
+__NOTOC__
+ [[Le Combat|Retour au Combat]]
+
+== Mêlée ==
+Quand une attaque de mêlée obtient une réussite particulière, l'attaquant doit choisir une des trois options suivantes, avant que son adversaire ne tente sa parade ou son esquive. Les trois options sont : ''force'', ''finesse'', ou ''rapidité''.
+
+=== Force ===
+Si le défenseur manque sa défense (esquive ou parade), le +dom de l'attaque est majoré de +5. Une attaque de difficulté zéro est obligatoirement en force. Pour choisir la finesse ou la rapidité, il faut au minimum une difficulté d'attaque de -1. Les ''charges'' sont également toujours en force.
+
+=== Finesse ===
+Le choix de la finesse oblige le défenseur à obtenir au minimum une réussite ''significative'' pour parer/esquiver l'attaque. Une réussite normale est considérée comme un échec. S'il échoue, en revanche, les dommages qu”il encaisse ne sont pas majorés.
+
+=== Rapidité ===
+Si l'attaquant choisit la rapidité, les dommages éventuellement infligés restent normaux et la défense n'a pas non plus besoin de significative. À la place, l'attaquant a droit a un second usage de l`arme utilisée, à condition que ce soit sa prochaine action durant le même round en respectant les règles de l'initiative. Si cette restriction ne peut être appliquée, le bénéfice est perdu.<BR>
+Si l'attaquant avait la première initiative (= attaquait en premier durant le round), il peut :
+* Passer normalement l'initiative à l'adversaire, et dans ce cas bénéficier de son second usage de l'arme pour parer. Durant le round, il aura donc pu attaquer et parer avec la même arme, ce qui est autrement impossible.
+* Conserver l'initiative et attaquer une seconde fois. La seconde attaque doit avoir lieu immédiatement. On ne peut pas la conserver pour plus tard dans le round. Dans le cas d'un combat contre plusieurs adversaires, la seconde attaque peut être dirigée contre le même ou contre un autre. Si la seconde attaque obtient encore une particulière, l'attaquant devra choisir entre force ou finesse, la rapidité ne pouvant être utilisée qu'une seule fois par round.
+Si l'attaquant n'avait pas la première initiative (= attaquait en dernier), il doit forcément choisir une seconde attaque, puisqu'il n'aura plus la possibilité de parer durant ce round.
+
+''Brucelin est toujours face aux trois Groins et n'a l'initiative que sur le plus petit d'entre eux. Le plus gros des Groins attaque : Brucelin pare du bouclier. Le second Groin attaque : Brucelin esquive. C'est maintenant à son tour, que va-t-il faire ? Il a déjà esquivé une fois et paré au bouclier. S'il attaque, il sera sans défense face a la riposte du petit Groin. Tant pis, il prend le risque et attaque ! Bien l'en prend, puisqu'il obtient une particulière, qu'il passe en rapidité. Cela fait, son action suivante, dans l'ordre normal des initiatives, pourra être une parade à l'épée de l'attaque du dernier Groin.''
+
+=== Armes lentes ===
+Certaines armes n'ont droit qu'aux options de force ou de finesse, jamais de rapidité. Il s'agit de toutes les armes tenues à ''deux mains'', ainsi que (une ou deux mains) : épée bâtarde, épée sorde, hache de bataille, masse lourde, fléaux.
+
+=== Esquive et parade particulieres ===
+C'est une règle semblable a la ''rapidité'' qui s'applique. Quand une parade avec une arme obtient une particulière, le personnage a droit a un second usage de son arme, mais toujours durant ce même round et en respectant les règles de l'initiative. Si c'est la toute dernière action du round, le bénéfice est perdu. S'il reste encore une possibilité de parade, parce qu'il reste encore un adversaire ou parce qu'un adversaire unique a eu droit a deux attaques, le personnage peut parer une seconde fois avec son arme. Si le personnage n'a pas encore attaqué et s'il reste encore un adversaire contre lequel il possède l'initiative, le second usage de son arme peut être une attaque contre cet adversaire. Même chose avec un bouclier, sauf qu'il ne peut que parer, et toujours uniquement si la prochaine action du round peut être une parade.<BR>
+Une arme proprement dite peut donc être utilisée deux fois : pour deux parades, ou deux attaques, ou une attaque et une parade. Un bouclier peut être utilisé pour deux parades.<BR>
+Une esquive obtenant une particulière donne droit a une seconde esquive si la prochaine action du round peut être une esquive ; sinon, le bénéfice est perdu.
+
+== Tir et Lancer ==
+Quand un tir ou un lancer obtient une réussite particulière (et n'est ni paré ni esquivé), elle est toujours considérée ''en force''. Le +dom est donc majoré de +5. Ainsi une flèche touchant avec une réussite particulière a un +dom total de +7.
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" colspan="2" | '''Réussite particulière'''
+|-
+| '''Force''' || ''(+ dom majoré de +5)''
+|-
+| '''Finesse''' || ''(chances réduites de parer/esquiver le coup)''
+|-
+| '''Rapidité''' || ''(nouvelle utilisation possible de l'arme durant le round)''
+|}

@@ -1,0 +1,66 @@
+__NOTOC__
+
+ [[Le Combat|Retour au Combat]]
+
+== Conditions ==
+Les ''conditions'' sont essentiellement des conditions de ''défense'' : surprise ou incapacité partielle du défenseur à affronter normalement l'attaque. Elles se traduisent soit par des bonus à l'attaquant (complète surprise), soit par des malus au défenseur (demi-surprise).
+=== Complète surprise ===
+C'est l'ajustement de condition le plus tragique, il survient usuellement lorsque le défenseur est ''surpris de dos''. Le défenseur ne peut ni esquiver ni parer, tandis que l'attaquant bénéficie d'un bonus de +6 à l'attaque et de +10 aux dommages.
+=== Demi-Surprise ===
+La demi-surprise intervient dans tous les cas où le défenseur est incapacité sans être complètement pris au dépourvu. C'est entre autres le cas de : ''défenseur surpris de face'', ''défenseur à terre'', ''défenseur se relevant'', ''défenseur sonné''. Les actions du ''demi-surpris'' doivent obligatoirement obtenir une réussite ''significative'' pour réussir. Une réussite normale est un échec. Une réussite particulière n'est pas applicable (elle est considérée comme normale).<BR>
+En cas de ''ﬁnesse'' utilisée contre lui, il doit réussir une ''significative de significative'' : c'est-à-dire diviser encore ses chances par deux. Un ''demi-surpris'' n'a jamais l'initiative. S'il tente une action offensive (et uniquement dans ce cas), tout échec (normal, particulier, total) entraîne une ''[[Maladresses|maladresse]]'' . Enfin, s'il est touché en demi-surprise le +dom de l'encaissement est majoré de +1.<BR>
+Deux demi-surprises font une complète surprise. Quand un personnage est à la fois ''à terre'' et ''sonné'' c'est la règle de complète surprise qui s'applique. Autant dire qu'il est virtuellement mort. Les conditions ne s'ajoutent toutefois que si elles sont différentes, à terre et sonné, par exemple. Un combattant sonné qui est à nouveau sonné reste en demi-surprise.
+
+''L'un des Groins finit par manquer sa parade et Nitouche le poinçonne d 'un coup de dague. La blessure est peu profonde mais douloureuse, le Groin est sonné. Au round suivant, la voyageuse a automatiquement l'initiative, tandis que le Groin doit obtenir au minimum une significative. Trop pressée, Nitouche échoue. Le Groin, au lieu d'en proﬁter pour récupérer, attaque a son tour et échoue lui aussi. Son échec normal est cause d 'une maladresse : il dérape, tombe, se fait mal et reste sonne. Il est maintenant en complète surprise. « À nous deux ! » rugit Nitouche en plantant sa dague. Le Groin ne peut ni esquiver ni parer, Nitouche attaque a zéro, bénéficiant d'un bonus de +6, soit 96%. Avec un 17, elle obtient une particulière, passée en « force », ce qui donne au Groin le jet d'encaissement suivant : +1 (dague) + +5 (force) + +10 (complète surprise) = +16. Le Grain obtient 14 sur 2d10, soustrait 2 points d armure, pour un ﬁnal de 28, blessure critique et -12 points de vie. « Faut pas m'énerver !... » bougonne la jeune ﬁlle.''
+
+== Tactiques ==
+Ce sont des tactiques d'attaque pouvant être choisies à la place d'une attaque standard. Leur choix incombe entièrement à l'attaquant.
+=== Charge ===
+La ''charge'' consiste à se jeter de toutes ses forces sur l'attaquant. C'est le cas d'un animal qui charge avec ses cornes ou d'un fauve qui bondit. Pour les humanoïdes, cela consiste a se jeter
+de toutes ses forces sur le défenseur. La tactique de ''charge'' ne peut avoir lieu que durant le round d'engagement. Pour l'utiliser a nouveau, il faut d'abord s'être ''désengagé'' (voir ci-après).<BR>
+Lors d'une charge, l'initiative est toujours aléatoire, la priorité de longueur d'arme n'intervient pas. L'attaquant (chargeant) bénéficie d'un bonus de +4 à son attaque, et s'il touche, d'un bonus de +2 aux dommages. En revanche, durant le round de charge, il ''ne peut pas esquiver'', et souffre d'un malus de -4 à la parade, arme ou bouclier.
+=== Feinte ===
+La ''feinte'' ne peut avoir lieu que dans les duels, c'est-à-dire à un contre un. Elle est impossible lors des mêlées inégales. Pour en bénéficier, il faut posséder l'initiative (de longueur d'arme ou aléatoire) et y renoncer, laissant l'autre attaquer en premier. Si, quand revient le tour d'attaquer du ''feintant'', il n'a été ni blessé ni sonné, il bénéficie d'un bonus de +1 à l'attaque et d'un bonus de +1 aux dommages. S'il a té blessé ou sonné, le bénéfice de la feinte est perdu.
+
+== Dommages ==
+Les dommages occasionnés en combat sont réglés de la façon standard indiquée au chapitre précédent : 2d10 + (+dom total) - (protection). On utilise normalement la table des Blessures. Pour les coups retenus, ainsi que toutes les armes ou attaques dont le +dom est indiqué entre parenthèses, on utilise la table des Coups non mortels.
+=== Tir ===
+Le ''+dom total'' des tirs se limite au +dom de l'arme. En cas de réussite ''particulière'', le +dom est majoré de +5. Le +dom personnel n'entre pas en ligne de compte, non plus que les bonus de condition.
+=== Lancer ===
+Le ''+dom total'' des armes de lancer est la somme du +dom de l'arme et du +dom personnel (obtenu d'après la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#FORCE|FORCE]]), sans toutefois pouvoir dépasser le double du +dom de l'arme. Ainsi le +dom d'une dague de jet peut au maximum être de +2. En cas de réussite particulière, le +dom est encore majoré de +5. Les bonus de condition n'entrent pas non plus en compte dans les dommages des lancers.
+=== Mêlée ===
+Le ''+dom total'' des armes de mêlée est la somme du +dom de l'arme et du +dom personnel (obtenu d'après la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#FORCE|FORCE]]), sans limitation. En cas de réussite particulière déclarée en force, le +dom est majoré de +5. Tous les bonus de conditions sont applicables en mêlée, ainsi que les bonus de tactique.
+=== Assommer ===
+Assommer un personnage consiste a lui faire perdre tous ses points d'endurance. Il tombe alors évanoui, perdant également 1 point de vie. Il est toujours possible de tenter d'assommer quelqu'un en retenant son coup avec son arme. Il faut en faire la déclaration d'intention, et, le moment venu, l'attaque est en tout point semblable à une attaque normale, y compris du point de vue de la défense. La différence est que les dommages qu'elle inflige sont essentiellement traduits en perte d'endurance et que l'on utilise pour cela la table des Coups non mortels. Tous les bonus de conditions et de tactique s'appliquent aux coups retenus. On ne peut retenir un coup qu'en Mêlée, pas en Tir ni en Lancer.
+
+''Un autre Groin s'affale aux pieds de Brucelin, sonné, en complète surprise. Moins vindicatif que sa compagne, le voyageur se contente de l'assommer en retenant son coup. Le Groin encaisse à +21. Sur la table des Coups non mortels, au lieu d'une blessure critique, on voit qu il n 'encaisse qu'une blessure légère. Toutefois, son endurance tombe directement a zéro : il est assommé net.''
+
+=== Coup de grâce ===
+Frapper un personnage inconscient ou réduit à l'impuissance ne requiert aucun jet de dés. On considère qui plus est, du point de vue des dommages, que le personnage est en complète surprise. Pratiquement, donc il encaisse directement des dommages majorés de +10.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="5" | '''Conditions et Tactiques'''
+|-
+! !! initiative !! attaque !! défenseur !! +dom
+|-
+! scope="row" style="text-align:left;" | Surprise
+| rowspan="2" | auto || rowspan="2" | +6 || rowspan="2" | sans défense || rowspan="2" | +10
+|-
+| style="text-align:left;" | ''(défenseur  surpris de dos, endormi)''
+|-
+! scope="row" style="text-align:left;" | Demi-Surprise
+| rowspan="2" |  auto  || rowspan="2" |  || rowspan="2" | significative  || rowspan="2" | +1
+|-
+| style="text-align:left;" | ''(défenseur  sonné, se relevant,... )''
+|-
+! scope="row" style="text-align:left;" | Charge 
+| rowspan="2" |  aléatoire  || rowspan="2" | +4  || rowspan="2" |   || rowspan="2" | +2
+|-
+| style="text-align:left;" | ''(attaquant -4 en parade, par d'esquive)''
+|-
+! scope="row" style="text-align:left;" | Feinte 
+| rowspan="2" |  renonce  || rowspan="2" | +1  || rowspan="2" |   || rowspan="2" | + 1
+|-
+| style="text-align:left;" | ''(en cas de duel uniquement)''
+|}

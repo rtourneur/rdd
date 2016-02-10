@@ -1,0 +1,29 @@
+__NOTOC__
+Les rounds de mêlée se déroulent toujours selon le même processus. Considérons donc deux combattants, ''Aah'' et ''Bhé''.<BR>
+On commence par déterminer l'initiative, c'est Aah qui l'obtient : il attaque Bhé en premier. Si son jet de dés échoue, il devient aussitôt le défenseur, dans le même round, tandis que Bhé attaque à son tour. Si par contre son jet de dés réussit, cela ne signifie pas qu'il touche Bhé, mais qu'il a trouvé une ouverture. Bhé peut alors tenter de parer ou d'esquiver. Si le jet de parade ou d'esquive de Bhé réussit, il ne subit aucun dommage, et comme précédemment sur une attaque échouée de Aah, il devient l'attaquant à son tour, dans le même round. Si Bhé échoue sa parade ou son esquive, il joue un jet d”encaissement ajusté au +dom de Aah et détermine la blessure reçue. Puis, s'il est encore en état, il devient l'attaquant à son tour.<BR>
+L'attaque de Bhé est résolue de la même manière, sauf que Aah, maintenant défenseur, ne redevient pas automatiquement attaquant après la résolution de l'attaque de Bhé. Le round se termine là. Pour le round suivant, c'est à nouveau l'initiative qui déterminera qui attaque en premier, de Aah ou de Bhé. Et ainsi de suite de round en round.<BR>
+En cas de mêlée inégale, les attaques se succèdent par ordre décroissant d'initiative, jusqu'à ce que chacun ait pu donner une attaque.
+
+ [[Le Combat|Retour au Combat]]
+
+== Difﬁculté libre ==
+Les combats de mêlée obéissent à une règle légèrement différente : la ''difficulté libre''. Au lieu que la difficulté d'attaque soit imposée par le gardien des rêves, c'est l'attaquant qui la choisit lui-même, sachant que son adversaire devra parer ou esquiver une difficulté identique. Plus l'attaquant choisit une difficulté élevée, plus il diminue ses propres chances de « passer », mais plus il diminue aussi les chances de son adversaire de réussir sa défense. C'est une question de tactique.<BR>
+Quand les rôles s'inversent au cours du round, que 'attaquant devient défenseur et vice versa, le nouvel attaquant peut à son tour choisir la difficulté d'attaque qui lui convient.
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Règle fondamentale'''
+|-
+| Sauf cas particulier de ''rapidité'', tout personnage ou créature ne peut livrer qu'une seule attaque par round.
+|-
+| De la même façon, sauf cas de ''rapidité'', une arme quelle qu'elle soit, y compris un bouclier, ne peut servir qu'une seule fois au cours d'un round : soit pour attaquer, soit pour parer.
+|-
+| Et toujours sauf cas de ''rapidité'', un personnage ne peut tenter d'esquiver qu'une seule fois par round.
+|}
+
+
+=== Limitation ===
+Les difficultés libres doivent être choisies dans une fourchette allant de zéro à -10. On ne peut pas choisir de difficulté plus facile que zéro ni plus difficile que -10. Toutefois, il ne s'agit que de la difficulté, pas de l`ajustement final ! Ne pas oublier que ce dernier (qui indique finalement le pourcentage de réussite sur la table de Résolution) est la somme de ''difficulté'' + ''compétence''.<BR>
+Choisir la bonne difficulté fait tout le sel des combats. Au lieu de n'avoir qu'à jeter des dés, le joueur doit sans cesse décider et choisir, prendre ou non des risques. Certains cas sont évidents, si votre adversaire a déjà épuisé toutes ses possibilités de parade et d'esquive, inutile de vous fatiguer : attaquez à zéro, augmentant ainsi vos chances de réussite particulière !
+
+''Le combat s'engage. Brucelin (Mêlée 14, Épée +3, Bouclier +3) possède l’initiative contre le Groin (Mêlée 13, Bouclier +4, Masse +4). Pressentant l'habileté du Groin au bouclier, le voyageur décide de prendre des risques pour déjouer sa parade, et choisit une difficulté -7. Son ajustement ﬁnal est donc calculé : -7 (difficulté ) + +3 (compétence) = -4. Sur la table, 14 a -4 donne 42. Et avec un 39, Brucelin trouve l'ouverture, Les chances de parade du Groin sont à leur tour calculées : -7 (difficulté choisie par Brucelin ) + +4 (compétence) = -3. Sur la table, 13 a -3 donne 45, un peu moins d'une chance sur deux... Le Groin attaque à son tour,façon gros sabot, difficulté zéro. 13 à +4 donne 91%, l'ouverture semble évidente. Mais du côté de Brucelin, 14 a +3 donne également 91 %, et la parade est sans problème. Tant que le Groin se limitera a des attaques de cette sorte, le jeune homme ne courra pas grand risque.''
