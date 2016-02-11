@@ -1,0 +1,214 @@
+Les combats se gèrent en rounds. Un round se divise en sept phases.<BR>
+Il n'est permis qu'une seule action par arme et une seule esquive par round sauf cas de rapidité (voir ''[[Mêlée]]'').<BR>
+Toute réussite particulière donne droit à des bonus (finesse, force) ou une action supplémentaire (rapidité) selon les cas (voir ''[[Mêlée]]''). Tout échec total est sanctionné par une [[Maladresses|maladresse]].<BR>
+En ce qui concerne les [[Conditions, Tactiques & Dommages|Conditions et Tactiques]], les bonus d'attaque et de dommages ne s'appliquent qu'aux combats en mêlée. Les malus donnés au défenseur s'appliquent quant à eux dans tous les cas : tir, lancer et mêlée.<BR>
+Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou la plus rapide suivant la table ci-dessous.
+
+ [[Le Combat|Retour au Combat]]
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Les Sept Phases du Round'''
+|-
+| &nbsp;
+|-
+| '''Phase 1 : [[Le Round de Combat|Déclaration d'intention]]'''
+|-
+| Choisir entre:
+|-
+| * '''Combattre''' ''(Tir, Lancer ou Mêlée)''
+|-
+| * '''Faire acte de magie'''
+|-
+| * '''[[Les Déplacements|Se déplacer]]'''
+|-
+| * '''Rompre le combat, [[Les Déplacements|se désengager]]'''
+|-
+| * '''Actions diverses''' ''(Soins ou tâches diverses)''
+|-
+| Une action déclarée peut-être annulée mais pas modifiée.
+|-
+| &nbsp;
+|-
+| '''Phase 2 : Magie ([[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Livre du Haut-rêve]])'''
+|-
+| * '''Montée en TMR''' ''(normale ou accélérée)''
+|-
+| ou '''Déplacement normal''' ''(1 case/round)''
+|-
+| * '''Lancer du sort''' ''(même round que le dernier déplacement)''
+|-
+| ou '''Ciblage du sort et Effet magique'''
+|-
+| &nbsp;
+|-
+| '''Phase 3 : [[Tir et Lancer|Tir]]'''
+|-
+| * '''Initiative entre tireurs''' : facteur d'initiative + 1d6
+|-
+| * '''Tir''' : [[Les Caractéristiques#Tir|Tir]]/compétence d'arme - difficulté du tir
+|-
+| * '''Parade''' : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#BOUCLIER|Bouclier]] - difficulté de parade
+|-
+| * '''[[Conditions, Tactiques & Dommages|Dommages]]''' et '''[[Détérioration]]'''
+|-
+| &nbsp;
+|-
+| '''Phase 4 : [[Tir et Lancer|Lancer]]'''
+|-
+| * '''Initiative entre lanceurs''' : facteur d'initiative + 1d6
+|-
+| * '''Lancer''' : [[Les Caractéristiques#Lancer|Lancer]]/compétence d'arme - difficulté du lancer
+|-
+| * '''Parade''' : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#BOUCLIER|Bouclier]] - difficulté de parade/ esquive
+|-
+| ou '''Esquive''' : [[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Esquive]] - difficulté de parade/ esquive
+|-
+| * '''[[Conditions, Tactiques & Dommages|Dommages]]''' et '''[[Détérioration]]'''
+|-
+| &nbsp;
+|-
+| '''Phase 5 : [[Mêlée]]'''
+|-
+| * '''Initiative entre combattants''' : facteur d'iniriarive + 1d6
+|-
+| * '''Attaque''' : [[Les Caractéristiques#Mêlée|Mêlée]]/compétence d'arme - difficulté libre
+|-
+| * '''Parade''' : [[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#BOUCLIER|Bouclier]] ou arme - difficulté de l'attaque
+|-
+| ou '''Esquive''' : [[Les Caractéristiques#Dérobée|Dérobée]]/[[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Esquive]] - difficulté de l'attaque
+|-
+| * '''[[Conditions, Tactiques & Dommages|Dommages]]''' et '''[[Détérioration]]'''
+|-
+| &nbsp;
+|-
+| '''Phase 6 : Actualisation des mouvements'''
+|-
+| Actualisation des déplacements déclarés à la Phase 1.
+|-
+| (Engagement en mêlée, désengagement, fuite...)
+|-
+| &nbsp;
+|-
+| '''Phase 7 : Santé et actions diverses'''
+|-
+| * '''Gestion des blessures reçues aux rounds précédents'''
+|-
+| &nbsp;&nbsp;&nbsp;-1  point d'endurance par blessure grave
+|-
+| &nbsp;&nbsp;&nbsp;jet de Vie pour les blessures critiques
+|-
+| &nbsp;&nbsp;&nbsp;jet de Vie pour les blessures graves toutes les SC minutes
+|-
+| * '''Actions diverses''' (soins, discussion ou tâches)
+|-
+| * ''' Conditions des combattants pour le round suivant'''
+|-
+| Normales, Surprise ou demi-surprise
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Mêlée'''
+|-
+| style="text-align:center;" | '''Initiative prioritaire du premier round'''
+|-
+| Arme d'hast
+|-
+| Lance
+|-
+| Bâton
+|-
+| Double-dragonne
+|-
+| Esparlongue
+|-
+| Épée dragonne
+|-
+| Épée bâtarde
+|-
+| Épée cyane
+|-
+| Épée sorde
+|-
+| Grande hache
+|-
+| Hache de bataille
+|-
+| Épée gnome
+|-
+| Masses
+|-
+| Gourdin
+|-
+| Fléaux
+|-
+| Dague
+|-
+| Armes naturelles
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Réussite particulière'''
+|-
+| '''Force'''
+|-
+| ''(+ dom majoré de +5)''
+|-
+| '''Finesse'''
+|-
+| ''(chances réduite; de parer/esquiver le coup)''
+|-
+| '''Rapidité'''
+|-
+| ''(nouvelle utilisation possible de l'arme durant le round)''
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Initiative'''
+|-
+| '''facteur d'initiative'''
+|-
+| '''+ 1d6'''
+|-
+| '''- état général''' ''(fatigue, vie)''
+|-
+| '''+ bonus [[Le Round de Combat#Mêlée inégale|mêlée inégale]]''' ''( +1 par membre du groupe)''
+|-
+| &nbsp;
+|-
+| Les actions ont toujours lieu dans l'ordre décroissant des initiatives
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| style="text-align:center;" | '''Dommages des Tirs'''
+|-
+| 2d10 + (+dom arme) - Protection
+|-
+| &nbsp;
+|-
+| style="text-align:center;" | '''Dommages des Lancers et de Mêlée'''
+|-
+| 2d10 + (+dom arme) + (+dom personnel) - Protection
+|-
+| &nbsp;
+|-
+| style="text-align:center;" | '''Bonus aux dommages'''
+|-
+| Particulière en Force : +5
+|-
+| Surprise ''(en mêlée seulement)'' : +10
+|-
+| Demi-surprise ''(en mêlée seulement)'' : +1
+|-
+| Feinte ''(duel uniquement)'' : +1
+|-
+| Charge ''(en mêlée seulement)'' : +2
+|}
