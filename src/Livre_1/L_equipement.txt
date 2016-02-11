@@ -378,9 +378,9 @@ devra mentionner parmi les possessions du sac à dos : « outre N°x », et dans
 |-
 | style="text-align:left;" colspan="2" | '''HERBES DIVERSES'''  || '''prix''' 
 |-
-| style="text-align:left;" colspan="2" | <small>''(voir [[Accueil#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]] ''</small>  ||  
+| style="text-align:left;" colspan="2" | <small>''(voir [[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]] ''</small>  ||  
 |-
-| style="text-align:left;" colspan="2" | <small>'' et [[Accueil#Le Livre des Mondes|Le Livre des Mondes]])''</small>  ||  
+| style="text-align:left;" colspan="2" | <small>'' et [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]])''</small>  ||  
 |-
 | style="text-align:left;" colspan="2" | <small>''unité = 1 brin''</small>  ||  
 |-
@@ -428,7 +428,7 @@ devra mentionner parmi les possessions du sac à dos : « outre N°x », et dans
 |-
 | style="text-align:left;" colspan="2" | '''SELS ALCHIMIQUES'''  || '''prix''' 
 |-
-| style="text-align:left;" colspan="2" | <small>''(voir [[Accueil#Le Livre des Mondes|Le Livre des Mondes]])''</small>  ||  
+| style="text-align:left;" colspan="2" | <small>''(voir [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]])''</small>  ||  
 |-
 | style="text-align:left;" colspan="2" | <small>''unité = 1 pépin''</small>  ||  
 |-

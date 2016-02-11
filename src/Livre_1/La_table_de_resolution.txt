@@ -7,8 +7,8 @@ Parallèlement, toute action se voit attribuer une ''difficulté'', exprimée co
 
  [[L’Étincelle de Vie|Retour vers L’Étincelle de Vie]]
 
+== La table de Résolution ==
 {| class="wikitable alternance centre" style="text-align:center;"
-|+ La table de Résolution
 |-
 ! -10 !! -9 !! -8 !! -7 !! -6 !! -5 !! -4 !! -3 !! -2 !! -1 !! 0 !! +1 !! +2 !! +3 !! +4 !! +5 !! +6 !! +7
 |-
@@ -60,39 +60,42 @@ L'ajustement zéro est ainsi la caractéristique x5 et l'ajustement +10 la carac
 == Les difficultés ==
 Évaluer les difficultés est la tâche principale du gardien des rêves. Les règles présentent un grand nombre de cas de figure préétablis, saut, soins des blessures, lancer des sorts, etc. ; dans les scénarios, les principales difficultés sont indiquées ; mais la variété totale des actions est telle, les conditions de chacune sont tellement spécifiques, qu'on ne saurait tout prévoir et mettre en table. C'est donc à chaque gardien des rêves de prendre en charge cet important aspect du jeu, en se basant sur les tables existantes et les exemples des scénarios.<BR>
 Un peu de bon sens suffit, aidé par la table des Difficultés, qui octroie un qualificatif aux principaux ajustements. Se rappeler que la difficulté zéro n'est « moyenne » que statistiquement parlant.
-{| class="wikitable"
-|+ Difficultés
+{| style="border:1px solid black;text-align:left;"
 |-
-| -10 <small>''et en deça''</small>  || chimérique
+| colspan="2" style="text-align:center;" | '''<big>Difficultés</big>'''
 |-
-| -9 || presque insurmontable
+| -10 <small>''et en deça''</small>  || style="text-align:right;" | chimérique
 |-
-| -8 || extrêmement difficile
+| -9 || style="text-align:right;" | presque insurmontable
 |-
-| -7 || très difficile
+| -8 || style="text-align:right;" | extrêmement difficile
 |-
-| -6 || difficile
+| -7 || style="text-align:right;" | très difficile
 |-
-| -5 || problématique
+| -6 || style="text-align:right;" | difficile
 |-
-| -4 || laborieux
+| -5 || style="text-align:right;" | problématique
 |-
-| -3 || très malaisé
+| -4 || style="text-align:right;" | laborieux
 |-
-| -2 || malaisé
+| -3 || style="text-align:right;" | très malaisé
 |-
-| -1 || assez malaisé
+| -2 || style="text-align:right;" | malaisé
 |-
-| 0 || moyen
+| -1 || style="text-align:right;" | assez malaisé
 |-
-| +1 || assez facile
+| 0 || style="text-align:right;" | moyen
 |-
-| +2 || facile
+| +1 || style="text-align:right;" | assez facile
 |-
-| +3 || très facile
+| +2 || style="text-align:right;" | facile
 |-
-| +4 <small>''et au delà''</small>|| encore plus facile
+| +3 || style="text-align:right;" | très facile
+|-
+| +4 <small>''et au delà''</small>|| style="text-align:right;" | encore plus facile
 |}
+
+
 ''Nitouche, le personnage qui nous servira d'exemple tout au long de ces règles, tente de sauter par dessus une haie. Le gardien des rêves estime la difficulté malaisée (-2). L'action requiert la caractéristique Mêlée et la compétence Saut. Nitouche a 10 en Mêlée et -2 en Saut.''<BR>
 ''On calcule ainsi son ajutement final : (-2)+(-2) = -4.''<BR>
 ''Dans la colonne -8, on repère sa caractéristique de Mêlée (10) ; tout en haut de la table,  en horizontal, on repère l'ajustement final (-4) ; et l'on voit que la croisée des deux donne 30. Cela signifie que Nitouche a 30% de chances de sauter correctement. On joue un jet de pourcentage, et si le résultat est égal ou inférieur à 30, l'action réussit ; dans le cas contraire, elle échoue.''
