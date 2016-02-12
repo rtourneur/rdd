@@ -7,7 +7,7 @@ Ces dommages dépendent de la hauteur de chute et du type de sol de réception. 
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Chutes'''
+| colspan="2" | '''<big>Chutes</big>'''
 |-
 | ''hauteur en mètres'' || ''+dom''
 |-
@@ -38,12 +38,10 @@ Ces dommages dépendent de la hauteur de chute et du type de sol de réception. 
 | style="text-align:left;" | 1,5 || -3
 |-
 | style="text-align:left;" | de sa propre hauteur || (0)
-|}
-
-
-{|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Sol de réception'''
+| &nbsp; || 
+|-
+| colspan="2" | '''<big>Sol de réception</big>'''
 |-
 | style="text-align:left;" | Paille, neige || -4
 |-
@@ -72,7 +70,7 @@ Quand un personnage est touché par le feu, il joue un jet d'encaissement modul�
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Feux'''
+| colspan="2" | '''<big>Feux</big>'''
 |-
 ! Nature !! +dom
 |-

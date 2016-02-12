@@ -26,7 +26,7 @@ Quand un empoigneur retourne a zéro point d'''emp'', son adversaire est totalem
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Cas d'engagement'''
+| style="text-align:center;" | '''<big>Cas d'engagement</big>'''
 |-
 | '''1. Empoigneur contre personnage armé'''. Le personnage armé a automatiquement l'initiative et un bonus de +4 à l'attaque. L'empoigneur ne peut qu'esquiver. S'il est touché, ne serait-ce que d'une contusion, sa tentative d'empoignade échoue du même coup. On passe directement au round suivant avec les mêmes conditions, le personnage armé conservant l'initiative et +4 à l'attaque. Si l'empoigneur esquive, il peut livrer son attaque d'empoignade, que le personnage armé peut tenter d'esquiver à son tour. S'il esquive, on revient aux mêmes conditions qu'au tout début. S'il n'esquive pas, l'empoigneur marque 1 point d'''emp'', et l'on passe à Empoignade en cours. À ce stade, le personnage armé doit utiliser Corps à corps pour se libérer, il ne peut plus se servir de son arme, à moins qu'il ne s'agisse d une dague (voir ci-après).
 |-

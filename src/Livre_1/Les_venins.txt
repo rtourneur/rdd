@@ -13,7 +13,7 @@ Des premiers soins (vomitif, extraction du venin, etc) ne sont possibles que tan
 Si tous les points de tâche sont obtenus avant que l'empoisonné n'ait subi de dommages, l'empoisonnement est enrayé.
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Test d'Empoisonnement'''
+| colspan="2" style="text-align:center;" | '''<big>Test d'Empoisonnement</big>'''
 |-
 | colspan="2" | '''Sans antidote'''
 |-
@@ -51,7 +51,7 @@ Si tous les points de tâche sont obtenus avant que l'empoisonné n'ait subi de 
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Le venin de la vipère jaune'''
+| colspan="2" style="text-align:center;" | '''<big>Le venin de la vipère jaune</big>'''
 |-
 ! Malignité 
 | 2
@@ -75,7 +75,7 @@ L'enchantement des antidotes est analogue en tous points à celui des remèdes, 
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="3" | '''Antidotes universels'''
+| colspan="3" | '''<big>Antidotes universels</big>'''
 |-
 | colspan="3" style="text-align:left;" | Les 10 grandes herbes de soin connues, préparées en décoctions, sont des ''antidotes universels'', valables contre tous les venins et substances vénéneuses. Leur efﬁcacité est malheureusement très faible, comparée aux antidotes plus spécifiques. Pour posséder un pouvoir d'antidote, elles doivent avoir été préparées avec le nombre optimal de brins, c'est à dire 12 - ''bonus standard de l'herbe''. L'efﬁcacité d'antidote des 10 herbes diffère sensiblement du bonus standard.
 |-

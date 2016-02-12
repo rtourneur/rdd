@@ -57,7 +57,7 @@ Bien qu'étant toujours tenu en main, le fouet est considéré comme une arme de
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="6" | '''Armes de Mêlée'''
+| colspan="6" | '''<big>Armes de Mêlée</big>'''
 |-
 ! !! +dom !! force !! enc !! res !! sols
 |-
@@ -113,7 +113,7 @@ Bien qu'étant toujours tenu en main, le fouet est considéré comme une arme de
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="4" | '''Armes de Tir'''
+| colspan="4" | '''<big>Armes de Tir</big>'''
 |-
 ! !! +dom !! enc !! sols
 |-
@@ -129,7 +129,7 @@ Bien qu'étant toujours tenu en main, le fouet est considéré comme une arme de
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="4" | '''Armes de Lancer'''
+| colspan="4" | '''<big>Armes de Lancer</big>'''
 |-
 ! !! +dom !! enc !! sols
 |-

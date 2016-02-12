@@ -4,7 +4,7 @@ de l'''activité'' de cette dernière, immobile ou au contraire courant en zigza
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Difficulté de tir'''
+| colspan="2" style="text-align:center;" | '''<big>Difficulté de tir</big>'''
 |-
 | Portée courte || 0
 |-
@@ -34,7 +34,7 @@ de l'''activité'' de cette dernière, immobile ou au contraire courant en zigza
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="4" style="text-align:center;" | '''Portée des armes'''
+| colspan="4" style="text-align:center;" | '''<big>Portée des armes</big>'''
 |-
 | colspan="4" style="text-align:center;" | <small>'''(en mètres)'''</small>
 |-
@@ -72,7 +72,7 @@ Dague, javelot et fouet, peuvent non seulement être parés au bouclier, mais é
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Parade/ Esquive'''
+| colspan="2" style="text-align:center;" | '''<big>Parade/ Esquive</big>'''
 |-
 | Immobile et prêt || 0
 |-

@@ -7,7 +7,7 @@ Le ''téthanatos'' est pris en exemple de maladie dans ce chapitre. D'autres mal
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Caractéristiques des maladies'''
+| colspan="2" style="text-align:center;" | '''<big>Caractéristiques des maladies</big>'''
 |-
 ! Malignité 
 | C'est la difficulté ajustant les jets de CONSTITUTION.
@@ -25,7 +25,7 @@ Le ''téthanatos'' est pris en exemple de maladie dans ce chapitre. D'autres mal
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Le Téthanatos'''
+| colspan="2" style="text-align:center;" | '''<big>Le Téthanatos</big>'''
 |-
 | colspan="2" | Le téthanatos est un mal mortel, usuellement transmis par les blessures causées par les objets souillés, les armes des Groins, par exemple. Dans tous les cas, c'est au gardien des rêves de décider si la maladie peut être contractée ou non (par un jet de CHANCE par exemple).
 |-
@@ -50,7 +50,7 @@ Les pertes de points de vie s'accompagnent toujours du double de perte de points
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Test de Maladie'''
+| colspan="2" style="text-align:center;" | '''<big>Test de Maladie</big>'''
 |-
 ! Particulière 
 | Fin de la maladie.
@@ -86,7 +86,7 @@ guérison des maladies ni des venins.
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="3" | '''Remèdes et antidotes'''
+| colspan="3" | '''<big>Remèdes et antidotes</big>'''
 |-
 | colspan="3" style="text-align:left;" | Les remèdes et antidotes sont des préparations alchimiques complexes. On peut les trouver chez les apothicaires. Leur efficacité n'est pas fixe et dépend cas par cas des maladies et venins. Le prix indiqué correspond à une dose. Se souvenir que seuls les fluides peuvent être enchantés.
 |-

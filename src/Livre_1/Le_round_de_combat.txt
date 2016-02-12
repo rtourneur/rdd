@@ -25,7 +25,7 @@ Pour les principales armes, l'ordre décroissant figure ainsi : arme d'hast, lan
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Phases du round de combat'''
+| colspan="2" style="text-align:center;" | '''<big>Phases du round de combat</big>'''
 |-
 ! rowspan="2" width="15%" | Phase 1 
 | '''Déclaration d'intention'''

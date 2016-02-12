@@ -46,7 +46,7 @@ Un personnage reculant sous le choc ou chutant ne peut pas attaquer durant le re
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="4" style="text-align:center;" |'''Détérioration'''
+| colspan="4" style="text-align:center;" |'''<big>Détérioration</big>'''
 |-
 | colspan="2" | '''Armure''' ||  colspan="2" rowspan="2" | (+dom attaque) points de détérioration
 |-
@@ -62,7 +62,7 @@ Un personnage reculant sous le choc ou chutant ne peut pas attaquer durant le re
 |-
 | colspan="4" | &nbsp;
 |-
-| colspan="4" style="text-align:center;" | '''Recul sous le choc'''
+| colspan="4" style="text-align:center;" | '''<big>Recul sous le choc</big>'''
 |-
 | colspan="4" style="text-align:center;" | <small>10/ -(TAILLE - Impact)</small>
 |-

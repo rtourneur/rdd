@@ -40,7 +40,7 @@ Frapper un personnage inconscient ou réduit à l'impuissance ne requiert aucun 
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="5" | '''Conditions et Tactiques'''
+| colspan="5" | '''<big>Conditions et Tactiques</big>'''
 |-
 ! !! initiative !! attaque !! défenseur !! +dom
 |-

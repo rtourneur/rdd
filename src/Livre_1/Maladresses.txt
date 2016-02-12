@@ -5,7 +5,7 @@ En cours de combat, un échec total indique toujours qu'une dangereuse maladress
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="3" | '''Maladresses'''
+| colspan="3" | '''<big>Maladresses</big>'''
 |-
 ! Armé !! Non armé !! Maladresse
 |-

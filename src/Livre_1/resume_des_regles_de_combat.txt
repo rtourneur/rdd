@@ -8,7 +8,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Les Sept Phases du Round'''
+| style="text-align:center;" | '''<big>Les Sept Phases du Round</big>'''
 |-
 | &nbsp;
 |-
@@ -110,7 +110,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Mêlée'''
+| style="text-align:center;" | '''<big>Mêlée</big>'''
 |-
 | style="text-align:center;" | '''Initiative prioritaire du premier round'''
 |-
@@ -152,7 +152,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Réussite particulière'''
+| style="text-align:center;" | '''<big>Réussite particulière</big>'''
 |-
 | '''Force'''
 |-
@@ -170,7 +170,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Initiative'''
+| style="text-align:center;" | '''<big>Initiative</big>'''
 |-
 | '''facteur d'initiative'''
 |-
@@ -188,7 +188,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Dommages des Tirs'''
+| style="text-align:center;" | '''<big>Dommages des Tirs</big>'''
 |-
 | 2d10 + (+dom arme) - Protection
 |-
