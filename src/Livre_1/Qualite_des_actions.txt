@@ -141,17 +141,17 @@ Le personnage joue un jet de Caractéristique/Compétence concernées avec une d
 |-
 ! Résultat !! Points de qualité
 |-
-| ''Ech.T.'' || -6
+| style="text-align:left;" | ''Ech.T.'' || -6
 |-
-| ''Ech.P.'' || -4
+| style="text-align:left;" | ''Ech.P.'' || -4
 |-
-| ''Ech.'' || -2
+| style="text-align:left;" | ''Ech.'' || -2
 |-
-| ''Norm.'' || 0
+| style="text-align:left;" | ''Norm.'' || 0
 |-
-| ''Sign.'' || +1
+| style="text-align:left;" | ''Sign.'' || +1
 |-
-| ''Part.'' || +2
+| style="text-align:left;" | ''Part.'' || +2
 |}
 Le personnage ajoute alors les points obtenus à son niveau de compétence, et la somme indique la qualité finale de son oeuvre. En cas de réussite particulière, la qualité minimale est zéro, même si la somme des facteurs donne un nombre négatif.
  '''Qualité = niveau de compétence + points de qualité obtenus'''

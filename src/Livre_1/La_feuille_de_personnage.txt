@@ -155,6 +155,7 @@ Il est normalement impossible d'acquérir un sort ou un rituel d'une difficulté
 * ''Voie d'Hypnos +3 (175 pts),''
 * ''Voie de Narcos 0 (115 pts)''
 
+
 ''<big>Sorts</big>''<BR>
 ''Restent 285 points pour acheter les sorts. Nitouche aimerais entre autre connaître l'invocation d'un Guerrier Sorde R-8. Avec son +3 en Hypnos, ce rituel ne lui est normalement pas accessible, et l'on doit supposer qu'elle a pu l'apprendre grâce à un grimoire spécial. Toutefois, il lui faut dépenser 120 points au lieu de 80 (deux niveaux supplémentaires font une majoration de 40 points).''
 
@@ -270,7 +271,7 @@ Trouver un nom pour le personnage et l'inscrire dans la banderole.
 Choisir librement une heure parmi les douze (voir [[Au Fil des Jours]]).
 {|style="border:1px solid black;text-align:center;" 
 |-
-|colspan="2" |'''Heures de Naissance'''
+|colspan="2" | '''<big>Heures de Naissance</big>'''
 |-
 | width="25%" | 1. || Le Vaisseau
 |-
@@ -338,7 +339,7 @@ La Beauté est réellement la joliesse des traits, la grâce générale du corps
 Tous les personnages ont une base gratuite de 10 en Beauté. Ils peuvent librement se retrancher des points pour être plus laids, ces points étant alors perdus, non utilisables pour autre chose. Ils peuvent de même augmenter leur Beauté jusqu'à 16, mais doivent pour cela retrancher des points à leurs caractéristiques, c'est-à-dire prélever les 1 à 6 points de supplément de Beauté sur les 160 points alloués.
 {|style="border:1px solid black;text-align:center;" 
 |-
-| colspan="2" | '''Beautés'''
+| colspan="2" | '''<big>Beautés</big>'''
 |-
 |width="25%" | 3 || style="text-align:left;" | hideux
 |-

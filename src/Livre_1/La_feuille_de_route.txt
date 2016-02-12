@@ -29,7 +29,7 @@ Le nombre total de cases est toujours égal au double de l'Endurance du personna
 Pour les Endurances qui ne sont pas un multiple de 6, utiliser le tableau de répartition ci-dessous :
 {| style="border:1px solid black;text-align:center;"
 |-
-| colspan="9" |  '''Fatigue'''
+| colspan="9" | '''<big>Fatigue</big>'''
 |-
 ! ''<small>Lignes</small>'' !! width="11%" | ''<small>0</small>'' !! width="11%" | ''<small>-1</small>'' !! width="11%" | ''<small>-2</small>'' !! width="11%" | ''<small>-3</small>'' !! width="11%" | ''<small>-4</small>'' !! width="11%" | ''<small>-5</small>'' !! width="11%" | ''<small>-6</small>'' !! width="11%" | ''<small>-7</small>'' 
 |- 

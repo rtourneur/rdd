@@ -25,7 +25,7 @@ Pour chaque heure de marche, le voyageur marque un nombre de points de fatigue �
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="6" | '''Marche (km/h)'''
+| colspan="6" | '''<big>Marche (km/h)</big>'''
 |-
 ! style="text-align:left;"| Terrain !! width="10%" | V1 !! width="10%" | V2 !! width="10%" | V3 !! width="10%" | V4 !! width="10%" | V6
 |-
@@ -60,7 +60,7 @@ La vitesse dite de course est le double de la vitesse de combat, permettant de p
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Course'''
+| colspan="2" | '''<big>Course</big>'''
 |-
 ! scope="row" width="50%" style="text-align:left;" | ''Ech.T.''
 | maladresse
@@ -104,7 +104,7 @@ Chaque point d'encombrement porté, et non pas seulement excédentaire au seuil 
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Nage'''
+| colspan="2" | '''<big>Nage</big>'''
 |-
 ! scope="row" width="50%" style="text-align:left;" | ''Ech.T.''
 | maladresse
@@ -144,7 +144,7 @@ le saut en contrebas, on utilise ''[[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Saut en hauteur'''
+| colspan="2" | '''<big>Saut en hauteur</big>'''
 |-
 ! scope="row" width="50%" style="text-align:left;" | 2m
 | -8
@@ -169,7 +169,7 @@ le saut en contrebas, on utilise ''[[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Saut en longueur'''
+| colspan="2" | '''<big>Saut en longueur</big>'''
 |-
 ! scope="row" width="50%" style="text-align:left;" | 7m
 | -8
@@ -194,7 +194,7 @@ le saut en contrebas, on utilise ''[[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="2" | '''Saut en contrebas'''
+| colspan="2" | '''<big>Saut en contrebas</big>'''
 |-
 ! scope="row" width="50%" style="text-align:left;" | 6m
 | -8

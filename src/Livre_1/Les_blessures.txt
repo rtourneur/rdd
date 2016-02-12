@@ -10,7 +10,7 @@ Il est recommandé que ce soit la victime qui tire elle-même son jet d'encaisse
 
 {|style="border:1px solid black;text-align:center;"
 |-
-! Jet d'encaissement
+! <big>Jet d'encaissement</big>
 |-
 | 2d10 + (+dom) - (protection)
 |}
@@ -18,7 +18,7 @@ Il est recommandé que ce soit la victime qui tire elle-même son jet d'encaisse
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="4" | '''Blessures'''
+| colspan="4" | '''<big>Blessures</big>'''
 |-
 ! width="15%" | ''jet'' !! ''type de blessure'' !! ''perte d'endurance'' !! ''perte de vie''
 |-
@@ -38,7 +38,7 @@ Cette table est notamment utilisée pour les chutes « de sa propre hauteur », 
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="4" | '''Coups non mortels'''
+| colspan="4" | '''<big>Coups non mortels</big>'''
 |-
 ! width="15%" | ''jet'' !! ''type de blessure'' !! ''perte d'endurance'' !! ''perte de vie''
 |-
@@ -93,7 +93,7 @@ C'est entièrement au gardien des rêves de décider où personnages et créatur
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Localisation (1d20)'''
+| colspan="2" style="text-align:center;" | '''<big>Localisation (1d20)</big>'''
 |-
 | width="25%" | 19-20 || Tête, gorge, ''nuque'' 
 |-

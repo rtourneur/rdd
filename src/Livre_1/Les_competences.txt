@@ -9,24 +9,25 @@ Si aucun point n'est alloué dans une compétence, cette dernière sera posséd�
 
  [[Anatomie d'un Voyageur|Retour vers L'Anatomie d'un Voyageur]]
 
-{|
-|+<big>'''Compétences et Niveau de base'''</big>
+{| style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | <big>'''Compétences et Niveau de base'''</big>
 |-
 !  !! '''''niveau de base'''''
 |-
-| '''[[#Compétences générales|Compétences générales]]''' || align="center"|'''-4'''
+| style="text-align:left;" | '''[[#Compétences générales|Compétences générales]]''' || align="center"|'''-4'''
 |-
-| '''[[#Combat de Mêlée|Compétences de combat de mêlée]]''' || align="center"|'''-6'''
+| style="text-align:left;" | '''[[#Combat de Mêlée|Compétences de combat de mêlée]]''' || align="center"|'''-6'''
 |-
-| '''[[#Compétences particulières|Compétences particulières]]''' || align="center"|'''-8'''
+| style="text-align:left;" | '''[[#Compétences particulières|Compétences particulières]]''' || align="center"|'''-8'''
 |-
-| '''[[#Tir et Lancer|Tir et Lancer]]''' || align="center"|'''-8'''
+| style="text-align:left;" | '''[[#Tir et Lancer|Tir et Lancer]]''' || align="center"|'''-8'''
 |-
-| '''[[#Compétences spécialisées|Compétences spécialisées]]''' || align="center"|'''-11'''
+| style="text-align:left;" | '''[[#Compétences spécialisées|Compétences spécialisées]]''' || align="center"|'''-11'''
 |-
-| '''[[#Connaissances|Connaissances]]''' || align="center"|'''-11'''
+| style="text-align:left;" | '''[[#Connaissances|Connaissances]]''' || align="center"|'''-11'''
 |-
-| '''[[#Draconic|Draconic]]''' || align="center"|'''-11'''
+| style="text-align:left;" | '''[[#Draconic|Draconic]]''' || align="center"|'''-11'''
 |}
 
 == Compétences générales ==

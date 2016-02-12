@@ -30,7 +30,7 @@ Le premier test de récupération de point de vie peut avoir lieu le lendemain d
 
 {|style="border:1px solid black;text-align:center;"
 |-
-! colspan="2" | '''Récupération des points de vie'''
+! colspan="2" | '''<big>Récupération des points de vie</big>'''
 |-
 | colspan="2" | (CONSTITUTION / - points de vie perdus)
 |-

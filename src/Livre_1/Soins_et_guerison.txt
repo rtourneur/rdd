@@ -20,7 +20,7 @@ Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="7" | '''Soins des blessures'''
+| colspan="7" | '''<big>Soins des blessures</big>'''
 |-
 ! !! ''Diff.'' !! ''Tâches'' !! ''Pansement'' !! ''Herbes'' !! ''Temps'' !! ''Magie''
 |-
@@ -34,7 +34,7 @@ Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Soins complets'''
+| style="text-align:center;" | '''<big>Soins complets</big>'''
 |-
 | '''''Ech. T'''''. L'hémorragie recommence. Les décomptes d'endurance et de vie repartent. Les soins doivent être repris au tout début (phase de premiers soins) avec un malus de -1. Pansements et eau doivent être dépensés à nouveau.
 |-
@@ -75,7 +75,7 @@ Les bonus d'herbe ne sont valables que pour un seul test de guérison, que celui
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| style="text-align:center;" | '''Test de guérison des blessures'''
+| style="text-align:center;" | '''<big>Test de guérison des blessures</big>'''
 |-
 | style="text-align:center;" | (CONSTITUTION / Ajustement de guérison)
 |-
@@ -97,7 +97,7 @@ Les potions magiques de soin sont de simples décoctions d'herbes de soin enchan
 
 {|style="border:1px solid black;text-align:left;"
 |-
-| colspan="2" style="text-align:center;" | '''Guérison magique'''
+| colspan="2" style="text-align:center;" | '''<big>Guérison magique</big>'''
 |-
 | colspan="2" style="text-align:center;" | (POINTS DE GUÉRISON : points de rêve x bonus de l'herbe)
 |- 

@@ -19,7 +19,7 @@ La quantité de brins d'herbes demandée pour une décoction est de douze moins 
 
 {|style="border:1px solid black;text-align:center;"
 |-
-| colspan="4" | '''''Herbes de soin'''''
+| colspan="4" | '''<big>Herbes de soin</big>'''
 |-
 ! bonus !! herbe !! milieu !! prix au brin
 |-

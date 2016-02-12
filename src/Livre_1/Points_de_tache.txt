@@ -10,18 +10,19 @@ Chaque genre d'échec ou de réussite donne toujours le même nombre de points d
 |-
 ! colspan="2" | Points de Tâches
 |-
-| ''Ech.T.'' || -4
+| style="text-align:left;" | ''Ech.T.'' || -4
 |-
-| ''Ech.P.'' || -2
+| style="text-align:left;" | ''Ech.P.'' || -2
 |-
-| ''Ech.'' || 0
+| style="text-align:left;" | ''Ech.'' || 0
 |-
-| ''Norm.'' || +1
+| style="text-align:left;" | ''Norm.'' || +1
 |-
-| ''Sign.'' || +2
+| style="text-align:left;" | ''Sign.'' || +2
 |-
-| ''Part.'' || +3
+| style="text-align:left;" | ''Part.'' || +3
 |}
+
 Les points de tâche négatifs ne signifient pas que le travail a été « défait », mais qu'il en faut finalement plus que prévu. En cas d'échec total, outre 4 points négatifs, la difficulté des jets suivants acquiert un malus définitif de -1. Qui plus est, dans certains cas, le gardien des rêves peut estimer qu'une maladresse a été commise, qui ruine définitivement l'ensemble du travail. De même, il peut fixer un seuil négatif maximal qui, s'il est atteint, fait définitivement échouer l'action.
 
 ''À l'heure du Dragon, Nitouche et son nouveau compagnon sont arrêtés par une petite rivière. Comment traverser ? Nitouche n 'a pas trop envie de se jeter a l 'eau. « Je vais construire un pont ! » s'écrie Brucelin en commençant à taillader les sapins alentour avec son épée. Le jeune homme a 12 en DEXTÉRITÉ et +1 en Charpenterie. Au vu des conditions, une épée n'étant pas une hache, le gardien des rêves décide que pour obtenir une passerelle de fortune, il faut 6 points de tâche, périodicité 20 mn, difficulté -3, soit 48%.''<BR>
