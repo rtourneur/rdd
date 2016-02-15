@@ -1,0 +1,158 @@
+__NOTOC__
+L'expérience est représentée par des points d'expérience. Ces points servent à augmenter caractéristiques et compétences. Il y a deux grandes façons de gagner de l'expérience : par l'exercice sur le tas et par le souvenir de l'archétype.
+
+ [[L'Archétype|Retour à L'Archétype]]
+
+== Exercice ==
+Chaque fois qu'un personnage obtient une réussite ''particulière'' à l'un de ses jets d'action avec un ''ajustement final négatif'', il gagne des points d'expérience. Le nombre de points gagnés est égal en valeur absolue à l'ajustement final. Sur la feuille de personnage, les points gagnés sont inscrits dans la colonne de droite en regard de la compétence et de la caractéristique concernée, équitablement répartis entre les deux. Si le nombre gagné est impair, c'est la compétence qui en reçoit la plus grosse part. En cas de ''compétence absente'', la caractéristique ne reçoit que la moitié du nombre, avec un minimum de 1.
+
+''Nitouche joue un jet d'EMPATHIE/Survie en Cité avec une difficulté -6. Comme elle a +3 dans cette compétence, son ajustement final est de -3. Elle réussit une particulière et gagne donc 3 points d’expérience. Deux d'entre eux, la plus grosse part, iront en Survie en Cite, et le troisième en EMPATHIE. Brucelin obtient une réussite particulière à un jet de FORCE pure à -4 et gagne 2 points d’expérience en FORCE.''
+
+== Restrictions ==
+Aucune expérience ne peut être allouée en [[Les Caractéristiques#TAILLE|TAILLE]] ni directement dans l'une des quatre caractéristiques dérivées. Les points qui devraient être gagnés dans une dérivée sont répartis entre les composantes, par exemple entre [[Les Caractéristiques#FORCE|FORCE]] et [[Les Caractéristiques#AGILITÉ|AGILITÉ]] pour Mêlée ; s'il n'y a qu'un seul point, il va dans l'une des deux au choix du joueur. Pour [[Les Caractéristiques#Dérobée|Dérobée]], les points vont en [[Les Caractéristiques#AGILITÉ|AGILITÉ]]. Les dérivées n'augmentent que quand les composantes ont elles-mêmes suffisamment augmenté.<BR>
+Lors des combats, en cas de particulière en attaque, l'expérience n'est gagnée que si des dommages sont infligés. Si l'attaque est parée/esquivée, pas d'expérience.
+Quand un jet d'[[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#Connaissances|Connaissance]] n'est qu'un test de mémoire. l'expérience (divisée par deux) n'est gagnée
+qu'en [[Les Caractéristiques#INTELLECT|INTELLECT]]. (Se souvenir que Marignan eut lieu en 1515 peut fortifier la mémoire, mais n'implique pas que l'on connaisse mieux la culture des Incas.) L'expérience est répartie normalement pour les actions : écrire, lire les étoiles. 
+=== Draconic ===
+Il y a deux colonnes d'expérience pour le Draconic : voie et sort. Les points gagnés par des particulières ne peuvent aller qu'en voie c'est-à-dire en compétence. La façon de gagner des points en sorts, pour l'acquisition de nouveaux sorts, est présentée dans le [[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Livre du Haut-rêve]].
+=== Limitations ===
+Les compétences n'ont théoriquement aucune limite, encore qu'il soit très difficile d'obtenir un ajustement final négatif quand une compétence est à +10 ou +11.<BR>
+Les caractéristiques physiques des Humains sont limitées à 20. Les caractéristiques mentales ([[Les Caractéristiques#VOLONTÉ|VOLONTÉ]], [[Les Caractéristiques#INTELLECT|INTELLECT]], [[Les Caractéristiques#EMPATHIE|EMPATHIE]], [[Les Caractéristiques#RÊVE|RÊVE]]), ainsi que [[Les Caractéristiques#CHANCE|CHANCE]], n'ont aucune limite.
+Si la [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], la [[Les Caractéristiques#FORCE|FORCE]] ou la [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] augmentent suffisamment pour modifier les points de vie, d'endurance, ou l'un des seuils, ne pas oublier de les remettre à jour à leur nouvelle valeur.<BR>
+Les tables d'Expérience indiquent le nombre de points nécessaires pour augmenter compétences et caractéristiques.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''<big>Caractéristiques</big>'''
+|-
+! style="text-align:left;" | Valeur visée !! Expérience
+|-
+| style="text-align:left;" | 7 à 8 || 6
+|-
+| style="text-align:left;" | 9 à 10 || 7
+|-
+| style="text-align:left;" | 11 à 12 || 8
+|-
+| style="text-align:left;" | 13 à 14 || 9
+|-
+| style="text-align:left;" | 15 || 10
+|-
+| style="text-align:left;" | 16 || 20
+|-
+| style="text-align:left;" | 17 || 30
+|-
+| style="text-align:left;" | 18 || 40
+|-
+| style="text-align:left;" colspan="2" | etc.
+|}
+
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''<big>Compétences</big>'''
+|-
+! Niveau visé !!  Expérience
+|-
+| -10 à -8 || - 5
+|-
+| -7 à -4 || - 10
+|-
+| -3 à 0 || 15
+|-
+| +1 à +4 || 20
+|-
+| +5 à +6 || 30
+|-
+| +7 à +8 || 40
+|-
+| +9 à +10 || 60
+|-
+| +11 ''et au-delà'' || 100
+|}
+
+== Apprentissage ==
+Il est également possible d'acquérir une compétence par apprentissage. Dans la réalité de leur vie, c'est certainement en grande partie à cela que les personnages doivent leurs 3000 points préliminaires. Mais ils sont maintenant adultes et l'apprentissage prend du temps. C'est au gardien des rêves de juger si un personnage peut apprendre une compétence, moyennant un maître pour la lui enseigner, du temps, et probablement de l'argent, sans oublier que l'apprentissage suppose une sédentarité peu compatible avec le voyage. Un maître peut être toute personne possédant la compétence à un niveau plus élevé que l'élève. Il est impossible, par apprentissage, de dépasser le niveau du maître.<BR>
+L'apprentissage a lieu entre deux aventures, durant la période de ''gris rêve'' (voir ''[[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]]''). Une fois résolus les problèmes de maître et de subsistance, à la discrétion du gardien des rêves en fonction de son scénario, on considérera qu'un personnage peut acquérir au maximum 3 points d'expérience par semaine jusqu'au niveau ''zéro'' inclus, puis, jusqu'au niveau +3 inclus, un point d'expérience par semaine. Rajouter ensuite une semaine par niveau (voir la table). Ces indications supposent un apprentissage à plein temps, 5 heures draconiques par jour au minimum.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''<big>Apprentissage</big>'''
+|-
+! Niveau visé !! Expérience
+|- 
+| -10 à 0 || style="text-align:left;" | 3 pts par semaine
+|- 
+| +1 || style="text-align:left;" | 1 pt par semaine
+|- 
+| +2 || style="text-align:left;" | 1 pt par semaine
+|- 
+| +3 || style="text-align:left;" | 1 pt par semaine
+|- 
+| +4 || style="text-align:left;" | 1 pt en 2 semaines
+|- 
+| +5 || style="text-align:left;" | 1 pt en 3 semaines
+|- 
+| +6 || style="text-align:left;" | 1 pt en 4 semaines
+|- 
+| etc. || 
+|}
+
+
+''Passer d'un niveau -11 a 0 demande 38 semaines, puis du niveau 0 a +1, 20 semaines. Passer de +3 a +4 demande 40 semaines, de +4 à +5 90 semaines, de +5 à +6 120 semaines, etc.''
+
+== Entraînement ==
+Contrairement à l'apprentissage, l'entraînement a lieu au cours-même des aventures, durant les heures creuses par exemple. Etant réellement joué, et non pas une commodité de ''gris rêve'', il peut être plus fructueux que l'apprentissage, mais a également ses revers : fatigue, maladresses.<BR>
+On peut s'entraîner seul à toutes les compétences physiques, incluant tir et lancer, mais les compétences de mêlée requièrent de s'entraîner à deux. Chaque période d,entraînement doit durer une pleine heure et coûte, selon la compétence, un minimum de 2 points de fatigue. A la fin de la période, le joueur joue 1d6, et son personnage a droit à autant de jets de dés. Ces jets sont joués avec la caractéristique concernée et une difficulté calculée de telle façon que l'''ajustement final'' soit de -1, quel que soit le niveau réel de la compétence entraînée (si la compétence est inférieure à zéro, la difficulté est forcément positive). Chaque réussite particulière fournit un point d'expérience, chaque échec total implique une maladresse. Dans le cas d'un entrainement en mêlée, la difficulté est calculée pour donner un ajustement final de -1 au plus faible des deux, qui peut donc seul gagner de l'expérience en cas de particulière. Les jets de dés sont néanmoins joués par les deux personnages, car les deux peuvent en revanche commettre des échecs totaux.<BR>
+Les Connaissances peuvent être développées de la même façon, à la condition expresse que l'élève ait un maître. Utiliser le même principe, sauf que seul l'élève joue les jets de dés, le maître n'ayant pas de maladresse à redouter.<BR>
+Une autre façon d'augmenter une connaissance est de lire et d'assimiler le contenu d'un livre sur le sujet. Chaque livre possède ses propres caractéristiques de difficulté de lecture ([[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ÉCRITURE|Écriture]]), de nombres de points de tâche à acquérir selon une certaine périodicité (usuellement 1 heure), et d'expérience finalement gagnée sur le sujet.
+
+== Souvenir de l'archétype ==
+Cette seconde façon de gagner des points d'expérience est de loin la plus fructueuse. Sous l'influence du ''stress'', les rêves nocturnes des personnages retrouvent des fragments de leurs « vies » antérieures, de rêves oubliés, en un mot un aperçu de leur archétype. L'impression de se retrouver est si forte qu'au matin, ils en conservent effectivement quelque chose. Tel personnage rêve de façon convaincante qu'il est un grand navigateur, et, au matin, il sait effectivement un peu mieux naviguer.
+=== Le stress : maximum 20 points ===
+Les points de stress sont en quelque sorte des points de ''pré-expérience''. Ils sont gagnés par les personnages à chaque situation stressante. C'est à chaque fois au gardien des rêves de juger du nombre de points de stress octroyés, en se souvenant que le maximum qu'une situation donnée puisse fournir est de 20 points.<BR>
+De toutes les situations, les combats sont généralement les plus stressants. Un combat qui tourne vite à l'avantage des joueurs peut rapporter 6 ou 8 points ; un combat difficile 10 ou 12 ; s'il y a des morts ou si l'affaire tourne au désastre, on peut approcher du maximum de 18 ou 20. Mais il n'y a pas que les combats qui soient stressants. Chaque fois qu'un personnage ''a eu chaud'', pour quelque raison que ce soit, il est en droit de recevoir des points de stress.
+
+''Pour la volée de pierres, Nitouche reçoit 5 points de stress. Pour sa chute dans le ravin, Brucelin en reçoit 10, et Nitouche, qui a sans doute eu aussi peur que lui, en reçoit 8. Les Groins étaient a trois contre deux, mais le combat a bien fini. Chaque voyageur reçoit 9 points.''
+
+== Jet de Stress ==
+A l'extrême fin du Château Dormant, tout personnage possédant des points de stress et ayant dormi au moins une heure durant la nuit, joue un jet de Stress. Ce jet est un jet de Rêve, ayant pour but de se souvenir de parcelles de l'archétype. Il est toujours joué non pas avec la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]], mais avec le nombre actuel de points de rêve (ces valeurs varient souvent chez les haut-rêvants.) La difficulté est toujours de zéro, aucune compétence, pas même le Draconic, ne lui est adjointe, ni aucun ajustement, malus ni bonus d'aucune sorte.
+ Points actuels de rêve / à zéro
+Selon le résultat du jet, un certain nombre de points de stress sont transformés en points d'expérience pouvant directement être alloués à une compétence.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''<big>Stress</big>'''
+|-
+! Résultat !! Stress transformé
+|-
+| Ech.T. || 0%
+|-
+| Ech.P. || 10%
+|-
+| Échec || 20%
+|-
+| Norm. || 50%
+|-
+| Sign. || 75%
+|-
+| Part. || 100%
+|-
+| D.Part. || 150%
+|}
+
+
+=== D.Part. ===
+La double particulière n'est utilisée que pour les jets de Stress. En cas de réussite particulière, rejouer. Si le second résultat est a nouveau une particulière ou une significative, c'est une double particulière. Tout autre résultat au second jet, même un échec total, indique une simple particulière.
+
+== Règles ==
+Les points d’expérience dus à la transformation du stress ne peuvent être alloués que dans les compétences, jamais dans les caractéristiques. En ce qui concerne le [[Les Compétences#Draconic|Draconic]], ils ne peuvent être alloués qu'en voie (voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'').<BR>
+Les points obtenus peuvent être alloués en bloc à une seule et même compétence, ou fractionnés entre plusieurs.<BR>
+Le joueur a la totale liberté de mettre ces points dans les compétences de son choix, même si ces compétences n'ont pas participé à l'acquisition du stress. La seule restriction est de ne les allouer qu'à des compétences qui soient encore présentement ''inférieures'' à celles de l’archétype. Le principe étant de retrouver un modèle plus accompli que son état actuel, on ne peut le faire si l'on a déjà dépasser ce modèle. Quand une compétence atteint le niveau de l’archétype, elle peut toujours progresser par l'exercice, mais plus par le stress.<BR>
+Les pourcentages sont toujours arrondis à l'inférieur : 20% de 8 (1,6) donne 1 ; 20% de 4 (0,8) donne 0.<BR>
+Quand tous les points de stress ne sont pas transformés, le personnage perd 1 point sur le nombre de points de stress restants. Puis le reste (s'il y a encore un reste après la diminution d'un point), pourra tenter d'être transformé le lendemain à la même heure, selon la même règle. Et ainsi de suite, de jour en jour, tant qu'il reste au moins un point. Entre temps, une nouvelle situation stressante peut venir rajouter d'autres points.
+
+''Le jour de l'épisode de l'avalanche, Nitouche a gagné 13 points de stress. Ayant au moins dormi une heure la nuit qui suit, elle joue un jet de Stress quand vient le moment privilégié de l'extrême fin du Château Dormant. Ses points de rêve sont toujours a 15 et 15 à zéro donne 75%. Avec un 67, elle obtient une réussite normale, transformant 50% de ses points, soit 6 points d expérience. Décidément hantée par la mer, elle décide de les mettre en Navigation. Puis elle en perd 1 sur les 7 restants, et en conserve ainsi 6 pour un nouvel essai le lendemain. C'est alors que survient la rencontre avec les Groins, qui lui procure 9 nouveaux points de stress, soit un total de 15.''<BR>
+''A l 'aube suivante, elle joue un nouveau jet de Stress et obtient une particulière ! Elle recommence aussitôt le jet, mais n 'obtient qu'une réussite normale, 100% transformés. Elle décide cette fois d'en mettre 5 en voie d'Hypnos et 10 en Esquive.''<BR>
+''« J'ai rêvé que j'esquivais toutes tes claques ! » explique-t-elle a Brucelin.''<BR>
+''Le regard de celui-ci devient songeur : « M'aurais-tu déjà rencontré dans un autre rêve ? ... »''
+

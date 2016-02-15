@@ -1,0 +1,46 @@
+__NOTOC__
+Si les personnages peuvent mourir et se réveiller dans un rêve différent, on peut supposer que ce rêve actuel, où ils viennent apparemment d'être créés par les joueurs, n'est pas leur premier. On peut supposer qu'ils sont déjà « morts » et « réveillés » un grand nombre de fois. Leur existence actuelle n'est qu'un maillon dans la grande chaîne. L'archétype d'un personnage est un condensé de lui-même, de tout ce qu'il a été au cours de ses supposées « vies » précédentes, il résume toute l'expérience et le savoir faire que le personnage a pu acquérir, sa mémoire globale.<BR>
+La feuille d'archétype résume toutes les compétences possibles dans le jeu, et présente par ailleurs les tables d'expérience nécessaires. Pour qu'un personnage soit complet, il faut lui créer son archétype. Chaque compétence de la liste doit, sans exception, recevoir un niveau, y compris celles que le personnage ne possède pas dans son « incarnation » présente. Car si un personnage ne possède pas telle compétence actuellement, il a pu la posséder dans un autre rêve, une autre « vie ».
+
+ [[L'Archétype|Retour à L'Archétype]]
+
+[[Fichier:Feuille d archetype.jpeg|vignette|La Feuille d'Archétype]]
+
+== Répartition des niveaux ==
+Une compétence, une seule, se voit attribuer un niveau +11, celle qui symbolise le mieux, archétypiquement, le personnage. Une autre se voit attribuer un niveau +10. Deux autres auront droit a un niveau +9. Puis 5 autres a un niveau +8, puis 4 a un niveau +7, et ainsi de suite selon la table de Répartition. Sur l'archétype, aucune compétence n'est inférieure a zéro.<BR>
+Le niveau actuellement possédé par le personnage n'a aucune importance lors de l'élaboration de son archétype. Il est simplement conseillé que les compétences de l'archétype soient toujours plus hautes que celles actuellement possédées par le personnage.
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''<big>Répartition</big>'''
+|-
+! Niveau !! Nombre
+|-
+| +11 || 1
+|-
+| +10 || 1
+|-
+| +9 || 2
+|-
+| +8 || 3
+|-
+| +7 || 4
+|-
+| +6 || 5
+|-
+|  +5 || 6
+|-
+| +4 || 7
+|-
+| +3 || 8
+|-
+| +2 || 9
+|-
+| +1 || 10
+|-
+| 0 || le reste
+|}
+
+
+''Nitouche est avant tout une haut-rêvante. San archétype a +11 en Hypnos, +10 en Oniros, +9 en Narcos. Elle a toujours été attirée par la musique au cours de ses rêves et Musique reçoit le deuxième +9. Un des trais +8 va en Navigation (Brucelin aurait-il deviné juste ?) ; un autre en Légendes ; et le troisième en Survie en Cité. On répartit ensuite ses 4 niveaux +7, et ainsi de suite, pour finir par mettre un niveau zéro a celles qui la concernent peu : Thanatos, Armes d'hast, Pickpocket, etc.''
+
