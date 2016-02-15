@@ -1,0 +1,109 @@
+__NOTOC__
+Les douze heures de naissance sont les douze signes du zodiaque de ''Rêve de Dragon''. Etre né à l'heure du Dragon, comme Nitouche, revient à être du signe du Dragon.<BR>
+Chaque jour, chacun des 12 signes est ''très favorisé'' pendant l'une des douze heures (pas forcément celle qui lui correspond), et inversement ''très defavorisé'' pendant l'une des onze autres. Chaque signe est également ''un peu favorisé'' pendant ''deux'' des heures de la journée, et ''un peu défavorisé'' pendant deux autres. Les six heures restantes sont neutres.
+
+ [[La Destinée|Retour à La Destinée]]
+
+== Nombre astral ==
+[[Fichier:Heures draconiques.jpeg|vignette|Heures Draconiques]]
+Chaque jour qui passe dans ''Rêve de Dragon'' possède un nombre astral, un nombre allant de 1 à 12. Pour chaque journée, ce nombre est déterminé par le gardien des rêves. Il peut le choisir librement, ou s'il préfère, le tirer au sort en jetant 1d12.<BR>
+Pour chacun des signes, la meilleure heure, l'heure très favorable, est alors calculée en faisant la somme du numéro du signe et du nombre astral du jour. Les signes étant sur un cercle, on retranche 12 quand la somme dépasse 12.
+{|style="border:1px solid black;text-align:center;" 
+|-
+|colspan="2" | '''<big>Heures de Naissance</big>'''
+|-
+| width="25%" | 1. || Le Vaisseau
+|-
+| 2. || La Sirène
+|-
+| 3. || Le Faucon
+|-
+| 4. || La Couronne
+|-
+| 5. || Le Dragon
+|-
+| 6. || Les Épées 
+|-
+| 7. || La Lyre
+|-
+| 8. || Le Serpent
+|-
+| 9. || Le Poisson Acrobate
+|-
+| 10. || L'Araignée
+|-
+| 11. || Le Roseau
+|-
+| 12. || Le Château-Dormant
+|}
+
+
+''Nitouche est née a l'heure du Dragon, signe N°5 ; Brucelin est né à l'heure du Faucon, signe N°3. Le nombre astral d'aujourd'hui, déterminé par le gardien des rêves, est 9. En ce qui concerne Brucelin, 9 + 3 donne 12, le Château Dormant. C'est cette heure-la qui sera la plus favorable a Brucelin, ainsi qu'à tous les personnages nés à l'heure du Faucon. Pour Nitouche, 9 + 5 donne 14. La somme dépassant 12, on retranche 12, et l'on obtient 14 - 12 = 2, l'heure de la Sirène. C'est durant cette heure-là que Nitouche sera le plus favorisée, ainsi que tous ceux qui sont nés comme elle a l'heure du Dragon.''<BR>
+''Pour Brucelin, l'heure très favorable est celle du Château Dormant. À l 'opposé, l'heure très défavorable est l'heure des Épées. Les deux heures favorables sont celles de la Couronne et du Serpent. Les deux heures défavorables sont celles du Faucon et du Poisson Acrobate. Les six dernières sont neutres.''
+
+== Les autres heures ==
+Une fois connue l'heure très favorable, les autres heures significatives se déterminent aisément. L'heure ''très défavorable'' est celle qui se trouve diamétralement opposée sur le cercle zodiacal. Les deux heures ''favorables'' sont celles qui, de part et d'autre, se trouvent à 120° de l'heure très favorable ; et les deux heures ''défavorables'' sont celles qui se trouvent à 90°.
+
+== Effet des heures ==
+Les heures significatives octroient un bonus ou un malus aux jets de Chance, selon qu'elles sont favorables ou défavorables. Ces ajustements s'appliquent aussi bien aux jets d'appel à la chance, joués par rapport aux points de chance, qu'aux jets de [[Les Caractéristiques#CHANCE|CHANCE]] demandés par le gardien des rêves, qui sont joués sur la caractéristique. Ces mêmes ajustements modifient également les chances de succès des rituels (voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'').
+
+{|style="border:1px solid black;text-align:right;" 
+|-
+| colspan="2" style="text-align:center;"  | '''<big>Effet des heures</big>'''
+|-
+! style="text-align:left;" | Effet !! Ajustement
+|-
+| style="text-align:left;" | Très favorable || +4
+|-
+| style="text-align:left;" | Favorable || +2
+|-
+| style="text-align:left;" | Très défavorable || -4
+|-
+| style="text-align:left;" | Défavorable || -2
+|}
+
+
+Le tableau suivant résume ces effets pour toutes les heures à partir de l'heure la plus favorable indiquée en colonne de gauche.
+
+{|style="border:1px solid black;text-align:center;" 
+|-
+|  colspan="6" | '''<big>HEURES DE CHANCE ET DE MALCHANCE</big>'''
+|-
+! +4 !! +2 !! +2 !! -4 !! -2 !! -2
+|-
+| 1 [[Fichier:Vaisseau.jpeg|Le Vaisseau]] || [[Fichier:Dragon.jpeg|Le Dragon]] || [[Fichier:Poisson.jpeg|Le Poisson Acrobate]] || [[Fichier:Lyre.jpeg|La Lyre]] || [[Fichier:Couronne.jpeg|La Couronne]] || [[Fichier:Araignee.jpeg|L'Araignée]]
+|-
+| 2 [[Fichier:Sirene.jpeg|La Sirène]] || [[Fichier:Epee.jpeg|Les Épées]] || [[Fichier:Araignee.jpeg|L'Araignée]] || [[Fichier:Serpent.jpeg|Le Serpent]] || [[Fichier:Dragon.jpeg|Le Dragon]] || [[Fichier:Roseau.jpeg|Le Roseau]]
+|-
+| 3 [[Fichier:Faucon.jpeg|Le Faucon]] || [[Fichier:Lyre.jpeg|La Lyre]] || [[Fichier:Roseau.jpeg|Le Roseau]] || [[Fichier:Poisson.jpeg|Le Poisson Acrobate]] || [[Fichier:Epee.jpeg|Les Épées]] || [[Fichier:Chateau.jpeg|Le Château Dormant]]
+|-
+| 4 [[Fichier:Couronne.jpeg|La Couronne]] || [[Fichier:Serpent.jpeg|Le Serpent]] || [[Fichier:Chateau.jpeg|Le Château Dormant]] || [[Fichier:Araignee.jpeg|L'Araignée]] || [[Fichier:Vaisseau.jpeg|Le Vaisseau]] || [[Fichier:Lyre.jpeg|La Lyre]]
+|-
+| 5 [[Fichier:Dragon.jpeg|Le Dragon]] || [[Fichier:Vaisseau.jpeg|Le Vaisseau]] || [[Fichier:Poisson.jpeg|Le Poisson Acrobate]] || [[Fichier:Roseau.jpeg|Le Roseau]] || [[Fichier:Sirene.jpeg|La Sirène]] || [[Fichier:Serpent.jpeg|Le Serpent]]
+|-
+| 6 [[Fichier:Epee.jpeg|Les Épées]] || [[Fichier:Sirene.jpeg|La Sirène]] || [[Fichier:Araignee.jpeg|L'Araignée]] || [[Fichier:Chateau.jpeg|Le Château Dormant]] || [[Fichier:Faucon.jpeg|Le Faucon]] || [[Fichier:Poisson.jpeg|Le Poisson Acrobate]]
+|-
+| 7 [[Fichier:Lyre.jpeg|La Lyre]] || [[Fichier:Faucon.jpeg|Le Faucon]] || [[Fichier:Roseau.jpeg|Le Roseau]] || [[Fichier:Vaisseau.jpeg|Le Vaisseau]] || [[Fichier:Couronne.jpeg|La Couronne]] || [[Fichier:Araignee.jpeg|L'Araignée]]
+|-
+| 8 [[Fichier:Serpent.jpeg|Le Serpent]] || [[Fichier:Couronne.jpeg|La Couronne]] || [[Fichier:Chateau.jpeg|Le Château Dormant]] || [[Fichier:Sirene.jpeg|La Sirène]] || [[Fichier:Dragon.jpeg|Le Dragon]] || [[Fichier:Roseau.jpeg|Le Roseau]]
+|-
+| 9 [[Fichier:Poisson.jpeg|Le Poisson Acrobate]] || [[Fichier:Vaisseau.jpeg|Le Vaisseau]] || [[Fichier:Dragon.jpeg|Le Dragon]] || [[Fichier:Faucon.jpeg|Le Faucon]] || [[Fichier:Epee.jpeg|Les Épées]] || [[Fichier:Chateau.jpeg|Le Château Dormant]]
+|-
+| 10 [[Fichier:Araignee.jpeg|L'Araignée]] || [[Fichier:Sirene.jpeg|La Sirène]] || [[Fichier:Epee.jpeg|Les Épées]] || [[Fichier:Couronne.jpeg|La Couronne]] || [[Fichier:Vaisseau.jpeg|Le Vaisseau]] || [[Fichier:Lyre.jpeg|La Lyre]]
+|-
+| 11 [[Fichier:Roseau.jpeg|Le Roseau]] || [[Fichier:Faucon.jpeg|Le Faucon]] || [[Fichier:Lyre.jpeg|La Lyre]] || [[Fichier:Dragon.jpeg|Le Dragon]] || [[Fichier:Sirene.jpeg|La Sirène]] || [[Fichier:Serpent.jpeg|Le Serpent]]
+|-
+| 12 [[Fichier:Chateau.jpeg|Le Château Dormant]] || [[Fichier:Couronne.jpeg|La Couronne]] || [[Fichier:Serpent.jpeg|Le Serpent]] || [[Fichier:Epee.jpeg|Les Épées]] || [[Fichier:Faucon.jpeg|Le Faucon]] || [[Fichier:Poisson.jpeg|Le Poisson Acrobate]]
+|}
+
+== Horoscope ==
+L'usage de la compétence [[Les Compétences#ASTROLOGIE|Astrologie]] permet de prévoir les nombres astraux des jours prochains et de déterminer ainsi pour chaque signe les bons et les moins bons moments. Avant d'entreprendre une action dont on pressent qu'elle demandera de la chance, il peut être en effet judicieux de choisir son heure. Ceci s'applique tout particulièrement aux haut-rêvants qui accomplissent des rituels.<BR>
+L'astrologie ne s'effectue qu'en lecture directe des étoiles. Il faut donc qu'il fasse nuit, de l'heure du Serpent inclue à l'heure du Château Dormant inclue ; il faut également que les étoiles soient visibles, ciel dégagé et sans nuage. Déterminer un nombre astral se joue avec ''[[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ASTROLOGIE|Astrologie]] - conditions'', et demande 20 minutes d'observation. On peut ainsi déterminer jusqu'à six nombres astraux par heure.
+=== Visibilité ===
+Les ''conditions'' sont de deux sortes : visibilité du ciel et éloignement de la prédiction dans le temps. Lorsque le ciel est parfaitement clair et que l'observateur est posté sur une hauteur qui lui permet de voir la quasi totalité de la voûte céleste, l'ajustement de visibilité est de ''zéro''. Moins le gardien des rêves estime que l'astrologue peut voir d'étoiles, plus il augmente la difficulté. Ce ne doit pas être un mystère. Quand un personnage demande quel est l'état du ciel, le gardien des rêves lui répond, par exemple : « -4 ». Cela signifie que si le personnage voulait tenter de lire les étoiles, il aurait un ajustement de visibilité de -4. Sur cette réponse, à lui de courir ou non le risque.
+=== Éloignement dans le temps ===
+Plus le nombre astral que l'on recherche est loin dans le futur, plus grande est la difficulté. Trouver le nombre astral du jour-même (pour ce qu'il en reste) et du lendemain est d'une difficulté ''zéro''. Pour le surlendemain et le jour d'après, elle est de -1. Pour les deux autres jours suivants, elle est de -2, et ainsi de suite, augmentant de 1 tous les deux jours.<BR>
+Pratiquement, c'est le gardien des rêves qui tire les jets de dés lui-même en secret du joueur. S'il réussit, il communique le nombre astral correct ; s'il échoue, il communique volontairement un nombre erroné. L'astrologue ne peut jamais ainsi être entièrement sûr de la validité de ses prédictions. En cas de réussite particulière et d'ajustement final négatif, le gardien des rêves n'oublie pas non plus de noter les points d'expérience gagnés pour les communiquer plus tard au joueur.<BR>
+Au cours d'une même observation, on ne peut pas tenter de lire deux fois de suite le nombre astral d'un même jour. On peut par contre recommencer le lendemain ou les jours suivants. Si les résultats coïncident, il y a de fortes chances pour que le résultat soit bon. La double ligne au bas de la feuille de route, sous le calendrier, est destinée a prendre note des nombres astraux, éventuellement en double.
+
+''Nitouche voudrait enchanter une potion d'herbes de soin. Comme il s'agit d'un rituel, elle aimerait le faire a son heure la plus favorable. Le soir venu, elle grimpe sur une colline pour avoir une bonne visibilité ; le ciel est parsemé de quelques nuages et le gardien des rêves lui annonce une visibilité de -2. Nitouche ne désire que le nombre du lendemain, difficulté zéro. L 'ajustement final de son jet d'INTELLECT/Astrologie est alors ainsi calculé : +1 (compétence) -2 (visibilité) -0 (éloignement dans le temps) = -1, 54%. Le gardien des rêves joue le jet et annonce le nombre 2. Nitouche ajoute ce nombre au numéro de son signe (n°5) pour obtenir 7. Revenant vers Brucelin, elle déclare : « Je vais attendre demain l'heure de la Lyre pour enchanter la potion...» Si elle ne s'est pas trompé, elle bénéficiera en effet d 'un bonus de +4. Les heures du Faucon et du Roseau lui donneraient un bonus de +2. Vaisseau (-4), Couronne (-2) et Araignée (-2) sont a éviter.''

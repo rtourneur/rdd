@@ -1,0 +1,31 @@
+__NOTOC__
+Les personnages acquièrent des points de destinée lorsqu'ils suivent la destinée que leur réserve le Rêve des Dragons. En stricts termes de jeu et sans ambiguïté hypocrite, suivre sa destinée signifie suivre le scénario. Cela ne signifie pas obligatoirement que les personnages doivent vaincre ou réussir. L'important, c'est de ne pas se dérober au rôle qui semble avoir été prévu par les Dragons.<BR>
+La distribution des points de destinée est à l’entière discrétion du gardien des rêves, qui ne doit toutefois les accorder qu'avec la plus grande parcimonie, lorsqu'une étape importante vient d`être franchie, lorsqu'une page importante vient d’être tournée.<BR>
+Dans tous les cas, un personnage ne peut jamais totaliser plus de 7 points de destinée. S'il devait en acquérir un huitième, celui-ci serait tout simplement perdu.<BR>
+Les points de destinée sont faits pour être dépensés. Ils peuvent l'être de plusieurs façons.
+
+ [[La Destinée|Retour à La Destinée]]
+
+== Appel à la chance ==
+Chaque fois que les règles permettent un jet de Chance pour annuler un jet de dés malheureux, et uniquement dans ces mêmes cas, le joueur peut décider à la place de dépenser un point de destinée. C'est l'un ou l'autre. On ne peut pas dépenser un point de destinée après avoir commencé par choisir le jet de Chance et l'avoir manqué (ou avoir échoué de nouveau le jet d'action). Ayant choisi de dépenser un point de destinée, le personnage ne perd pas de point de chance et réussit automatiquement l'action qui avait failli échoué, sans jouer aucun jet de dés. La réussite ainsi obtenue est toujours une significative. Il est impossible de dépenser un point de destinée pour réussir une action dont l'ajustement final est de -11 ou plus difficile encore.
+
+''Nitouche ayant décider de voyager avec Brucelin, et réciproquement, le gardien des rêves annonce que ce nouveau tournant de leur voyage leur vaut à chacun un point de destinée. Plus tard, les voyageurs tentent une escalade difficile dans la montagne. Nitouche a 24% de chances de succès. Avec un 95, échec total, elle manque sa prise : 20 mètres en contrebas, des rochers pointus attendent de la recevoir. La voyageuse pourrait faire appela sa chance, mais en supposant le jet de Chance réussi, elle n'aurait toujours que 24% de chances de succès à son escalade. Elle préfère dépenser son unique point de destinée. En conséquence, elle ne perd pas de point de chance et, sans avoir à retenter son jet d'escalade, réussit à se hisser au sommet de la paroi.''
+
+== Jet de Constitution ==
+Si les règles interdisent de faire appel à la chance pour retenter un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ou de Vie, on peut par contre dépenser pour cela un point de destinée. Deux résultats sont à considérer.<BR>
+Quand un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] a obtenu un échec total, la dépense d'un point de destinée le transforme en échec normal. Tout autre résultat est transformé en réussite particulière (et non pas significative).
+
+== Jets de Vie ==
+Une règle similaire s'applique aux jets de Vie. Sur un résultat compris entre 2 et 19, la dépense d'un point de destinée transforme le jet de Vie en un 01 (lequel accroît la durée de la prochaine période). Sur un résultat de 20 (qui signifierait la mort immédiate), la dépense d'un point de destinée ne fait que transformer le 20 en 19.
+
+== Chance récupérée ==
+Le dernier usage des points de destinée est de regagner les points de chance. À tout moment, même juste avant de tirer un jet de dés, le joueur peut décider de dépenser un point de destinée pour récupérer tous ses points de chance, et ceci aussi bas qu'ils soient descendus.
+
+== Points de voyage ==
+Dix points de voyage font un point de destinée. Plutôt que de distribuer ''rarement'' un point de destinée, le gardien des rêves peut préférer distribuer ''plus souvent'' des points de voyage, à l'occasion d'étapes plus mineures. Ces points ne servent à rien en eux-mêmes et ne peuvent être dépensés tels quels. Ce ne sont que des dixièmes de point de destinée.<BR>
+La destinée étant partie intégrante de l'archétype, les personnages peuvent également transformer des points d'expérience dus au stress en points de voyage, à raison de 2 points d'expérience pour 1 point de voyage. Un point de destinée complet vaut ainsi 20 points d'expérience. Seuls les points dus au stress peuvent donner des points de voyage, pas ceux dus à l'exercice.
+
+''La rencontre avec les Groins a été une étape marquante. Le gardien des rêves octroie 2 points de voyage a chacun. Nitouche a maintenant 0,2 point de destinée, et Brucelin 1,2. Lors de la transformation de son stress, au lieu de tout mettre en Épée à une main, le voyageur réserve 4 de ses points d 'expérience à l'acquisition de 2 points de voyage, ce qui lui fait au total I,4 point de destinée.''
+
+== Note aux gardiens des rêves ==
+Appliquée avec trop de libéralité, cette règle peut vite transformer le jeu en une mascarade où les personnages n'ont aucun souci à se faire puisqu'une flopée de points de destinée sera toujours là pour les tirer d'affaire. Ayant bien entrevu toutes ces possibilités, c'est à chaque gardien des rêves de l'accepter ou de la refuser.
