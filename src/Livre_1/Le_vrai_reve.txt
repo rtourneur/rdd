@@ -1,0 +1,45 @@
+__NOTOC__
+Le vrai-rêve est l'état « normal » des créatures. C'est une harmonie naturelle avec les courants du rêve, une sorte d'état de grâce originel. Les vrai-rêvants vivent en empathie profonde avec leur environnement et leurs propres aspirations. Ce n'est pas une démarche intellectuelle, mais un état naturel. Le vrai-rêve est totalement incompatible avec le haut-rêve. En acquérant le don de haut-rêve, l'individu vit une expérience mystique irréversible. Il franchit une étape décisive dans la compréhension générale du rêve des Dragons en devenant capable de le manipuler. Pour lui, le rêve ne sera plus jamais le même, et c'est définitif. Ayant accompli un pas certes important sur le chemin de la connaissance, il perd du même coup l'innocence originelle du vrai-rêve.<BR>
+En termes de jeu, tous les personnages qui ne sont pas haut-rêvants, sont vrai-rêvants. Cet état se traduit par deux avantages : récupération automatique de la chance et compétences de vocation.
+
+ [[Le Moral|Retour au Moral]]
+
+== Chance ==
+Les vrai-rêvants regagnent automatiquement un point de chance par jour, durant le moment privilégié de l'extrême fin du Château Dormant, à la seule condition de n'en avoir dépensé aucun au cours de cette journée qui s'achève. Autrement dit, il suffit de rester un jour entier sans dépenser de point de chance pour en récupérer un le lendemain. Il n'y a aucun jet de dés, la récupération est automatique.
+
+== Vocation ==
+Les vrai-rêvants ont la possibilité d'une vocation, c'est-à-dire de se vouer entièrement, corps et rêve, à un art, artisanat, métier, science, d'y consacrer tout leur enthousiasme et leur rêve. En termes de jeu, chaque personnage vrai-rêvant choisit librement 4 compétences qui deviendront l'objet de sa vocation. Il peut s'agir de n'importe quelles compétences, générales, particulières, spécialisées, connaissances ou compétences de combat. Un fois choisies, les compétences de vocation ne pourront plus être changées en ce qui concerne l'incarnation actuelle du personnage.<BR>
+Vis à vis de ses 4 compétences de vocation, le vrai-rêvant bénéficie de deux avantages : meilleur appel au moral, meilleure transformation de stress.
+
+== Moral ==
+Quand un vrai-rêvant, ayant un moral positif, fait appel à son moral mais manque néanmoins son jet d'action, au lieu de perdre systématiquement un point de moral, il ne le perd que si son action a échoué avec un échec total.<BR>
+Quand un vrai-rêvant, n'ayant pas de moral positif, fait appel à l'énergie du désespoir, il obtient toujours automatiquement un point de moral virtuel, sans avoir à commencer par tenter un jet de moral pour cela. S'il manque ensuite son jet d'action, c'est alors qu'il joue un jet de moral. Si ce jet de moral réussit, il ne perd pas de point de moral ; s'il échoue, il en perd un.<BR>
+Soulignons encore que ces règles ne s'appliquent qu'aux 4 compétences de vocation. Pour toutes les autres, les appels au moral sont joués selon la règle standard.
+
+== Stress ==
+Quand un vrai-rêvant transforme ses points de stress, il doit préciser avant de jeter les dés si le résultat ira ou non à ses compétences de vocation. Dans l'affirmative, le résultat de son jet de rêve est lu sur la table suivante.<BR>
+Les points d'expérience dus au stress peuvent être répartis entre les compétences de vocation ou aller a une seule d'entre elles. Si le personnage veut mettre ses points ailleurs que dans ses compétences de vocation, il utilise la table standard. Quand une compétence de vocation a rejoint le niveau de l'archétype, elle ne peut plus bénéficier de l'avantage du stress, mais bénéficie toujours de celui du moral.
+=== Note ===
+Les appels au moral, comme les appels à la chance, étant impossibles pour les jets d'[[Les Caractéristiques#INTELLECT|INTELLECT]], il peut être assez peu fructueux de choisir des connaissances comme compétences de vocation, ces dernières étant principalement jouées avec [[Les Caractéristiques#INTELLECT|INTELLECT]]. Les compétences troncs ne peuvent former
+une compétence de vocation en elles-mêmes, mais chacune de leurs composantes peuvent l'être.
+
+''Brucelin est vrai-rêvant et a choisi Épée à une main, Esquive, Corps à corps et Cuisine comme compétences de vocation. Tant qu'il aura un moral positif, il pourra faire appel à son moral sans grand risque pour chacune d'elles, puisqu'il ne perdra de point qu'en cas d'échec total.''
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Stress de Vocation</big>'''
+|-
+| style="text-align:left;" | ''Échec Total'' || 20%
+|-
+| style="text-align:left;" | ''Échec  Particulier'' || 30%
+|-
+| style="text-align:left;" | ''Échec'' || 50%
+|-
+| style="text-align:left;" | ''Normale'' || 75%
+|-
+| style="text-align:left;" | ''Significative'' || 100%
+|-
+| style="text-align:left;" | ''Particulière'' || 150%
+|-
+| style="text-align:left;" | ''Double Particulière'' || 200%
+|}

@@ -1,0 +1,64 @@
+__NOTOC__
+Le moral est une force interne du personnage, qui l'aide à conserver son libre arbitre, son empire sur lui-même, sa vitesse de réaction. En termes de jeu, il est représenté par un ''ajustement'' variable pouvant osciller de -3 (très mauvais moral) a +3 (excellent moral) en passant par zéro (moral ni bon ni mauvais). Le moral ajuste sans exception tous les jets de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]].
+
+ [[Le Moral|Retour au Moral]]
+
+''Assise contre un arbre, Nitouche est fatiguée (ligne -1 en fatigue). Elle entend un bruit suspect. Aura-t-elle la VOLONTÉ de bondir instantanément sur ses pieds, c'est-a-dire dans le round-même ? Elle doit jouer un jet de VOLONTÉ a -1 (dû a sa fatigue), 54%. Mais considérons d'abord l'état de son moral. Quoique fatiguée physiquement, Nitouche est bien dans sa peau et possède un excellent moral de +3. Son jet de VOLONTÉ est finalement ajusté ainsi : -1 (fatigue) + +3 (moral) = +2, soit 72%. C'est une nette différence lorsque sa vie peut être en danger.''
+
+== Jets de moral ==
+À la création, le moral d'un personnage est de zéro. Les jets de moral servent à le modifier, en mieux ou en pire, chaque fois que survient une situation dont on estime qu'elle peut avoir une influence sur le moral. Certains cas sont davantage soulignés que d'autres dans les règles (éthylisme, musique, cœur) ; pour d'autres, la décision appartient au gardien des rêves.<BR>
+Selon la situation qui entraîne un jet de moral, celui-ci peut être heureux, neutre, ou malheureux. Quel qu'il soit, la procédure est toujours la même. Obtenir sur 1d20 un résultat égal ou inférieur à 10 + ''moral actuel''. L'application du résultat dépend ensuite du type de situation et de l'état actuel du moral. Réussi, un jet de moral en situation heureuse fait toujours gagner un point, échoué il n'en fait jamais perdre. C'est l'inverse pour une situation malheureuse. La situation neutre est moins évidente à saisir et dépend de l'état actuel du moral, positif ou au contraire neutre ou négatif. Les jets de moral neutre font tendre vers zéro.
+
+''Craignant le pire pour Brucelin tombé au fond du ravin, Nitouche doit jouer un jet de moral en situation malheureuse. Elle a actuellement +3, elle doit obtenir sur 1d20 un résultat égal ou inférieur à 10 + 3 = 13. Avec un 9, elle réussit. Son moral ne baisse pas, signifiant malgré ses craintes, qu'elle conserve tout son empire sur elle-même.''
+
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="4" | '''<big>Jets de Moral</big>'''
+|-
+| colspan="4" | (10 + moral actuel sur 1d20)
+|-
+| colspan="4" style="text-align:left;" | '''''Moral supérieur à zéro'''''
+|-
+|  || ''Heureux'' || ''Malheureux'' || ''Neutre''
+|-
+| ''Réussite'' || moral +1 || - || -
+|-
+| ''Échec'' || - || moral -1 || moral -1
+|-
+| colspan="4" |&nbsp;
+|-
+| colspan="4" style="text-align:left;" | '''''Moral égal ou inférieur a zéro'''''
+|-
+|  || ''Heureux'' || ''Malheureux'' || ''Neutre''
+|-
+| ''Réussite'' || moral +1 || - || moral +1
+|-
+| ''Échec'' || - || moral -1 || -
+|}
+
+
+=== Jets du matin ===
+En réalité, la seule situation ''neutre'' est une situation arbitraire : le passage d'un jour à un autre, la nouvelle journée qui commence. Familièrement parlant, va-t-on se lever du pied gauche ou du pied droit ? Le moment privilégié de l'extrême fin du Château Dormant est donc toujours ponctué d›un jet de moral. Si un personnage est jugé mal dans sa peau (blessé, trop fatigué, affamé, etc.) son jet de moral du matin est ''malheureux''. Inversement, s'il a une bonne raison d'exulter (première nuit passée dans une auberge après la traversée d'un désert de glace), son jet du matin est heureux. Dans tous les autres cas, les plus nombreux, le jet est neutre, tendant statistiquement vers zéro.
+
+''Au matin, Nitouche et Brucelin doivent commencer la journée par un jet de moral. La situation est jugée neutre. Nitouche (moral +3) obtient 15, un échec. Son moral étant actuellement positif elle perd un point et redescend à +2. Brucelin (moral +2) obtient 12 et réussit. Il ne perd ni ne gagne de point. Si son moral avait été neutre ou négatif sa réussite en situation neutre lui aurait fait regagner 1 point.''
+
+=== Exaltation & Dissolution ===
+Chaque fois qu'un personnage, ayant +3 en moral, réussit un jet de moral qui devrait normalement lui faire gagner un point, il gagne un point d'''exaltation''. Inversement, si ayant -3 en moral il rate
+un jet qui devrait encore le faire descendre, il marque un point de ''dissolution''.<BR>
+Le fait de redescendre à +2 en moral n'efface pas les points d'exaltation possédés. Inversement, remonter à -2 n'efface pas les points de dissolution. Seuls points d'exaltation et points de dissolution s'annulent mutuellement.<BR>
+Lors de la transformation du stress en expérience, une fois le jet de stress accompli et le nombre de points d'expérience déterminé, chaque point d'exaltation possédé par le personnage lui vaut
+un point d'expérience en plus. Inversement, chaque point de dissolution lui supprime un point d'expérience. Une fois utilisés, les points d'exaltation et de dissolution sont effacés. Si l'on a transformé moins de stress que l'on ne possède de points de dissolution, le reste de ces points demeure marqué sur la feuille de route, en prévision d'annuler de prochains points d'expérience (à moins qu'entre temps des points d'exaltation ne viennent les annuler eux-mêmes).
+
+''Nitouche va décidément bien, elle possède 2 points d'exaltation. Vient le moment de transformer ses 13 points de stress. Avec une réussite normale, elle en transforme 50%, soit 6, auxquels s'ajoutent les 2 points d'exaltation, pour un total de 8 points d'expérience. Encore marqué par ses récentes blessures, Brucelin a 1 point de dissolution, quand bien même son moral soit remonté
+depuis lors. Obtenant une particulière, il devrait transformer 100% de ses 10 points de stress. À cause de son point de dissolution (qu'il n'oublie pas d'effacer), il n'empoche que 9 points d’expérience.''
+
+== Appel au moral ==
+Tout personnage possédant au moins un point de moral, c'est-à-dire situé au minimum à +1, peut y faire appel. Les cas où l'on peut faire appel à son moral sont exactement les mêmes que ceux des appels à la chance. Ayant fait appel à son moral, le personnage bénéficie d'un bonus de +1 à l'ajustement final de son jet d'action.<BR>
+Si le jet d'action concerné réussit, le personnage conserve son point de moral, qui peut ainsi servir plusieurs fois. En revanche, si le jet d'action échoue, le point de moral est perdu. On ne peut « engager » qu'un seul point de moral par jet d'action.<BR>
+Si l'on fait appel à son moral, qu'on échoue, puis qu'on fasse appel à sa chance, le jet d'action recommencé bénéficie toujours du point de moral, puisque tout se passe « comme si le précédent jet n'avait jamais eu lieu ».
+
+''Nos voyageurs viennent d'entrer dans la cité d 'Esparlongue et sont un peu perdus. « Il nous faut absolument trouver une auberge avant la nuit », déclare Brucelin. Nitouche doit jouer un jet d'EMPATHIE/Srv en Cité a -4, soit pour elle un ajustement final de -1. Ayant +3 en moral, elle y fait appel et se confère ainsi un bonus de +1, soit en final 15 a zéro = 65% (au lieu de 58%). Réussissant avec un 59, elle finit par trouver une auberge, et son jet ayant réussi, conserve son moral de +3.''
+
+== Énergie du désespoir ==
+Un personnage qui n'a pas de point de moral, c'est-à-dire situé à 0, -1, -2 ou -3, peut tout de même faire appel à l'''énergie du désespoir'' en essayant de trouver un ''point de moral virtuel''. Pour ce faire, il commence par jouer un jet de moral. S'il échoue, non seulement il ne trouve pas de point de moral virtuel, mais son moral (réel) baisse encore de 1 ; s'il est déjà à -3, il prend un point de dissolution. S'il réussit, en revanche, il trouve un point de moral virtuel, qui lui confère comme précédemment un bonus de +1 à son ajustement final.<BR>
+Si le jet d'action réussit, tant mieux pour le personnage. S'il échoue, le personnage baisse son (vrai) moral de 1 (ou marque un point de dissolution). Dans tous les cas, réussi ou échoué, le point virtuel disparaît, ne pouvant servir qu'une fois.
