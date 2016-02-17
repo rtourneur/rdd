@@ -1,0 +1,460 @@
+__NOTOC__
+Les queues et les souffles de Dragon sont les noms familièrement donnés aux perturbations mentales, voire psychosomatiques, résultant d'expériences oniriques mal assumées. Ces états sont temporaires. Les souffles durent généralement plus longtemps que les queues et sont plus sérieux.<BR>
+Les têtes de Dragon représentent à l'opposé les bénéfices que le personnage tire d'une expérience particulièrement bien vécue, et dont il ressort grandi. Les têtes de Dragon sont définitivement acquises pour toute l'incarnation actuelle du personnage. À sa mort, toutefois, aussi bien les queues et les soufﬂes encore en cours, que les têtes acquises, sont annulés. La seule exception à cette règle sont les modifications de caractéristique, augmentation ou diminution, qui restent acquises dans la nouvelle incarnation. Tous les autres effets sont annulés.<BR>
+Quand un personnage reçoit une queue, un souffle ou une tête de Dragon, le gardien des rêves peut en décider librement la teneur, ou s'il l'estime plus équitable, la tirer au sort.<BR>
+Les listes ci-après ne sont pas exhaustives et ne sont la que pour modèle. Les gardiens des rêves peuvent les modifier d'idées nouvelles. Il peut notamment être intéressant de créer des queues de Dragon en rapport direct avec le scénario joué. Une queue de Dragon étant une aberration passagère, il n'est pas illogique que sa manifestation ait un rapport étroit avec le vécu actuel du personnage. Plus de prudence doit en revanche être accordé à la création de nouvelles têtes, sous peine d'aboutir à déséquilibrer le jeu.
+
+ [[Les Terres du Rêve|Retour aux Terres du Rêve]]
+
+== Queues de Dragon ==
+Pour les vrai-rêvants retirer les résultats inférieurs à 29.<BR>
+Quand une queue de Dragon dure un jour, elle prend effet immédiatement et dure jusqu'à l'extrême fin de l'heure du Château Dormant du lendemain.
+=== Refoulement ===
+Certaines queues de Dragon peuvent être refoulées à l'instar des rencontres en TMR. Si le joueur choisit cette option, la queue est immédiatement annulée, au prix d'un ou plusieurs points de refoulement que le joueur ajoute à son compteur (le même que pour les rencontres), puis, pareillement, tente immédiatement un test de refoulement pouvant résulter en un souffle de Dragon.
+==== 01-04 Mauvaise rencontre en perspective ====
+Tirer la prochaine rencontre dans les TMR sur la ta le Spéciale de Rencontre.
+==== 05-08 Pèlerinage ====
+Avant de pouvoir à nouveau faire usage du haut-rêve, y compris déclencher volontairement un sort mis en réserve, le haut-rêvant doit se rendre dans une certaine case des TMR déterminée aléatoirement. Un Passeur peut l'y téléporter, mais un Messager ne peut s'y rendre à sa place. Dès que la case est atteinte, le pèlerinage est accompli.
+==== 09-12 Conquête ====
+Avant de pouvoir a nouveau faire usage du haut-rêve, y compris déclencher volontairement un sort mis en réserve, le haut-rêvant doit se rendre dans une certaine case des TMR déterminée aléatoirement et la ''maîtriser'', difficulté -7. Ce peut être n'importe quelle case, sauf une case humide. En cas d'échec, la concentration est rompue ; il n'y a pas de souffle de Dragon en cas d'échec total.
+==== 13-16 Inertie draconique ====
+Pendant un jour, la fatigue en TMR est doublée. Chaque case ou round coûte 2 points au lieu d'un.
+==== 17-20 Urgence draconique ====
+Le haut-rêvant est pris du besoin irrésistible de déclencher immédiatement son plus proche sort en réserve. À équidistance, prendre dans le sens des aiguilles d'une montre en commençant par le haut. En cas de rencontre dans les TMR, se dérober équivaut à refouler la queue de Dragon. Si aucun sort n'est en réserve, ou si il y a impossibilité de pratiquer la magie à cause d'une autre queue ou d'un souffle, tirer à la place une idée fixe. ''Refoulable au prix de 2 points de refoulement''.
+==== 21-24 Réinsertion aléatoire ====
+Comme après une sortie de la carte, le gardien des rêves réintroduit secrètement le demi-rêve du haut-rêvant dans les TMR.
+==== 25-28 Montée laborieuse ====
+Pendant un jour, monter en TMR coûte 2 points de rêve au lieu d'un, et 3 points en déplacement accéléré.
+==== 29-33 Coup de barre ====
+Prise immédiate de 3d6 points de fatigue.
+==== 34-38 Insomnie ====
+Impossibilité totale de dormir, et donc de rêver, pendant un jour.
+==== 39-43 Dépouillement ====
+Faire don de toute la monnaie actuellement possédée à la première personne inconnue rencontrée. En attendant, se garder d'aucune dépense. ''Refoulable au prix de 2 points de refoulement''.
+==== 44-48 Amnésie sélective ====
+Pendant un jour, perte totale d'une compétence, à l'exclusion du Draconic. Déterminer aléatoirement la compétence visée qui, pratiquement, retourne au niveau de base. (Si elle est déjà au niveau de base, en choisir une autre).
+==== 49-60 Souvenir obsessionnel de l'archétype ====
+Les prochains points d'expérience dus au stress doivent être mis dans une compétence déterminée aléatoirement.
+==== 61-65 Coup de foudre fatal ====
+On devient immédiatement amoureux fou de la première personne inconnue de sexe opposé et de même espèce rencontrée. Tant que satisfaction n'est pas obtenue, traiter comme un désir
+lancinant.''Refoulable au prix de 2 points de refoulement''.
+==== 66-70 Masque de Narcos ====
+Pendant 1d7 jours à compter du lendemain, la caractéristique [[Les Caractéristiques#APPARENCE|APPARENCE]] baisse de 1d6 points, de même que la Beauté.
+==== 71-85 Désir lancinant ====
+Tirer 1d20 sur la table des Désirs lancinants. Les ''désirs lancinants'' durent jusqu'à ce qu'ils soient satisfaits ou refoulés. Tant que satisfaction n'est pas obtenue, aucun point d'expérience ne peut plus être gagné par l'exercice en cas de particulière et d'ajustement final négatif. Les points d'expérience dus au stress ne sont pas affectés. ''Les désirs lancinants peuvent être refoulés à
+tout moment au prix de 1 point de refoulement.''
+==== 86-00 Idée fixe ====
+Tirer 1d20 sur la table des Idées fixes. Les ''idées fixes'' prennent effet immédiatement et durent jusqu’à l'extrême fin de l'heure du Château Dormant du lendemain. Si passé ce délai, l'occasion de les manifester ne s'est pas présentée, la queue prend fin néanmoins. Si elles entrent en contradiction avec une autre queue de Dragon, retirer. ''Les idées fixes peuvent être refoulées à tout moment au prix de 1 point de refoulement.''
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Désirs lancinants</big>'''
+|-
+! colspan="2" | ''désir de ...''
+|-
+! width="10%" | 01 
+| Danser nu sous la pluie.
+|-
+! 02 
+| Traite une vache.
+|-
+! 03 
+| Manger du poisson.
+|-
+! 04 
+| Manger des champignons.
+|-
+! 05 
+| Se soûler, minimum pas frais.
+|-
+! 06 
+| Gagner de l'argent, minimum 10 deniers.
+|-
+! 07 
+| Faire des bulles de savon.
+|-
+! 08 
+| Entendre braire un âne.
+|-
+! 09 
+| Danser avec un(e) partenaire inconnu(e) de Beauté 13 minimum.
+|-
+! 10 
+| Construire une cabane.
+|-
+! 11 
+| Acquérir une chèvre.
+|-
+! 12 
+| Se rouler dans la boue.
+|-
+! 13 
+| Embrasser un cochon sur le groin.
+|-
+! 14 
+| Briser un objet de verre.
+|-
+! 15 
+| Casser 3d6 œufs en les jetant à terre.
+|-
+! 16 
+| Passer une nuit sur une échelle.
+|-
+! 17 
+| Se faire raser la tête.
+|-
+! 18 
+| Masochisme. Perdre 3 points d'endurance minimum en 1 round.
+|-
+! 19 
+| Mégalomanie. Etre acclamé par un minimum de 10 personnes.
+|-
+! 20 
+| Pisser dans un violon (luth, mandoline, etc.)
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Idées fixes</big>'''
+|-
+! colspan="2" | ''idée fixe de ...''
+|-
+! width="10%" | 01 
+| Ne s'exprimer que par des cris d'animaux ( ''meuh ! coin-coin ! etc.'')
+|-
+! 02 
+| Garder les yeux bandés.
+|-
+! 03 
+| Ne dire que « non » ou négation analogue.
+|-
+! 04 
+| Garder sur soi 5d6 kilos de cailloux.
+|-
+! 05 
+| Traîner son épée en laisse (''ou sa meilleure arme'').
+|-
+! 06 
+| Garder une main sur la tête.
+|-
+! 07 
+| Avoir le visage noirci à la cendre.
+|-
+! 08 
+| Cracher dans toute nourriture ou boisson aperçues.
+|-
+! 09 
+| Anorexie. Ne rien avaler, ni solide, ni liquide, pas même une potion.
+|-
+! 10 
+| Aller tout nu, sans porter le moindre paquet ni objet.
+|-
+! 11 
+| Vider sur sa tête toute fiole ou flacon aperçu.
+|-
+! 12 
+| Appeler les hommes « madame » et les femmes «messires ».
+|-
+! 13 
+| Ne marcher qu'à quatre pattes.
+|-
+! 14 
+| Boulimie. Manger au moins un point de sust par heure.
+|-
+! 15 
+| Refuser de se déplacer autrement que porté.
+|-
+! 16 
+| Ne pas franchir de porte. (''On peut franchir une fenêtre.'')
+|-
+! 17 
+| Faire le mort.
+|-
+! 18 
+| Éteindre tout feu rencontré (''feu de camp, torche, lanterne, etc.'')
+|-
+! 19 
+| Refuser de se délester du moindre objet, ni donner ni prêter.
+|-
+! 20 
+| Refuser de monter dans les TMR.
+|}
+
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Table Spéciale de Rencontres (1d7)</big>'''
+|-
+! width="10%" | 1 
+| [[Lancer un Sort#Mangeur de rêve|Mangeur de rêve]] 1d6.
+|-
+! 2 
+| [[Lancer un Sort#Mangeur de rêve|Mangeur de rêve]] 2d6.
+|-
+! 3
+| [[Lancer un Sort#Reflet d'ancien rêve|Reflet d'ancien rêve]] 2d6+4.
+|-
+! 4 
+| [[Lancer un Sort#Tourbillon blanc|Tourbillon blanc]] 2d6+4.
+|-
+! 5 
+| [[Lancer un Sort#Tourbillon noir|Tourbillon noir]] 2d8+4.
+|-
+! 6 
+| Passeur fou 2d8.
+|-
+! 7 
+| Tourbillon rouge 2d8.
+|}
+
+=== Passeur fou ===
+Le Passeur fou emporte immédiatement le demi-rêve du haut-rêvant jusqu'à la plus proche case où il a un sort en réserve, l'obligeant à le déclencher. Peu importe la distance, même si elle excède les 2d8. À distances égales, choisir le haut de la carte en priorité et tourner dans le sens des aiguilles d'une montre. Si aucun sort n'est en réserve, le Passeur fou emporte le demi-rêve du haut-rêvant dans une direction aléatoire et à un nombre de cases équivalent à sa force.
+=== Tourbillon rouge ===
+Le Tourbillon rouge est un tourbillon vampire. Il fonctionne comme les Tourbillons blancs et noirs, sauf que chaque round tant qu'il n'est pas maîtrisé fait dériver le demi-rêve de 4 cases, draine 2 points de rêve et 1 point de vie.
+
+On peut se dérober normalement devant ces rencontres ou les refouler. ''Toutefois, leur refoulement coûte 2 points au lieu d'un, sauf le Tourbillon rouge qui en coûte 3.''
+
+{|style="border:1px solid black;text-align:left;"
+|-
+| colspan="4" style="text-align:center;" | '''<big>Table des compétences</big>'''
+|-
+| colspan="4" | Utiliser la table suivante pour la queue de Dragon ''Souvenir obsessionnel de l'Archétype''. 
+|-
+| colspan="4" | C'est volontairement que la voie de Thanatos en est exclue.
+|-
+| width="15%" | 01 || width="35%" | Dague || width="15%" | 55-57 || Musique
+|-
+| 02 || Épée 1 ou 2 M || 58-60 || Pickpocket
+|-
+| 03 || Hache 1 ou 2 M || 61 || Srv extérieur
+|-
+| 04 || Lance || 62 || Srv cité
+|-
+| 05 || Masse 1 ou 2 M || 63 || Srv désert
+|-
+| 06 || Fléau || 64 || Srv forêt
+|-
+| 07-08 || Arme d'hast || 65 || Srv glaces
+|-
+| 09 || Corps à corps || 66 || Srv marais
+|-
+| 10 || Arbalète || 67 || Srv montagne
+|-
+| 11  || Arc || 68 || Srv sous-sol
+|-
+| 12 || Dague de jet || 69-71 || Travestissement
+|-
+| 13 || Javelot || 72 || Acrobatie
+|-
+| 14 || Fronde || 73-74 || Métallurgie
+|-
+| 15 || Fouet || 75-76 || Jeu
+|-
+| 16 || Esquive || 77-79 || Jonglerie
+|-
+| 17 || Bouclier || 80-82 || Maroquinerie
+|-
+| 18-20 || Chant || 83 || Natation
+|-
+| 21-23 || Danse || 84-86 || Navigation
+|-
+| 24 || Discrétion || 87-88 || Orfèvrerie
+|-
+| 25 || Escalade || 89 || Serrurerie
+|-
+| 26 || Saut || 90 || Alchimie
+|-
+| 27-29 || Cuisine || 91 || Astrologie
+|-
+| 30 || Course || 92 || Botanique
+|-
+| 31-33 || Dessin || 93 || Chirurgie
+|-
+| 34-36 || Séduction || 94 || Légendes
+|-
+| 37-39 || Bricolage || 95 || Écriture
+|-
+| 40-42 || Charpenterie || 96 || Médecine
+|-
+| 43-45 || Comédie || 97 || Zoologie
+|-
+| 46-48 || Commerce || 98 || Oniros
+|-
+| 49-51 || Équitation || 99 || Hypnos
+|-
+| 52-54 || Maçonnerie || 00 || Narcos
+|}
+
+
+== Ombres de Thanatos ==
+Les ombres de Thanatos  sont des queues de Dragon réservées aux pratiquants de la voie du cauchemar. Chaque fois qu'un haut-rêvant utilise sa compétence [[Les Compétences#VOIE DE THANATOS|Thanatos]] ou l'augmente ne serait-ce que d'un point d'expérience, la prochaine queue de Dragon qu'il reçoit doit être tirée sur cette table. Les désirs thanataires fonctionnent comme les désirs lancinants (pas d'expérience dus à l'exercice) et sont refoulables au prix de 2 points de refoulement.
+==== 01-03 Mauvaise rencontre en perspective ====
+[[#01-04 Mauvaise rencontre en perspective|Comme la queue standard]].
+==== 04-06 Pèlerinage ====
+[[#05-08 Pèlerinage|Comme la queue standard]].
+==== 07-09 Conquête ====
+[[#09-12 Conquête|Comme la queue standard]].
+==== 10-12 Inertie draconique ====
+[[#13-16 Inertie draconique|Comme la queue standard]].
+==== 13-15 Urgence draconique ====
+[[#17-20 Urgence draconique|Comme la queue standard]].<BR>
+''Refoulable au prix de 4 points de refoulement.''
+==== 16-18 Réinsertion aléatoire ====
+[[#21-24 Réinsertion aléatoire|Comme la queue standard]].
+==== 19-21 Montée laborieuse ====
+[[#25-28 Montée laborieuse|Comme la queue standard]].
+==== 22-24 Coup de barre ====
+[[#29-33 Coup de barre|Comme la queue standard]].
+==== 25-27 Insomnie ====
+[[#34-38 Insomnie|Comme la queue standard]].
+==== 28-30 Dépouillement ====
+[[#39-43 Dépouillement|Comme la queue standard]].<BR>
+''Refoulable au prix de 4 points de refoulement.''
+==== 31-33 Amnésie sélective ====
+[[#44-48 Amnésie sélective|Comme la queue standard]].
+==== 34-38 Souvenir morbide de l'archétype ====
+Les prochains points d'expérience dus au stress doivent être mis en [[Les Compétences#VOIE DE THANATOS|Thanatos]].
+==== 39-42 Désir de boire du sang chaud ====
+Désir thanataire. Il s'agit de sang encore chaud de la chaleur naturelle de la victime.
+==== 43-46 Désir de dormir dans un cercueil ====
+Désir thanataire.
+==== 47-50 Désir d'assister à une pendaison ====
+Désir thanataire.
+==== 51-54 Désir de parler à un crâne (humain) ====
+Désir thanataire. La « conversation » doit durer un minimum de 15 minutes.
+==== 55-58 Désir d'entendre hurler de terreur ====
+Désir thanataire. ll doit s'agir d'un hurlement humain.
+==== 59-62 Désir de blesser une femme ====
+Désir thanataire. Causer au minimum une blessure légère.
+==== 63-66 Désir de blesser un enfant ====
+Désir thanataire. Idem.
+==== 67-70 Désir d'escalade difficile ====
+Désir thanataire. Hauteur à grimper : 4d6 m, difficulté de l'escalade : 1d4-4.
+==== 71-73 Injurier la première personne inconnue rencontrée ====
+''Refoulable au prix de 4 points de refoulement.''
+==== 74-76 Couardise irraisonnée ====
+À la prochaine occasion de combat, obligation de fuir, de se cacher ou de se rendre. Impossibilité d'utiliser aucune magie, ni sur l'ennemi, ni sur soi-même. ''Refoulable au prix de 4 points de refoulement.''
+==== 77-85 Héroïsme forcené ====
+À la prochaine occasion de combat, obligation de foncer en tête en corps à corps ou avec une arme de mêlée. Impossibilité d'utiliser aucune magie, ni sur l'ennemi, ni sur soi-même. ''Refoulable au prix de 4 points de refoulement.''
+==== 86-95 Haine fatale ====
+On devient immédiatement haineux et jaloux envers la première personne inconnue de même sexe et de même espèce rencontrée. Traiter comme le Coup de foudre fatal. Satisfaction s'obtient en blessant gravement ou en infligeant une cuisante humiliation publique. ''Refoulable au prix de 4 points de refoulement.''
+==== 96-00 Infarctus ====
+Perte immédiate de 4 points de vie (et 8 points d'endurance). Ces points pourront commencer à être regagner au bout d'un jour complet.
+
+== Soufﬂes de Dragon ==
+Pour les vrai-rêvants, retirer tous les résultats inférieurs à 61.<BR>
+Quand un souffle dure d<sup>dr</sup> jours, déterminer ce nombre de la même façon que la force d'un Rêve de Dragon, sur une base minimum de 7. Le souffle prend effet à liinstant même et dure jusqu'à la fin de l'heure du Château Dormant du Xième jour. Aucun souffle de Dragon n'est refoulable.
+==== 01-05 SOMMEIL SANS RÊVE ====
+On ne rêve plus pendant d<sup>dr</sup> jours, pas même dans les Hautes Terres pour la récupération du rêve.
+==== 06-10 MAUVAISES RENCONTRES EN PERSPECTIVE ====
+Tirer les d<sup>dr</sup> prochaines rencontres dans les TMR sur la table Spéciale de Rencontres.
+==== 11-15 PÉRIPLE ====
+Impossibilité d'accomplir aucune magie, sauf le déclenchement d'un sort en réserve, tant que le demi-rêve n'est pas allé se purifier dans chacun des 6 sanctuaires ou dans chacune des 8 nécropoles. Un Passeur ou un Changeur peut aider le haut-rêvant, mais un Messager ne peut y aller a sa place. À chaque fois, la purification s'obtient en réussissant ''points actuels de rêve/[[Les Compétences#Draconic|Draconic]]'' à -3 pour les sanctuaires ou ''points actuels de rêve/[[Les Compétences#Draconic|Draconic]]'' à -5 pour les nécropoles. En cas d'échec, même règle que pour maîtriser les cases humides. (Tirer 1d2. 1 = Périple des sanctuaires \ 2 = Périple des nécropoles.)
+==== 16-20 FERMETURE DES CITÉS ====
+Les 22 cités ferment leurs portes au demi-rêve du haut-rêvant. Celui-ci ne peut plus les traverser ni y accomplir aucune magie tant qu'il ne les a pas reconquises. La conquête d'une cité s'obtient en réussissant ''points actuels de rêve/[[Les Compétences#Draconic|Draconic]]'' à -9, même règle que pour maîtriser les cases humides. Dès qu'une cité est conquise, elle redevient une case normale. On n'est pas obligé de reconquérir toutes les cités. Si un [[Lancer un Sort#Tourbillon blanc|Tourbillon]] abandonne le demi-rêve du haut-rêvant dans une cité, celui-ci doit aussitôt tenter de la conquérir. Même chose avec un Passeur ou un Changeur. Un Messager peut par contre entrer librement. Utiliser un Messager est la seule façon de lancer un sort depuis une cité non reconquise.
+==== 21-25 DÉBORDEMENT ====
+Une case des TMR à déterminer aléatoirement, autre qu'une case humide, devra dorénavant être maîtrisée à chaque fois comme si elle était précisément une case humide. Cette situation est définitive. La case conserve par ailleurs toute son identité pour le lancer des sorts.
+==== 26-30 IMPRATICABILITÉ DES PONTS ====
+Pendant d<sup>dr</sup> jours, les ponts doivent être maîtrisés comme s'ils étaient des cases humides. Ils conservent néanmoins leur identité pour le lancer des sorts.
+==== 31-35 DÉSORIENTATION ====
+Pendant d<sup>dr</sup> jours, le haut-rêvant ne peut plus retrouver le chemin d'un certain genre de case sur la carte des TMR. Pratiquement, le genre de case en question n'existe plus pour lui. Si son demi-rêve entre dans l'une de ces cases, considérer le fait comme une sortie de la carte et réinsérer le demi-rêve aléatoirement. Les sorts en réserve sur ces cases ne sont pas annulés, ils redeviennent disponibles a réapparition des cases. (S'il s'agit des sanctuaires ou des nécropoles, il faut d'abord attendre leur réapparition en cas de périple.)
+==== 36-40 TROU NOIR ====
+Une case spécifique à déterminer aléatoirement, autre qu'une case humide, disparaît définitivement de la carte des TMR du haut-rêvant. Le joueur est invité à la rayer à l'encre noire, et pratiquement, elle n'existe plus pour son personnage. Si son demi-rêve y entre, considérer le fait comme une sortie de la carte et réinsérer aléatoirement. Si un sort s'y trouvait en réserve, il est purement et simplement annulé.
+==== 41-45 PÉAGE ====
+Pendant d<sup>dr</sup> jours, traverser un pont ou pénétrer dans une cité coûte un point de rêve.
+==== 46-50 MONTÉE LABORIEUSE ====
+Pendant d<sup>dr</sup> jours, monter dans les TMR coûte 2 points de rêve au lieu d'un, et le déplacement accéléré en coûte 5.
+==== 51-55 DOUBLE RÉSISTANCE DU FLEUVE ====
+Pendant d<sup>dr</sup> jours, toute case de fleuve, lac ou marais doit etre consécutivement maîtrisée deux fois. Si la seconde fois échoue. la concentration est rompue et il faut recommencer au début.
+==== 56-60 CONFUSION DRACONIQUE ====
+Perte de la connaissance d'un sort ou d'un rituel, à déterminer aléatoirement. Le haut-rêvant peut le ré-apprendre par un jet normal de Synthèse, en ne dépensant que la moitié des points de sorts prévus. Les bonus de case dus à l'usage sont perdus.
+==== 61-65 ÉPUISEMENT ====
+Pendant d<sup>dr</sup> jours, chaque prise de fatigue est augmentée d'un point. Chaque heure de marche coûte ainsi sa vitesse (V1, V2, V5, etc.) + 1 point ; chaque round\case en TMR coûte 2 points, etc.
+==== 66-70 PERTE DANS UNE CARACTÉRISTIQUE ====
+La perte est de 1d7 points et dure d<sup>dr</sup> jours. Au bout de ce délai, jouer un jet de la caractéristique concernée (originelle) avec une difficulté égale au nombre de points perdus. Réussite = la caractéristique remonte à sa hauteur originelle ; échec = elle remonte à sa hauteur originelle moins 1 point, lequel est définitivement perdu. Déterminer la caractéristique concernée sur la table ci-après avec 1d12.
+{|style="border:1px solid black;text-align:left;"
+|-
+| width="10%" | 1 || width="40%" | [[Les Caractéristiques#APPARENCE|APPARENCE]] || width="10%" | 7 || [[Les Caractéristiques#OUÏE|OUÏE]]
+|-
+| 2 || [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] || 8 || [[Les Caractéristiques#ODORAT-GOÛT|ODORAT-GOÛT]]
+|-
+| 3 || [[Les Caractéristiques#FORCE|FORCE]] || 9 || [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]
+|-
+| 4 || [[Les Caractéristiques#AGILITÉ|AGILITÉ]] || 10 || [[Les Caractéristiques#INTELLECT|INTELLECT]]
+|-
+| 5 || [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]] || 11 || [[Les Caractéristiques#EMPATHIE|EMPATHIE]]
+|-
+| 6 || [[Les Caractéristiques#VUE|VUE]] || 12 || [[Les Caractéristiques#RÊVE|RÊVE]]
+|}
+==== 71-75 VIEILLISSEMENT INSTANTANÉ ====
+Le vieillissement est de 1d7 ans. Jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté négativement au nombre d'années perdues. En cas d'échec, perte définitive d'un point en [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]].
+==== 76-79 NON-COMBATIVITÉ ====
+Perte de 1 niveau dans une compétence de combat, à déterminer aléatoirement.
+==== 80-83 JE-M'EN-FOUTISME ====
+Perte de 1 niveau dans une compétence déterminée aléatoirement, autre qu'une compétence de combat ou qu'une connaissance.
+==== 84-88 PARESSE INTELLECTUELLE ====
+Perte de 1 niveau dans une connaissance, à déterminer aléatoirement, y compris les voies de Draconic.
+==== 89-00 QUEUE DE DRAGON PERPÉTUELLE ====
+Le personnage est atteint de d<sup>dr</sup> queues de Dragon, non pas simultanément, mais l'une après l'autre. Dès que la première prend fin, en tirer une autre ; et ainsi de suite jusqu'à ce que les d<sup>dr</sup> queues aient été appliquées.
+
+== Têtes de Dragon ==
+Les têtes de Dragon sont réparties en deux tables. La première donne des têtes sans rapport avec l'usage du haut-rêve et est donc accessible aux vrai-rêvants comme aux haut-rêvants. La seconde ne concerne que l'usage du haut-rêve et n'est accessible qu'aux haut-rêvants.<BR>
+Quand une tête est dite unique, retirer si le personnage la possède déjà. Quand elle est dite cumulable, le jet de dés indiqué bénéficie d'un nouveau bonus de +1 chaque fois qu'elle est ré-obtenue. Par exemple un jet de [[Les Caractéristiques#VUE|VUE]] à zéro devient un jet de [[Les Caractéristiques#VUE|VUE]] à +1.
+=== Table 1 : Tous personnages ===
+==== 01-07 AUGMENTATION DE CARACTÉRISTIQUE ====
+Permet d'augmenter n'importe quelle caractéristique de 1 point, sauf [[Les Caractéristiques#TAILLE|TAILLE]], [[Les Caractéristiques#Mêlée|Mêlée]], [[Les Caractéristiques#Tir|Tir]], [[Les Caractéristiques#Lancer|Lancer]] et [[Les Caractéristiques#Dérobée|Dérobée]]. Le joueur teste ses caractéristiques une à une, dans l'ordre de son choix, en jouant 1d20. Dès qu'il obtient un résultat supérieur à la caractéristique actuellement testée, celle-ci augmente de 1 point, et la procédure s'arrête.
+==== 08-14 SOUVENIR IMMÉDIAT DE L’ARCHÉTYPE ====
+Permet d'augmenter immédiatement une compétence de son choix inférieure à l'archétype. Si la compétence a déjà atteint un niveau +3 ou plus, l'augmentation n'est que de 1 niveau. Si elle est inférieure à +3, elle peut monter jusqu'à +3 (ou jusqu'au niveau de l'archétype si celui-ci est inférieur à +3).
+==== 15-21 DON LIMITÉ DE RÉUSSITE ====
+Permet de réussir automatiquement les 7 prochains jets de dés concernant la compétence de son choix, ayant un ajustement final supérieur à -11 . Pratiquement, le joueur continue à jouer ses jets. S'il réussit de lui-même, il ne dépense rien ; s'il échoue (normal à total), il dépense une de ses 7 réussites automatiques, qui sont toujours considérées être des réussites significatives. La compétence concernée (une seule) doit être désignée dès l'obtention de la tête.
+==== 22-28 DON DE VRAIE CHANCE ====
+Permet à un vrai-rêvant de regagner 2 points de chance au lieu d'un quand il n'en a dépensé aucun la veille, et tout de même 1 point s'il en a dépensé. Pour un haut-rêvant, permet uniquement de regagner tous ses points de chance (comme s'il dépensait un point de destinée). S'il est encore 'a son maximum de points de chance, tirer une autre tête. Unique pour les vrai-rêvants.
+==== 29-34 DON DE VOIR LA MAGIE ====
+Un jet de [[Les Caractéristiques#VUE|VUE]] à zéro permet de distinguer une aura bleutée délimitant les zones magiques d'[[Oniros]] ou entourant les objets enchantés ou les créatures soumises à l'effet d'un sort ou d'un rituel. Un seul essai par zone, objet ou personnage. Cumulable.
+==== 35-40 DON DE HAUT-RÊVE ====
+Ce don permet d'accéder aux Terres Médianes en demi-rêve et est indispensable pour déchiffrer les [[Expérience Draconique#signes draconics|les signes draconics]] et développer les 4 compétences de magie. Tous les haut-rêvants sont par définition déjà censés posséder ce don. Un vrai-rêvant acquérant cette tête de Dragon perd instantanément tous les bénéfices du vrai-rêve, sans pour autant devenir « magicien pratiquant » puisque ses 4 voies sont à -11 et qu'il ne pourra acquérir des sorts avant de les avoir suffisamment développées. On peut refuser cette tête de Dragon et en tirer une autre à la place.
+==== 41-46 DON DE SENTIR LES HAUT-RÊVANTS ====
+Un jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]] à zéro permet de savoir si tel personnage est ou non un haut-rêvant. Il faut pour cela s'en trouver tout près et parler avec lui pendant au moins un round. Un seul essai par personnage. Cumulable.
+==== 47-52 DON DE SENTIR LE MENSONGE ====
+Un jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]] à zéro permet de deviner que l'on vous ment, sans pour autant connaître la teneur du mensonge. Ne s'applique qu'au mensonge volontaire, pas au mensonge par omission ni par ignorance. Cumulable.
+==== 53-58 DON DE RÉSISTANCE À LA MAGIE ====
+Cette tête accorde un bonus de +1 à tous les jets de résistance contre les sorts d'[[Hypnos]] et de [[Thanatos]], y compris les sorts lancés par un objet via une écaille d'activité, mais ne s'applique pas aux potions, [[La Magie du Cauchemar#GRIFFE DE THANATOS|griffes de Thanatos]] et autres effets des objets magiques. Cumulable.
+==== 59-64 DON DE NON-RÉSISTANCE À LA MAGIE ====
+Cette tête permet, volontairement, de ne pas résister à un effet magique, y compris les potions et les objets. Pour utiliser ce don, il faut être conscient, et préciser clairement qu'on ne tente pas de résister à tel ou tel effet. Unique.
+==== 65-70 DON DE CONTRÔLER SON SOMMEIL ====
+Un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à zéro permet de s'endormir instantanément et de dormir au moins jusqu'à la fin de la prochaine heure, même sans aucun point de fatigue. Permet également de se réveiller au bout d'un laps de temps donné, « programmé » au moment de s'endormir. Cumulable.
+==== 71-76 DON LIMITÉ DE RÉSISTANCE AU POISON ====
+Permet de vaincre l'effet d'un venin ou d'un poison avec une simple réussite normale au jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], comme si un antidote venait d'être pris. Unique.
+==== 77-82 DON LIMITÉ DE RÉSISTANCE À LA MALADIE ====
+Permet de triompher de toute maladie avec une simple réussite normale au jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]. Unique.
+==== 83-88 DON D'APPRIVOISER LES ANIMAUX ====
+Un jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]] à zéro permet de rendre amical un animal non agressif ou de rendre neutre un animal agressif. Les animaux restent neutres\amicaux jusqu'à ce qu'un événement significatif, agression ou autre, vienne tout remettre en question. Ce n'est pas un lien magique. Un seul jet par animal. Un animal rendu neutre par ce don ne peut pas ensuite être rendu amical par un second jet. Enfin l'étendue de la neutralité\amitié de l'animal dépend de chaque espèce et est à décider dans chaque cas particulier par le gardien des rêves. Cumulable.
+==== 89-94 DON D'ORIENTATION ====
+Un jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]]E à zéro permet de deviner la direction du nord, et d'une manière générale de retrouver une certaine direction quand on est perdu ou par manque de visibilité (nuit, brouillard, souterrain, etc.). Cumulable.
+==== 95-00 DON LIMITÉ DE GUÉRISON ====
+Permet d'obtenir un point de tâche supplémentaire à chaque jet de [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]] et de considérer tout échec total comme un simple échec particulier. L'échec total se limite ainsi à conférer -2 points de tâche ; l'échec particulier en confère -1 point ; l'échec normal en confère +1, la réussite normale +2, la significative +3 et la particulière +4. Unique.
+=== Table 2 : Haut-rêvants ===
+==== 01-10 DON DE DOUBLE-RÊVE ====
+Lors de la récupération des points de rêve, permet de jeter Id<sup>dr</sup> toutes les demi-heures draconiques au lieu de toutes les heures. Unique.
+==== 11-20 DON DE DÉPLACEMENT ACCÉLÉRÉ ====
+Permet à tout moment l'option du déplacement accéléré dans les TMR sans avoir à dépenser un point de rêve supplémentaire. Unique.
+==== 21-30 AUGMENTATION DU SEUIL DE RÊVE ====
+Permet d'augmenter le seuil de rêve de 2 points. Cumulable jusqu'à un maximum du double de la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]].
+==== 31-40 CONNAISSANCE INTUITIVE D'UN NOUVEAU SORT ====
+Le haut-rêvant bénéficiaire de cette tête se retrouve en possession d'un nouveau sort ou rituel, déterminé par un procédé aléatoire quelconque.
+==== 41-50 TERRE D'ATTACHE ====
+Par cette tête, le haut-rêvant peut désigner une case des TMR de son choix à l'exception d'une case humide. Ensuite, à n'importe quel round de son périple en TMR, il peut s'y téléporter directement quel que soit le nombre de cases qui lien sépare. Cette téléportation instantanée remplace son mouvement normal et coûte donc un point de fatigue. De même, tout comme après un mouvement normal, 1d7 de rencontre doit être tiré dès l'arrivée dans la terre d'attache. Enfin, le haut-rêvant ne peut s'y téléporter que s'il est libre de son mouvement, c'est-à-dire s'il n'est sous l'emprise ni d'un [[Lancer un Sort#Reflet d'ancien rêve|Reflet d'ancien rêve]], ni d'un [[Lancer un Sort#Tourbillon blanc|Tourbillon]]. Cumulable : on peut avoir plusieurs terres d'attache.
+==== 51-60 PRÉSENT DES CITÉS ====
+Par cette tête, chaque cité offre automatiquement soit une [[Lancer un Sort#Fleur des rêves|Fleur des rêves]], soit un [[Lancer un Sort#Passeur|Passeur des rêves]], soit un [[Lancer un Sort#Messager|Messager des rêves]]. dès qu'elle est visitée par le demi-rêve du haut-rêvant. Il n'y a pas de d7 à tirer, le haut-rêvant choisit librement ce qu'il préfère, et la rencontre est
+considérée automatiquement maîtrisée, Fleurs, Messagers et Passeurs ayant une force de 2d6 points. Dès qu'elle a offert son présent, la cité redevient normale en ce qui concerne le tirage des rencontres ; il n'y a qu'un seul présent par cité. La tête de Dragon prend fin des que toutes les cités (22) ont été visitées ; entre temps, la tête ne peut être ré-obtenue.
+==== 61-70 RÉSERVE EN SÉCURITÉ ====
+Un haut-rêvant possédant cette tête peut pénétrer sur une case où il a un sort en réserve sans forcément le déclencher s'il ne le souhaite pas. Même chose si un [[Lancer un Sort#Tourbillon blanc|Tourbillon]] l'abandonne sur une case de réserve. Déclencher un sort en réserve devient un acte volontaire. Même chose pour un échec total en réserve. Cette tête s'applique à toutes les cases. Unique.
+==== 71-80 RÉSERVE EXTENSIBLE ====
+Une (seule) case spécifique librement choisie par le haut-rêvant à l'exception d'une case de fleuve, n'est plus dorénavant limitée à un seul sort en réserve. Le haut-rêvant peut yen stocker autant qu'il le désire (dans les limites du nombre permis par ses niveaux). En conséquence, tant que ce maximum n'est pas atteint, le demi-rêve peut entrer dans la case concernée sans déclencher les sorts qui s'y trouvent. Le haut-rêvant peut se contenter d'y passer, ou rajouter un sort aux précédents. Dès que le maximum permis est atteint, le fait de passer par la case déclenche automatiquement l'un des sorts (au choix). Les sorts peuvent être déclenchés l'un après l'autre (rappelons que déclencher un sort fait obligatoirement redescendre le demi-rêve), ou déclenchés ensemble (tout ou partie d'entre eux) à la condition expresse qu'ils aient la même cible (même créature, objet, ou centre de zone). Cumulable : on peut avoir plusieurs cases de réserve extensible.
+==== 81-90 QUÊTE DES EAUX ====
+Sous l'influence de cette tête, le haut-rêvant est invité à se rendre dans un lac ou dans un marais de son choix. Dès que cette case, lac ou marais, a été maîtrisée selon les règles usuelles, la victoire devient définitive, et la case n'aura plus jamais besoin d'être maîtrisée. Une fois le lac ou le marais choisi, le haut-rêvant ne peut en changer, mais a droit à un nombre illimité d'essais pour le maîtriser. Cumulable : on peut maîtriser définitivement plusieurs lacs ou marais.
+==== 91-00 CONNAISSANCE DU FLEUVE ====
+Cette tête permet de téléporter instantanément son demi-rêve de n'importe quelle case de fleuve à n'importe quelle autre, Il s'agit du fleuve seul, à l'exclusion des cases de lac et marais. La téléportation remplace le mouvement normal et coûte donc un point de fatigue. Comme après un mouvement normal, une rencontre doit être tirée dans la case de fleuve d'arrivée, puis cette dernière doit être maîtrisée selon la règle usuelle. Noter enfin que la téléportation n'est possible que si le demi-rêve est libre de son mouvement, c'est-à-dire s'il n'est sous l'emprise ni d'un [[Lancer un Sort#Reflet d'ancien rêve|Reflet]], ni d'un [[Lancer un Sort#Tourbillon blanc|Tourbillon]]. Unique.
+
+== [[Table des Queues, Souffles et Têtes|Tables]] ==
