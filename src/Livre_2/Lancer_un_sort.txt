@@ -110,3 +110,5 @@ Chaque fois que le demi-rêve d'un haut-rêvant pénètre dans une case humide (
 Noter que lorsque la concentration est rompue, en cas d'échec, et que le haut-rêvant quitte les TMR, son demi-rêve reste quant à lui sur la case humide. Dès que le haut-rêvant remonte, le round suivant par exemple, il doit a nouveau tenter de la maîtriser. Or ses points de rêve venant de diminuer de 1, coût usuel d'une montée en TMR, ses chances de maîtrise diminuent tandis que les probabilités d'échec total et de souffle de Dragon augmentent.<BR>
 Maîtriser les cases humides a toujours lieu après le tirage d'une rencontre. S'il s'agit d'un Tourbillon et qu'il vous emporte, il n'y a plus besoin de maîtriser la case. Mais si la case d'arrivée est une case humide, il faut la maîtriser immédiatement. En cas de Reflet d'ancien rêve, la case humide doit être maîtrisée dès la libération.<BR>
 Le Fleuve peut être traversé par les cases de pont sans avoir à le maîtriser.
+
+== [[Exemple général]] ==
