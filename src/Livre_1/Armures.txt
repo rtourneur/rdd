@@ -10,7 +10,7 @@ En plus de l'encombrement, et indépendamment de celui-ci, certaines armures res
 === Protection ===
 Pour mériter la valeur indiquée, tous les éléments de la protection doivent être présents. Si un seul manque, la protection devient aléatoire : 1d2 au lieu de 2, 1d3 au lieu de 3, etc. Pour faire 1d1, jouer en réalité 1d2-1 (résultat 0 ou 1). Si plus d'un élément manque, le gardien des rêves peut décider que la valeur est à la fois aléatoire et diminuée. Cette décision est une question de bon sens en face de chaque cas particulier. Encombrement, malus armure, et prix s'appliquent également à l'ensemble de l'armure.
 
-== Protection 1 :drap matelassé ==
+== Protection 1 : drap matelassé ==
 (deux épaisseurs de drap surpiquées, avec rembourrage de laine). Pourpoint ou cotte de drap matelassé + culottes de drap matelassé + bottes de cuir souple. (Le pourpoint est une sorte de veste ; la cotte est une sorte de tunique, lacée sur la poitrine, et descendant jusqu'aux genoux, façon Robin des Bois.)
 
 == Protection 2 : cuir souple ==
