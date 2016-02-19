@@ -1,0 +1,23 @@
+__NOTOC__
+Les rituels de Détection d'Aura et de Lecture d'Aura peuvent indifféremment être accomplis par n'importe laquelle des quatre voies.
+
+ [[Oniros|Retour à Oniros]]
+
+=== DÉTECTION D'AURA ===
+(sanctuaire) R-3 r1<BR>
+'''Portée''' E1<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Toutes les créatures vivantes animées (humains, humanoïdes, animaux) ont une caractéristique [[Les Caractéristiques#RÊVE|RÊVE]]. Les objets enchantés possèdent des points de rêve, de même que les produits de magie naturelle, comme certaines pierres de chance. Les entités de cauchemar, incarnées ou non, en ont également. Quelle qu'elle soit, la présence de rêve émet une aura, laquelle est détectable par Détection d'Aura. Parallèlement, toute cible d'un sort ou d'un rituel, émet une aura propre, quand bien même ladite cible ne possède pas de points de rêve (centre de zone, objet ou plante soumis à une illusion d'Hypnos). Cette aura est également détectable par Détection d'Aura.<BR>
+L'aura de présence de rêve se traduit par un halo bleuté constant ; l'aura résultant d'un effet magique par un halo parcouru de pulsations. Quand les deux auras sont présentes conjointement, le halo est pulsatif et d'un bleu plus foncé. On peut toujours effectuer Détection d›Aura sans aucun risque, il y a toujours une réponse. Soit une aura est perçue, constante ou pulsative, et l'on peut tenter une [[#LECTURE D'AURA|Lecture d'Aura]] pour en savoir plus ; soit aucune aura n'est perçue et il s'agit de matière inerte, sans rêve, non soumise à un sort.
+
+=== LECTURE D'AURA ===
+(Sanctuaire \ variable) R-3 r3<BR>
+'''Portée''' E1<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet d'approfondir les informations fournies par [[#DÉTECTION D'AURA|Détection d'Aura]]. Pratiquer Lecture d'Aura quand il n'y a pas d'aura revient à demander une magie impossible et crée immédiatement une déchirure du rêve.<BR>
+Lecture d'Aura est effectuée en plusieurs étapes, toutes étant de difficulté R-3 et coûtant 3 points de rêve. La première a toujours lieu dans un sanctuaire et ne fait que révéler dans quel(s) autre(s) genre(s) de case(s) le haut-rêvant doit se rendre pour continuer sa lecture. Là, il apprend quel genre de magie a été produit ou à quel type de rêve il a affaire, de même que les cases spécifiques concernées. Enfin dans les cases spécifiques, le haut-rêvant peut apprendre la force du rêve ou de la magie en cours, c'est-à-dire pratiquement la difficulté et le nombre de points de rêve impliqués, information indispensable dans l'optique d'une annulation de magie.<BR>
+Lecture d'Aura révèle également la couleur de l'aura (fixe ou pulsative) comme [[#DÉTECTION D'AURA|Détection d'Aura]]. Pour les créatures vivantes, on peut donc sauter l'étape de [[#DÉTECTION D'AURA|Détection d'Aura]] et commencer directement par la lecture, puisqu'on est sûr de trouver une aura. Dans les autres cas, il est plus prudent de commencer par la détection si, en l'absence finale d'une aura, on ne veut pas créer de magie impossible. Effectuée sur une créature non soumise à un effet magique ni sous l'emprise d'une entité. Lecture d'Aura indique toujours le Fleuve. Là, dans n'importe quelle case du Fleuve, le haut-rêvant se contente d'apprendre qu'il a affaire à une créature vivante et douée de rêve.
+
+''«Brucelin ne va pas bien en ce moment, songe Nitouche, il se met a pleurer pour un oui pour un non... je vais pratiquer sur lui une Lecture d'Aura. » Toujours en cité Sordide, la haut-rêvante n 'a qu'une case à faire pour atteindre le sanctuaire Plat (D14). Là, Lecture d'Aura lui révèle une aura sombre et pulsative, ainsi que les indications de « Fleuve » et de « désert » Nitouche sait que le Fleuve correspond au propre rêve de Brucelin, mais que signifie ce désert parasite ? Pour le savoir, elle remonte en TMR et se rend dans le désert le plus proche, le désert de Neige (C13). Cette seconde étape lui révèle que Brucelin est possédé par un désespoir et précise « désert de Nicrop (L11) ». Nitouche devra se rendre dans cette case spécifique et y pratiquer une troisième Lecture d'Aura pour connaître la force de rêve de l'entité. C'est également depuis cette case spécifique qu elle pourra tenter de l'exorciser var un rituel d'Annulation de Magie R-7.''

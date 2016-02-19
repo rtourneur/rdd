@@ -1,0 +1,38 @@
+__NOTOC__
+Les rituels d'[[Oniros]] obéissent à toutes les règles des rituels : leurs chances de réussite sont ajustées astrologiquement selon l'heure de naissance du haut-rêvant, et ils ne peuvent être mis en réserve. Chaque étoile @ dont peut être suivi le titre d'un rituel indique le coût d'un ''point de seuil de rêve''. Le seuil est diminué aussitôt le rituel accompli. Chaque Rêve de Dragon vaincu permet d'en regagner 1 point.
+
+ [[Oniros|Retour à Oniros]]
+
+=== ÉLARGISSEMENT DE ZONE ===
+(variable) R-4 r4<BR>
+'''Portée''' Non applicable<BR>
+'''Durée''' Spéciale<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet de doubler le diamètre des zones de transmutation élémentale et de quadrupler celui des autres sorts de zone. Le diamètre des zones de transmutation peut ainsi faire jusqu'à 6 mètres et celui des autres jusqu'à 12 mètres. Le rituel doit être préalablement accompli dans la case d'où sera ensuite lancé le sort de zone. Il n'y a aucun temps limite entre le moment où le rituel est accompli et celui où sera lancé le sort de zone. Tout se passe comme si l'effet était en réserve. Pareillement, le demi-rêve ne redescend pas obligatoirement après l'accomplissement du rituel, cette option est au choix du haut-rêvant, qui peut lancer son sort de zone sans avoir à remonter en TMR. La seule restriction est que le prochain sort à être lancé depuis la case en question devra obligatoirement être un sort de zone. Contrevenir à cette règle crée instantanément une déchirure du rêve centrée sur le haut-rêvant. [[Sorts de Zone#BULLE VOLANTE|BULLE VOLANTE]], [[Sorts de Zone#BARQUE DE RÊVE|BARQUE DE RÊVE]]. [[Sorts de Zone#LANTERNE|LANTERNE]] et [[Sorts de Zone#PONT IMMATÉRIEL|PONT IMMATÉRIEL]] ne sont pas affectés par ce rituel.
+
+=== ANNULATION DE MAGIE ===
+(variable) R-var r var<BR>
+'''Portée''' E1<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet d'annuler un effet magique, que celui-ci ait été accompli par soi-même ou par un autre haut-rêvant. On peut annuler l'effet d'un sort, de zone ou individuel, d'un rituel d'enchantement, d'une invocation, etc. Le haut-rêvant doit se trouver dans la case spécifique des TMR d'où la magie a été accomplie. Le jet de [[Les Caractéristiques#RÊVE|RÊVE]] qu'il doit réussir a alors la même difficulté que celui ayant permis la magie, avec une dépense de points de rêve pareillement identique.<BR>
+
+''Nitouche a lancé un Tympan d'Hypnos en collines d'Encre (J4) R-5 r4. Pour annuler ce sort, Nitouche elle-même ou un autre haut-rêvant doivent se rendre en collines d'Encre précisément, et accomplir le rituel d'Annulation avec une difficulté R-5 en dépensant 4 points de rêve.''
+
+Pour annuler une invocation, le rituel d'Annulation doit être ciblé sur la créature invoquée. Quand la magie est le résultat conjoint de plusieurs rituels, ce qui est notamment le cas des objets magiques, chacun doit être annulé tour à tour, en commençant toujours par le dernier à avoir été accompli chronologiquement. D'une manière générale, ce sont les mêmes opérations qui doivent être répétées à l'envers. Quand un rituel coûte des points de seuil, son annulation en coûte également (le même nombre). Annulation de Magie sert également à exorciser les entités de cauchemar non incarnées. La difficulté d'un exorcisme est toujours R-7, et le coût en points de rêve égal au [[Les Caractéristiques#RÊVE|RÊVE]] de l'entité. Le ciblage doit être fait sur la créature possédée.<BR>
+Avant d'accomplir une Annulation de Magie, les paramètres de la magie à annuler (case des TMR, R-, r) peuvent être découverts au moyen du rituel [[Rituels de Lecture d'Oniros#LECTURE D'AURA|Lecture d'Aura]].<BR>
+Pour la synthèse d'Annulation de Magie, considérer que ce rituel est de difficulté R-7. Il peut être utilisé indifféremment par [[Oniros]], [[Hypnos]] ou [[Narcos]] (mais jamais [[Thanatos]]), quelle que soit la voie ayant servi à accomplir la magie à annuler.
+
+=== ANNULATION DE SES PROPRES ZONES ===
+(variable) R-4 r2<BR>
+'''Portée''' Variable<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet à un haut-rêvant d'annuler ses propres zones d'Oniros à une difficulté et un coût plus avantageux que s'il utilisait [[#ANNULATION DE MAGIE|Annulation de Magie]]. Tout comme avec cet autre rituel, il doit se trouver en TMR dans la case exacte d'où a été lancée la Zone, mais la difficulté est toujours fixe (R-4), de même que la dépense de points de rêve (r2). La portée est la même que celle de la zone à annuler. Si le haut-rêvant a lancé plusieurs zones identiques pour en faire une plus grande, il n'a pas à les annuler l'une après l'autre comme il devrait le faire avec [[#ANNULATION DE MAGIE|Annulation de Magie]], mais les annule toutes d'un coup.
+
+=== PERMANENCE DE ZONE ===
+@ (variable) R-13 r13<BR>
+'''Portée''' Non applicable<BR>
+'''Durée''' Permanente<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet de rendre permanent l'effet d'un sort de zone. Il doit être préalablement accompli sur la case d'où sera ensuite lancé le sort de zone. Même procédure et restrictions que pour [[#ÉLARGISSEMENT DE ZONE|Élargissement de Zone]]. Une case d'où est lancée une zone rendue permanente est mobilisée tant que celle-ci n'est pas annulée. Aucun sort ou rituel ne peut plus y être lancé. Toutefois, la case peut toujours être traversée. Noter qu'une zone permanente n'est pas annulée à la mort de son créateur de même qu'un objet magique ne perd pas non plus ses pouvoirs. Un zone permanente peut être annulée par [[#ANNULATION DE MAGIE|Annulation de Magie]] à condition de commencer par annuler la Permanence. Etant marqué d'une étoile @, l'accomplissement de Permanence de Zone coûte un point de seuil.

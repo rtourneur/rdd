@@ -1,0 +1,11 @@
+__NOTOC__
+ [[Oniros|Retour à Oniros]]
+
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Les zones de Transparence Élémentale obéissent à toutes les règles des sorts de zone. Elles ont pour effet de rendre transparent l'élément impliqué. Comme pour les [[Zones de Transmutation Élémentale|transmutations élémentales]], aucune discrimination n'est possible : est affectée toute substance concernée se trouvant dans la zone. La transparence permet de laisser passer la lumière et donc de voir au travers. Les autres qualités des éléments ne sont pas altérées : le métal reste aussi dur et tranchant, le bois aussi combustible, etc. Noter que, quoique voisin, transparent ne veut pas dire invisible. Contrairement à la transmutation, l'effet n'est pas définitif. L'élément retrouve son opacité des qu'il sort de la zone ou à la fin de la durée de cette dernière.
+
+: BOIS TRANSPARENT (Cité) R-4 r4
+: MÉTAL TRANSPARENT (Gouffre) R-4 r4
+: TERRE TRANSPARENTE (Collines) R-4 r4

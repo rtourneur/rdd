@@ -1,0 +1,94 @@
+__NOTOC__
+Les effets magiques obtenus par la voie d'[[Oniros]] sont circonscrits dans des zones et limités a celles-ci. Hormis les deux exceptions de [[Sorts de Zone#BULLE VOLANTE|Bulle Volante]] et de [[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]], les zones d'[[Oniros]] sont rigoureusement ''immobiles''. Hormis [[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]] et [[Sorts de Zone#PONT IMMATÉRIEL|Pont Immatériel]], toutes ont la forme d'une ''sphère''.
+
+ [[Oniros|Retour à Oniros]]
+
+Le diamètre des zones sphériques est un paramètre librement décidé par le haut-rêvant au moment où il lance son sort, pouvant faire de 10 cm à 3 m. Si la zone est mise en réserve, le diamètre doit en être décidé au moment du lancer et ne peut plus être modifié au moment du déclenchement.<BR>
+Lors du ciblage, c'est l'emplacement du centre de la zone qui doit être pointé par le doigt du haut-rêvant. Comme pour tout ciblage, il doit être visuellement perceptible.<BR>
+Aucune zone ne peut se superposer, en entier ou en partie, à une autre. Si un haut-rêvant lance une zone là une autre est déjà active, son sort ne fonctionne pas purement et simplement, bien que les points de rêve de coût soient malgré tout dépensés.<BR>
+Un même haut-rêvant peut par contre lancer une seconde zone identique sur une première. Le diamètre et le centre ciblé doivent être exactement les mêmes, ainsi que la dépense de points de rêve en cas de coût variable. L'effet produit est alors une zone de ''diamètre double''. Si une troisième zone, toujours identique, est lancée sur les deux premières, on obtiendra une grande zone d'un diamètre triple, et ainsi de suite. Chaque zone doit faire l,objet d'un lancer séparé. Cette règle est valable pour toutes les zones (y compris les transmutations), sauf pour Barque de Rêve, [[Sorts de Zone#BULLE VOLANTE|Bulle Volante]], [[Sorts de Zone#LANTERNE|Lanterne]] et [[Sorts de Zone#PONT IMMATÉRIEL|Pont Immatériel]], qui ne peuvent jamais être doublés ni triplés d'aucune manière.<BR>
+[[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]] et [[Sorts de Zone#BULLE VOLANTE|Bulle Volante]] (zones mobiles) sont arrêtées dans leur déplacement par le contact d'une autre zone, comme par un champ de force infranchissable, mais sans subir aucun dommage.<BR>
+Les zones sont invisibles en elles-mêmes, à moins que leur effet ne soit visible. Aucun jet de résistance n'est applicable aux zones d'[[Oniros]].
+=== Durée ===
+Sauf cas particuliers, les zones restent en place jusqu'à la fin de l'heure de naissance du haut-rêvant (en abrégé HN). L'effet cesse alors d'opérer, mais toute modification de la matière reste acquise ([[Sorts de Zone#CROISSANCE VÉGÉTALE|Croissance Végétale]], [[Zones de Transmutation Élémentale|Transmutation élémentale]]).
+
+''Nitouche est née à l heure du Dragon. Si elle lance une zone durant l'heure du Dragon, celle-ci restera en place jusqu'à la fin de l'heure. Si elle la lance à l'heure des Épées, de la Lyre, du Serpent, etc., elle durera jusqu'à la fin de l'heure du Dragon du lendemain.''
+
+== Les éléments ==
+Le monde de Rêve de Dragon ignore tout de notre chimie et reconnaît sept ''éléments'', qui sont l'air, la terre, l'eau, le feu, le bois, le métal et le septième. Ce dernier correspond aux créatures animées et à la matière qui les compose.<BR>
+Toute notion de physique-chimie doit être abandonnée en entrant dans le monde élémental de Rêve de Dragon, pour n'en considérer que l'aspect symbolique. Le sang d'un animal par exemple est principalement composé d'eau, appartient-il alors à l'élément Eau ? Non, symbole-même de la vie, il appartient au septième.
+=== Air ===
+C'est l'air que l'on respire, mais également les vapeurs, les gaz, les fumées.
+=== Terre ===
+S'applique à toute substance minérale solide à l'exception des métaux (roc, sable, argile, humus, grès, verre, etc.)
+=== Eau ===
+Il s'agit de l'eau pure, mais également de toute substance liquide et ''fluide'' (bière, vin, décoction, huile) d'origine non animale et non métallique. Un liquide imparfaitement fluide (métal en fusion, sève épaisse) appartient à l'élément dont il est issu. Lorsque la fluidité est avérée, elle prime sur l'origine pour déterminer I'élément. Le jus d'un fruit appartient à l'élément Bois tant qu'il est contenu dans le fruit, parce qu'il participe de la totalité de celui-ci, et que ce dernier appartient à l'élément Bois. Mais s'il en est extrait et considéré isolément, il appartient à l'élément Eau. Seuls les fluides d'origine animale (sang, lait) appartiennent toujours au septième, isolés ou non.
+=== Feu ===
+C'est l'énergie du feu à l'état pur, la chaleur accompagnée de flammes.
+=== Bois ===
+Il s'agit d'une manière générale de toute substance végétale solide. C'est aussi bien les végétaux vivants, poussant encore dans le sol (arbre, buisson, herbe), que les végétaux cueillis (légume, fruit), que les substances végétales travaillées (planches, chanvre d'une corde, lin d'une chemise, joncs d'un panier).
+=== Métal ===
+S'applique a tous les métaux, bruts ou travaillés.
+=== Septième ===
+Le septième élément, non transmutable, correspond à toutes les créatures vivantes animées (humanoïdes, animaux), mais également à toute matière inanimée ayant une origine animale (cuir, fourrure, laine, corne, os, ivoire, parchemin, lait, cire d'abeille, carapace de zomar, coquille d'escargot, etc.)
+
+== [[Sorts de Zone]] ==
+: [[Sorts de Zone#ANTI-MAGIE|ANTI-MAGIE]] (Plaines) R-2 r1+
+: [[Sorts de Zone#BARQUE DE RÊVE|BARQUE DE RÊVE]] (Lac) R-8 r1+
+: [[Sorts de Zone#BOUCLIER|BOUCLIER]] (Gouffre) R-7 r6
+: [[Sorts de Zone#BROUILLARD|BROUILLARD]] (Forêt) R-3 r1+
+: [[Sorts de Zone#BULLE VOLANTE|BULLE VOLANTE]] (Marais) R-10 r1+
+: [[Sorts de Zone#CHALEUR|CHALEUR]] (Cité) R-4 rI+
+: [[Sorts de Zone#CLAMEURS|CLAMEURS]] (Cité) R-2 rI+
+: [[Sorts de Zone#CROISSANCE VÉGÉTALE|CROISSANCE VÉGÉTALE]] (Forêt) R-6 r5
+: [[Sorts de Zone#FROID|FROID]] (Désolation) R-4 r1+
+: [[Sorts de Zone#ILLUSION ANIMALE|ILLUSION ANIMALE]] (Forêt) R-4 r4
+: [[Sorts de Zone#ILLUSION GÉOGRAPHIQUE|ILLUSION GÉOGRAPHIQUE]] (Gouffre) R-4 r4
+: [[Sorts de Zone#ILLUSION HUMANOÏDE|ILLUSION HUMANOÏDE]] (Cité) R-6 r2+
+: [[Sorts de Zone#LANTERNE|LANTERNE]] (Cité) R-3 r2
+: [[Sorts de Zone#LUMIÈRE|LUMIÈRE]] (Plaines) R-4 r3
+: [[Sorts de Zone#MIROIRS|MIROIRS]] (Sanctuaire) R-5 r5
+: [[Sorts de Zone#PONT IMMATÉRIEL|PONT IMMATÉRIEL]] (Pont) R-6 r2+
+: [[Sorts de Zone#QUIÉTUDE|QUIÉTUDE]] (Nécropole) R-3 r4
+: [[Sorts de Zone#SILENCE|SILENCE]] (Désert) R-2 r4
+: [[Sorts de Zone#TÉLÉPORTATION|TÉLÉPORTATION]] (Collines) R-11 r9
+: [[Sorts de Zone#TÉNÈBRES|TÉNÈBRES]] (Gouffre) R-4 r3
+== [[Zones de Transmutation Élémentale]] ==
+: [[Zones de Transmutation Élémentale#x élément en Eau|AIR EN EAU]] (Cité) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Feu|AIR EN FEU]] (Désolation) R-10 r6
+: [[Zones de Transmutation Élémentale#x élément en Air|BOIS EN AIR]] (Marais) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Eau|BOIS EN EAU]] (Sanctuaire) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Feu|BOIS EN FEU]] (Désert) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Métal|BOIS EN MÉTAL]] (Monts) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Terre|BOIS EN TERRE]] (Nécropole) R-4 t2
+: [[Zones de Transmutation Élémentale#x élément en Air|EAU EN AIR]] (Désert) R-4 r2
+: [[Zones de Transmutation Élémentale#x élément en Bois|EAU EN BOIS]] (Forêt) R-4 r2
+: [[Zones de Transmutation Élémentale#x élément en Feu|EAU EN FEU]] (Monts) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Métal|EAU EN MÉTAL]] (Gouffre) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Terre|EAU EN TERRE]] (Pont) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Air|FEU EN AIR]] (Désolation) R-4 r2
+: [[Zones de Transmutation Élémentale#x élément en Bois|FEU EN BOIS]] (Collines) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Eau|FEU EN EAU]] (Cité) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Métal|FEU EN MÉTAL]] (Sanctuaire) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Terre|FEU EN TERRE]] (Désert) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Air|MÉTAL EN AIR]] (Fleuve) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Bois|MÉTAL EN BOIS]] (Collines) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Eau|MÉTAL EN EAU]] (Fleuve) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Feu|MÉTAL EN FEU]] (Lac) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Terre|MÉTAL EN TERRE]] (Plaines) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Air|TERRE EN AIR]] (Lac) R-8 r6
+: [[Zones de Transmutation Élémentale#x élément en Bois|TERRE EN BOIS]] (Plaines) R-4 r2
+: [[Zones de Transmutation Élémentale#x élément en Eau|TERRE EN EAU]] (Forêt) R-6 r4
+: [[Zones de Transmutation Élémentale#x élément en Métal|TERRE EN MÉTAL]] (Gouffre) R-6 r4
+== [[Zones de Transparence Élémentale]] ==
+: [[Zones de Transparence Élémentale|BOIS TRANSPARENT]] (Cité) R-4 r4
+: [[Zones de Transparence Élémentale|MÉTAL TRANSPARENT]] (Gouffre) R-4 r4
+: [[Zones de Transparence Élémentale|TERRE TRANSPARENTE]] (Collines) R-4 r4
+== [[Rituels de Conjuration d'Oniros|Rituels de Conjuration]] ==
+: [[Rituels de Conjuration d'Oniros#ÉLARGISSEMENT DE ZONE|ÉLARGISSEMENT DE ZONE]] (variable) R-4 r4
+: [[Rituels de Conjuration d'Oniros#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
+: [[Rituels de Conjuration d'Oniros#ANNULATION DE SES PROPRES ZONES|ANNULATION DE SES PROPRES ZONES]] (variable) R-4 r2
+: [[Rituels de Conjuration d'Oniros#PERMANENCE DE ZONE|PERMANENCE DE ZONE]] @(variable) R-13 r13
+== [[Rituels de Lecture d'Oniros|Rituels de Lecture]] ==
+: [[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
+: [[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3

@@ -1,0 +1,153 @@
+__NOTOC__
+ [[Oniros|Retour à Oniros]]
+
+=== ANTI-MAGIE ===
+(Plaines) R-2 r1+<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' La zone d'Anti-Magie est une zone neutre, sans aucun effet. Mais comme deux zones ne peuvent se superposer, aucune autre zone ne peut prendre effet là où elle opère. Son coût est variable au choix du haut-rêvant. Elle peut être annulée par une Annulation de Magie en dépensant ce même nombre de points de rêve.
+
+=== BARQUE DE RÊVE ===
+(Lac) R-8 r1+<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN ou choc<BR>
+'''JR''' Aucun<BR>
+'''Effet''' La Barque de Rêve est un des rares exemples de zone mobile. C'est une embarcation immatérielle affectant la forme d'une barque effilée, champ de force à peine visible de transparence bleutée. Elle doit être ciblée à la surface de l'eau et est capable de voguer. Elle peut embarquer plusieurs passagers et du matériel, selon son nombre de points de rêve. Chaque point dépensé permet d'embarquer 6 points de [[Les Caractéristiques#TAILLE|TAILLE]] ou d'encombrement. La barque se dirige au gré de la personne située à la proue et se concentrant pour cela, à la vitesse maximum de 12 m par round (7,2 km/60mn). Diriger la barque exclut toute autre activité.
+
+''Nitouche a 9 en TAILLE et Brucelin 13, ils portent à eux deux 15 points d'encombrement : 9 + 13 + 15 = 37, divisé par 6 = 6,1. Pour les emporter avec leur matériel, une Barque de Rêve doit avoir un minimum de 7 points de rêve.''
+
+La Barque de Rêve est insubmersible : l'eau qui y pénètre en ressort automatiquement. En revanche, un choc violent peut la faire éclater et disparaître comme une bulle de savon. Elle possède une résistance de 20. Chaque fois qu'elle subit une agression, jouer un jet de Résistance ajusté négativement au +dom du choc. Réussi : elle tient bon et conserve sa résistance intacte. Échoué, elle éclate et disparaît. Les réussites spéciales n'interviennent pas. Une surcharge produit le même effet, la faisant immédiatement éclater. Même chose si elle est ciblée ailleurs que sur l'eau. Enfin, n'étant qu'un champ de force, il est impossible de rien y attacher, arrimer, agripper, etc.
+
+=== BOUCLIER ===
+(Gouffre) R-7 r6<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' L'intérieur de la zone de Bouclier ne possède aucune vertu particulière, son intérêt réside dans sa frontière. Cette dernière ne peut être franchie, dans un sens comme dans l'autre, que par des objets ou des créatures animées d'une vitesse inférieure à 7 mètres par round. Si la vitesse est supérieure, objets ou créatures rebondissent contre l'invisible surface de la zone. Les projectiles, flèches, javelots, pierres, etc, sont donc automatiquement arrêtés par ce bouclier, dans un sens comme dans l'autre. Sa surface apparaît comme légèrement élastique et ne peut causer en soi aucun dommage aux créatures trop rapides qui fonceraient dedans.<BR>
+La zone laisse passer la lumière et le son. De l'intérieur, on peut pratiquer toute sorte de magie dont l'effet a lieu à l'extérieur, ou à l'intérieur (sauf autre sort de zone). De l'extérieur, on peut pratiquer toute magie dont l'effet a lieu à l'intérieur, sauf toujours un autre sort de zone. La zone arrête la grêle. En revanche. elle laisse passer la pluie, la neige ainsi que le vent et la foudre.
+
+=== BROUILLARD ===
+(Forêt) R-3 r1+<BR>
+'''Portée''' E3<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Toute la zone est sous l'emprise d'un épais brouillard, ressemblant extérieurement à un nuage rond, arrêtant totalement la vue. De l'intérieur, il est pareillement impossible de voir ce qui se passe à l'extérieur ; on peut seulement tenter de voir ce qui se passe à l'intérieur en réussissant un jet de [[Les Caractéristiques#VUE|VUE]] ajusté négativement par le nombre de points de rêve dépensés.
+
+=== BULLE VOLANTE ===
+(Marais) R-10 r1+<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN ou choc<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Autre exemple de zone mobile, la Bulle Volante permet de nier la pesanteur et de se déplacer dans les trois dimensions spatiales, donc de voler. Le haut-rêvant doit cibler le futur occupant (ou lui-même) et dépenser un nombre de points de rêve égal à la [[Les Caractéristiques#TAILLE|TAILLE]] de ce dernier. Si la dépense est insuffisante, les points sont dépensés en pure perte. La Bulle ne peut contenir qu'une créature consciente, et une seule. On ne peut rien y déposer.<BR>
+La Bulle Volante a la ressemblance d'une bulle de savon. Au sol, elle en a la fragilité et le moindre choc la fait éclater. Appartient au sol tout ce qui y touche : végétation, constructions, mais également créatures et tout ce qu'elles brandissent. En vol, par contre, elle possède une résistance de 20 comme la [[#BARQUE DE RÊVE|Barque de Rêve]]. Chaque fois qu'elle est touchée (projectile, créature volante), jouer un jet de résistance ajusté négativement au +dom de l'attaque. Réussi : la Bulle tient bon. Échoué : elle éclate et disparaît. Les réussites spéciales n'interviennent pas.<BR>
+Voler en Bulle demande une totale concentration et exclut toute autre activité. Son occupant peut communiquer oralement, mais uniquement par phrases courtes : un long discours rompt sa concentration. Même chose pour les manœuvres difficiles, brusque accélération, arrêt subit, chandelle, piqué, looping, ou voler en mauvaises conditions météo, pluie, bourrasque, orage. Monter en TMR rompt automatiquement la concentration.<BR>
+Dès que la concentration cesse, la Bulle chute durant un round de toute sa vitesse, soit 50 m. Le contrôle ne peut éventuellement être repris qu›au round suivant. Il n'y a pas de jet de dés pour garder la concentration (le contrôle) en conditions normales. Dans les autres cas, jouer un jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]] ajusté à la difficulté envisagée. Toute réussite : la concentration est conservée. Tout échec : le contrôle est perdu (chute), retenter le même jet le round suivant.<BR>
+La vitesse maximum d'une Bulle Volante est de 50 m par round (50 km/60mn). Il n'y a pas d'altitude maximum ; mais la fin du ciel est souvent beaucoup plus bas qu'on ne le pense, marquée par un réseau de déchirures du rêve, ou communiquant en prise directe avec les Limbes.
+
+=== CHALEUR ===
+(Cité) R-4 r1+<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Augmente la température dans la zone visée, à raison de 5 degrés par point de rêve dépensé. L'augmentation n'a lieu que dans la zone et n'est pas sensible à l'extérieur de celle-ci. Une fois modifiée, la température dans la zone reste fixe, quelles que soient les modifications de la température extérieure.
+
+=== CLAMEURS ===
+(Cité) R-2 r1+<BR>
+'''Portée''' E4<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Le moindre murmure ou bruit produit dans la zone est amplifié comme s'il était une clameur. Chaque point de rêve dépensé augmente le volume sonore, et, pratiquement, accroît de 5 m la distance à laquelle une voix normale peut être entendue intelligiblement. L'effet de Clameurs est perceptible aussi bien de l'intérieur que de l'extérieur de la zone. Il peut être un excellent substitut de ''sono'' pour les musiciens. Permet également d'entendre ce qui ce murmure à l'autre bout de la taverne, sauf que tout le monde en profite, à commencer par les intéressés.
+
+=== CROISSANCE VÉGÉTALE ===
+(Foret) R-6 r5<BR>
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Tous les végétaux vivants (poussant) intégralement situés dans la zone, c'est-à-dire sans qu'il en dépasse la moindre feuille, augmentent en taille jusqu'au double de leur taille initiale, ou à défaut, jusqu'à ce qu'ils commencent à dépasser de la zone. Le temps mis pour doubler de taille est variable quel que soit le végétal : il commence aussitôt le ciblage effectué, et se termine à la fin de l'heure de naissance du haut-rêvant. La nouvelle taille est acquise définitivement. L'effet s'interrompt immédiatement si l'on cueille ou déracine le végétal. Pour les herbes utiles comptées au brin, le nombre de brins peut être ainsi doublé.
+
+=== FROID ===
+(Désolation) R-4 r1+<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce sort fonctionne exactement de façon inverse à [[#CHALEUR|Zone de Chaleur]]. Chaque point de rêve dépensé fait baisser la température dans la zone de 5 degrés. Une fois modifiée, la température dans la zone reste fixe, quelles que soient les modifications de la température extérieure. L'effet de Froid peut être un bon substitut de réfrigérateur.
+
+=== ILLUSION ANIMALE ===
+(Forêt) R-4 r4<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Permet de peupler illusoirement la zone d'un animal de son choix. L'animal semble vivant, mobile, sonore, mais l'illusion ne peut quitter la zone. Le haut-rêvant ne téléguide pas les mouvements de l'illusion, celle-ci fonctionne de façon autonome, le comportement de l'animal étant celui, standard et moyen, de l'espèce. L'illusion n'est perceptible que de l'extérieur, elle se dissipe instantanément pour tout personnage qui pénètre dans la zone. On ne peut créer que l'illusion d'un animal que l'on a déjà réellement vu dans sa vie.
+
+=== ILLUSION GÉOGRAPHIQUE ===
+(Gouffre) R-4 r4<BR>
+'''Portée''' E3<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Permet d'altérer illusoirement la géographie de la zone, y compris sa végétation : nier un rocher ou en inventer un, un gouffre, un bosquet, un talus, etc. L'illusion n'existe que pour les créatures situées en dehors de la zone et se dissipe dès qu'on y pénètre. Pour les créatures situées hors de la zone, celle qui vient d'y entrer semble avoir un comportement ''logique'' par rapport à l'illusion. Par exemple, elle semble tomber dans le gouffre ou disparaître derrière le rocher de l'illusion. En cas de litige d'interprétation, c'est au gardien des rêves de statuer.
+
+=== ILLUSION HUMANOÏDE ===
+(Cité) R-6 r2+<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Permet de peupler illusoirement la zone d'un ou plusieurs Humains ou humanoïdes de son choix, de l'un ou l'autre sexe, de tout âge, armés et équipés. Ces êtres semblent vivants, ils bougent (sans réellement se déplacer, ne pouvant sortir de la Zone) et peuvent parler. La teneur de leurs paroles doit être paramétrée lors du lancer du sort. Ce peut être n'importe quoi, sachant que la longueur de leur discours ne peut excéder un round, et qu'ils répètent inlassablement le même, comme une bande sans fin. L'illusion n'existe que pour les créatures situées en dehors de la zone et se dissipe dès qu'on y pénètre. Pour les créatures situées hors de la zone, celle qui vient d'y entrer semble avoir un comportement ''logique'' par rapport à l'illusion. Par exemple  esquiver le coup d'épée d'un guerrier. On ne peut créer que l'illusion d'un humanoïde que l'on a déjà réellement vu dans sa vie.
+
+=== LANTERNE ===
+(Cité) R-3 r2<BR>
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Cette Zone diffère des autres Zones en ce que son diamètre n'est pas modulable : il fait toujours 50 cm. C'est une sphère lumineuse de la même intensité et portée qu'une lanterne, c'est-à-dire éclairant à un maximum de 8 a 10 m. L'intensité non plus n'est pas modulable. La sphère est inoffensive et ne dégage aucune chaleur. Noter que si sa portée est réduite, elle peut en revanche être aperçue de fort loin. Comme toute zone normale, elle est fixe et ne peut être déplacée. Plusieurs Lanternes lancées l'une sur l'autre n'augmentent pas son diamètre ni son intensité.
+
+=== LUMIÈRE ===
+(Plaines) R-4 r3<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' La zone de Lumière est une zone aux dimensions normalement variables, produisant une clarté semblable à la lumière du plein jour. La clarté, toutefois, n'existe que dans la zone, sans éclairer au-delà ni même être visible de l'extérieur. Une zone de Lumière ne se voit pas de l'extérieur et permet d'être dissimulé dans les ténèbres naturelles de la nuit, tout en voyant clair dans la zone.
+
+=== MIROIRS ===
+(Sanctuaire) R-5 r5<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Cette zone est un indétectable miroir sphérique dont chaque point au lieu de réfléchir ce qu'il a en face de lui, réfléchit ce qui est diamétralement opposé. Le résultat est que ce qui se trouve dans la zone devient invisible aux regards, la zone de Miroirs fonctionnant comme une zone d'''Invisibilité''. Si une lumière, feu, lanterne, est allumée à l'intérieur de la zone, elle n'en éclaire pas moins l'extérieur, étant alors perçue comme une lumière immanente, sans source précise (mais donnant peut-être l'envie d'aller voir de plus près, d'entrer dans la zone et, donc, de découvrir le pot-aux-roses).
+
+=== PONT IMMATÉRIEL ===
+(Pont) R-6 r2+<BR>
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Quoique zone fixe, Pont lmmatériel est un des rares exemples de zone non sphérique. C'est un pont en dos d'âne, champ de force immatériel sans épaisseur, ayant comme la [[#BARQUE DE RÊVE|Barque de Rêve]] la fragile transparence bleutée d'une bulle de savon. On ne peut rien faire d'autre que l'emprunter, à pied, à dos d'animal ou en voiture. On ne peut rien y fixer. Si on le heurte par en dessous ou sur la tranche, il éclate comme une bulle. Dessus, par contre, il peut supporter les plus lourdes charges.<BR>
+Le Pont lmmatériel peut être de longueur et de hauteur variables. Pour 2 points de rêve, il peut faire jusqu'à 3 m de long, avec une hauteur maximale de 1 m au centre. Chaque point supplémentaire dépensé permet d'accroître de 1 m sa longueur ou sa hauteur, sachant que sa hauteur ne peut jamais dépasser la moitié de sa longueur. L'entrée et la sortie du pont peuvent ne pas être au même niveau. Le haut-rêvant doit être capable de voir le centre du pont (ciblage) ainsi que les points de départ et d'arrivée. Sa largeur, par contre, n'est pas modifiée par les points dépensés. Au choix du haut-rêvant, elle peut aller de 10 cm à un maximum de 3 m.
+
+=== QUIÉTUDE ===
+(Necropole) R-3 r4<BR>
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Les bruits produits dans la zone de Quiétude peuvent être entendus dans la zone aussi bien qu'à l'extérieur, par contre aucun bruit de l'extérieur ne peut parvenir dans la zone, quel que soit son intensité. L'effet de Quiétude est idéal pour lire tranquillement sans être dérangé par les cris rauques des monstres qui approchent. Il peut également être utilisé sur un personnage à distance pour le rendre sourd au bruit que l'on va faire.
+
+=== SILENCE ===
+(Désert) R-2 r4<BR>
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Cette zone est l'inverse de la précédente. Aucun bruit produit dans la zone de Silence, quelle que soit son intensité, ne peut être entendu à l'extérieur, quoique pouvant toujours être entendu à l'intérieur. Permet de dissimuler directement le vacarme que l'on s'apprête à commettre.
+
+=== TÉLÉPORTATION ===
+(Collines) R-11 r9<BR>
+'''Portée''' E2<BR>
+'''Durée''' HN, puis HN + 12 heures<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Téléportation est un sort de double zone. Il ne fonctionne en effet que lorsque deux Zones distinctes ont été mises en place : la zone de départ et la zone d'arrivée. Les deux doivent être lancées depuis la ''même'' case de collines. Le haut-rêvant commence par créer la zone d'arrivée, puis il a jusqu'à sa prochaine heure de naissance pour créer la zone de départ. Peu importe la distance séparant les deux zones tant que le délai n'est pas dépassé. Si cela se produit, la première zone disparaît purement et simplement comme n'importe quelle zone parvenue au bout de sa durée. Dès que la zone de départ est créée, la durée des deux zones est repoussée jusqu'à la fin de la ''seconde'' heure de naissance du haut-rêvant. c'est-à-dire son heure de naissance + 12 heures. Au bout de cette nouvelle durée, les deux zones s'annihilent.<BR>
+Quand le couple de zones est prêt à fonctionner, toute créature qui entre dans la zone de départ, ou tout objet qu'on y fait pénétrer, se retrouve instantanément dans la zone d'arrivée. Si la zone d'arrivée reste occupée par quoi que ce soit d'assez volumineux pour empêcher la re-matérialisation d'un personnage ou d'un objet téléporté, la téléportation cesse de fonctionner jusqu'à ce que la zone d'arrivée ait été suffisamment déblayée (au gardien des rêves de juger des cas litigieux).
+
+=== TÉNÈBRES ===
+(Gouffre) R-4 r3<BR>
+'''Portée''' E1<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' La zone ainsi créée s'emplit de ténèbres totales ou rien ne peut être visuellement perçu, aussi bien dans la zone elle-même qu'à l'extérieur de celle-ci pour les créatures situées dedans. Si un feu est allumé, il dégage de la chaleur, brûle, mais sans aucune lumière. De l'extérieur, la zone n'est pas détectable. Une zone de Ténèbres en plein jour ne se remarque pas plus de l'extérieur qu'une zone de Lumière en pleine nuit.

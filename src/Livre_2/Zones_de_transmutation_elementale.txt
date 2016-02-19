@@ -1,0 +1,59 @@
+__NOTOC__
+ [[Oniros|Retour à Oniros]]
+
+'''Portée''' E2<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Le principe de la Transmutation Élémentale est de transformer un élément en un autre, par exemple le métal en bois, l'air en feu. Il n'existe de transmutation que pour les six premiers éléments. La matière dont sont composées les créatures, mortes ou vivantes, n'est jamais transmuée, y compris l'air contenu dans les poumons. Il existe 26 transmutations élémentales ; chacune est un sort à part entière, obéissant en tout point aux règles des sorts de zone.<BR>
+La transmutation a lieu dans la zone paramétrée et ciblée par le haut-rêvant. Tout ce qui appartient à l'élément impliqué est transmué instantanément sans discrimination. On ne peut pas faire de choix. Tant que dure la zone, tout nouvel objet appartenant à l'élément impliqué qui pénètre dans la zone, est immédiatement transmué à son tour. La zone peut fort bien être lancée sur un lieu où l'élément impliqué n'existe pas, par exemple Terre en Eau à 5 m du sol. Rien ne se produira au premier abord, mais toute pierre lancée dans la zone sera instantanément liquéfiée pour retomber sous forme de pluie.<BR>
+Tout objet transmué, situé ou entrant dans la zone, adopte aussitôt la forme que lui permet le nouvel élément. On peut obtenir de gracieuses torsades avec du feu transmué en bois ou en métal. La transmutation est définitive, même si l'objet sort de la zone. À la fin de la zone (HN), l'effet cesse d'opérer, mais la matière transmuée le demeure définitivement sans recouvrer non plus son élément d'origine.<BR>
+Quand une créature vivante se retrouve dans une zone de transmutation élémentale, bien que la matière dont elle composée ne soit pas affectée en elle-même, elle subit l'effet naturel et normal du nouvel élément qui l'entoure, sans jet de résistance. Une créature prise dans une zone d'Air en Feu se retrouve dans un brasier qui la brûle, une créature nageant prise dans une zone d'Eau en Bois se retrouve enkystée dans un bloc de bois, etc.<BR>
+L'élément Eau correspondant à tous les liquides d'origine non animale, réellement aqueux ou non, c'est tout le liquide qui est transmué et non pas uniquement ses molécules de H<sub>2</sub>O, y compris tout ce qui peut y être dissout (sels, cristaux). L'eau d'un végétal (sève, jus d'un fruit) appartient à l'élément Bois, qui est celui du végétal, tant qu'il est contenu dans ce dernier. L'humus appartient intégralement à l'élément Terre, même s'il est composé en grande partie de matière végétale (Bois) non encore décomposée.
+
+== Eléments d'arrivée : ==
+=== x élément en Air ===
+Pratiquement, l'ancien élément disparaît dans un courant d'air. L'air d'arrivée est toujours frais et pur.
+=== x élément en Terre ===
+L'élément d'arrivée est une roche friable et fragile comme de la craie.
+=== x élément en Eau ===
+L'eau nouvellement créée se comporte naturellement, attirée par la pesanteur : elle pleut, coule, cherche a S'infiltrer. Elle a la pureté de l'eau distillée.
+=== x élément en Feu ===
+L'ancien élément devenu Feu n'est plus que flammes. Toutefois, pour que ces nouvelles flammes continuent à brûler, il leur faut un combustible, faute de quoi elles s'éteignent. Quand c'est l'Air qui est transmué en Feu, celui-ci demeure même sans combustible, car l'Air entourant la zone la comble immédiatement, devenant Feu à son tour. Le résultat est une sphère en permanente ignition. Il en va de même pour l'eau au centre d'une rivière par exemple.
+=== x élément en Bois ===
+Le bois d'arrivée est un bois de qualité médiocre, du genre sapin, mais sec, sans aucune sève ni résine, combustible ou façonnable.
+=== x élément en Métal ===
+Il ne s'agit toujours que des deux métaux les plus inertes (voir [[Narcos]]) : fer ou plomb (tirer à pile ou face). Le fer de transmutation n'est ni de l'acier ni du fer forgé, c'est du fer natif, mou et sans dureté. Un forgeron peut néanmoins le travailler.
+=== Objets magiques ===
+À mi chemin entre les créatures et la matière inerte, les objets magiques ont droit à un jet de résistance pour ne pas être impliqués dans une transmutation. C'est un JR spécial, r0, où la protection magique du matériau est prise en guise de points de rêve (voir [[Narcos]]).
+
+: AIR EN EAU (Cité) R-8 r6
+: AIR EN FEU (Désolation) R-10 r6
+
+: BOIS EN AIR (Marais) R-8 r6
+: BOIS EN EAU (Sanctuaire) R-6 r4
+: BOIS EN FEU (Désert) R-6 r4
+: BOIS  EN MÉTAL (Monts) R-6 r4
+: BOIS EN TERRE (Nécropole) R-4 r2
+
+: EAU EN AIR (Désert) R-4 r2
+: EAU EN BOIS (Forêt) R-4 r2
+: EAU EN FEU (Monts) R-8 r6
+: EAU EN MÉTAL (Gouffre) R-6 r4
+: EAU EN TERRE (Pont) R-6 r4
+
+: FEU EN AIR (Désolation) R-4 r2
+: FEU EN BOIS (Collines) R-6 r4
+: FEU EN EAU (Cité) R-6 r4
+: FEU EN MÉTAL (Sanctuaire) R-6 r4
+: FEU EN TERRE (Désert) R-6 r4
+
+: MÉTAL EN AIR (Fleuve) R-8 r6
+: MÉTAL EN Bois (Collines) R-6 r4
+: MÉTAL EN EAU(Fleuve) R-8 r6
+: MÉTAL EN FEU (Lac) R-8 r6
+: MÉTAL  EN TERRE (Plaines) R-6 r4
+
+: TERRE EN AIR (Lac) R-8 r6
+: TERRE EN BOIS (Plaines) R-4 r2
+: TERRE EN EAU (Forêt) R-6 r4
+: TERRE EN MÉTAL (Gouffre) R-6 r4
