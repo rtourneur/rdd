@@ -1,0 +1,77 @@
+__NOTOC__
+Le principe général des sorts d'Hypnos est de suggérer illusoirement un phénomène avec tant de conviction que celui-ci est interprété comme vrai. Les rituels conservent le même principe à un degré supérieur : les invocations sont des illusions si parfaites qu'elles se confondent à la réalité du rêve, lequel n'est en dernier ressort que l'illusion élevée à la perfection ultime.<BR>
+Les sorts d'Hypnos se classent en deux sortes : les ''illusions-suggestions'' et les ''illusions sensorielles''.
+
+ [[Hypnos|Retour à Hypnos]]
+
+== Illusions-suggestions ==
+La cible des illusions-suggestions n'est toujours et uniquement qu'une créature vivante, et une seule. Certains sorts s'appliquent à toutes les créatures, d'autres ne s'appliquent qu'aux humanoïdes ou aux animaux. Le mental des créatures, en effet, ne saurait être affecté semblablement quelle que soit l'espèce. L'effet proprement magique est usuellement instantané, un flash suggestif et brutal. Mais les conséquences de l'effet magique peuvent durer plusieurs rounds. Il est toujours possible de résister aux illusions-suggestions par un jet de résistance.
+=== Selon HN ===
+Quand l'illusion-suggestion s'applique à un humanoïde, le haut-rêvant doit inclure l'une des 12 heures de naissance possibles dans le paramétrage du sort au moment du lancer. Ensuite, lors du ciblage, si l'heure de naissance paramétrée est effectivement celle de la cible, celle-ci n'a droit qu'à un JR r-9. Si l'heure de naissance est erronée, la cible à droit à un JR r-6. Quand l'illusion-suggestion s'applique à un animal, le JR est standard : r-8.
+
+== Illusions sensorielles ==
+Les illusions sensorielles se divisent en trois illusions visuelles, parfois appelées ''Yeux d'Hypnos'', une illusion auditive, une illusion olfactive et une illusion gustative.<BR>
+Les illusions ont 4 ciblages possibles : ''humanoïde'', ''animal'', ''végétal'', ''objet''. Par humanoïde et animal, on entend une créature vivante ; en termes de ciblage d'illusion, un cadavre est un objet. Par végétal, on entend un végétal vivant, relié à la terre. Un végétal coupé, déraciné, un fruit cueilli sont des objets. Par objet, on entend un ''meuble'' au sens étymologique du mot, c'est-à-dire quelque chose pouvant être déplacé. Les constituantes d'un paysage et les constructions ne sont pas des objets. C'est au gardien des rêves de statuer sur les cas litigieux.<BR>
+La durée des illusions sensorielles est la même que celle des [[La Magie des Zones|zones d'Oniros]] : jusqu'à la fin de l'heure de naissance du haut-rêvant. Contrairement aux illusions-suggestions, il n'y a aucun jet de résistance pour leur résister, mais certains cas d'illusions visuelles peuvent conduire à un ''conflit de sens''.
+=== Conflit de sens ===
+Chaque fois que le spectateur d'une illusion visuelle est en proie à un conflit de sens, c'est-à-dire quand il y a contradiction ou impossibilité entre ce que lui indiquent ses autres sens et sa vue, l'illusion suscite une ''brume limbaire''. C'est une sorte de flou ectoplasmique de couleur gris vert (comme les Limbes) qui restitue la logique à défaut de restituer la réalité. La brume limbaire a la taille et la forme approximative de la chose réelle.<BR>
+Soit par exemple une porte rendue invisible. Puisqu'elle « n'existe pas », on devrait voir soit la continuation du mur, soit ce qu'il y a de l'autre côté. Or ni l'un ni l'autre ne sont du ressort de l'illusion qui, au pied de la lettre, n'est que porte invisible, et non pas invention d'autre chose. Si un spectateur prend conscience de cette anomalie, il voit un rectangle de flou gris vert se dessiner à la place de la porte, c'est-a-dire ni le mur, ni ce qu'il y a de l'autre côté, ni non plus la porte elle-même. La porte reste donc bien invisible, puisqu'on ne la voit pas, mais pas sa présence. De la même façon, un humanoïde invisible le reste totalement tant qu'il ne commet aucune action ayant pour conséquence un conflit d'interprétation chez un spectateur, auquel cas ce dernier voit apparaître un « fantôme » gris vert justifiant l'action qui vient de se produire. Noter ici aussi que si la ''présence'' de l'humanoïde cesse d'être « invisible », ce dernier le demeure au sens ou son fantôme n'est qu'une silhouette totalement anonyme.<BR>
+La brume limbaire n'apparaît que pour le spectateur ayant un conflit de sens. Ceux qui ne sont pas victimes d'un tel conflit continuent à voir l'illusion telle qu'elle est. En combat, un attaquant invisible ne suscite une brume limbaire que pour la créature qu'il vient d'attaquer ainsi que pour un témoin ponctuel de l'attaque.<BR>
+Ce sont les invisibilités qui sont à même de susciter le plus de conflits de sens, mais c'est également possible pour les deux autres illusions visuelles.
+
+''Nitouche ramasse un caillou et y lance l 'illusion qu'il s'agit d'une pomme, puis tend l'objet à Brucelin. Tant qu 'elle est dans la main de Nitouche, Brucelin n'a aucune raison de voir autre chose qu'une pomme. Mais dès qu'il la saisit, le contact de ses doigts sur le caillou, son sens du toucher, entre en conflit avec sa vue. L'illusion de pomme disparaît aussitôt, et quoiqu'il sente toujours le poids du caillou dans sa main, Brucelin n 'arrive pas a voir de quoi il s'agit : une sorte de flou verdâtre de la taille de la supposée pomme brouille sa perception.''
+
+Dès que les sens cessent d'être en conflit, la brume limbaire s'estompe et l'on retourne à une illusion réelle et totale, invisibilité au autre.
+
+''Excédé, Brucelin lâche la chose, qui tombe sur le sol avec un bruit .tec. Autre conflit de sens, ce bruit n'est pas celui d'une pomme qui touche le sol. Mais l'objet restant abandonné à ses pieds et ne sollicitant plus que sa vue parmi tous ses sens, peu à peu la brume limbaire s'estompe et la pomme réapparaît aux yeux de Brucelin.''
+
+La brume limbaire n'est suscitée qu'en cas de conflit de ''sens'', pas d'intellect. Un raisonnement ne peut susciter une brume limbaire, uniquement un conflit avec l'un ou l'autre des quatre autre sens, ouïe, toucher, odorat, goût.
+
+''Les voyageurs sont à l'auberge Décidément facétieuse, Nitouche lance sur le gobelet de son compagnon l'illusion d'un petit oiseau picorant les miettes. La métamorphose s'opère sous le regard du jeune homme, qui écarquille lei yeux. « Ce n 'est pas possible, s'écrie-t-il, c'est forcément une illusion ! » Toutefois, ce raisonnement ne suffit pas à susciter la brume limbaire puisque seule la vue de Brucelin est pour l'instant concernée.''
+
+Moins une illusion sollicite de sens, moins elle a de chances de créer un conflit, et plus elle est donc fiable, voire indétectable. Une illusion qui ne s'adresse qu'à la vue (changement de couleur, changement des lettres d'un texte) marche toujours a 100%.<BR>
+Les autres illusions, auditives, gustatives et olfactives, ne génèrent jamais de brume limbaire quand bien même elles sont inexplicables.
+
+''Nitouche lance Tympan d'Hypnos (son sort favori) sur sa mandoline pour faire croire qu'elle a un son de flûte. Bien qu'un tel son soit aussi invraisemblable qu'inexplicable, on est bien obligé de l'entendre et de s'en contenter. Qu'importe qu'on y croie pas, qu'un se dise « c'est une illusion », le son n'en demeure pas moins celui d'une flûte.''
+
+Une cible donnée ne peut recevoir à la fois qu'une seule illusion visuelle, une seule illusion auditive, une seule illusion olfactive et une seule illusion gustative, soit un maximum de 4 illusions sensorielles différentes.
+
+== [[Sorts d'Illusion-suggestion|Illusions-suggestions]] ==
+: [[Sorts d'Illusion-suggestion#ÉGAREMENT|ÉGAREMENT]] (Desolation) R-4 r4
+: [[Sorts d'Illusion-suggestion#FATIGUE|FATIGUE]] (Nécropole) R-7 r5
+: [[Sorts d'Illusion-suggestion#FAUCHAGE|FAUCHAGE]] (Plaines) R-6 r5
+: [[Sorts d'Illusion-suggestion#GRAND SOMMEIL D'HYPNOS|GRAND SOMMEIL D'HYPNOS]] rituel (Marais) R-11 r8
+: [[Sorts d'Illusion-suggestion#NON-AGRESSIVITÉ|NON-AGRESSIVITÉ]] (Sanctuaire) R-4 r3
+: [[Sorts d'Illusion-suggestion#NON-RÊVE|NON-RÊVE]] (Desolation) R-7 r4+
+: [[Sorts d'Illusion-suggestion#OUBLI|OUBLI]] (Fleuve) R-8 r6+
+: [[Sorts d'Illusion-suggestion#PEUR|PEUR]] (Nécropole) R-5 r5
+: [[Sorts d'Illusion-suggestion#REPOS|REPOS]] (Cité) R-3 r2+
+: [[Sorts d'Illusion-suggestion#SÉRÉNITÉ|SÉRÉNITÉ]] (Collines) R-3 r3+
+: [[Sorts d'Illusion-suggestion#SOMMEIL|SOMMEIL]] (Marais) R-9 r1+
+: [[Sorts d'Illusion-suggestion#SUGGESTION|SUGGESTION]] (Désert) R-9 r3+
+Illusions Sensorielles
+1_\'v1s1B1L1TE (Fleuve) R-10 r8
+MET..-\i\IORPI-IOSE (Gouffre) R-8 r6
+ÎRANSFIGURATION (MOHIS) R-6 I4
+TYNIPAN DYHYPNOS (COllinCS) R-5 I4
+NARINE D'I-IYPNOS (Plaines) R-4 rf
+LANGUE DIIYPNOS (Cité) R-3 I'2
+Rituels de Communication
+HARPE D'HYPNOS (Monts) R-4 r1+
+MIROIR D'I-IYPNOS (Nécropole) R-5 r1+
+voix UHYPNOS (Désert) R-4 I4
+INVOQUER SA voix (Cité) R-6 f1+
+INVOQUER SON IMAGE (Sanctuaire) R-6 r1+
+INVOQUER SA PRESENCE (Nécfopole) R-9 f1+
+Rituels d'Invocation de Créatures
+GUERRIER SORDE (Cité Sordide D13) R-8 r7
+GUERRIER TURME (Forêt Turmide C8) R-8 r7
+NONECI-IALEPASSE (Cité ]alouse M1) R-8 r7
+KANAILLOU (Mont de Kana'1'E1) R-5 r4
+Rituels de Conjuration
+ANNULATION DE MAGIE (Variable) variable
+ANNULATION DE SES PROPRES ILLUSIONS (Variable) R-4 [2
+CONJURER L'oUBL1 (Lac) R-4 r4
+Rituels de Lecture
+DETECTION D'AURA (Sanctuaire) R-5 r1
+LECTURE D'AURA (Sanctuaire) R-3 r5
