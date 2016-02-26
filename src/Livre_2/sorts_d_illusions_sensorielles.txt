@@ -1,0 +1,52 @@
+__NOTOC__
+ [[Hypnos|Retour à Hypnos]]
+
+=== INVISIBILITÉ ===
+(Fleuve) R-10 r8<BR>
+'''Portée''' E1<BR>
+'''Cible''' Humanoïde, animal, végétal, objet<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Le sort d’Invisibilité peut être indifféremment lancé sur un humanoïde, un animal, un végétal ou un objet, mais une seule cible à la fois de l’une des quatre catégories. C’est une illusion strictement ''visuelle''. L’effet consiste à rendre la cible invisible aux regards comme si elle n’existait pas. On peut supposer que l’œil la voit toujours, mais que l’information n’est plus transmise au cerveau. Toutefois, dès qu’un conflit survient avec l’un des quatre autres sens, une brume limbaire apparaît à la place de la cible, affectant grossièrement la forme de cette dernière (voir plus haut). Le sort n’affecte rigoureusement que la cible dans sa catégorie. Lancé sur un humanoïde, il rend son corps invisible, mais pas son équipement. Pour bénéﬁcier d’une réelle invisibilité, un humanoïde doit être intégralement nu, ou bien d’autres Invisibilités doivent également avoir été lancées sur chaque composant de son équipement, chaque pièce de vêtement, chaque arme, etc. En combat. un attaquant invisible bénéﬁcie de la ''complète surprise'' à sa première attaque. Ensuite, il est localisé par sa brume limbaire et les conditions du combat redeviennent normales.
+
+=== MÉTAMORPHOSE ===
+(Gouffre) R-8 r6<BR>
+'''Portée''' E1<BR>
+'''Cible''' Humanoïde, animal, végétal, objet<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Comme [[#INVISIBILITÉ|Invisibilité]], l’illusion purement ''visuelle'' de Métamorphose peut être indifféremment lancée sur un humanoïde, un animal, un végétal ou un objet. mais une seule cible à la fois de l’une des quatre catégories. L’effet consiste à donner à la cible une apparence appartenant a l’une des trois autres catégories : par exemple, humanoïde « métamorphosé » en animal ou en objet, animal en végétal, végétal en humanoïde, objet en animal, etc., toujours d’une catégorie à une autre. L’apparence de l’illusion souhaitée doit être très précisément paramétrée lors du lancer, puis le sort est normalement ciblé sur la Cible de son choix (humanoïde, animal, végétal ou objet). Si la cible est de la même catégorie que l’illusion, par exemple une illusion de caillou lancé sur une pomme (objet en objet), une illusion de Groin lancé sur un aubergiste (humanoïde en humanoïde), elle se dissipe sans effet, mais les points de rêve sont tout de même dépensés.<BR>
+Les choses inanimées (végétal, objet) métamorphosées en humanoïde ou en animal ne restent pas ﬁgées. Quoiqu’elles ne peuvent se déplacer (pour cause), elles sont néanmoins dotées de petits mouvements restreints donnant l’illusion de la vie. Une cruche en chat donnera un chat immobile, mais battant par exemple de la queue, se frottant les moustaches.<BR>
+Le haut-rêvant ne peut obtenir l’illusion d’un type de créature (humanoïde, animal) que s’il en a déjà réellement vu un spécimen au cours de sa vie. On ne peut pas inventer de créatures fantastiques ni d’espèces inconnues. Enﬁn, l’illusion a toujours la même [[Les Caractéristiques#TAILLE|TAILLE]], la même masse apparente, que la cible. Un homme en pomme donnera l’illusion d’une énorme pomme ; une cerise en cheval donnera l’illusion d’un minuscule cheval. S’étonner de la disproportion est un ''raisonnement'' et n’entraîne pas de brume limbaire.
+
+=== TRANSFIGURATION ===
+(Monts) R-6 r4<BR>
+'''Portée''' E1<BR>
+'''Cible''' Humanoïde, animal, végétal, objet<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' L’illusion purement ''visuelle'' de Transfiguration fonctionne de la même façon que [[#MÉTAMORPHOSE|Métamorphose]], sauf que l’illusion doit rester dans la même catégorie que la cible : humanoïde en humanoïde, animal en animal, végétal en végétal, ou objet en objet, exclusivement. Toute disparité de catégorie entre la cible et l’illusion entraîne la dissipation sans effet, mais avec tout de même la dépense des points de rêve. Comme précédemment la [[Les Caractéristiques#TAILLE|TAILLE]] de l’illusion sera la même que celle de la cible, et le type de créature de l’illusion (humanoïde, animal) doit être connu. Inversement, il est quasiment impossible d’obtenir le sosie parfait de quelqu’un, tout comme il est difﬁcile à un peintre d’obtenir un portrait parfaitement ressemblant. Si un haut-rêvant désire donner à sa cible la même apparence que quelqu’un d’autre, il doit jouer un jet de [[Les Caractéristiques#VUE|VUE]] à -8, et obtiendra une ressemblance plus ou moins approchante selon son genre de résultat. Inventer un humanoïde anonyme quoique doté de traits spéciﬁques (blond, gros nez, une verrue au menton, etc.) s’obtient sans problème. Comme toujours en ce qui concerne l’humanoïde, c’est lui seul qui est concerné et non son équipement. La même règle s’applique au sort précédent : X en humanoïde.
+
+=== TYMPAN D’HYPNOS ===
+(Collines) R-5 r4<BR>
+'''Portée''' E1<BR>
+'''Cible''' Humanoïde, animal, objet<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Tympan d’Hypnos est une illusion purement auditive pouvant s’appliquer indifféremment à un humanoïde, un animal ou un objet. Comme pour [[#TRANSFIGURATION|Transﬁguration]], l’illusion doit toujours appartenir à la même catégorie que la cible. Toute disparité entraîne les mêmes conséquences. On peut ainsi changer la ''voix'' d’un humanoïde en une autre voix d’humanoïde, le ''cri'' d’un animal en le cri d’un autre animal, ou le ''son'' d’un objet sonore en son d’un autre objet. Lancer Tympan d’Hypnos sur un objet non sonore n’aboutit à aucun effet. Ce sort permet entre autre d’enrichir une illusion visuelle en lui apportant son complément sonore, diminuant ainsi les risques de conﬂit de sens. Le cri illusoire d’un animal doit être le cri d’un animal connu, et vouloir donner à un humanoïde la même voix que quelqu’un d’autre demande un jet d’[[Les Caractéristiques#OUÏE|OUÏE]] à -8, avec les mêmes remarques que pour [[#TRANSFIGURATION|Transﬁguration]]. Noter que seule la voix est changée, sans affecter en rien le contenu du discours. Enﬁn, de même que la taille reste la même pour les illusions visuelles, le volume sonore de l’illusion auditive est celui de la cible. Une souris ne produira qu’un faible meuglement, une grincette produira un rugissement phénoménal.
+
+=== NARINE D’HYPNOS ===
+(Plaines) R-4 r3<BR>
+'''Portée''' E1<BR>
+'''Cible''' Humanoïde, animal, végétal, objet<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Narine d’Hypnos est une illusion purement ''olfactive''. Son fonctionnement est identique à [[#TYMPAN D’HYPNOS|Tympan d’Hypnos]], s’appliquant aux odeurs à la place des sons. L’illusion doit pareillement rester dans la même catégorie que la cible. Peu utilisé sur les humanoïdes et les animaux, à moins d’avoir une raison très précise de vouloir qu’un humanoïde ait la même odeur qu’un autre type d’humanoïde, ou un animal la même odeur qu’un autre type d’animal, ce sort est surtout utilisé sur les objets, notamment les aliments, où il peut se combiner avec [[#LANGUE D’HYPNOS|Langue d’Hypnos]]. Ici aussi, l’intensité de l’odeur est celle de la cible. Donner illusoirement une odeur de poisson frais à un poisson avarié, donne un poisson qui émet une odeur particulièrement forte de poisson frais. Donner à un fromage pourri un parfum de rose peut embaumer durablement une pièce (une rose ''cueillie'' est un objet).
+
+=== LANGUE D’HYPNOS ===
+(Cité) R-3 r2<BR>
+'''Portée''' E1<BR>
+'''Cible''' Objet<BR>
+'''Durée''' HN<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Langue d’Hypnos est une illusion purement ''gustative'' ne s’appliquant qu’aux objets et aux objets ayant de préférence un goût, aux aliments et aux boissons. Par déﬁnition, la catégorie est toujours la même : objet en objet. L’intensité de la saveur est celle de la cible. Comme pour tous les sorts d’illusions sensorielles, la saveur illusoire ne peut être qu’une saveur connue du haut-rêvant. Couplé à [[#NARINE D’HYPNOS|Narine d’Hypnos]] et à [[#TRANSFIGURATION|Transﬁguration]], ce sort peut permettre des ignominies gastronomiques : que pensez-vous de ce vin à la robe de rubis, au savoureux bouquet de framboise, et qui vous roule sur la langue comme du velours ?... Illusion de bout en bout, ce n’est que de l’eau du baquet à vaisselle.
