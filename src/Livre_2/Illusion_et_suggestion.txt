@@ -53,13 +53,13 @@ Une cible donnée ne peut recevoir à la fois qu'une seule illusion visuelle, un
 : [[Sorts d'Illusions sensorielles#INVISIBILITÉ|INVISIBILITÉ]] (Fleuve) R-10 r8
 : [[Sorts d'Illusions sensorielles#MÉTAMORPHOSE|MÉTAMORPHOSE]] (Gouffre) R-8 r6
 : [[Sorts d'Illusions sensorielles#TRANSFIGURATION|TRANSFIGURATION]] (Monts) R-6 r4
-: [[Sorts d'Illusions sensorielles#TYMPAN D’HYPNOS|TYMPAN D’HYPNOS]] (Collines) R-5 r4
-: [[Sorts d'Illusions sensorielles#NARINE D’HYPNOS|NARINE D’HYPNOS]] (Plaines) R-4 r3
-: [[Sorts d'Illusions sensorielles#LANGUE D’HYPNOS|LANGUE D’HYPNOS]] (Cité) R-3 r2
+: [[Sorts d'Illusions sensorielles#TYMPAN D'HYPNOS|TYMPAN D'HYPNOS]] (Collines) R-5 r4
+: [[Sorts d'Illusions sensorielles#NARINE D'HYPNOS|NARINE D'HYPNOS]] (Plaines) R-4 r3
+: [[Sorts d'Illusions sensorielles#LANGUE D'HYPNOS|LANGUE D'HYPNOS]] (Cité) R-3 r2
 == [[Rituels de Communication d'Hypnos|Rituels de Communication]] ==
 : [[Rituels de Communication d'Hypnos#HARPE D'HYPNOS|HARPE D'HYPNOS]] (Monts) R-4 r1+
 : [[Rituels de Communication d'Hypnos#MIROIR D'HYPNOS|MIROIR D'HYPNOS]] (Nécropole) R-5 r1+
-: [[Rituels de Communication d'Hypnos#VOIX D’HYPNOS|VOIX D’HYPNOS]] (Désert) R-4 r4
+: [[Rituels de Communication d'Hypnos#VOIX D'HYPNOS|VOIX D'HYPNOS]] (Désert) R-4 r4
 : [[Rituels de Communication d'Hypnos#INVOQUER SA VOIX|INVOQUER SA VOIX]] (Cité) R-6 r1+
 : [[Rituels de Communication d'Hypnos#INVOQUER SON IMAGE|INVOQUER SON IMAGE]] (Sanctuaire) R-6 r1+
 : [[Rituels de Communication d'Hypnos#INVOQUER SA PRÉSENCE|INVOQUER SA PRÉSENCE]] (Nécropole) R-9 r1+

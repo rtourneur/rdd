@@ -166,6 +166,6 @@ Si le jet de dés réussit, la qualité obtenue est égale à la qualité préex
 
 ''Sur sa mandoline, Nitouche joue le « Prélude à l'heure du Vaisseau », un morceau de qualité 1, donc de difficulté -1. Avec son niveau +1 en mandoline, elle joue DEXTÉRITÉ à +1 -1 = 0 (60%) et obtient 28, une significative. Le résultat est une interprétation brillante d'une musique de qualité 1.''
 === Échec ===
-Si le jet de dés échoue, le personnage ajoute à son niveau de compétence les points de qualité obtenus selon son type d'échec, points en l’occurrence forcément négatifs, et la somme indique la qualité de ce qui est finalement obtenu. Cette qualité peut être inférieure à la qualité préexistante, mais au ''maximum'' égale à celle-ci.
+Si le jet de dés échoue, le personnage ajoute à son niveau de compétence les points de qualité obtenus selon son type d'échec, points en l'occurrence forcément négatifs, et la somme indique la qualité de ce qui est finalement obtenu. Cette qualité peut être inférieure à la qualité préexistante, mais au ''maximum'' égale à celle-ci.
 
 ''Nitouche tente maintenant la « Fugue du Poisson Acrobate », une oeuvre de qualité 5, donc de difficulté -5. Avec 36% de chances, elle obtient 48, un échec normal, valant -2 points de qualité. Ajoutés à son niveau +1 en mandoline, ces -2 points aboutissent finalement à une qualité -1. On est loin de la qualité normale de l'oeuvre.''

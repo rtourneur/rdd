@@ -54,7 +54,7 @@ Le premier test de récupération de point de vie peut avoir lieu le lendemain d
 |}
 
 
-''Les ennuis continuent. Le sentier devenu instable se dérobe sous les pieds de Brucelin qui chute au fond d'un ravin. Blessé gravement, il perd 10 points d'endurance, tombant de 28 à 18, et 2 points de vie, tombant de 14 a 12. « J'arrive ! » crie Nitouche, mais descendre au fond du ravin sans se rompre le cou lui demande 20 minutes. Pendant ce temps, Brucelin perd 1 point d'endurance par round. 18 rounds plus tard (un peu plus d'une minute et demie), son endurance est a zéro, il s’évanouit et perd un troisième point de vie. Son SC étant de 5, il va devoir jouer un jet de Vie toutes les 5 minutes.''<BR>
+''Les ennuis continuent. Le sentier devenu instable se dérobe sous les pieds de Brucelin qui chute au fond d'un ravin. Blessé gravement, il perd 10 points d'endurance, tombant de 28 à 18, et 2 points de vie, tombant de 14 a 12. « J'arrive ! » crie Nitouche, mais descendre au fond du ravin sans se rompre le cou lui demande 20 minutes. Pendant ce temps, Brucelin perd 1 point d'endurance par round. 18 rounds plus tard (un peu plus d'une minute et demie), son endurance est a zéro, il s'évanouit et perd un troisième point de vie. Son SC étant de 5, il va devoir jouer un jet de Vie toutes les 5 minutes.''<BR>
 ''Pour le premier, il obtient 17 sur 1d20, résultat supérieur à son nombre actuel de points de vie, et en reperd un autre, tombant a 11.''<BR>
 ''Pour le second, il obtient 11 tout juste et n'en reperd pas.''<BR>
 ''Pour le troisième, il obtient 01 et stabilise son état pour 5 x 20 = 100 minutes.''

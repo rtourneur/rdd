@@ -93,7 +93,7 @@ En cas d'échec total, le personnage ne parcourt que 1d12 m, puis chute.
 '''C.''' Puis, si le personnage continue de courir, il perd 1 point d'endurance toutes les SC minutes, marquant simultanément 1 point de fatigue. Quand l'endurance arrive à zéro, le personnage tombe inconscient.<BR>
 Si, quand il se met à courir, le personnage est déjà à une demi-endurance ou moins, c'est directement la partie C de la règle qui s'applique. Un personnage blessé gravement ne peut pas courir.
 
-''Nitouche est surprise par une averse au début de l'heure du Faucon. Apercevant un petit bois à 200 m de là, elle décide de courir s'y abriter, ce qui lui demande un peu plus de 8 rounds. Son SC étant de 4, elle ne perd aucun point d'endurance pour les 4 premiers rounds, puis un point pour chacun des quatre suivants. Reprenant son souffle, elle n’oublie pas de traduire également ces 4 points en fatigue.''
+''Nitouche est surprise par une averse au début de l'heure du Faucon. Apercevant un petit bois à 200 m de là, elle décide de courir s'y abriter, ce qui lui demande un peu plus de 8 rounds. Son SC étant de 4, elle ne perd aucun point d'endurance pour les 4 premiers rounds, puis un point pour chacun des quatre suivants. Reprenant son souffle, elle n'oublie pas de traduire également ces 4 points en fatigue.''
 
 == Nage ==
 Quand il s'agit de ne nager que quelques mètres en eau peu dangereuse, aucun jet de dés n'est nécessaire pour les personnages qui ont au moins zéro en Natation. jouer sinon un jet de ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#NATATION|Natation]] a zéro''.

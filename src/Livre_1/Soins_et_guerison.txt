@@ -56,7 +56,7 @@ Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours
 
 == Test de guérison ==
 Les tests de guérison des blessures ont lieu 2, 4 ou 6 jours (selon le type de blessure) après l'application des ''soins complets''. Le jour où les soins sont donnés
-ne compte pas dans le calcul des jours, quelle que soit l'heure. Les tests ont toujours lieu au moment privilégié de l’extrême fin du Château Dormant du jour considéré (voir ''[[Au Fil Des Jours]]''). Le moment venu, jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/Ajustement de guérison.
+ne compte pas dans le calcul des jours, quelle que soit l'heure. Les tests ont toujours lieu au moment privilégié de l'extrême fin du Château Dormant du jour considéré (voir ''[[Au Fil des Jours]]''). Le moment venu, jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/Ajustement de guérison.
 
 === Ajustement de guérison ===
 On l'obtient en faisant la somme (algébrique) de

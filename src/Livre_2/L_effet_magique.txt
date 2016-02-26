@@ -6,7 +6,7 @@ Quand le demi-rêve se trouve sur la bonne case, qu'une rencontre a été évent
 === Jet réussi ===
 Le haut-rêvant dépense immédiatement le nombre de points de rêve indiqué dans les paramètres du sort. Et son sort fera effet dans le monde réel au tout début du round suivant. Pour le reste du round en cours, le haut-rêvant demeure en TMR.
 === Jet échoué ===
-Le haut-rêvant ne dépense aucun point de rêve (sauf cas d’échec total), mais sa concentration est brisée. Il quitte immédiatement les TMR. Il pourra y remonter au round suivant.
+Le haut-rêvant ne dépense aucun point de rêve (sauf cas d'échec total), mais sa concentration est brisée. Il quitte immédiatement les TMR. Il pourra y remonter au round suivant.
 === Réussite particulière ===
 En cas de particulière, le haut-rêvant ne dépense que la moitié des points de rêve prévus (arrondi à l'inférieur, mais avec un minimum de 1). Si son ajustement final était négatif, il gagne normalement les points d'expérience.
 === Échec total ===

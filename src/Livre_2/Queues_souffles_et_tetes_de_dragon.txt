@@ -44,7 +44,7 @@ Pendant 1d7 jours à compter du lendemain, la caractéristique [[Les Caractéris
 Tirer 1d20 sur la table des Désirs lancinants. Les ''désirs lancinants'' durent jusqu'à ce qu'ils soient satisfaits ou refoulés. Tant que satisfaction n'est pas obtenue, aucun point d'expérience ne peut plus être gagné par l'exercice en cas de particulière et d'ajustement final négatif. Les points d'expérience dus au stress ne sont pas affectés. ''Les désirs lancinants peuvent être refoulés à
 tout moment au prix de 1 point de refoulement.''
 ==== 86-00 Idée fixe ====
-Tirer 1d20 sur la table des Idées fixes. Les ''idées fixes'' prennent effet immédiatement et durent jusqu’à l'extrême fin de l'heure du Château Dormant du lendemain. Si passé ce délai, l'occasion de les manifester ne s'est pas présentée, la queue prend fin néanmoins. Si elles entrent en contradiction avec une autre queue de Dragon, retirer. ''Les idées fixes peuvent être refoulées à tout moment au prix de 1 point de refoulement.''
+Tirer 1d20 sur la table des Idées fixes. Les ''idées fixes'' prennent effet immédiatement et durent jusqu'à l'extrême fin de l'heure du Château Dormant du lendemain. Si passé ce délai, l'occasion de les manifester ne s'est pas présentée, la queue prend fin néanmoins. Si elles entrent en contradiction avec une autre queue de Dragon, retirer. ''Les idées fixes peuvent être refoulées à tout moment au prix de 1 point de refoulement.''
 
 {|style="border:1px solid black;text-align:left;"
 |-
@@ -404,7 +404,7 @@ Quand une tête est dite unique, retirer si le personnage la possède déjà. Qu
 === Table 1 : Tous personnages ===
 ==== 01-07 AUGMENTATION DE CARACTÉRISTIQUE ====
 Permet d'augmenter n'importe quelle caractéristique de 1 point, sauf [[Les Caractéristiques#TAILLE|TAILLE]], [[Les Caractéristiques#Mêlée|Mêlée]], [[Les Caractéristiques#Tir|Tir]], [[Les Caractéristiques#Lancer|Lancer]] et [[Les Caractéristiques#Dérobée|Dérobée]]. Le joueur teste ses caractéristiques une à une, dans l'ordre de son choix, en jouant 1d20. Dès qu'il obtient un résultat supérieur à la caractéristique actuellement testée, celle-ci augmente de 1 point, et la procédure s'arrête.
-==== 08-14 SOUVENIR IMMÉDIAT DE L’ARCHÉTYPE ====
+==== 08-14 SOUVENIR IMMÉDIAT DE L'ARCHÉTYPE ====
 Permet d'augmenter immédiatement une compétence de son choix inférieure à l'archétype. Si la compétence a déjà atteint un niveau +3 ou plus, l'augmentation n'est que de 1 niveau. Si elle est inférieure à +3, elle peut monter jusqu'à +3 (ou jusqu'au niveau de l'archétype si celui-ci est inférieur à +3).
 ==== 15-21 DON LIMITÉ DE RÉUSSITE ====
 Permet de réussir automatiquement les 7 prochains jets de dés concernant la compétence de son choix, ayant un ajustement final supérieur à -11 . Pratiquement, le joueur continue à jouer ses jets. S'il réussit de lui-même, il ne dépense rien ; s'il échoue (normal à total), il dépense une de ses 7 réussites automatiques, qui sont toujours considérées être des réussites significatives. La compétence concernée (une seule) doit être désignée dès l'obtention de la tête.

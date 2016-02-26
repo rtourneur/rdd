@@ -12,6 +12,7 @@ __NOTOC__
 ** [[La Feuille de Personnage]]
 ** [[La Feuille de Route]]
 * [[Au Fil des Jours]]
+** [[L'Équipement]]
 ** [[Le Temps]]
 ** [[Le Mouvement]]
 ** [[Discrétion]]

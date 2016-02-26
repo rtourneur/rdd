@@ -4,7 +4,8 @@ __NOTOC__
 == Le système monétaire ==
 Le système monétaire de ''Rêve de Dragon'' est décimal. L'unité monétaire est le ''sol'' divisé en cent centimes appelés ''deniers''. Il y a donc cent deniers dans un sol.<BR>
 Le sol est le plus couramment représenté par une pièce d'''argent'',
-le denier par une pièce d’''étain''. On trouve également des pièces de ''bronze'' de 10 deniers, et des pièces d'''or'' de 10 sols.<BR>
+le denier par une pièce d'''étain''.
+On trouve également des pièces de ''bronze'' de 10 deniers, et des pièces d'''or'' de 10 sols.<BR>
 On peut donc dire qu'il y a dix étains dans un bronze, dix bronzes dans un argent et dix argents dans un or, mais uniquement si l'étain vaut 1 denier, le bronze 10 deniers, etc. On peut fort bien imaginer des pièces d'étain un peu plus grosses valant 2 deniers, ou des pièces d'or un peu plus petites valant 5 sols. Dans la liste d'équipement, le prix des articles d'équipement est exprimé en sols (s) ou en deniers (d).
 
 == Richesse de départ ==
