@@ -1,0 +1,27 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-draconic-hour-1">
+    <createTable tableName="DRACONIC_HOUR" schemaName="RDD" remarks="Table for draconic hours">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the draconic hour">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="DRACONIC_HOUR_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the draconic hour">
+        <constraints nullable="false" />
+      </column>
+      <column name="DESCRIPTION_CODE" type="VARCHAR(40)" remarks="Description code of the draconic hour">
+        <constraints nullable="false" />
+      </column>
+      <column name="ICON" type="VARCHAR(30)" remarks="Icon of the draconic hour">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-draconic-hour-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/draconic-hour.csv" separator="|" tableName="DRACONIC_HOUR" />
+  </changeSet>
+</databaseChangeLog>

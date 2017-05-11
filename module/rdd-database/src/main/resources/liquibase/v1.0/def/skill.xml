@@ -1,0 +1,29 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-skill-type-1">
+    <createTable tableName="SKILL" schemaName="RDD" remarks="Table for skills">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the skill">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="SKILL_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the skill">
+        <constraints nullable="false" />
+      </column>
+      <column name="DESCRIPTION_CODE" type="VARCHAR(40)" remarks="Description code of the skill">
+        <constraints nullable="false" />
+      </column>
+      <column name="SKILL_TYPE" type="VARCHAR(30)" remarks="Type of the skill">
+        <constraints nullable="false" foreignKeyName="FK_SKILL_SKILL_TYPE" references="RDD.SKILL_TYPE(NAME)" />
+      </column>
+      <column name="RULE" type="VARCHAR(30)" remarks="Rule of the skill" />
+      <column name="GROUP" type="VARCHAR(30)" remarks="Group of the skill" />
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-skill-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/skill.csv" separator="|" tableName="SKILL" />
+  </changeSet>
+</databaseChangeLog>

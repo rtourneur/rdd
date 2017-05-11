@@ -1,0 +1,192 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+    <changeSet author="tourneurr (generated)" id="1494487450146-1">
+        <createTable tableName="CHARACTER">
+            <column autoIncrement="true" name="ID" type="INTEGER">
+                <constraints primaryKey="true" primaryKeyName="CHARACTERPK"/>
+            </column>
+            <column defaultValueNumeric="0" name="VERSION" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="DREAMER" type="BOOLEAN">
+                <constraints nullable="false"/>
+            </column>
+            <column name="NAME" type="VARCHAR(50)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="AGE" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="BEAUTY" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="EYES" type="VARCHAR(50)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="GENDER" type="VARCHAR(1)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="HAIRS" type="VARCHAR(50)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="HAND" type="VARCHAR(1)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="SIZE" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="WEIGHT" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="BIRTH_TIME" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-2">
+        <createTable tableName="CHARACTERISTIC">
+            <column name="NAME" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column defaultValueNumeric="0" name="VERSION" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="MESSAGE_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="RANK" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-3">
+        <createTable tableName="CHARACTERISTIC_VALUE">
+            <column name="CHARACTER" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="CHARACTERISTIC" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="EXPERIENCE" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="VALUE" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-4">
+        <createTable tableName="DRACONIC_HOUR">
+            <column name="NAME" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column defaultValueNumeric="0" name="VERSION" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="DESCRIPTION_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="ICON" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="MESSAGE_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-5">
+        <createTable tableName="ITEM_TYPE">
+            <column name="NAME" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column defaultValueNumeric="0" name="VERSION" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="MESSAGE_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-6">
+        <createTable tableName="SKILL">
+            <column name="NAME" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column defaultValueNumeric="0" name="VERSION" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="MESSAGE_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="DESCRIPTION_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="GROUP" type="VARCHAR(30)"/>
+            <column name="RULE" type="VARCHAR(30)"/>
+            <column name="SKILL_TYPE" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-7">
+        <createTable tableName="SKILL_TYPE">
+            <column name="NAME" type="VARCHAR(30)">
+                <constraints nullable="false"/>
+            </column>
+            <column defaultValueNumeric="0" name="VERSION" type="INTEGER">
+                <constraints nullable="false"/>
+            </column>
+            <column name="MESSAGE_CODE" type="VARCHAR(40)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-8">
+        <addPrimaryKey columnNames="CHARACTER, CHARACTERISTIC, EXPERIENCE, VALUE" tableName="CHARACTERISTIC_VALUE"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-9">
+        <addPrimaryKey columnNames="NAME" constraintName="CHARACTERISTICPK" tableName="CHARACTERISTIC"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-10">
+        <addPrimaryKey columnNames="NAME" constraintName="DRACONIC_HOURPK" tableName="DRACONIC_HOUR"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-11">
+        <addPrimaryKey columnNames="NAME" constraintName="ITEM_TYPEPK" tableName="ITEM_TYPE"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-12">
+        <addPrimaryKey columnNames="NAME" constraintName="SKILLPK" tableName="SKILL"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-13">
+        <addPrimaryKey columnNames="NAME" constraintName="SKILL_TYPEPK" tableName="SKILL_TYPE"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-14">
+        <addUniqueConstraint columnNames="ID" constraintName="UC_CHARACTERID_COL" tableName="CHARACTER"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-15">
+        <addUniqueConstraint columnNames="NAME" constraintName="UC_CHARACTERISTICNAME_COL" tableName="CHARACTERISTIC"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-16">
+        <addUniqueConstraint columnNames="NAME" constraintName="UC_DRACONIC_HOURNAME_COL" tableName="DRACONIC_HOUR"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-17">
+        <addUniqueConstraint columnNames="NAME" constraintName="UC_ITEM_TYPENAME_COL" tableName="ITEM_TYPE"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-18">
+        <addUniqueConstraint columnNames="NAME" constraintName="UC_SKILLNAME_COL" tableName="SKILL"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-19">
+        <addUniqueConstraint columnNames="NAME" constraintName="UC_SKILL_TYPENAME_COL" tableName="SKILL_TYPE"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-20">
+        <addForeignKeyConstraint baseColumnNames="BIRTH_TIME" baseTableName="CHARACTER" constraintName="FK_baqoidko453cwwckcdn4l0c4q" deferrable="false" initiallyDeferred="false" referencedColumnNames="NAME" referencedTableName="DRACONIC_HOUR"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-21">
+        <addForeignKeyConstraint baseColumnNames="CHARACTER" baseTableName="CHARACTERISTIC_VALUE" constraintName="FK_ck51o6f8pqmb1djfnyq2i36pg" deferrable="false" initiallyDeferred="false" referencedColumnNames="ID" referencedTableName="CHARACTER"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-22">
+        <addForeignKeyConstraint baseColumnNames="CHARACTERISTIC" baseTableName="CHARACTERISTIC_VALUE" constraintName="FK_e0derv9b3igdvnoyqso64gi9n" deferrable="false" initiallyDeferred="false" referencedColumnNames="NAME" referencedTableName="CHARACTERISTIC"/>
+    </changeSet>
+    <changeSet author="tourneurr (generated)" id="1494487450146-23">
+        <addForeignKeyConstraint baseColumnNames="SKILL_TYPE" baseTableName="SKILL" constraintName="FK_l2g8bhuppsmn9im5k5f3t7y55" deferrable="false" initiallyDeferred="false" referencedColumnNames="NAME" referencedTableName="SKILL_TYPE"/>
+    </changeSet>
+</databaseChangeLog>

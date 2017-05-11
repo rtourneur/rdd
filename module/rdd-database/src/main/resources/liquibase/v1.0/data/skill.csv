@@ -1,0 +1,68 @@
+NAME|MESSAGE_CODE|DESCRIPTION_CODE|SKILL_TYPE|RULE|GROUP
+Bricolage|skill.bricolage|skill.bricolage.description|Général|null|null
+Chant|skill.chant|skill.chant.description|Général|null|null
+Course|skill.course|skill.course.description|Général|null|null
+Cuisine|skill.cuisine|skill.cuisine.description|Général|null|null
+Danse|skill.danse|skill.danse.description|Général|null|null
+Dessin|skill.dessin|skill.dessin.description|Général|null|null
+Discrétion|skill.discretion|skill.discretion.description|Général|null|null
+Escalade|skill.escalade|skill.escalade.description|Général|null|null
+Saut|skill.saut|skill.saut.description|Général|null|null
+Séduction|skill.seduction|skill.seduction.description|Général|null|null
+Vigilance|skill.vigilance|skill.vigilance.description|Général|null|null
+Charpenterie|skill.charpenterie|skill.charpenterie.description|Particulière|null|null
+Comédie|skill.comedie|skill.comedie.description|Particulière|null|null
+Commerce|skill.commerce|skill.commerce.description|Particulière|null|null
+Équitation|skill.equitation|skill.equitation.description|Particulière|null|null
+Maçonnerie|skill.maconnerie|skill.maconnerie.description|Particulière|null|null
+Musique|skill.musique|skill.musique.description|Particulière|null|null
+Pickpocket|skill.pickpocket|skill.pickpocket.description|Particulière|null|null
+Survie en cité|skill.survie-cite|skill.survie-cite.description|Particulière|null|null
+Survie en extérieur|skill.survie-exterieur|skill.survie-exterieur.description|Particulière|null|null
+Survie en désert|skill.survie-desert|skill.survie-desert.description|Particulière|survie|null
+Survie en forêt|skill.survie-foret|skill.survie-foret.description|Particulière|survie|null
+Survie en glaces|skill.survie-glaces|skill.survie-glaces.description|Particulière|survie|null
+Survie en marais|skill.survie-marais|skill.survie-marais.description|Particulière|survie|null
+Survie en montagne|skill.survie-montagne|skill.survie-montagne.description|Particulière|survie|null
+Survie en sous-sol|skill.survie-sous-sol|skill.survie-sous-sol.description|Particulière|survie|null
+Travestissement|skill.travestissement|skill.travestissement.description|Particulière|null|null
+Acrobatie|skill.acrobatie|skill.acrobatie.description|Spécialisée|null|null
+Chirurgie|skill.chirirgie|skill.chirirgie.description|Spécialisée|null|null
+Jeu|skill.jeu|skill.jeu.description|Spécialisée|null|null
+Jonglerie|skill.jonglerie|skill.jonglerie.description|Spécialisée|null|null
+Maroquinerie|skill.maroquinerie|skill.maroquinerie.description|Spécialisée|null|null
+Métallurgie|skill.metallurgie|skill.metallurgie.description|Spécialisée|null|null
+Natation|skill.natation|skill.natation.description|Spécialisée|null|null
+Navigation|skill.navigation|skill.navigation.description|Spécialisée|null|null
+Orfèvrerie|skill.orfevrerie|skill.orfevrerie.description|Spécialisée|null|null
+Serrurerie|skill.serrurerie|skill.serrurerie.description|Spécialisée|null|null
+Alchimie|skill.alchimie|skill.alchimie.description|Connaissance|null|null
+Astrologie|skill.astrologie|skill.astrologie.description|Connaissance|null|null
+Botanique|skill.botanique|skill.botanique.description|Connaissance|null|null
+Écriture|skill.ecriture|skill.ecriture.description|Connaissance|null|null
+Légendes|skill.legendes|skill.legendes.description|Connaissance|null|null
+Médecine|skill.medecine|skill.medecine.description|Connaissance|null|null
+Zoologie|skill.zoologie|skill.zoologie.description|Connaissance|null|null
+Oniros|skill.oniros|skill.oniros.description|Draconic|null|null
+Hypnos|skill.hypnos|skill.hypnos.description|Draconic|null|null
+Narcos|skill.narcos|skill.narcos.description|Draconic|null|null
+Thanatos|skill.thanatos|skill.thanatos.description|Draconic|thanatos|null
+Bouclier|skill.bouclier|skill.bouclier.description|Mêlée|null|null
+Corps à corps|skill.corps-a-corps|skill.corps-a-corps.description|Mêlée|tronc|pugilat
+Esquive|skill.esquive|skill.esquive.description|Mêlée|tronc|pugilat
+Dague|skill.dague|skill.dague.description|Mêlée|tronc|pugilat
+Épée à une main|skill.epee-a-une-main|skill.epee-a-une-main.description|Mêlée|tronc|epee
+Épée à deux mains|skill.epee-a-deux-mains|skill.epee-a-deux-mains.description|Mêlée|tronc|epee
+Fléau|skill.fleau|skill.fleau.description|Mêlée|null|null
+Hache à une main|skill.hache-a-une-main|skill.hache-a-une-main.description|Mêlée|tronc|hache
+Hache à deux mains|skill.hache-a-deux-mains|skill.hache-a-deux-mains.description|Mêlée|tronc|hache
+Lance|skill.lance|skill.lance.description|Mêlée|null|null
+Masse à une main|skill.masse-a-une-main|skill.masse-a-une-main.description|Mêlée|tronc|masse
+Masse à deux mains|skill.masse-a-deux-mains|skill.masse-a-deux-mains.description|Mêlée|tronc|masse
+Arme d'hast|skill.arme-d-hast|skill.arme-d-hast.description|Mêlée|null|null
+Arbalète|skill.arbalete|skill.arbalete.description|Tir et Lancer|null|null
+Arc|skill.arc|skill.arc.description|Tir et Lancer|null|null
+Fronde|skill.fronde|skill.fronde.description|Tir et Lancer|null|null
+Dague de jet|skill.dague-de-jet|skill.dague-de-jet.description|Tir et Lancer|null|null
+Javelot|skill.javelot|skill.javelot.description|Tir et Lancer|null|null
+Fouet|skill.fouet|skill.fouet.description|Tir et Lancer|null|null

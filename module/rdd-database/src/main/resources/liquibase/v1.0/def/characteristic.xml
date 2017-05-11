@@ -1,0 +1,26 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-characteristic-1">
+    <createTable tableName="CHARACTERISTIC" schemaName="RDD" remarks="Table for characteristics">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the characteristic">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="CHARACTERISTIC_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the characteristic">
+        <constraints nullable="false" />
+      </column>
+      <column name="RANK" type="INT" remarks="Rank of the characteristic">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-characteristic-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/characteristic.csv" separator="|" tableName="CHARACTERISTIC" >
+        <column name="RANK" type="NUMERIC"/>
+    </loadData>
+  </changeSet>
+</databaseChangeLog>
