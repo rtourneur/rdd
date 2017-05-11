@@ -17,7 +17,7 @@
         <constraints nullable="false" foreignKeyName="FK_SKILL_SKILL_TYPE" references="RDD.SKILL_TYPE(NAME)" />
       </column>
       <column name="RULE" type="VARCHAR(30)" remarks="Rule of the skill" />
-      <column name="GROUP" type="VARCHAR(30)" remarks="Group of the skill" />
+      <column name="TRUNK" type="VARCHAR(30)" remarks="Group of the skill" />
       <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
         <constraints nullable="false" />
       </column>

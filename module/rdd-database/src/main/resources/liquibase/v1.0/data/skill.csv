@@ -1,4 +1,4 @@
-NAME|MESSAGE_CODE|DESCRIPTION_CODE|SKILL_TYPE|RULE|GROUP
+NAME|MESSAGE_CODE|DESCRIPTION_CODE|SKILL_TYPE|RULE|TRUNK
 Bricolage|skill.bricolage|skill.bricolage.description|Général|null|null
 Chant|skill.chant|skill.chant.description|Général|null|null
 Course|skill.course|skill.course.description|Général|null|null

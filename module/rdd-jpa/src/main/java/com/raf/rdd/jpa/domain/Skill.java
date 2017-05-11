@@ -47,7 +47,7 @@ public class Skill extends AbstractNamedEntity {
   private String rule;
 
   /** The group. */
-  @Column(name = "GROUP", length = 30)
+  @Column(name = "TRUNK", length = 30)
   private String group;
 
   /** The skill type. */
