@@ -15,43 +15,43 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public enum CharacteristicEnum {
   /** Stature characteristic. */
-  STATURE("TAILLE", false),
+  STATURE("TAILLE", false, true, true),
   /** Appearance characteristic. */
-  APPEARANCE("APPARENCE", false),
+  APPEARANCE("APPARENCE", false, true, true),
   /** Constitution characteristic. */
-  CONSTITUTION("CONSTITUTION", false),
+  CONSTITUTION("CONSTITUTION", false, true, true),
   /** Strength characteristic. */
-  STRENGTH("FORCE", false),
+  STRENGTH("FORCE", false, true, true),
   /** Agility characteristic. */
-  AGILITY("AGILITÉ", false),
+  AGILITY("AGILITÉ", false, true, true),
   /** Dexterity characteristic. */
-  DEXTERITY("DEXTÉRITÉ", false),
+  DEXTERITY("DEXTÉRITÉ", false, true, true),
   /** Perception characteristic. */
-  PERCEPTION("PERCEPTION", false),
+  PERCEPTION("PERCEPTION", false, false, true),
   /** Sight characteristic. */
-  SIGHT("VUE", false),
+  SIGHT("VUE", false, true, false),
   /** Hearing characteristic. */
-  HEARING("OUïE", false),
+  HEARING("OUïE", false, true, false),
   /** Smell and Taste characteristic. */
-  SMELL_TASTE("ODORAT-GOûT", false),
+  SMELL_TASTE("ODORAT-GOûT", false, true, false),
   /** Willpower characteristic. */
-  WILLPOWER("VOLONTÉ", false),
+  WILLPOWER("VOLONTÉ", false, true, true),
   /** Intellect characteristic. */
-  INTELLECT("INTELLECT", false),
+  INTELLECT("INTELLECT", false, true, true),
   /** Empathy characteristic. */
-  EMPATHY("EMPATHIE", false),
+  EMPATHY("EMPATHIE", false, true, true),
   /** Dream characteristic. */
-  DREAM("RÊVE", false),
+  DREAM("RÊVE", false, true, true),
   /** Luck characteristic. */
-  LUCK("CHANCE", false),
+  LUCK("CHANCE", false, true, true),
   /** Melee characteristic. */
-  MELEE("Mêlée", true),
+  MELEE("Mêlée", true, true, true),
   /** Shoot characteristic. */
-  SHOOT("Tir", true),
+  SHOOT("Tir", true, true, false),
   /** Throw characteristic. */
-  THROW("Lancer", true),
+  THROW("Lancer", true, true, false),
   /** Stealth characteristic. */
-  STEALTH("Dérobée", true);
+  STEALTH("Dérobée", true, true, true);
 
   /**
    * Map for enum conversion.
@@ -69,6 +69,12 @@ public enum CharacteristicEnum {
 
   /** Derived value indicator. */
   private final boolean derived;
+  
+  /** character indicator. */
+  private final boolean character;
+  
+  /** animal indicator. */
+  private final boolean animal;
 
   /**
    * Return the enum corresponding to the name.

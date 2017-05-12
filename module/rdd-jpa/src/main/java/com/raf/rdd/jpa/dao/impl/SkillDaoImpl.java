@@ -36,7 +36,7 @@ public final class SkillDaoImpl extends AbstractNamedDao<Skill>
    *          the root type
    * @param example
    *          the example
-   * @see AbstractNamedDao#addPredicates(List, Root, Skill)
+   * @see AbstractNamedDao#addPredicates(List, Root, com.raf.fwk.jpa.domain.DomainNamedEntity)
    */
   @Override
   protected void addPredicates(final List<Predicate> predicatesList, final Root<Skill> root, final Skill example) {
