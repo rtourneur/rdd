@@ -1,0 +1,77 @@
+__NOTOC__
+ [[Narcos|Retour à Narcos]]
+
+Les rituels de Narcos obéissent normalement à toutes les règles concernant les rituels. Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus.
+ 
+__NOTOC__
+ [[Narcos|Retour à Narcos]]
+
+Les rituels de Narcos obéissent normalement à toutes les règles concernant les rituels. Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus.
+ 
+=== ENCHANTEMENT ===
+(Cité) R-4 r1+<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' C'est le rituel de base de tout enchantement. c'est par lui que le haut-rêvant confère des points de rêve à la gemme ou à la potion. Le nombre de points conférés, paramétré au lancer du sort, est à son entière discrétion. Entre deux Enchantements de la même potion ou de la même gemme doit être accompli un rituel de Purification. 
+=== PURIFICATION ===
+(Nécropole) R-4 r4<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Purification est un rituel secondaire, mais néan-moins obligatoire. A moins de disposer d'une énorme quantité de points de rêve, il est vain d'espérer enchanter l'objet en une seule fois. Purification doit toujours s'intercaler entre deux rituels identiques : entre deux Enchantements, mais également entre deux écailles, d'activité ou de protection. Sauter cette étape aboutit à un cas de ''magie impossible''. 
+=== ALLIANCE ===
+(Pont) R-4 r4<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel unit magiquement la gemme. seul véritable réceptacle du rêve, au reste de l'objet, en sorte que son pouvoir puisse s'étendre à lui. Ce qui s'applique à la gemme s'applique désormais à l'objet, et inversement. La forme de l'objet participe maintenant à la magie. C'est pourquoi il doit être utilisé comme l'exige sa fonction normale (bague au doigt, etc.) et pourquoi sa forme doit être en analogie avec le ciblage. Pratiquement, une gemme seule ne peut être utilisée que pour une écaille d'activité lançant un sort sur l'utilisateur lui-même (la gemme ne lui permettant pas d'autre ciblage). Une gemme seule pourrait être une amulette de protection, mais il faudrait la tenir sans cesse dans le creux de la main (seule façon d'utiliser une gemme seule). En revanche, on peut s'en contenter pour la Grande Écaille de Narcos ''Puits de rêve''. 
+=== PERMANENCE * ===
+(Sanctuaire) R-5 r5<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' C'est par ce rituel que le haut-rêvant stabilise les points de rêve d'une potion ou d'un objet, afin d'en prévenir l'évaporation quotidienne. Facultatif pour les potions, le rituel de Permanence est obligatoire pour tous les autres objets magiques. Son accomplissement diminue de 1 point le seuil de rêve du haut-rêvant. 
+=== MAÎTRISE ===
+(Fleuve) R-7 r7<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel établit le lien qui unira l'objet à son utilisateur, permettant à ce dernier d'en établir la maîtrise. Antinomique du rituel d'Autonomie, réservé à de très spécifiques Grandes Écailles de Narcos, le rituel de Maîtrise est obligatoire pour toutes les écailles courantes : efficacité, activité, protection. 
+=== INDIVIDUALITÉ ===
+(Désert) R-4 r4<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Rituel secondaire, Individualité est néanmoins obligatoire pour les objets possédant plusieurs pouvoirs distincts. Il doit être accompli sur toute nouvelle gemme, enchantée d'au moins un point de rêve actif, ''avant'' le rituel d'Alliance. Lors, c'est uniquement à cette nouvelle gemme que s'adresseront les points de rêve et les écailles. Vis à vis d'une nouvelle gemme, le matériau re-possède toute son inertie et doit à nouveau être saturé. Quand un objet a plusieurs gemmes, toutes ont dû recevoir Individualité sauf la première. Les pouvoirs d'un objet doivent être élaborés l'un après l'autre. Dès que l'on a commencé une nouvelle gemme, on ne peut plus revenir sur les précédentes. 
+=== RESTAURATION * ===
+(Cité) R-6 r1+<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Restauration est un rituel secondaire nullement obligatoire. Son seul usage est de redonner des points de rêve actifs à une amulette de protection. Il est en effet impossible d'utiliser le simple Enchantement une fois le rituel de Permanence accompli. Restauration fonctionne de façon semblable à Enchantement, sauf que son accomplissement coûte chaque fois un point de seuil. On peut restaurer les points de rêve d'une amulette en plusieurs fois en intercalant un rituel de Purification entre chaque rituel de Restauration (qui coûte chaque fois un point de seuil). 11 est possible de redonner plus de points de rêve actifs à l'objet qu'il n'en avait au départ, jusqu'à concurrence du maximum possible. Le nombre maximum de points de rêve actifs qu'un objet puisse posséder est égal à 7 fois l'enchantabilité de sa gemme. 
+=== AUTONOMIE ** ===
+(Lac) R-10 r10<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Le rituel d'Autonomie doit obligatoirement être utilisé à la place du rituel de Maîtrise pour les objets ''autonomes'', c'est-à-dire fonctionnant uniquement à partir d'une certaine programmation, sans l'intervention d'un utilisateur. Chaque cas d'objet autonome correspond à une Grande Écaille de Narcos spécifique. Il s'agit usuellement de dispositifs se mettant automatiquement à fonctionner en présence d'un signal prévu dans leur programmation : piège magique qui se déclenche au moindre bruit, statue qui répète un message quand on passe devant elle, feu ou torche qui s'allume dès qu'on frappe dans ses mains, etc. Les objets autonomes étaient la grande passion des haut-rêvants de la fin du Second Âge, qui les agençaient souvent en de grandioses mises en scène. Pratiquement, un objet autonome dépense ses points de rêve actifs pour obtenir son effet, tout comme un haut-rêvant dépense les siens. Autonomie lui permet de les récupérer tout seul, à raison de 3 points par heure complète de non-utilisation, sans pouvoir dépasser le nombre de points actifs initial. L'accomplissement du rituel d'Autonomie coûte 2 points de seuil. 
+=== ÉCAILLE D'ACTIVITÉ * ===
+(Désolation) R-9 r7<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Le rituel d'Écaille d'Activité confère à l'objet magique le pouvoir de lancer un sort. Ce peut être un sort de zone d'Oniros, un sort d'illusion-suggestion ou d'illusion sensorielle d'Hypnos, ou un sort de Thanatos, mais ne peut en aucun cas être un rituel d'aucune des quatre voies. Ayant ''posé'' l'écaille d'activité sur l'objet (« poser » est le terme consacré à l'accomplissement des rituels d'Écaille), le haut-rêvant y lance le sort de son choix et l'objet devient capable de le lancer à son tour. Pratiquement, le haut-rêvant effectue toutes les opérations nécessaires au lancer d'un sort, y compris son paramétrage précis, puis le lance normalement en dépensant les points de rêve de coût. Toutefois, au lieu de le cibler comme l'exige le ciblage normal du sort, il touche l'objet possédant l'écaille d'activité. En résultat, aucun effet ne se produit, mais le sort est maintenant ''enregistré'' dans la « mémoire » de la gemme. Il suffit ensuite à l'utilisateur de se concentrer mentalement sur l'effet voulu (dont il doit avoir une idée) pour que l'objet lance le sort. Il pourra le lancer indéfiniment.<BR>
+À la fin du round de concentration, l'utilisateur doit être capable de dépenser les points de rêve exigés par le coût du sort tel qu'il est paramétré. S'il n'en a pas assez, il ne dépense rien, mais l'objet ne fonctionne pas. Puis cela étant fait, le sort opère au tout début du round suivant, selon le ciblage voulu par l'utilisateur, fonction de la forme de l'objet et de la façon dont il est utilisé. Pour que le sort puisse être ciblé ailleurs que sur l'utilisateur lui-même, l'objet doit avoir une forme oblongue, analogue au doigt pointé d'un haut-rêvant. Le sort enregistré dans la gemme est paramétré une fois pour toutes. Un objet lançant un sort de Sommeil de 5 rounds lancera toujours un sort de Sommeil de 5 rounds, ni plus ni moins. Un objet lançant une illusion visuelle ne lancera toujours que la même illusion au moindre détail près. La portée est celle de l'EMPATHIE du créateur de l'objet et non de l'utilisateur, et quand le sort a une durée HN, c'est également l'heure de naissance du créateur. Le seul paramétrage inutile est l'heure de naissance de la cible en prévision du jet de résistance. Quand un JR est possible, il est toujours r-8, quelle que soit la cible. S'il réussit, le sort se dissipe aussitôt sans revenir vers l'utilisateur. <BR>
+L'objet réussit toujours son lancer, sans jet de dés. Lancer un sort via un objet magique n'est pas plus économique en points de rêve que de le lancer soi-même, mais évite la montée en TMR, les rencontres, et confère la certitude que le sort partira à coup sûr. L'effet d'un sort lancé par un objet peut être annule par Annulation de Magie, mais pas par Annulation de ses Propres Zones ni Annulation de ses Propres Illusions.<BR>
+Chaque gemme d'un objet ne peut recevoir qu'une seule écaille d'activité, et la pose de cette dernière coûte un point de seuil. Une écaille d'activité ne peut enregistrer et lancer qu'un seul sort. Mais un même objet peut avoir plusieurs gemmes, grâce à Individualité, chacune possédant une écaille d'activité pour lancer un sort différent. 
+=== ÉCAILLE D'EFFICACITÉ * ===
+(Monts) R-8 r7<BR>
+'''Portée''' Toucher<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Les écailles d'efficacité servent à rendre un objet plus efficace, mais uniquement dans sa fonction normale. Une arme magiquement efficace permettra de toucher plus facile-ment un adversaire ; un bouclier de mieux parer ; un instrument de musique de jouer mieux à moindre effort ; mais un balai magique permettra de mieux balayer et non de voler. Les écailles d'efficacité n'ont de pertinence que sur les objets pouvant être utilisés activement, armes, instruments, outils. Les objets passifs, meubles, contenants, vêtements, armures, ne peuvent pas être rendus plus efficaces.<BR>
+En termes de jeu, chaque écaille d'efficacité possédée par l'objet confère un bonus de +1 sur la table de Résolution lors de son utilisation. S'il s'agit d'une arme, chaque écaille d'efficacité augmente également de 1 le facteur d'initiative, ainsi que le +dom de l'arme, mais jusqu'au maximum du double normal de ce dernier. Soit une épée dragonne (+dom +3) possédant 5 écailles d'efficacité. Son utilisateur bénéficie d'un bonus de +5 à l'initiative, de +5 à l'attaque et à la parade, mais d'un +dom de +6 seulement (le double du +dom normal) et non pas de +8. Ne pas oublier néanmoins de rajouter le +dom personnel dû à la taille et à la force. Cette règle s'applique également aux armes de jet (dague, javelot, fouet). En ce qui concerne les armes de tir (arbalète, arc et fronde), l'efficacité ne s'applique qu'au bonus de toucher, pas aux dommages. En ce qui concerne les projectiles (flèche, carreau, bille de fronde), l'efficacité ne s'applique qu'aux dommages (toujours pour un maximum du double du dom normal) et non au toucher. Pour qu'un archer bénéficie d'un bonus d'efficacité au toucher et aux dommages, il doit avoir à la fois un arc magique et une flèche magique.<BR>
+Le nombre maximum d'écailles d'efficacité pouvant être posées sur un objet est égal à l'enchantabilité de sa gemme, mais avec un maximum de 7 quelle que soit cette dernière. Pour obtenir des armes magiques d'un bonus supérieur à +7, il faut avoir recours à une éventuelle Grande Écaille de Narcos spécifique.<BR>
+La pose de chaque écaille d'efficacité coûte un point de seuil. Mais il n'y a aucune limite de temps entre la pose de chacune. l'objet pouvant être utilisé dans l'intervalle. Par exemple, on peut se contenter provisoirement d'une épée +1 (une écaille). s'en servir plusieurs fois en combat, et plus tard, rajouter une seconde écaille pour obtenir une épée +2. Toutefois, si entre temps l'objet a été maîtrisé par quelqu'un d'autre, il faut effectuer une Lecture d'Aura complète avant de pouvoir reposer une écaille. Si cette précaution est négligée, on aboutit à un cas de ''magie impossible''. L'utilisation d'un objet magiquement efficace coûte un point de rêve par heure quel que soit le nombre d'écailles.<BR>
+Si plusieurs gemmes sont alliées à un même objet grâce à Individualité et reçoivent toutes des écailles d'efficacité, leurs bonus ne s'ajoutent pas, on ne considère que le meilleur. Des gemmes différentes sont faites pour des pouvoirs entièrement différents.

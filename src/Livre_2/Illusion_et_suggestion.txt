@@ -63,15 +63,15 @@ Une cible donnée ne peut recevoir à la fois qu'une seule illusion visuelle, un
 : [[Rituels de Communication d'Hypnos#INVOQUER SA VOIX|INVOQUER SA VOIX]] (Cité) R-6 r1+
 : [[Rituels de Communication d'Hypnos#INVOQUER SON IMAGE|INVOQUER SON IMAGE]] (Sanctuaire) R-6 r1+
 : [[Rituels de Communication d'Hypnos#INVOQUER SA PRÉSENCE|INVOQUER SA PRÉSENCE]] (Nécropole) R-9 r1+
-Rituels d'Invocation de Créatures
-GUERRIER SORDE (Cité Sordide D13) R-8 r7
-GUERRIER TURME (Forêt Turmide C8) R-8 r7
-NONECI-IALEPASSE (Cité ]alouse M1) R-8 r7
-KANAILLOU (Mont de Kana'1'E1) R-5 r4
-Rituels de Conjuration
-ANNULATION DE MAGIE (Variable) variable
-ANNULATION DE SES PROPRES ILLUSIONS (Variable) R-4 [2
-CONJURER L'oUBL1 (Lac) R-4 r4
-Rituels de Lecture
-DETECTION D'AURA (Sanctuaire) R-5 r1
-LECTURE D'AURA (Sanctuaire) R-3 r5
+== [[Rituels d'Invocation de créatures]] ==
+: [[Rituels d'Invocation de créatures#GUERRIER SORDE|GUERRIER SORDE]] (Cité Sordide D13) R-8 r7
+: [[Rituels d'Invocation de créatures#GUERRIER TURME|GUERRIER TURME]] (Forêt Turmide C8) R-8 r7
+: [[Rituels d'Invocation de créatures#NONECHALEPASSE|NONECHALEPASSE]] (Cité ]alouse M1) R-8 r7
+: [[Rituels d'Invocation de créatures#GUERRIER KANAILLOU|KANAILLOU]] (Mont de Kana'1'E1) R-5 r4
+== [[Rituels de Conjuration d'Hypnos|Rituels de Conjuration]] ==
+: [[Rituels de Conjuration d'Hypnos#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
+: [[Rituels de Conjuration d'Hypnos#ANNULATION DE SES PROPRES ILLUSIONS|ANNULATION DE SES PROPRES ILLUSIONS]] (Variable) R-4 [2
+: [[Rituels de Conjuration d'Hypnos#CONJURER L'OUBLI|CONJURER L'OUBLI]] (Lac) R-4 r4
+== [[Rituels_de_Lecture_d'Hypnos|Rituels de Lecture]] ==
+: [[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
+: [[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3
