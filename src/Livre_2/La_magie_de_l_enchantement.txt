@@ -1,0 +1,83 @@
+__NOTOC__
+ [[Narcos|Retour à Narcos]]
+
+Un objet ''magique'' est un objet capable d'obtenir un effet que le même objet ''normal'' ne saurait obtenir, comme un haut-rêvant obtient un effet dont est incapable un vrai-rêvant. Les objets magiques sont les « haut-rêvants » des objets normaux. Or la magie est la manipulation du rêve, et pour cela le rêve est indispensable. Le rêve ne peut être atteint que par le rêve. En termes de jeu, pour être magique, un objet doit posséder des points de rêve.
+
+Conférer des points de rêve à la matière inerte est le point de départ absolu de toute magie de [[Narcos]]. Le haut-rêvant l'accomplit par le rituel d'''Enchantement''.
+
+Mais la matière inerte n'est pas faite pour recevoir du rêve, elle se comporte à son égard comme si elle était poreuse, et le rêve qu'on lui donne s'en échappe peu à peu. Pour remédier à cela, pour que le rêve demeure de façon permanente dans l'objet, le haut-rêvant a recours au rituel de ''Permanence''. 
+
+Mais la matière est sans intelligence, et même possédant du rêve, elle ne peut s'en servir que si elle est guidée par une intelligence réelle. L'objet est un serviteur qui a besoin d'un maître, une forme de communion doit exister entre les deux. Pour que ce rapport puisse exister, le haut-rêvant accomplit le rituel de ''Maîtrise''.
+
+Mais posséder du rêve, permanent et maîtrisé, n'est pas encore suffisant pour être un objet magique digne de ce nom. Encore faut-il un pouvoir. Ce pouvoir, c'est-à-dire l'effet magique dont sera capable l'objet terminé, le haut-rêvant le confere par un rituel d'''Écaille''. « Écaille » est le nom générique donné aux différents pouvoirs que peut posséder un objet.
+Il en existe trois grandes sortes : ''Écaille d'Efficacité'' pour rendre l'objet plus efficace (cas d'une arme magique), 
+''Écaille d'Activité'' pour rendre l'objet capable de lancer un sort (baguette magique), 
+''Écaille de Protection'' pour rendre l'objet capable de protéger son utilisateur (amulette de protection). 
+
+Telles sont les quatre principales étapes, les quatre principaux rituels concourant à l'élaboration d'un objet magique, qui doivent toujours être accomplis dans cet ordre : Enchantement, Permanence, Maîtrise, Écaille.
+
+D'autres rituels secondaires peuvent intervenir et s'intercaler entre les quatre principaux, dépendant du type d'objet désiré et de la matière utilisée. 
+
+La matière est souvent si gourmande en points de rêve que le haut-rêvant n'est pas assez riche pour la satisfaire d'un seul coup. Le rituel d'Enchantement peut être répété indéfiniment pour rajouter chaque fois des points de rêve, mais entre chaque doit être accompli un rituel de ''Purification''. D'une manière générale, Purification doit toujours s'intercaler entre l'accomplissement de deux rituels identiques.
+
+La matière est décidément réfractaire au rêve, et seules deux de ces formes acceptent de recevoir du rêve : l'élément ''Eau'' et les ''gemmes''.
+Vouloir enchanter toute autre forme de la matière entraîne un cas de ''magie impossible''. Donner du rêve à un liquide aboutit à créer une ''potion magique'', l'« objet » magique le plus simple. Donner du rêve à une gemme aboutit à créer un « objet » magique véritablement digne de ce nom. Mais une gemme n'est pas pratique à manipuler, et comment imaginer une arme magique sous la forme d'une gemme ? Pour remédier à cela, le haut-rêvant incruste la gemme dans un objet véritable, en sorte que le rêve et le pouvoir de la gemme puisse s'étendre à tout l'objet. Pour que ce mariage soit possible et fructueux, le haut-rêvant accomplit le rituel d'''Alliance''.
+
+Des haut-rêvants à l'esprit pratique ont imaginé qu'un même objet pourrait avoir des pouvoirs séparés et différents, par exemple une amulette capable de protéger de plusieurs maux distincts, une épée capable de mieux toucher l'adversaire et pouvant parallèlement lancer un sort. Cela devrait être possible puisque le pouvoir provient non pas de l'objet lui-même mais de la gemme qui y est incrustée. Il suffirait d'incruster plusieurs gemmes ayant des pouvoirs différents. C'est en effet possible, mais pour que l'objet s'y retrouve parmi tous ses pouvoirs, le haut-rêvant doit accomplir sur chaque gemme un rituel d'''Individualité''. 
+
+L'objet magique est servile et ne fonctionne que sous l'impulsion consciente de son utilisateur, lorsqu'il pointe par exemple sa baguette capable de lancer un sort ou assène un coup de son épée magique. Or il est des cas où la conscience de l'utilisateur peut faire défaut, c'est le cas des amulettes de protection. Comment savoir, par exemple, qu'on est sur le point de contracter une maladie, en sorte d'être capable de déclencher la protection ? Pour cela, les Écailles de Protection sont différentes des autres, elles incluent un pouvoir de ''veille'', afin de pouvoir agir spontanément dès que le danger se présente. Cette mini-intelligence implique un surcroît de points de rêve dans l'obier, points de rêve qu'il dépense à chaque fois qu'il fonctionne. Un autre problème se profile alors : que se passe-t-il lorsque l'obier n'a plus de points de rêve ? Le haut-rêvant peut-il en remettre ? Oui, il le peut. mais l'objet ayant atteint un stade d'élaboration où Enchantement n'est plus possible. il doit accomplir pour cela le rituel de ''Restauration''.
+
+Un effet magique ne peut se produire que s'il y a une dépense d'énergie onirique. Les objets magiques usuels sont incapables d'assumer cette dépense. Ils se bornent à apporter le pouvoir à leur utilisateur, et c'est ce dernier qui dépense les points de rêve exigés par l'effet. Puis il les regagne en rêvant dans les Hautes Terres du Rêve. L'objet magique n'a rien à regagner puisqu'il ne dépense rien. Le cas est légèrement différent pour les amulettes de protection qui en dépensent tout de même un peu, mais n'en sont pas moins incapables de récupérer par elles-mêmes. Des haut-rêvants ambitieux ont trouvé pénible qu'un objet ne puisse fonctionner tout seul et de toujours devoir y aller de leur poche. Comment concevoir un dispositif capable de garder la maison, de répondre aux visiteurs, ou de dissuader les intrus en déclenchant un piège, s'il faut toujours être présent pour le faire fonctionner et l'alimenter ? Ils ont imaginé les ''Grandes Écailles de Narcos'' dont chacune correspond à un pouvoir unique autrement impossible à obtenir. Et pour être sûr que l'objet fonctionne même en leur absence prolongée, et récupère de lui-même ses points de rêve, ils ont imaginé le rituel d'''Autonomie''. Ce rituel n'est compatible qu'avec certaines Grandes Écailles de Narcos.
+
+Voilà. Toutes les pièces du puzzle ont été présentées, il n'y en a pas d'autres. Nous pouvons examiner le processus en détail.
+
+== Enchantabilité ==
+Ne peut être enchantée que la matière possédant un certain degré de pureté ; et de fait, seules l'eau et les gemmes peuvent l'être et accepter de recevoir du rêve. Par ''eau'', on entend l'élément Eau (tel qu'il est décrit au chapitre d'[[La_Magie_des_Zones#Eau|Oniros]]), c'est-à-dire tous les liquides même s'ils ne sont pas réellement aqueux, à l'exclusion des métaux et des liquides d'origine organique. 
+Par ''gemme'', on entend les pierres précieuses translucides, dont la pureté est justement appelée « eau » par les orfèvres. Un liquide enchanté devient une potion magique. Une gemme enchantée est l'indispensable ''cœur'' d'un objet magique.
+
+La matière possède une ''inertie'', premier problème auquel est confronté le haut-rêvant. En termes d'enchantement, l'inertie représente le nombre de points de rêve nécessaire pour saturer la matière utilisée, en sorte qu'un excédent éventuel puisse réellement avoir un pouvoir ''actif''. Les points de rêve inertes sont ceux qui sont entièrement engloutis par l'inertie de la matière ; les points actifs sont un excédent éventuel. 
+
+{|style="border:1px solid black;text-align:left;"
+|-
+||'''Seules les potions, les amulettes de protection et les objets autonomes ont besoin de points actifs. Tous les autres se bornent à leurs points inertes. '''
+|}
+== Inertie ==
+=== Eau ===
+L'inertie de l'élément Eau est toujours de zéro, quel que soit le fluide considéré. Autrement dit une potion magique n'a pas de points inertes, tous les points de rêve conférés sont directement actifs. 
+=== Gemmes ===
+L'inertie des gemmes dépend de leur ''pureté'' et de leur ''taille''. La pureté des gemmes est mesurée sur une échelle de 1 à 7. Une pierre d'une pureté inférieure à 1 est semi-précieuse et ne mérite pas le terme de gemme. Il n'existe aucune pureté supérieure à 7. La taille des gemmes, c'est-à-dire leur volume, est mesurée en pépins. Une gemme de 10 pépins fait 1 cm<sup>3</sup>. (D'autres détails pratiques sont donnés sur les gemmes, noms, couleurs, prix, dans le Livre III.)
+
+L'inertie d'une gemme est la différence de ''7 - pureté''. Une gemme de pureté 7 (le maximum) a une inertie de zéro, comme l'eau. Une gemme de pureté 1 (le minimum) a une inertie de 6. Pour pouvoir être enchantable, c'est-à-dire accepter la présence de rêve, une gemme doit avoir une taille supérieure à son inertie.
+
+{|style="border:1px solid black;text-align:left;"
+|-
+||'''L'enchantabilité d'une gemme est la différence de ''taille - inertie''.'''
+|}
+
+''Soit une larme de dragon (gemme rouge intense) d'une taille de 8 pépins et de pureté 6, on calcule ainsi son inertie : 7 - 6 = 1 ; puis son enchantabilité : 8 - 1 = 7. L'enchantabilité étant positive, la gemme peut être enchantée. Soit maintenant une séliphane (gemme verte) de taille 3 et de pureté 2, son inertie est de : 7 - 2 = 5 ; et son enchantabilité : 3 - 5 = -2. L'enchantabilité étant négative, la gemme ne peut pas être enchantée.''
+
+
+=== La matière ===
+L'inertie ne se limite pas à celle de la gemme, il faut tenir compte de celle du matériau auquel la gemme est alliée, qui en engloutit également une certaine quantité. Tous les matériaux n'ont pas la même inertie, selon la table ci-après. Quand un objet est composite, c'est l'inertie du matériau le plus inerte qui s'applique globalement. Un bouclier de bois (inertie 21), recouvert de cuir (inertie 14) et clouté de fer (inertie 28) a une inertie globale de 28, celle du fer. 
+{|style="border:1px solid black;text-align:center;"
+|-
+| colspan="2" | '''<big>Inertie de la matière </big>'''
+|-
+| style="text-align:left;" |Or || 7
+|-
+| style="text-align:left;" |Argent || 14
+|-
+| style="text-align:left;" |7ème élément || 14
+|-
+| style="text-align:left;" | Cuivre, étain, bronze || 21
+|-
+| style="text-align:left;" | Bois || 21
+|-
+| style="text-align:left;" | Terre, roc, verre || 21
+|-
+| style="text-align:left;" | Fer || 28
+|-
+| style="text-align:left;" | Plomb || 35
+|}
+
+''Soit une gemme d'inertie 2 incrustée dans une baguette d'argent, l'inertie totale de l'objet se calcule ainsi : 2 (inertie de la gemme) + 14 (inertie de l'argent) = 16, indiquant que l'objet doit recevoir 16 points de rêve pour être opérationnel.''

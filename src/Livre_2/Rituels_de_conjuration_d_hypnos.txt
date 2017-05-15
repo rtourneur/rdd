@@ -1,0 +1,22 @@
+__NOTOC__
+ [[Hypnos|Retour à Hypnos]]
+
+=== ANNULATION DE MAGIE ===
+(Variable) variable<BR>
+Même libellé que par [[Rituels_de_Conjuration_d'Oniros#ANNULATION DE MAGIE|Oniros]]. 
+
+=== ANNULATION DE SES PROPRES ILLUSIONS ===
+(variable) R-4 r2 <BR>
+'''Portée''' Selon sort<BR>
+'''Cible''' Selon sort<BR>
+'''Durée''' Instantanée<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet à un haut-rêvant d'annuler ses propres illusions-suggestions, pour celles qui ont une durée, ou ses propres illusions sensorielles, à une difficulté et un coût plus avantageux que s'il utilisait [[#ANNULATION DE MAGIE|Annulation de Magie]]. Tout comme avec cet autre rituel, il doit se trouver en TMR dans la case exacte d'où a été lancé le sort, mais la difficulté est toujours fixe (R-4), de même que la dépense de points de rêve (r2). La portée est la même que celle du sort à annuler, de même que le ciblage. 
+
+=== CONJURER L'OUBLI  ===
+(Lac) R-4 r4<BR>
+'''Portée''' E1<BR>
+'''Durée '''Une question<BR>
+'''Cible''' Humanoïde<BR>
+'''JR''' Aucun<BR>
+'''Effet''' Ce rituel permet de faire renaître chez la cible un souvenir oublié, la cause de l'oubli pouvant être magique ou naturelle. Le souvenir oublié peut appartenir à une précédente incarnation si le gardien des rêves l'estime possible ou pertinent. Dans tous les cas, le souvenir ne peut revenir que sous La forme d'une ''réponse'' à une ''question précise''. Et l'accomplissement du rituel ne permet qu'une seule question-réponse.

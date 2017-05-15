@@ -1,0 +1,4 @@
+__NOTOC__
+ [[Hypnos|Retour à Hypnos]]
+
+Les rituels de Détection d'Aura et de Lecture d'Aura fonctionnent exactement comme par [[Rituels_de_Lecture_d'Oniros|Oniros]].
