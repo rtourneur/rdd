@@ -457,4 +457,5 @@ Sous l'influence de cette tête, le haut-rêvant est invité à se rendre dans u
 ==== 91-00 CONNAISSANCE DU FLEUVE ====
 Cette tête permet de téléporter instantanément son demi-rêve de n'importe quelle case de fleuve à n'importe quelle autre, Il s'agit du fleuve seul, à l'exclusion des cases de lac et marais. La téléportation remplace le mouvement normal et coûte donc un point de fatigue. Comme après un mouvement normal, une rencontre doit être tirée dans la case de fleuve d'arrivée, puis cette dernière doit être maîtrisée selon la règle usuelle. Noter enfin que la téléportation n'est possible que si le demi-rêve est libre de son mouvement, c'est-à-dire s'il n'est sous l'emprise ni d'un [[Lancer un Sort#Reflet d'ancien rêve|Reflet]], ni d'un [[Lancer un Sort#Tourbillon blanc|Tourbillon]]. Unique.
 
-== [[Table des Queues, Souffles et Têtes|Tables]] ==
+== Tables ==
+* [[Table des Queues, Souffles et Têtes]]

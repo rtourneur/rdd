@@ -6,8 +6,8 @@ Ce chapitre est très important car il est le cœur même des règles de Rêve d
 
  [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
 
-== [[La Table de résolution]] ==
+* [[La Table de résolution]]
 
-== [[Qualité des Actions]] ==
+* [[Qualité des Actions]]
 
-== [[Variété des Actions]] ==
+* [[Variété des Actions]]

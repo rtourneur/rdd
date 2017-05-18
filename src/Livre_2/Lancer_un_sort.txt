@@ -111,4 +111,5 @@ Noter que lorsque la concentration est rompue, en cas d'échec, et que le haut-r
 Maîtriser les cases humides a toujours lieu après le tirage d'une rencontre. S'il s'agit d'un Tourbillon et qu'il vous emporte, il n'y a plus besoin de maîtriser la case. Mais si la case d'arrivée est une case humide, il faut la maîtriser immédiatement. En cas de Reflet d'ancien rêve, la case humide doit être maîtrisée dès la libération.<BR>
 Le Fleuve peut être traversé par les cases de pont sans avoir à le maîtriser.
 
-== [[Exemple général]] ==
+== Exemple ==
+* [[Exemple général]]

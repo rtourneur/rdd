@@ -6,8 +6,8 @@ Ceci étant assimilé, c'est au chapitre 3, [[Naissance d'un Voyageur]], que l'o
 
  [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
 
-== [[Les Caractéristiques]] ==
+* [[Les Caractéristiques]]
 
-== [[Les Compétences]] ==
+* [[Les Compétences]]
 
-== [[Points, Seuils & Signes particuliers]] ==
+* [[Points, Seuils & Signes particuliers]]

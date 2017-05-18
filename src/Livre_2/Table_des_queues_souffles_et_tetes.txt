@@ -1,4 +1,6 @@
 __NOTOC__
+  [[Queues, Souffles et Têtes de Dragon|Retour aux Queues, Souffles et Têtes de Dragon]]
+
 == Queues de Dragon ==
 {|style="border:1px solid black;text-align:left;"
 |-

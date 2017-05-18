@@ -3,16 +3,16 @@ Hypnos est le sommeil, géniteur du rêve. Par la voie du sommeil, les haut-rêv
 
  [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
 
-== [[Illusion et Suggestion]] ==
+* [[Illusion et Suggestion]]
 
-== [[Sorts d'Illusion-suggestion]] ==
+* [[Sorts d'Illusion-suggestion]]
 
-== [[Sorts d'Illusions sensorielles]] ==
+* [[Sorts d'Illusions sensorielles]]
 
-== [[Rituels de Communication d'Hypnos|Rituels de Communication]] ==
+* [[Rituels de Communication d'Hypnos|Rituels de Communication]]
 
-== [[Rituels d'Invocation de créatures]] ==
+* [[Rituels d'Invocation de créatures]]
 
-== [[Rituels de Conjuration d'Hypnos|Rituels de Conjuration]] ==
+* [[Rituels de Conjuration d'Hypnos|Rituels de Conjuration]]
 
-== [[Rituels de Lecture d'Hypnos|Rituels de Lecture]] ==
+* [[Rituels de Lecture d'Hypnos|Rituels de Lecture]]

@@ -32,7 +32,7 @@ S'applique a tous les métaux, bruts ou travaillés.
 === Septième ===
 Le septième élément, non transmutable, correspond à toutes les créatures vivantes animées (humanoïdes, animaux), mais également à toute matière inanimée ayant une origine animale (cuir, fourrure, laine, corne, os, ivoire, parchemin, lait, cire d'abeille, carapace de zomar, coquille d'escargot, etc.)
 
-== [[Sorts de Zone]] ==
+== Sorts de Zone ==
 : [[Sorts de Zone#ANTI-MAGIE|ANTI-MAGIE]] (Plaines) R-2 r1+
 : [[Sorts de Zone#BARQUE DE RÊVE|BARQUE DE RÊVE]] (Lac) R-8 r1+
 : [[Sorts de Zone#BOUCLIER|BOUCLIER]] (Gouffre) R-7 r6
@@ -53,7 +53,7 @@ Le septième élément, non transmutable, correspond à toutes les créatures vi
 : [[Sorts de Zone#SILENCE|SILENCE]] (Désert) R-2 r4
 : [[Sorts de Zone#TÉLÉPORTATION|TÉLÉPORTATION]] (Collines) R-11 r9
 : [[Sorts de Zone#TÉNÈBRES|TÉNÈBRES]] (Gouffre) R-4 r3
-== [[Zones de Transmutation Élémentale]] ==
+== Zones de Transmutation Élémentale ==
 : [[Zones de Transmutation Élémentale#x élément en Eau|AIR EN EAU]] (Cité) R-8 r6
 : [[Zones de Transmutation Élémentale#x élément en Feu|AIR EN FEU]] (Désolation) R-10 r6
 : [[Zones de Transmutation Élémentale#x élément en Air|BOIS EN AIR]] (Marais) R-8 r6
@@ -80,15 +80,15 @@ Le septième élément, non transmutable, correspond à toutes les créatures vi
 : [[Zones de Transmutation Élémentale#x élément en Bois|TERRE EN BOIS]] (Plaines) R-4 r2
 : [[Zones de Transmutation Élémentale#x élément en Eau|TERRE EN EAU]] (Forêt) R-6 r4
 : [[Zones de Transmutation Élémentale#x élément en Métal|TERRE EN MÉTAL]] (Gouffre) R-6 r4
-== [[Zones de Transparence Élémentale]] ==
+== Zones de Transparence Élémentale ==
 : [[Zones de Transparence Élémentale|BOIS TRANSPARENT]] (Cité) R-4 r4
 : [[Zones de Transparence Élémentale|MÉTAL TRANSPARENT]] (Gouffre) R-4 r4
 : [[Zones de Transparence Élémentale|TERRE TRANSPARENTE]] (Collines) R-4 r4
-== [[Rituels de Conjuration d'Oniros|Rituels de Conjuration]] ==
+== Rituels de Conjuration ==
 : [[Rituels de Conjuration d'Oniros#ÉLARGISSEMENT DE ZONE|ÉLARGISSEMENT DE ZONE]] (variable) R-4 r4
 : [[Rituels de Conjuration d'Oniros#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
 : [[Rituels de Conjuration d'Oniros#ANNULATION DE SES PROPRES ZONES|ANNULATION DE SES PROPRES ZONES]] (variable) R-4 r2
 : [[Rituels de Conjuration d'Oniros#PERMANENCE DE ZONE|PERMANENCE DE ZONE]] @(variable) R-13 r13
-== [[Rituels de Lecture d'Oniros|Rituels de Lecture]] ==
+== Rituels de Lecture ==
 : [[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
 : [[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3

@@ -4,18 +4,18 @@ Comment le maintenir en forme, le soigner, le panser, comment utiliser les herbe
 
  [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
 
-== [[La Fatigue]] ==
+* [[La Fatigue]]
 
-== [[L'Endurance]] ==
+* [[L'Endurance]]
 
-== [[Les Points de Vie]] ==
+* [[Les Points de Vie]]
 
-== [[Les Blessures]] ==
+* [[Les Blessures]]
 
-== [[Soins et Guérison]] ==
+* [[Soins et Guérison]]
 
-== [[Les Maladies]] ==
+* [[Les Maladies]]
 
-== [[Les Venins]] ==
+* [[Les Venins]]
 
-== [[Autres Sources de Dommages]] ==
+* [[Autres Sources de Dommages]]

@@ -3,14 +3,14 @@ Oniros est le rêve à l'état pur. Par la voie du rêve, les haut-rêvants agis
 
  [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
 
-== [[La Magie des Zones]] == 
+* [[La Magie des Zones]] 
 
-== [[Sorts de Zone]] ==
+* [[Sorts de Zone]]
 
-== [[Zones de Transmutation Élémentale]] ==
+* [[Zones de Transmutation Élémentale]]
 
-== [[Zones de Transparence Élémentale]] ==
+* [[Zones de Transparence Élémentale]]
 
-== [[Rituels de Conjuration d'Oniros|Rituels de Conjuration]] ==
+* [[Rituels de Conjuration d'Oniros|Rituels de Conjuration]]
 
-== [[Rituels de Lecture d'Oniros|Rituels de Lecture]] ==
+* [[Rituels de Lecture d'Oniros|Rituels de Lecture]]
