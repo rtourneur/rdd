@@ -1,7 +1,17 @@
-Rituels de Possession Sorts d'Envoûtement 
-Tous les rituels de Thanatos obéissent aux règles standard des rituels. 
-POSSESSION DE CORPS (Marais) R-9 r2+ Portée Toucher Durée Illimitée Cible Relique JR Avec HN r-9, sans HN r-8 Effet Pour posséder de corps une victime, le haut-rêvant de Thanatos doit prendre son entière constitution sous son con-trôle. Le ciblage du rituel doit s'effectuer en touchant la relique. Pour chaque ensemble de 2 points de rêve dépensés (2r), le haut-rêvant contrôle 1 point de CONSTITUTION de sa victime. Dès qu'il la contrôle entièrement, elle est possédée de corps. Pour posséder une victime ayant une CONSTITUTION de 14, il faut ainsi dépenser 28 points de rêve. Le haut-rêvant peut s'y prendre en plusieurs fois, mais la victime a droit à un JR à chaque fois, et il suffit qu'un seul d'entre eux réussisse pour annuler toute la possession précédemment accomplie ; simultanément, le haut-rêvant de Thanatos doit lui-même réussir un JR r0 (points de rêve à zéro) ou être frappé en retour par un souffle de Dragon. Note. Le haut-rêvant ne fait que contrôler la CONSTITUTION de sa victime, celle-ci n'en perd aucun point. Tant qu'aucun envoûtement n'est à l'oeuvre, il n'y a aucun effet physique, et la victime ne se rend même compte de rien. 
-POSSESSION D'ESPRIT (Lac) R-9 r2+ 
-Portée Durée Cible JR 
-Toucher illimitée Relique Avec HN r-9, sans HN r-8 
-Effet Pour posséder d'esprit une victime, le haut-rêvant de Thanatos doit prendre son entière VOLONTÉ sous son con-trôle. Ce rituel fonctionne exactement comme le précédent avec VOLONTÉ à la place de CONSTITUTION. 
+Tous les rituels de Thanatos obéissent aux règles standard des rituels.
+ [[Thanatos|Retour à Thanatos]]
+=== POSSESSION DE CORPS ===
+(Marais) R-9 r2+<BR>
+'''Portée''' Toucher <BR>
+'''Durée''' Illimitée<BR>
+'''Cible''' Relique<BR> 
+'''JR''' JR Avec HN r-9, sans HN r-8<BR>
+'''Effet''' Pour posséder de corps une victime, le haut-rêvant de Thanatos doit prendre son entière constitution sous son contrôle. Le ciblage du rituel doit s'effectuer en touchant la relique. Pour chaque ensemble de 2 points de rêve dépensés (2r), le haut-rêvant contrôle 1 point de CONSTITUTION de sa victime. Dès qu'il la contrôle entièrement, elle est possédée de corps. Pour posséder une victime ayant une CONSTITUTION de 14, il faut ainsi dépenser 28 points de rêve. Le haut-rêvant peut s'y prendre en plusieurs fois, mais la victime a droit à un JR à chaque fois, et il suffit qu'un seul d'entre eux réussisse pour annuler toute la possession précédemment accomplie ; simultanément, le haut-rêvant de Thanatos doit lui-même réussir un JR r0 (points de rêve à zéro) ou être frappé en retour par un souffle de Dragon.<BR>
+''Note''. Le haut-rêvant ne fait que ''contrôler'' la CONSTITUTION de sa victime, celle-ci n'en perd aucun point. Tant qu'aucun envoûtement n'est à l'oeuvre, il n'y a aucun effet physique, et la victime ne se rend même compte de rien. 
+=== POSSESSION D'ESPRIT ===
+(Lac) R-9 r2+ <BR>
+'''Portée''' Toucher <BR>
+'''Durée''' Illimitée<BR>
+'''Cible''' Relique<BR> 
+'''JR''' JR Avec HN r-9, sans HN r-8<BR>
+'''Effet''' Pour posséder d'esprit une victime, le haut-rêvant de Thanatos doit prendre son entière VOLONTÉ sous son con-trôle. Ce rituel fonctionne exactement comme le précédent avec VOLONTÉ à la place de CONSTITUTION.
