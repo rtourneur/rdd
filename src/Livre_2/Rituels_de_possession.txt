@@ -14,4 +14,4 @@ Tous les rituels de Thanatos obéissent aux règles standard des rituels.
 '''Durée''' Illimitée<BR>
 '''Cible''' Relique<BR> 
 '''JR''' JR Avec HN r-9, sans HN r-8<BR>
-'''Effet''' Pour posséder d'esprit une victime, le haut-rêvant de Thanatos doit prendre son entière VOLONTÉ sous son con-trôle. Ce rituel fonctionne exactement comme le précédent avec VOLONTÉ à la place de CONSTITUTION.
+'''Effet''' Pour posséder d'esprit une victime, le haut-rêvant de Thanatos doit prendre son entière VOLONTÉ sous son contrôle. Ce rituel fonctionne exactement comme le précédent avec VOLONTÉ à la place de CONSTITUTION.
