@@ -63,7 +63,7 @@ Soumis à une transmutation élémentale, un objet magique a droit à un jet de 
 == Travail partagé ==
 Il est impossible à plusieurs haut-rêvants de fabriquer un objet magique en commun simultanément, mais ils peuvent se repasser le travail l'un après l'autre. Toutefois, chaque fois que l'on reprend le travail abandonné par un autre, il faut commencer par accomplir sur l'objet une Lecture d'Aura complète. C'est-à-dire accomplir le rituel de Lecture d'Aura dans chaque case spécifique où a été accompli un rituel (Enchantement, Purification, Alliance, Permanence, etc.). Cela fait, on peut continuer l'objet magique comme si c'était le sien depuis toujours. Contrevenir à cette règle fait aboutir à un cas de ''magie impossible''. 
 * [[Rituels_d'Enchantement_de_Narcos|Rituels d'Enchantement]] 
-''Le nombre d'étoiles * correspond au nombre de points de seuil perdus''
+''Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus''
 :[[Rituels_d'Enchantement_de_Narcos#ENCHANTEMENT|ENCHANTEMENT]] (Cité) R-4 rl + 
 :[[Rituels_d'Enchantement_de_Narcos#PURIFICATION|PURIFICATION]] (Nécropole) R-4 r4 
 :[[Rituels_d'Enchantement_de_Narcos#ALLIANCE|ALLIANCE]] (Pont) R-4 r4 

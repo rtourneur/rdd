@@ -9,7 +9,7 @@ On trouve également des pièces de ''bronze'' de 10 deniers, et des pièces d''
 On peut donc dire qu'il y a dix étains dans un bronze, dix bronzes dans un argent et dix argents dans un or, mais uniquement si l'étain vaut 1 denier, le bronze 10 deniers, etc. On peut fort bien imaginer des pièces d'étain un peu plus grosses valant 2 deniers, ou des pièces d'or un peu plus petites valant 5 sols. Dans la liste d'équipement, le prix des articles d'équipement est exprimé en sols (s) ou en deniers (d).
 
 == Richesse de départ ==
-La richesse de départ d'un personnage dépend essentiellement de la campagne que le gardien des rêves s'apprête a lui faire jouer. Certains préféreront un départ pauvre, d'autres un départ plus aisé. A défaut d'idée préconçue, on peut faire commencer le personnage avec une fortune globale de 50 sols.<BR>
+La richesse de départ d'un personnage dépend essentiellement de la campagne que le gardien des rêves s'apprête a lui faire jouer. Certains préféreront un départ pauvre, d'autres un départ plus aisé. À défaut d'idée préconçue, on peut faire commencer le personnage avec une fortune globale de 50 sols.<BR>
 Sur cette somme, il doit acheter ses vêtements, ses armes, et son équipement, puis garder le reste - si reste il y a - sous forme d'espèces sonnantes et trébuchantes. La liste d,équipement est reproduite dans le cahier mobile pour plus de commodité de consultation.<BR>
 Pour estimer le prix des choses, le gardien des rêves peut utiliser l'équivalence 3 deniers = 1 euro. Le sol est alors l'équivalent de 33 euros. Avec 50 sols, le personnage commence sa carrière avec 1 500 euros : ce n'est pas une somme phénoménale.
 

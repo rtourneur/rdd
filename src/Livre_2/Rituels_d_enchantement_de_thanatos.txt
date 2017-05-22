@@ -1,7 +1,7 @@
 __NOTOC__
  [[Thanatos|Retour à Thanatos]]
 
-''Le nombre d'étoiles * correspond au nombre de points de seuil perdus.''<BR>
+''Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus.''<BR>
 Dans l'ordre d'élaboration d'un objet magique, les griffes de Thanatos tiennent lieu d'écailles. Pour pouvoir les poser, le haut-rêvant doit passer par toutes les phases normales : Enchantement, Alliance, Permanence et Maîtrise. Tous ces ri-tuels sont accomplis par Narcos ; seule la pose des griffes est accomplie par Thanatos. Le nombre maximal de griffes de Thanatos que puisse posséder une gemme est égal à son enchantabilité avec un maximum de 7. Toutes doivent être posées depuis la même case spécifique (nécropole ou marais). 
 
 === GRIFFE DE THANATOS * ===

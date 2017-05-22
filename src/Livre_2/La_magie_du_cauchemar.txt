@@ -48,7 +48,7 @@ Un haut-rêvant de Thanatos peut contrôler simultanément plusieurs ECNI diffé
 * FAIRE PARLER UN CRÂNE (Désert) R-6 r1+ 
 * FAIRE PARLER UN MORT (Pont) R-4 r1+ 
 == Rituels de Griffe ==
-''Le nombre d'étoiles correspond au nombre de points de seuil perdus''
+''Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus''
 * GRIFFE DE THANATOS * (Nécropole) R-8 r8 
 * GRIFFE MORBIDE DE THANATOS * (Marais) R-11 r11 
 == Grande Griffe de Thanatos ==

@@ -70,7 +70,7 @@ Ces blessures touchent généralement un organe ou un vaisseau important, causan
 cause une perte de 2d6 points d'endurance et de 2 points de vie. Leur nombre maximum est de 2. La 3e fois que le jet d'encaissement indique une grave, on applique une critique à la place.
 
 === Soin ===
-Tant que les ''premiers soins'' n'ont pas été effectués, le blessé perd automatiquement 1 point d'endurance par round. A zéro point d'endurance, il tombe inconscient et perd un autre point de vie. A partir de ce moment, il doit jouer un jet de Vie tous les SC minutes.<BR>
+Tant que les ''premiers soins'' n'ont pas été effectués, le blessé perd automatiquement 1 point d'endurance par round. À zéro point d'endurance, il tombe inconscient et perd un autre point de vie. À partir de ce moment, il doit jouer un jet de Vie tous les SC minutes.<BR>
 Dès que les premiers soins ont été accomplis, on cesse de tirer les jets de Vie pendant un répit de SC heures, après quoi ils reprennent, a moins que des ''soins complets'' n'aient été accomplis entre temps, ce qui annule définitivement le processus. Si le personnage est tombé inconscient, il peut revenir a lui dès que les premiers soins ont été effectués, mais avec un seul point d'endurance. Il est incapable de la moindre action et reste couché. Le seul fait de se relever annule les premiers soins. Seuls les soins complets peuvent lui permettre de remonter à 1/4 de son endurance, puis a 1/2 avec le sommeil, de se relever et d'agir modérément en tenant compte des malus dus a son état général (points de vie manquants, lignes de fatigue). Si aucun ''soin complet'' n'est donné, il finit fatalement par mourir.
 
 === Héroïsme ===
@@ -97,7 +97,7 @@ C'est entièrement au gardien des rêves de décider où personnages et créatur
 |-
 | width="25%" | 19-20 || Tête, gorge, ''nuque'' 
 |-
-| 15-18 || Epaule, bras, ''épaule''
+| 15-18 || Épaule, bras, ''épaule''
 |-
 | 13-14 || Avant-bras, main, ''coude''
 |-

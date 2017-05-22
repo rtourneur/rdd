@@ -1,5 +1,5 @@
 __NOTOC__
-Les rituels d'[[Oniros]] obéissent à toutes les règles des rituels : leurs chances de réussite sont ajustées astrologiquement selon l'heure de naissance du haut-rêvant, et ils ne peuvent être mis en réserve. Chaque étoile @ dont peut être suivi le titre d'un rituel indique le coût d'un ''point de seuil de rêve''. Le seuil est diminué aussitôt le rituel accompli. Chaque Rêve de Dragon vaincu permet d'en regagner 1 point.
+Les rituels d'[[Oniros]] obéissent à toutes les règles des rituels : leurs chances de réussite sont ajustées astrologiquement selon l'heure de naissance du haut-rêvant, et ils ne peuvent être mis en réserve. Chaque étoile (*) dont peut être suivi le titre d'un rituel indique le coût d'un ''point de seuil de rêve''. Le seuil est diminué aussitôt le rituel accompli. Chaque Rêve de Dragon vaincu permet d'en regagner 1 point.
 
  [[Oniros|Retour à Oniros]]
 
@@ -30,9 +30,9 @@ Pour la synthèse d'Annulation de Magie, considérer que ce rituel est de diffic
 '''JR''' Aucun<BR>
 '''Effet''' Ce rituel permet à un haut-rêvant d'annuler ses propres zones d'Oniros à une difficulté et un coût plus avantageux que s'il utilisait [[#ANNULATION DE MAGIE|Annulation de Magie]]. Tout comme avec cet autre rituel, il doit se trouver en TMR dans la case exacte d'où a été lancée la Zone, mais la difficulté est toujours fixe (R-4), de même que la dépense de points de rêve (r2). La portée est la même que celle de la zone à annuler. Si le haut-rêvant a lancé plusieurs zones identiques pour en faire une plus grande, il n'a pas à les annuler l'une après l'autre comme il devrait le faire avec [[#ANNULATION DE MAGIE|Annulation de Magie]], mais les annule toutes d'un coup.
 
-=== PERMANENCE DE ZONE ===
-@ (variable) R-13 r13<BR>
+=== PERMANENCE DE ZONE * ===
+(variable) R-13 r13<BR>
 '''Portée''' Non applicable<BR>
 '''Durée''' Permanente<BR>
 '''JR''' Aucun<BR>
-'''Effet''' Ce rituel permet de rendre permanent l'effet d'un sort de zone. Il doit être préalablement accompli sur la case d'où sera ensuite lancé le sort de zone. Même procédure et restrictions que pour [[#ÉLARGISSEMENT DE ZONE|Élargissement de Zone]]. Une case d'où est lancée une zone rendue permanente est mobilisée tant que celle-ci n'est pas annulée. Aucun sort ou rituel ne peut plus y être lancé. Toutefois, la case peut toujours être traversée. Noter qu'une zone permanente n'est pas annulée à la mort de son créateur de même qu'un objet magique ne perd pas non plus ses pouvoirs. Un zone permanente peut être annulée par [[#ANNULATION DE MAGIE|Annulation de Magie]] à condition de commencer par annuler la Permanence. Etant marqué d'une étoile @, l'accomplissement de Permanence de Zone coûte un point de seuil.
+'''Effet''' Ce rituel permet de rendre permanent l'effet d'un sort de zone. Il doit être préalablement accompli sur la case d'où sera ensuite lancé le sort de zone. Même procédure et restrictions que pour [[#ÉLARGISSEMENT DE ZONE|Élargissement de Zone]]. Une case d'où est lancée une zone rendue permanente est mobilisée tant que celle-ci n'est pas annulée. Aucun sort ou rituel ne peut plus y être lancé. Toutefois, la case peut toujours être traversée. Noter qu'une zone permanente n'est pas annulée à la mort de son créateur de même qu'un objet magique ne perd pas non plus ses pouvoirs. Un zone permanente peut être annulée par [[#ANNULATION DE MAGIE|Annulation de Magie]] à condition de commencer par annuler la Permanence. Étant marqué d'une étoile *, l'accomplissement de Permanence de Zone coûte un point de seuil.

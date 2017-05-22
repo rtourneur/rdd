@@ -10,7 +10,7 @@ Tout objet transmué, situé ou entrant dans la zone, adopte aussitôt la forme 
 Quand une créature vivante se retrouve dans une zone de transmutation élémentale, bien que la matière dont elle composée ne soit pas affectée en elle-même, elle subit l'effet naturel et normal du nouvel élément qui l'entoure, sans jet de résistance. Une créature prise dans une zone d'Air en Feu se retrouve dans un brasier qui la brûle, une créature nageant prise dans une zone d'Eau en Bois se retrouve enkystée dans un bloc de bois, etc.<BR>
 L'élément Eau correspondant à tous les liquides d'origine non animale, réellement aqueux ou non, c'est tout le liquide qui est transmué et non pas uniquement ses molécules de H<sub>2</sub>O, y compris tout ce qui peut y être dissout (sels, cristaux). L'eau d'un végétal (sève, jus d'un fruit) appartient à l'élément Bois, qui est celui du végétal, tant qu'il est contenu dans ce dernier. L'humus appartient intégralement à l'élément Terre, même s'il est composé en grande partie de matière végétale (Bois) non encore décomposée.
 
-== Eléments d'arrivée : ==
+== Éléments d'arrivée : ==
 === x élément en Air ===
 Pratiquement, l'ancien élément disparaît dans un courant d'air. L'air d'arrivée est toujours frais et pur.
 === x élément en Terre ===

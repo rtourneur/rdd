@@ -19,7 +19,7 @@ Les rituels de Narcos obéissent normalement à toutes les règles concernant le
 '''Portée''' Toucher<BR>
 '''Durée''' Instantanée<BR>
 '''JR''' Aucun<BR>
-'''Effet''' Purification est un rituel secondaire, mais néan-moins obligatoire. A moins de disposer d'une énorme quantité de points de rêve, il est vain d'espérer enchanter l'objet en une seule fois. Purification doit toujours s'intercaler entre deux rituels identiques : entre deux Enchantements, mais également entre deux écailles, d'activité ou de protection. Sauter cette étape aboutit à un cas de ''magie impossible''. 
+'''Effet''' Purification est un rituel secondaire, mais néanmoins obligatoire. À moins de disposer d'une énorme quantité de points de rêve, il est vain d'espérer enchanter l'objet en une seule fois. Purification doit toujours s'intercaler entre deux rituels identiques : entre deux Enchantements, mais également entre deux écailles, d'activité ou de protection. Sauter cette étape aboutit à un cas de ''magie impossible''. 
 === ALLIANCE ===
 (Pont) R-4 r4<BR>
 '''Portée''' Toucher<BR>

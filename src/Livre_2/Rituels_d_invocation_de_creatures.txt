@@ -25,7 +25,7 @@ Les créatures invoquées ne sont pas des hologrammes sans substance mais des pr
 |-
 ||
 |-
-|style="text-align:left;" | Epée sorde||14||style="text-align:left;"|niv +5||init 12||+dom +5
+|style="text-align:left;" | Épée sorde||14||style="text-align:left;"|niv +5||init 12||+dom +5
 |-
 |style="text-align:left;" | Dague Mêlée||14||style="text-align:left;"|niv +5||init 12||+dom +3
 |-
@@ -78,7 +78,7 @@ Les créatures invoquées ne sont pas des hologrammes sans substance mais des pr
 '''Effet''' Le Nonechalepasse a la même apparence physique et le même armement que le Guerrier Sorde. C'est en fait une variante de ce dernier. Il est invoqué pour garder ou veiller sur quelque chose : une porte, un coffre. un pont, etc. L'ayant invoqué, le haut-rêvant doit lui indiquer expressément sur quoi il doit veiller, et le Nonechalepasse ne laissera personne d'autre que l'invocateur franchir la limite indiquée, c'est-à-dire pas même ses compagnons. La garde peut avoir lieu en la présence du haut-rêvant, ou en son absence s'il désire vaquer à d'autres affaires, et dure jusqu'à la fin de son heure de naissance. Dès qu'une créature est en voie d'enfreindre la consigne donnée, le Nonechalepasse l'en prévient en clamant son propre nom à plusieurs reprises ; et si la créature insiste, il la combat jusqu'à ce qu'il l'extermine ou qu'elle recule et s'enfuie. Les Nonechalepasses ont tous les mêmes caractéristiques que les Guerriers Sordes et sont comme eux affectés par les sorts. 
 
 === KANAILLOU ===
-(Mont de Kanaï El) R-5 r4 <BR>
+(Mont de Kanaï E1) R-5 r4 <BR>
 '''Portée''' E1<BR>
 '''Durée''' Tâche<BR>
 '''JR''' Aucun<BR>

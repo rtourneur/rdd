@@ -107,7 +107,7 @@ Tirer 1d20 sur la table des Idées fixes. Les ''idées fixes'' prennent effet im
 | Masochisme. Perdre 3 points d'endurance minimum en 1 round.
 |-
 ! 19 
-| Mégalomanie. Etre acclamé par un minimum de 10 personnes.
+| Mégalomanie. Être acclamé par un minimum de 10 personnes.
 |-
 ! 20 
 | Pisser dans un violon (luth, mandoline, etc.)
