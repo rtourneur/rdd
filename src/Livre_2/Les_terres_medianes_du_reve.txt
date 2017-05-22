@@ -13,7 +13,7 @@ Les points de rêve sont au départ égaux à la caractéristique [[Les Caracté
 === Compétence ===
 Le haut-rêvant a quatre compétences de magie à sa disposition, correspondant aux quatre voies de compréhension du Draconic : [[Les Compétences#VOIE D'ONIROS|Oniros]], [[Les Compétences#VOIE D'HYPNOS|Hypnos]], [[Les Compétences#VOIE DE NARCOS|Narcos]] et [[Les Compétences#VOIE DE THANATOS|Thanatos]]. Sauf de rares exceptions, chaque sort correspond à une compétence spécifique et ne peut être lancé par une autre voie.
 === Les Terres Médianes ===
-En termes de jeu, l'état mental que représentent les Terres Médianes du Rêve est concrétisé par une carte symbolique divisée en cases. Chaque positionnement possible est indiqué sous la forme d'un nom de lieu géographique. On trouve ainsi des ''plaines'', des ''forêts'', des ''cités'', etc., chacune occupant une case de la carte. Pour obtenir un effet magique, le haut-rêvant doit se positionner sur l'une de ces cases. Chaque sort est affilié a un type de case de la carte.
+En termes de jeu, l'état mental que représentent les Terres Médianes du Rêve est concrétisé par une carte symbolique divisée en cases. Chaque positionnement possible est indiqué sous la forme d'un nom de lieu géographique. On trouve ainsi des ''plaines'', des ''forêts'', des ''cités'', etc., chacune occupant une case de la carte. Pour obtenir un effet magique, le haut-rêvant doit se positionner sur l'une de ces cases. Chaque sort est affilié à un type de case de la carte.
 === Paramètres ===
 Chaque sort est caractérisé :
 * par sa voie, c'est-à-dire la compétence de Draconic qui doit être utilisée pour le mettre en oeuvre,

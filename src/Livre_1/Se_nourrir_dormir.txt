@@ -22,6 +22,6 @@ De jour, un personnage ne peut avoir sommeil, et ne peut donc dormir, que s'il a
 La nuit est naturellement hypnotique dans Rêve de Dragon et tout personnage peut dormir, et donc rêver, même s'il n'a aucun point de fatigue à récupérer. Dans cette optique, l'heure crépusculaire du Vaisseau est considérée comme de nuit.
 
 
-''Nitouche a consommé 2 points de sustentation et Brucelin, qui a 13 en TAILLE, en a consomme 3.''<BR>
+''Nitouche a consommé 2 points de sustentation et Brucelin, qui a 13 en TAILLE, en a consommé 3.''<BR>
 ''« Je vais me coucher, bâille Nitouche, voici l'heure du Serpent, et j'ai tellement de fatigue que je pourrais dormir même s'il faisait jour. »''<BR>
 ''Sur quoi, elle se coule sous l'abri de fortune, non sans ajouter : « Je compte sur toi pour monter la garde, c'est tellement mieux de voyager à deux ! »''

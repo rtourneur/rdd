@@ -13,7 +13,7 @@ Tous les détails de création sont donnés dans la [[Naissance d'un Voyageur]].
 
 == Les principaux seuils ==
 * Le ''seuil d'encombrement'' (en abrégé ''enc''), qui indique la charge maximale qu'un individu peut porter, au-delà de laquelle il souffre de malus à ses actions.
-* Le ''seuil de sustentation'' (en abrégé ''sust''), qui indique l quantité de nourriture dont il a besoin pour survivre sans malus.
+* Le ''seuil de sustentation'' (en abrégé ''sust''), qui indique la quantité de nourriture dont il a besoin pour survivre sans malus.
 * Le ''seuil de constitution'' (en abrégé ''SC''), qui indique principalement la limite négative de points de vie qu'il ne peut dépasser.
 * Le ''seuil de rêve'' (en abrégé ''SR''), qui est la limite de récupération des points de rêve (voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'').
 * Le ''bonus aux dommages'' (en abrégé ''+dom'') ''personnel'',  qui modifie, selon sa carrure, les dommages qu'il peut occasionner en combat.

@@ -8,7 +8,7 @@ La journée de ''Rêve de Dragon'' est égale à la nôtre en durée, vingt-quat
 Seuls douze moments privilégiés ont été retenus pour marquer le passage du temps journalier. Chacun de ces moments, ou ''heures'', fait donc 120 minutes.<BR>
 Quand le mot ''heure'' est utilisé dans ''Rêve de Dragon'', c'est donc toujours d'une période de 120 mn qu'il s'agit, d'une ''heure draconique''. Pour désigner une heure « normale », si besoin est, on dira simplement 60 mn.<BR>
 
-''À l'aube naissante, autrement dit a l 'heure du Vaisseau, Nitouche décide de reprendre la route. Durant cette heure, elle parcourt 8 km. Il s'agit de 8 km en 120 mn, soit une moyenne de 4 km/60 mn.''
+''À l'aube naissante, autrement dit à l 'heure du Vaisseau, Nitouche décide de reprendre la route. Durant cette heure, elle parcourt 8 km. Il s'agit de 8 km en 120 mn, soit une moyenne de 4 km/60 mn.''
 
 {|style="border:1px solid black;"
 |-
@@ -61,7 +61,7 @@ Quand le mot ''heure'' est utilisé dans ''Rêve de Dragon'', c'est donc toujour
 | l'heure du <big>Château Dormant</big>.
 |}
 
-''Les heures ont reçu les noms des douze constellations zodiacales. Ces mêmes noms servent également a désigner les mois des quatre saisons. L'année commence toujours au printemps, au mois du Vaisseau, jour de l'équinoxe. On trouvera plus de détails sur les signes du zodiaque et les saisons aux [[Rêve de Dragon Seconde Édition#La Destinée|Règles Additionnelles]], L 'Astrologie, ainsi que dans [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]].''
+''Les heures ont reçu les noms des douze constellations zodiacales. Ces mêmes noms servent également à désigner les mois des quatre saisons. L'année commence toujours au printemps, au mois du Vaisseau, jour de l'équinoxe. On trouvera plus de détails sur les signes du zodiaque et les saisons aux [[Rêve de Dragon Seconde Édition#La Destinée|Règles Additionnelles]], L 'Astrologie, ainsi que dans [[Rêve de Dragon Seconde Édition#Le Livre des Mondes|Le Livre des Mondes]].''
 
 == Le round == 
 Le round est la plus petite division conventionnelle du temps, et dure ''approximativement'' 6 secondes. Il n'est quasiment utilisé qu'en combat ou dans les situations d'urgence où chaque seconde peut être décisive. Le flou artistique de « approximativement 6 secondes » est voulu. Plus qu'une durée précise de

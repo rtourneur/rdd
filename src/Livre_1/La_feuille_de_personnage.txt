@@ -98,7 +98,7 @@ Le choix étant très grand, aucune compétence de combat ne figure préalableme
 | 175 ||160 ||140 ||120
 |}
 
-La table ci-dessus donne directement le nombre de points d'expérience à dépenser pour atteindre un certain niveau. Cette table, de même que la liste complète des compétences, figure sur la feuille d'archétype. Quand aucun point ne lui est allouée, la compétence reste a niveau de base et sera utilisée à ce niveau.
+La table ci-dessus donne directement le nombre de points d'expérience à dépenser pour atteindre un certain niveau. Cette table, de même que la liste complète des compétences, figure sur la feuille d'archétype. Quand aucun point ne lui est allouée, la compétence reste au niveau de base et sera utilisée à ce niveau.
 
 == Compétences tronc ==
 Certaines compétences sont dites ''troncs'', car elles englobent plusieurs compétences distinctes pour une seule et même dépense de points. Toutefois, au-delà du niveau 0, chaque compétence du tronc devient une branche qui doit être développée et achetée séparément.<BR>
@@ -335,7 +335,7 @@ Le poids doit être choisi dans la fourchette indiquée, selon la caractéristiq
  La couleur des cheveux, des yeux, de même que tout autre élément de l'apparence du personnage, est librement déterminée par le joueur.
 
 === Beauté ===
-La Beauté est réellement la joliesse des traits, la grâce générale du corps, a différencier complètement de l'[[Les Caractéristiques#APPARENCE|APPARENCE]]. Quoique n'étant qu'un signe particulier, elle est noté de 1 a 20 comme les caractéristiques. Il n'y a jamais de jet de Beauté, mais qu'un personnage soit plus ou moins beau peut modifier la difficulté de ses jets d'[[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#SÉDUCTION|Séduction]] par exemple.<BR>
+La Beauté est réellement la joliesse des traits, la grâce générale du corps, à différencier complètement de l'[[Les Caractéristiques#APPARENCE|APPARENCE]]. Quoique n'étant qu'un signe particulier, elle est noté de 1 a 20 comme les caractéristiques. Il n'y a jamais de jet de Beauté, mais qu'un personnage soit plus ou moins beau peut modifier la difficulté de ses jets d'[[Les Caractéristiques#APPARENCE|APPARENCE]]/[[Les Compétences#SÉDUCTION|Séduction]] par exemple.<BR>
 Tous les personnages ont une base gratuite de 10 en Beauté. Ils peuvent librement se retrancher des points pour être plus laids, ces points étant alors perdus, non utilisables pour autre chose. Ils peuvent de même augmenter leur Beauté jusqu'à 16, mais doivent pour cela retrancher des points à leurs caractéristiques, c'est-à-dire prélever les 1 à 6 points de supplément de Beauté sur les 160 points alloués.
 {|style="border:1px solid black;text-align:center;" 
 |-

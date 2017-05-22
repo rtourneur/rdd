@@ -99,7 +99,7 @@ La vitesse maximum d'une Bulle Volante est de 50 m par round (50 km/60mn). Il n'
 '''Portée''' E2<BR>
 '''Durée''' HN<BR>
 '''JR''' Aucun<BR>
-'''Effet''' Cette Zone diffère des autres Zones en ce que son diamètre n'est pas modulable : il fait toujours 50 cm. C'est une sphère lumineuse de la même intensité et portée qu'une lanterne, c'est-à-dire éclairant à un maximum de 8 a 10 m. L'intensité non plus n'est pas modulable. La sphère est inoffensive et ne dégage aucune chaleur. Noter que si sa portée est réduite, elle peut en revanche être aperçue de fort loin. Comme toute zone normale, elle est fixe et ne peut être déplacée. Plusieurs Lanternes lancées l'une sur l'autre n'augmentent pas son diamètre ni son intensité.
+'''Effet''' Cette Zone diffère des autres Zones en ce que son diamètre n'est pas modulable : il fait toujours 50 cm. C'est une sphère lumineuse de la même intensité et portée qu'une lanterne, c'est-à-dire éclairant à un maximum de 8 à 10 m. L'intensité non plus n'est pas modulable. La sphère est inoffensive et ne dégage aucune chaleur. Noter que si sa portée est réduite, elle peut en revanche être aperçue de fort loin. Comme toute zone normale, elle est fixe et ne peut être déplacée. Plusieurs Lanternes lancées l'une sur l'autre n'augmentent pas son diamètre ni son intensité.
 
 === LUMIÈRE ===
 (Plaines) R-4 r3<BR>

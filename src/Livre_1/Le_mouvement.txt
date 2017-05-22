@@ -96,11 +96,11 @@ Si, quand il se met à courir, le personnage est déjà à une demi-endurance ou
 ''Nitouche est surprise par une averse au début de l'heure du Faucon. Apercevant un petit bois à 200 m de là, elle décide de courir s'y abriter, ce qui lui demande un peu plus de 8 rounds. Son SC étant de 4, elle ne perd aucun point d'endurance pour les 4 premiers rounds, puis un point pour chacun des quatre suivants. Reprenant son souffle, elle n'oublie pas de traduire également ces 4 points en fatigue.''
 
 == Nage ==
-Quand il s'agit de ne nager que quelques mètres en eau peu dangereuse, aucun jet de dés n'est nécessaire pour les personnages qui ont au moins zéro en Natation. jouer sinon un jet de ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#NATATION|Natation]] a zéro''.
+Quand il s'agit de ne nager que quelques mètres en eau peu dangereuse, aucun jet de dés n'est nécessaire pour les personnages qui ont au moins zéro en Natation. jouer sinon un jet de ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#NATATION|Natation]] à zéro''.
 
 === Encombrement ===
 Chaque point d'encombrement porté, et non pas seulement excédentaire au seuil d'encombrement, confère un malus de -1 aux jets de [[Les Compétences#NATATION|Natation]]. Dans cette optique, compter l'encombrement de tous les vêtements portés. (Appliquer la même règle pour l'utilisation de la compétence Acrobatie.)<BR>
-''Frissonnant sous les arbres, Nitouche se rappelle le jour ou elle a failli se noyer, étant tombée dans une rivière. Elle était vêtue de cuir souple, bottée, armée de deux dagues, chargée d”une outre pleine et d'une lourde besace. Ses vêtements de cuir souple, qui ne comptent usuellement pas, lui valaient 1 enc, de même que ses deux dagues. Son outre en valait également 1 et sa besace 3. Pour refaire surface, la voyageuse avait eu un malus de -6.''
+''Frissonnant sous les arbres, Nitouche se rappelle le jour ou elle a failli se noyer, étant tombée dans une rivière. Elle était vêtue de cuir souple, bottée, armée de deux dagues, chargée d'une outre pleine et d'une lourde besace. Ses vêtements de cuir souple, qui ne comptent usuellement pas, lui valaient 1 enc, de même que ses deux dagues. Son outre en valait également 1 et sa besace 3. Pour refaire surface, la voyageuse avait eu un malus de -6.''
 
 {|style="border:1px solid black;text-align:center;"
 |-

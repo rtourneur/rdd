@@ -1,9 +1,9 @@
 __NOTOC__
-Le moral est une force interne du personnage, qui l'aide à conserver son libre arbitre, son empire sur lui-même, sa vitesse de réaction. En termes de jeu, il est représenté par un ''ajustement'' variable pouvant osciller de -3 (très mauvais moral) a +3 (excellent moral) en passant par zéro (moral ni bon ni mauvais). Le moral ajuste sans exception tous les jets de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]].
+Le moral est une force interne du personnage, qui l'aide à conserver son libre arbitre, son empire sur lui-même, sa vitesse de réaction. En termes de jeu, il est représenté par un ''ajustement'' variable pouvant osciller de -3 (très mauvais moral) à +3 (excellent moral) en passant par zéro (moral ni bon ni mauvais). Le moral ajuste sans exception tous les jets de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]].
 
  [[Le Moral|Retour au Moral]]
 
-''Assise contre un arbre, Nitouche est fatiguée (ligne -1 en fatigue). Elle entend un bruit suspect. Aura-t-elle la VOLONTÉ de bondir instantanément sur ses pieds, c'est-a-dire dans le round-même ? Elle doit jouer un jet de VOLONTÉ a -1 (dû a sa fatigue), 54%. Mais considérons d'abord l'état de son moral. Quoique fatiguée physiquement, Nitouche est bien dans sa peau et possède un excellent moral de +3. Son jet de VOLONTÉ est finalement ajusté ainsi : -1 (fatigue) + +3 (moral) = +2, soit 72%. C'est une nette différence lorsque sa vie peut être en danger.''
+''Assise contre un arbre, Nitouche est fatiguée (ligne -1 en fatigue). Elle entend un bruit suspect. Aura-t-elle la VOLONTÉ de bondir instantanément sur ses pieds, c'est-a-dire dans le round-même ? Elle doit jouer un jet de VOLONTÉ à -1 (dû à sa fatigue), 54%. Mais considérons d'abord l'état de son moral. Quoique fatiguée physiquement, Nitouche est bien dans sa peau et possède un excellent moral de +3. Son jet de VOLONTÉ est finalement ajusté ainsi : -1 (fatigue) + +3 (moral) = +2, soit 72%. C'est une nette différence lorsque sa vie peut être en danger.''
 
 == Jets de moral ==
 À la création, le moral d'un personnage est de zéro. Les jets de moral servent à le modifier, en mieux ou en pire, chaque fois que survient une situation dont on estime qu'elle peut avoir une influence sur le moral. Certains cas sont davantage soulignés que d'autres dans les règles (éthylisme, musique, cœur) ; pour d'autres, la décision appartient au gardien des rêves.<BR>
@@ -27,7 +27,7 @@ Selon la situation qui entraîne un jet de moral, celui-ci peut être heureux, n
 |-
 | colspan="4" |&nbsp;
 |-
-| colspan="4" style="text-align:left;" | '''''Moral égal ou inférieur a zéro'''''
+| colspan="4" style="text-align:left;" | '''''Moral égal ou inférieur à zéro'''''
 |-
 |  || ''Heureux'' || ''Malheureux'' || ''Neutre''
 |-
@@ -55,7 +55,7 @@ Tout personnage possédant au moins un point de moral, c'est-à-dire situé au m
 Si le jet d'action concerné réussit, le personnage conserve son point de moral, qui peut ainsi servir plusieurs fois. En revanche, si le jet d'action échoue, le point de moral est perdu. On ne peut « engager » qu'un seul point de moral par jet d'action.<BR>
 Si l'on fait appel à son moral, qu'on échoue, puis qu'on fasse appel à sa chance, le jet d'action recommencé bénéficie toujours du point de moral, puisque tout se passe « comme si le précédent jet n'avait jamais eu lieu ».
 
-''Nos voyageurs viennent d'entrer dans la cité d 'Esparlongue et sont un peu perdus. « Il nous faut absolument trouver une auberge avant la nuit », déclare Brucelin. Nitouche doit jouer un jet d'EMPATHIE/Srv en Cité a -4, soit pour elle un ajustement final de -1. Ayant +3 en moral, elle y fait appel et se confère ainsi un bonus de +1, soit en final 15 a zéro = 65% (au lieu de 58%). Réussissant avec un 59, elle finit par trouver une auberge, et son jet ayant réussi, conserve son moral de +3.''
+''Nos voyageurs viennent d'entrer dans la cité d 'Esparlongue et sont un peu perdus. « Il nous faut absolument trouver une auberge avant la nuit », déclare Brucelin. Nitouche doit jouer un jet d'EMPATHIE/Srv en Cité à -4, soit pour elle un ajustement final de -1. Ayant +3 en moral, elle y fait appel et se confère ainsi un bonus de +1, soit en final 15 à zéro = 65% (au lieu de 58%). Réussissant avec un 59, elle finit par trouver une auberge, et son jet ayant réussi, conserve son moral de +3.''
 
 == Énergie du désespoir ==
 Un personnage qui n'a pas de point de moral, c'est-à-dire situé à 0, -1, -2 ou -3, peut tout de même faire appel à l'''énergie du désespoir'' en essayant de trouver un ''point de moral virtuel''. Pour ce faire, il commence par jouer un jet de moral. S'il échoue, non seulement il ne trouve pas de point de moral virtuel, mais son moral (réel) baisse encore de 1 ; s'il est déjà à -3, il prend un point de dissolution. S'il réussit, en revanche, il trouve un point de moral virtuel, qui lui confère comme précédemment un bonus de +1 à son ajustement final.<BR>

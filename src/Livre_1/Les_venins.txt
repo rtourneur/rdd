@@ -4,11 +4,11 @@ Nombre de créatures, reptiles, insectes, sont venimeuses ; nombre de végétaux
  [[La Santé|Retour à La Santé]]
 
 == Fonctionnement ==
-Tout comme pour les maladies, une réussite particulière met fin a l'empoisonnement. Toutefois cela n'est possible que tant qu'aucun échec n'est encore survenu au jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], mais uniquement des réussites insuffisantes, normales ou significatives. Dès qu'un échec survient, indiquant des dommages subis, seul un antidote peut sauver le personnage. Sans ce dernier, la particulière n'indique plus qu'un état stationnaire. Par contre, dès que l'antidote est pris, une réussite ''normale'' suffit à mettre fin à l'empoisonnement.<BR>
+Tout comme pour les maladies, une réussite particulière met fin à l'empoisonnement. Toutefois cela n'est possible que tant qu'aucun échec n'est encore survenu au jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]], mais uniquement des réussites insuffisantes, normales ou significatives. Dès qu'un échec survient, indiquant des dommages subis, seul un antidote peut sauver le personnage. Sans ce dernier, la particulière n'indique plus qu'un état stationnaire. Par contre, dès que l'antidote est pris, une réussite ''normale'' suffit à mettre fin à l'empoisonnement.<BR>
 Des premiers soins (vomitif, extraction du venin, etc) ne sont possibles que tant que la victime n'a encore subi aucun dommage, c'est-à-dire n'a encore commis aucun échec. Ensuite, le poison est dans le sang, et seul l'antidote peut apporter une aide efficace. Utiliser les mêmes règles de premiers soins que pour les blessures :
  '''Périodicité''' : 1 round.
  '''Difficulté''' : égale à la malignité.
- '''Nombre de points de tâche''' : égal a la malignité.
+ '''Nombre de points de tâche''' : égal à la malignité.
 
 Si tous les points de tâche sont obtenus avant que l'empoisonné n'ait subi de dommages, l'empoisonnement est enrayé.
 {|style="border:1px solid black;text-align:left;"
@@ -45,9 +45,9 @@ Si tous les points de tâche sont obtenus avant que l'empoisonné n'ait subi de 
 |}
 
 
-''Quelques jours plus tard, nos voyageurs ont découvert un petit lac. Il fait chaud et ils se baignent dans le plus simple appareil. Soudain, Nitouche pousse un cri : « Quelque chose m'a mordu la cuisse ! c'est une vipère jaune ! » Le temps de regagner la berge, 6 rounds sont passes. Nitouche joue un jet de CONSTITUTION a -2 (malignité du venin), 52%, mais n'obtient qu 'une réussite normale, état stationnaire sans plus. « Vite ! sanglote-t-elle, aspire le venin avant qu il ne soit entièrement dans mon sang !''<BR>
+''Quelques jours plus tard, nos voyageurs ont découvert un petit lac. Il fait chaud et ils se baignent dans le plus simple appareil. Soudain, Nitouche pousse un cri : « Quelque chose m'a mordu la cuisse ! c'est une vipère jaune ! » Le temps de regagner la berge, 6 rounds sont passes. Nitouche joue un jet de CONSTITUTION à -2 (malignité du venin), 52%, mais n'obtient qu 'une réussite normale, état stationnaire sans plus. « Vite ! sanglote-t-elle, aspire le venin avant qu il ne soit entièrement dans mon sang !''<BR>
 ''- Je ne sais pas le faire, gémit Brucelin, je n'aí aucune compétence de chirurgie.''<BR>
-''- Alors, sors une fiole de suppure de ma besace, c'est un antidote universel. » Six nouveaux rounds sont passés, et Nitouche obtient un échec. Elle perd 1 point de vie, sa jambe se contracte. Brucelin trouve enfin la ﬁole de décoction. Contre les venins, la suppure n'a qu'un bonus de zéro, mais comme c'est un antidote, une réussite normale suffit a sauver la jeune fille.''
+''- Alors, sors une fiole de suppure de ma besace, c'est un antidote universel. » Six nouveaux rounds sont passés, et Nitouche obtient un échec. Elle perd 1 point de vie, sa jambe se contracte. Brucelin trouve enfin la ﬁole de décoction. Contre les venins, la suppure n'a qu'un bonus de zéro, mais comme c'est un antidote, une réussite normale suffit à sauver la jeune fille.''
 
 {|style="border:1px solid black;text-align:left;"
 |-

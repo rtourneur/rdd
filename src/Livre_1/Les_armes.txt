@@ -1,5 +1,5 @@
 __NOTOC__
-Il y a trois grands types d'armes dans ''Rêve de Dragon'' : les armes de tir (arc, arbalète, fronde), les armes de lancer (dague, javelot), et les armes de mêlée (épées, haches, masses, etc.) Le [[Combat sans Arme|combat sans arme]], appelé ''Corps a corps'' appartient aussi à la catégorie mêlée. Les armes possèdent les caractéristique suivantes :
+Il y a trois grands types d'armes dans ''Rêve de Dragon'' : les armes de tir (arc, arbalète, fronde), les armes de lancer (dague, javelot), et les armes de mêlée (épées, haches, masses, etc.) Le [[Combat sans Arme|combat sans arme]], appelé ''Corps à corps'' appartient aussi à la catégorie mêlée. Les armes possèdent les caractéristique suivantes :
 === Compétence ===
 Indiqué en ''italique'' aussitôt après le nom de l'arme, c'est la compétence nécessaire pour manier l'arme.
 === +dom ===
@@ -34,7 +34,7 @@ C'est probablement à elle que le ''Guerrier Sorde'' doit son nom (à moins que 
 === Épée bâtarde ===
 Comme son nom l'indique, c'est une ''bâtarde'' des deux précédentes, à la fois longue et large, pouvant s'utiliser à une ou deux mains.
 === Double dragonne ===
-Apparue vers la fin du Second Age, c'était une ''grande épée a deux mains''. Encombrante et prohibant le bouclier, c'était avant tout une épée de duel et de frime.
+Apparue vers la fin du Second Age, c'était une ''grande épée à deux mains''. Encombrante et prohibant le bouclier, c'était avant tout une épée de duel et de frime.
 
 Les autres armes ne devraient pas poser de problèmes. Noter que la dague n'est pas un poignard, mais une lame pouvant faire jusqu'à 30 cm de long. Pour simplifier, on supposera que n'importe quelle dague peut être lancée. La masse lourde était souvent hérissée de pointes. Au Moyen Âge, on l'appelait alors ''morgenstern'' ou ''morningstar''. Le fléau est une masse, avec ou sans pointes, montée au bout d'une chaîne reliée à un manche. Il ne peut être paré qu'au bouclier. La lance courte est la lance romaine, usuellement couplée à un bouclier. Les armes d'hast regroupent toutes les formes de piques, hallebardes, vouges, etc.
 

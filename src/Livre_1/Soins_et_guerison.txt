@@ -1,7 +1,7 @@
 __NOTOC__
 Les soins se font en deux phases : ''premiers soins'' et ''soins complets''. La première phase consiste essentiellement à arrêter l'hémorragie, c'est-a-dire le décompte des points d”endurance ou de vie ; la seconde soigne véritablement (suture, application d'herbes) et permet la future guérison. Les deux se font avec la compétence [[Les Compétences#CHIRIRGIE|Chirurgie]]. Pour déterminer leur durée, qui peut être capitale en cas de personnage mourant. on utilise la règle des points de tâche.<BR>
-La périodicité des jets est de 1 round, quel que soit le type de blessure. Le nombre de points a obtenir et la difficulté dépendent de la gravité de la blessure.<BR>
-Les nombres-clés à retenir, s'appliquant respectivement aux blessures légères, graves et critiques, sont : 2, 4, 6. Ils indiquent la difficulté des soins, premiers et complets, le nombre de points de tâche à obtenir, de points de pansement, le nombre de brins d'herbes a appliquer, le nombre de jours minimum pour qu'une blessure soignée commence à guérir, et dans l'optique d'une potion enchantée, le nombre de points de guérison nécessaires.
+La périodicité des jets est de 1 round, quel que soit le type de blessure. Le nombre de points à obtenir et la difficulté dépendent de la gravité de la blessure.<BR>
+Les nombres-clés à retenir, s'appliquant respectivement aux blessures légères, graves et critiques, sont : 2, 4, 6. Ils indiquent la difficulté des soins, premiers et complets, le nombre de points de tâche à obtenir, de points de pansement, le nombre de brins d'herbes à appliquer, le nombre de jours minimum pour qu'une blessure soignée commence à guérir, et dans l'optique d'une potion enchantée, le nombre de points de guérison nécessaires.
 
  [[La Santé|Retour à La Santé]]
 
@@ -14,7 +14,7 @@ Il peut y avoir changement d'opérant à tout moment, soit durant les premiers s
 Les points de tâche, par contre, ne sont conservés d'un opérant à l'autre que s'ils sont positifs.
 
 == Soins complets ==
-Les soins complets supposent un minimum de matériel (ligatures, sutures, etc). Leur durée peut varier de 10 a 30 minutes à l'appréciation du gardien des rêves.
+Les soins complets supposent un minimum de matériel (ligatures, sutures, etc). Leur durée peut varier de 10 à 30 minutes à l'appréciation du gardien des rêves.
 L'exactitude n'a pas d'importance puisqu'à cette phase il n'y a plus urgence.<BR>
 Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours aux points de tâche. La difficulté est la même que celle des premiers soins, éventuellement modifiée par un ajustement (bonus ou malus) précédemment encouru. Consulter la table des Soins complets pour connaître le résultat final qui est fonction de la qualité du jet.
 
@@ -48,7 +48,7 @@ Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours
 |}
 
 
-''Examinons les soins de Brucelin. Parvenue au ravin, Nitouche constate qu'il soufre d'une blessure grave a la tête. (En termes de règles, le fait qu 'elle soit à la tête n 'a aucune importance.) Nitouche déchire sa chemise, elle a une TAILLE de 9, ce qui peut fournir 9 points de pansement, la blessure grave en demande 4. Dans sa gourde, elle puise l 'eau nécessaire, 4 demi-mesures. Il lui faut maintenant obtenir 4 points de tache, périodicité 1 round avec des jets de DEXTÉRITÉ/Chirurgie à -4.''<BR>
+''Examinons les soins de Brucelin. Parvenue au ravin, Nitouche constate qu'il soufre d'une blessure grave à la tête. (En termes de règles, le fait qu 'elle soit à la tête n 'a aucune importance.) Nitouche déchire sa chemise, elle a une TAILLE de 9, ce qui peut fournir 9 points de pansement, la blessure grave en demande 4. Dans sa gourde, elle puise l 'eau nécessaire, 4 demi-mesures. Il lui faut maintenant obtenir 4 points de tache, périodicité 1 round avec des jets de DEXTÉRITÉ/Chirurgie à -4.''<BR>
 ''Le premier jet obtient une significative = 2 points. Hélas ! le second est un échec total valant -4 points. Tous les jets de DEXTÉRITÉ/Chirurgie suivants seront à  -5, et Nitouche doit maintenant totaliser 4 -2 +4 = 6 points de tâche.''<BR>
 '' « Courage, Brucelin ! »''<BR>
 ''Troisième jet, une particulière, plus que 3 points à obtenir. Quatrième : significative, plus qu 'un point. Dernier jet : encore une particulière donnant un excédant de 2 points.''<BR>

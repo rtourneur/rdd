@@ -17,7 +17,7 @@ On le calcule pour chaque compétence d'arme. C'est la somme de : ''une demi-car
 ''Nitouche a 10 en Lancer et zéro en Dague de jet. Pour cette arme son facteur d'initiative est de 5. Brucelin a 14 en Melee et +3 en Épée à une main. Pour cette arme son facteur d'initiative est de 10.''
 
 === Mêlée inégale ===
-En cas de mêlée inégale, à deux ou trois contre un par exemple, chaque membre du groupe rajoute a son initiative 1 point par membre du groupe. À deux contre un, chacun gagne ainsi 2 points, à trois contre un, chacun gagne 3 points, et à quatre contre un, 4 points. Si les initiatives tirées donnent égalité, le round n'est pas nul dans ce cas. mais l'initiative échoie aux membres du groupe.
+En cas de mêlée inégale, à deux ou trois contre un par exemple, chaque membre du groupe rajoute à son initiative 1 point par membre du groupe. À deux contre un, chacun gagne ainsi 2 points, à trois contre un, chacun gagne 3 points, et à quatre contre un, 4 points. Si les initiatives tirées donnent égalité, le round n'est pas nul dans ce cas. mais l'initiative échoie aux membres du groupe.
 
 === Initiative prioritaire ===
 Dans un round d'engagement, c'est-à-dire quand les combattants s'affrontent pour la première fois, l'initiative va toujours à l'arme la plus longue. À égalité de longueur, c'est l'arme la plus rapide.<BR>

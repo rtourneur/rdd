@@ -36,9 +36,9 @@ Les points de tâche négatifs ne signifient pas que le travail a été « défa
 Le système permet également de savoir si telle action peut ou non être accomplie en un temps donné. Le gardien des rêves fixe un nombre de points de tâche, une difficulté et une périodicité, ainsi qu'un temps limite maximum. Puis, comme précédemment, le personnage tente d'accumuler des points de tâche. Si, quand le temps imparti est écoulé. le nombre fixé est atteint, l'action est réussie, sinon elle ne l'est pas. Comme toujours, un certain seuil négatif peut signifier un échec éliminatoire.
 
 == Tâche accomplie à plusieurs ==
-Le système permet également de résoudre les actions communes. Comme précédemment, le gardien des rêves indique difficulté, périodicité et nombre de points de tâche. Puis, a la fin de chaque période, tous ceux qui ont participé ajoutent les points gagnés (perdus) au fonds commun. Le travail est terminé dès que le nombre nécessaire est atteint ou dépassé. On peut régler de la même manière une tâche accomplie à plusieurs et dans un temps donné.
+Le système permet également de résoudre les actions communes. Comme précédemment, le gardien des rêves indique difficulté, périodicité et nombre de points de tâche. Puis, à la fin de chaque période, tous ceux qui ont participé ajoutent les points gagnés (perdus) au fonds commun. Le travail est terminé dès que le nombre nécessaire est atteint ou dépassé. On peut régler de la même manière une tâche accomplie à plusieurs et dans un temps donné.
 
-''Et voila qu'il se remet à pleuvoir a l'heure de la Lyre. Nos deux voyageurs décident de construire un abri pour la nuit DEXTÉRITÉ/Survie en Extérieur a 0, périodicité 10 minutes, 4 points de tâche.''<BR>
+''Et voila qu'il se remet à pleuvoir à l'heure de la Lyre. Nos deux voyageurs décident de construire un abri pour la nuit DEXTÉRITÉ/Survie en Extérieur à 0, périodicité 10 minutes, 4 points de tâche.''<BR>
 ''Période 1, Brucelin obtient une réussite normale (+1) et Nitouche un échec (0), total : 1 point.''<BR>
 ''Période 2, Brucelin obtient une particuliere (+3) et Nitouche un échec particulier (-2) total 2 points.''<BR>
 ''Période 3, les deux échouent (0), total toujours 2 points.''<BR>

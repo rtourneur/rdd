@@ -16,7 +16,7 @@ Pratiquement, l'ancien élément disparaît dans un courant d'air. L'air d'arriv
 === x élément en Terre ===
 L'élément d'arrivée est une roche friable et fragile comme de la craie.
 === x élément en Eau ===
-L'eau nouvellement créée se comporte naturellement, attirée par la pesanteur : elle pleut, coule, cherche a S'infiltrer. Elle a la pureté de l'eau distillée.
+L'eau nouvellement créée se comporte naturellement, attirée par la pesanteur : elle pleut, coule, cherche à s'infiltrer. Elle a la pureté de l'eau distillée.
 === x élément en Feu ===
 L'ancien élément devenu Feu n'est plus que flammes. Toutefois, pour que ces nouvelles flammes continuent à brûler, il leur faut un combustible, faute de quoi elles s'éteignent. Quand c'est l'Air qui est transmué en Feu, celui-ci demeure même sans combustible, car l'Air entourant la zone la comble immédiatement, devenant Feu à son tour. Le résultat est une sphère en permanente ignition. Il en va de même pour l'eau au centre d'une rivière par exemple.
 === x élément en Bois ===
