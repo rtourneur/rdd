@@ -1,5 +1,5 @@
 __NOTOC__
-Les effets magiques obtenus par la voie d'[[Oniros]] sont circonscrits dans des zones et limités a celles-ci. Hormis les deux exceptions de [[Sorts de Zone#BULLE VOLANTE|Bulle Volante]] et de [[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]], les zones d'[[Oniros]] sont rigoureusement ''immobiles''. Hormis [[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]] et [[Sorts de Zone#PONT IMMATÉRIEL|Pont Immatériel]], toutes ont la forme d'une ''sphère''.
+Les effets magiques obtenus par la voie d'[[Oniros]] sont circonscrits dans des zones et limités à celles-ci. Hormis les deux exceptions de [[Sorts de Zone#BULLE VOLANTE|Bulle Volante]] et de [[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]], les zones d'[[Oniros]] sont rigoureusement ''immobiles''. Hormis [[Sorts de Zone#BARQUE DE RÊVE|Barque de Rêve]] et [[Sorts de Zone#PONT IMMATÉRIEL|Pont Immatériel]], toutes ont la forme d'une ''sphère''.
 
  [[Oniros|Retour à Oniros]]
 
@@ -28,67 +28,67 @@ C'est l'énergie du feu à l'état pur, la chaleur accompagnée de flammes.
 === Bois ===
 Il s'agit d'une manière générale de toute substance végétale solide. C'est aussi bien les végétaux vivants, poussant encore dans le sol (arbre, buisson, herbe), que les végétaux cueillis (légume, fruit), que les substances végétales travaillées (planches, chanvre d'une corde, lin d'une chemise, joncs d'un panier).
 === Métal ===
-S'applique a tous les métaux, bruts ou travaillés.
+S'applique à tous les métaux, bruts ou travaillés.
 === Septième ===
 Le septième élément, non transmutable, correspond à toutes les créatures vivantes animées (humanoïdes, animaux), mais également à toute matière inanimée ayant une origine animale (cuir, fourrure, laine, corne, os, ivoire, parchemin, lait, cire d'abeille, carapace de zomar, coquille d'escargot, etc.)
 
 == Sorts de Zone ==
-: [[Sorts de Zone#ANTI-MAGIE|ANTI-MAGIE]] (Plaines) R-2 r1+
-: [[Sorts de Zone#BARQUE DE RÊVE|BARQUE DE RÊVE]] (Lac) R-8 r1+
-: [[Sorts de Zone#BOUCLIER|BOUCLIER]] (Gouffre) R-7 r6
-: [[Sorts de Zone#BROUILLARD|BROUILLARD]] (Forêt) R-3 r1+
-: [[Sorts de Zone#BULLE VOLANTE|BULLE VOLANTE]] (Marais) R-10 r1+
-: [[Sorts de Zone#CHALEUR|CHALEUR]] (Cité) R-4 rI+
-: [[Sorts de Zone#CLAMEURS|CLAMEURS]] (Cité) R-2 rI+
-: [[Sorts de Zone#CROISSANCE VÉGÉTALE|CROISSANCE VÉGÉTALE]] (Forêt) R-6 r5
-: [[Sorts de Zone#FROID|FROID]] (Désolation) R-4 r1+
-: [[Sorts de Zone#ILLUSION ANIMALE|ILLUSION ANIMALE]] (Forêt) R-4 r4
-: [[Sorts de Zone#ILLUSION GÉOGRAPHIQUE|ILLUSION GÉOGRAPHIQUE]] (Gouffre) R-4 r4
-: [[Sorts de Zone#ILLUSION HUMANOÏDE|ILLUSION HUMANOÏDE]] (Cité) R-6 r2+
-: [[Sorts de Zone#LANTERNE|LANTERNE]] (Cité) R-3 r2
-: [[Sorts de Zone#LUMIÈRE|LUMIÈRE]] (Plaines) R-4 r3
-: [[Sorts de Zone#MIROIRS|MIROIRS]] (Sanctuaire) R-5 r5
-: [[Sorts de Zone#PONT IMMATÉRIEL|PONT IMMATÉRIEL]] (Pont) R-6 r2+
-: [[Sorts de Zone#QUIÉTUDE|QUIÉTUDE]] (Nécropole) R-3 r4
-: [[Sorts de Zone#SILENCE|SILENCE]] (Désert) R-2 r4
-: [[Sorts de Zone#TÉLÉPORTATION|TÉLÉPORTATION]] (Collines) R-11 r9
-: [[Sorts de Zone#TÉNÈBRES|TÉNÈBRES]] (Gouffre) R-4 r3
+:[[Sorts de Zone#ANTI-MAGIE|ANTI-MAGIE]] (Plaines) R-2 r1+
+:[[Sorts de Zone#BARQUE DE RÊVE|BARQUE DE RÊVE]] (Lac) R-8 r1+
+:[[Sorts de Zone#BOUCLIER|BOUCLIER]] (Gouffre) R-7 r6
+:[[Sorts de Zone#BROUILLARD|BROUILLARD]] (Forêt) R-3 r1+
+:[[Sorts de Zone#BULLE VOLANTE|BULLE VOLANTE]] (Marais) R-10 r1+
+:[[Sorts de Zone#CHALEUR|CHALEUR]] (Cité) R-4 rI+
+:[[Sorts de Zone#CLAMEURS|CLAMEURS]] (Cité) R-2 rI+
+:[[Sorts de Zone#CROISSANCE VÉGÉTALE|CROISSANCE VÉGÉTALE]] (Forêt) R-6 r5
+:[[Sorts de Zone#FROID|FROID]] (Désolation) R-4 r1+
+:[[Sorts de Zone#ILLUSION ANIMALE|ILLUSION ANIMALE]] (Forêt) R-4 r4
+:[[Sorts de Zone#ILLUSION GÉOGRAPHIQUE|ILLUSION GÉOGRAPHIQUE]] (Gouffre) R-4 r4
+:[[Sorts de Zone#ILLUSION HUMANOÏDE|ILLUSION HUMANOÏDE]] (Cité) R-6 r2+
+:[[Sorts de Zone#LANTERNE|LANTERNE]] (Cité) R-3 r2
+:[[Sorts de Zone#LUMIÈRE|LUMIÈRE]] (Plaines) R-4 r3
+:[[Sorts de Zone#MIROIRS|MIROIRS]] (Sanctuaire) R-5 r5
+:[[Sorts de Zone#PONT IMMATÉRIEL|PONT IMMATÉRIEL]] (Pont) R-6 r2+
+:[[Sorts de Zone#QUIÉTUDE|QUIÉTUDE]] (Nécropole) R-3 r4
+:[[Sorts de Zone#SILENCE|SILENCE]] (Désert) R-2 r4
+:[[Sorts de Zone#TÉLÉPORTATION|TÉLÉPORTATION]] (Collines) R-11 r9
+:[[Sorts de Zone#TÉNÈBRES|TÉNÈBRES]] (Gouffre) R-4 r3
 == Zones de Transmutation Élémentale ==
-: [[Zones de Transmutation Élémentale#x élément en Eau|AIR EN EAU]] (Cité) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Feu|AIR EN FEU]] (Désolation) R-10 r6
-: [[Zones de Transmutation Élémentale#x élément en Air|BOIS EN AIR]] (Marais) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Eau|BOIS EN EAU]] (Sanctuaire) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Feu|BOIS EN FEU]] (Désert) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Métal|BOIS EN MÉTAL]] (Monts) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Terre|BOIS EN TERRE]] (Nécropole) R-4 t2
-: [[Zones de Transmutation Élémentale#x élément en Air|EAU EN AIR]] (Désert) R-4 r2
-: [[Zones de Transmutation Élémentale#x élément en Bois|EAU EN BOIS]] (Forêt) R-4 r2
-: [[Zones de Transmutation Élémentale#x élément en Feu|EAU EN FEU]] (Monts) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Métal|EAU EN MÉTAL]] (Gouffre) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Terre|EAU EN TERRE]] (Pont) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Air|FEU EN AIR]] (Désolation) R-4 r2
-: [[Zones de Transmutation Élémentale#x élément en Bois|FEU EN BOIS]] (Collines) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Eau|FEU EN EAU]] (Cité) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Métal|FEU EN MÉTAL]] (Sanctuaire) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Terre|FEU EN TERRE]] (Désert) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Air|MÉTAL EN AIR]] (Fleuve) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Bois|MÉTAL EN BOIS]] (Collines) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Eau|MÉTAL EN EAU]] (Fleuve) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Feu|MÉTAL EN FEU]] (Lac) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Terre|MÉTAL EN TERRE]] (Plaines) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Air|TERRE EN AIR]] (Lac) R-8 r6
-: [[Zones de Transmutation Élémentale#x élément en Bois|TERRE EN BOIS]] (Plaines) R-4 r2
-: [[Zones de Transmutation Élémentale#x élément en Eau|TERRE EN EAU]] (Forêt) R-6 r4
-: [[Zones de Transmutation Élémentale#x élément en Métal|TERRE EN MÉTAL]] (Gouffre) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Eau|AIR EN EAU]] (Cité) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Feu|AIR EN FEU]] (Désolation) R-10 r6
+:[[Zones de Transmutation Élémentale#x élément en Air|BOIS EN AIR]] (Marais) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Eau|BOIS EN EAU]] (Sanctuaire) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Feu|BOIS EN FEU]] (Désert) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Métal|BOIS EN MÉTAL]] (Monts) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Terre|BOIS EN TERRE]] (Nécropole) R-4 t2
+:[[Zones de Transmutation Élémentale#x élément en Air|EAU EN AIR]] (Désert) R-4 r2
+:[[Zones de Transmutation Élémentale#x élément en Bois|EAU EN BOIS]] (Forêt) R-4 r2
+:[[Zones de Transmutation Élémentale#x élément en Feu|EAU EN FEU]] (Monts) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Métal|EAU EN MÉTAL]] (Gouffre) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Terre|EAU EN TERRE]] (Pont) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Air|FEU EN AIR]] (Désolation) R-4 r2
+:[[Zones de Transmutation Élémentale#x élément en Bois|FEU EN BOIS]] (Collines) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Eau|FEU EN EAU]] (Cité) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Métal|FEU EN MÉTAL]] (Sanctuaire) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Terre|FEU EN TERRE]] (Désert) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Air|MÉTAL EN AIR]] (Fleuve) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Bois|MÉTAL EN BOIS]] (Collines) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Eau|MÉTAL EN EAU]] (Fleuve) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Feu|MÉTAL EN FEU]] (Lac) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Terre|MÉTAL EN TERRE]] (Plaines) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Air|TERRE EN AIR]] (Lac) R-8 r6
+:[[Zones de Transmutation Élémentale#x élément en Bois|TERRE EN BOIS]] (Plaines) R-4 r2
+:[[Zones de Transmutation Élémentale#x élément en Eau|TERRE EN EAU]] (Forêt) R-6 r4
+:[[Zones de Transmutation Élémentale#x élément en Métal|TERRE EN MÉTAL]] (Gouffre) R-6 r4
 == Zones de Transparence Élémentale ==
-: [[Zones de Transparence Élémentale|BOIS TRANSPARENT]] (Cité) R-4 r4
-: [[Zones de Transparence Élémentale|MÉTAL TRANSPARENT]] (Gouffre) R-4 r4
-: [[Zones de Transparence Élémentale|TERRE TRANSPARENTE]] (Collines) R-4 r4
+:[[Zones de Transparence Élémentale|BOIS TRANSPARENT]] (Cité) R-4 r4
+:[[Zones de Transparence Élémentale|MÉTAL TRANSPARENT]] (Gouffre) R-4 r4
+:[[Zones de Transparence Élémentale|TERRE TRANSPARENTE]] (Collines) R-4 r4
 == Rituels de Conjuration ==
-: [[Rituels de Conjuration d'Oniros#ÉLARGISSEMENT DE ZONE|ÉLARGISSEMENT DE ZONE]] (variable) R-4 r4
-: [[Rituels de Conjuration d'Oniros#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
-: [[Rituels de Conjuration d'Oniros#ANNULATION DE SES PROPRES ZONES|ANNULATION DE SES PROPRES ZONES]] (variable) R-4 r2
-: [[Rituels de Conjuration d'Oniros#PERMANENCE DE ZONE|PERMANENCE DE ZONE]] @(variable) R-13 r13
+:[[Rituels de Conjuration d'Oniros#ÉLARGISSEMENT DE ZONE|ÉLARGISSEMENT DE ZONE]] (variable) R-4 r4
+:[[Rituels de Conjuration d'Oniros#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
+:[[Rituels de Conjuration d'Oniros#ANNULATION DE SES PROPRES ZONES|ANNULATION DE SES PROPRES ZONES]] (variable) R-4 r2
+:[[Rituels de Conjuration d'Oniros#PERMANENCE DE ZONE|PERMANENCE DE ZONE]] @(variable) R-13 r13
 == Rituels de Lecture ==
-: [[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
-: [[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3
+:[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
+:[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3

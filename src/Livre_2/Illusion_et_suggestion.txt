@@ -29,7 +29,7 @@ La brume limbaire n'est suscitée qu'en cas de conflit de ''sens'', pas d'intell
 
 ''Les voyageurs sont à l'auberge Décidément facétieuse, Nitouche lance sur le gobelet de son compagnon l'illusion d'un petit oiseau picorant les miettes. La métamorphose s'opère sous le regard du jeune homme, qui écarquille lei yeux. « Ce n 'est pas possible, s'écrie-t-il, c'est forcément une illusion ! » Toutefois, ce raisonnement ne suffit pas à susciter la brume limbaire puisque seule la vue de Brucelin est pour l'instant concernée.''
 
-Moins une illusion sollicite de sens, moins elle a de chances de créer un conflit, et plus elle est donc fiable, voire indétectable. Une illusion qui ne s'adresse qu'à la vue (changement de couleur, changement des lettres d'un texte) marche toujours a 100%.<BR>
+Moins une illusion sollicite de sens, moins elle a de chances de créer un conflit, et plus elle est donc fiable, voire indétectable. Une illusion qui ne s'adresse qu'à la vue (changement de couleur, changement des lettres d'un texte) marche toujours à 100%.<BR>
 Les autres illusions, auditives, gustatives et olfactives, ne génèrent jamais de brume limbaire quand bien même elles sont inexplicables.
 
 ''Nitouche lance Tympan d'Hypnos (son sort favori) sur sa mandoline pour faire croire qu'elle a un son de flûte. Bien qu'un tel son soit aussi invraisemblable qu'inexplicable, on est bien obligé de l'entendre et de s'en contenter. Qu'importe qu'on y croie pas, qu'un se dise « c'est une illusion », le son n'en demeure pas moins celui d'une flûte.''
@@ -37,41 +37,41 @@ Les autres illusions, auditives, gustatives et olfactives, ne génèrent jamais 
 Une cible donnée ne peut recevoir à la fois qu'une seule illusion visuelle, une seule illusion auditive, une seule illusion olfactive et une seule illusion gustative, soit un maximum de 4 illusions sensorielles différentes.
 
 == Illusions-suggestions ==
-: [[Sorts d'Illusion-suggestion#ÉGAREMENT|ÉGAREMENT]] (Desolation) R-4 r4
-: [[Sorts d'Illusion-suggestion#FATIGUE|FATIGUE]] (Nécropole) R-7 r5
-: [[Sorts d'Illusion-suggestion#FAUCHAGE|FAUCHAGE]] (Plaines) R-6 r5
-: [[Sorts d'Illusion-suggestion#GRAND SOMMEIL D'HYPNOS|GRAND SOMMEIL D'HYPNOS]] rituel (Marais) R-11 r8
-: [[Sorts d'Illusion-suggestion#NON-AGRESSIVITÉ|NON-AGRESSIVITÉ]] (Sanctuaire) R-4 r3
-: [[Sorts d'Illusion-suggestion#NON-RÊVE|NON-RÊVE]] (Desolation) R-7 r4+
-: [[Sorts d'Illusion-suggestion#OUBLI|OUBLI]] (Fleuve) R-8 r6+
-: [[Sorts d'Illusion-suggestion#PEUR|PEUR]] (Nécropole) R-5 r5
-: [[Sorts d'Illusion-suggestion#REPOS|REPOS]] (Cité) R-3 r2+
-: [[Sorts d'Illusion-suggestion#SÉRÉNITÉ|SÉRÉNITÉ]] (Collines) R-3 r3+
-: [[Sorts d'Illusion-suggestion#SOMMEIL|SOMMEIL]] (Marais) R-9 r1+
-: [[Sorts d'Illusion-suggestion#SUGGESTION|SUGGESTION]] (Désert) R-9 r3+
+:[[Sorts d'Illusion-suggestion#ÉGAREMENT|ÉGAREMENT]] (Desolation) R-4 r4
+:[[Sorts d'Illusion-suggestion#FATIGUE|FATIGUE]] (Nécropole) R-7 r5
+:[[Sorts d'Illusion-suggestion#FAUCHAGE|FAUCHAGE]] (Plaines) R-6 r5
+:[[Sorts d'Illusion-suggestion#GRAND SOMMEIL D'HYPNOS|GRAND SOMMEIL D'HYPNOS]] rituel (Marais) R-11 r8
+:[[Sorts d'Illusion-suggestion#NON-AGRESSIVITÉ|NON-AGRESSIVITÉ]] (Sanctuaire) R-4 r3
+:[[Sorts d'Illusion-suggestion#NON-RÊVE|NON-RÊVE]] (Desolation) R-7 r4+
+:[[Sorts d'Illusion-suggestion#OUBLI|OUBLI]] (Fleuve) R-8 r6+
+:[[Sorts d'Illusion-suggestion#PEUR|PEUR]] (Nécropole) R-5 r5
+:[[Sorts d'Illusion-suggestion#REPOS|REPOS]] (Cité) R-3 r2+
+:[[Sorts d'Illusion-suggestion#SÉRÉNITÉ|SÉRÉNITÉ]] (Collines) R-3 r3+
+:[[Sorts d'Illusion-suggestion#SOMMEIL|SOMMEIL]] (Marais) R-9 r1+
+:[[Sorts d'Illusion-suggestion#SUGGESTION|SUGGESTION]] (Désert) R-9 r3+
 == Illusions Sensorielles ==
-: [[Sorts d'Illusions sensorielles#INVISIBILITÉ|INVISIBILITÉ]] (Fleuve) R-10 r8
-: [[Sorts d'Illusions sensorielles#MÉTAMORPHOSE|MÉTAMORPHOSE]] (Gouffre) R-8 r6
-: [[Sorts d'Illusions sensorielles#TRANSFIGURATION|TRANSFIGURATION]] (Monts) R-6 r4
-: [[Sorts d'Illusions sensorielles#TYMPAN D'HYPNOS|TYMPAN D'HYPNOS]] (Collines) R-5 r4
-: [[Sorts d'Illusions sensorielles#NARINE D'HYPNOS|NARINE D'HYPNOS]] (Plaines) R-4 r3
-: [[Sorts d'Illusions sensorielles#LANGUE D'HYPNOS|LANGUE D'HYPNOS]] (Cité) R-3 r2
+:[[Sorts d'Illusions sensorielles#INVISIBILITÉ|INVISIBILITÉ]] (Fleuve) R-10 r8
+:[[Sorts d'Illusions sensorielles#MÉTAMORPHOSE|MÉTAMORPHOSE]] (Gouffre) R-8 r6
+:[[Sorts d'Illusions sensorielles#TRANSFIGURATION|TRANSFIGURATION]] (Monts) R-6 r4
+:[[Sorts d'Illusions sensorielles#TYMPAN D'HYPNOS|TYMPAN D'HYPNOS]] (Collines) R-5 r4
+:[[Sorts d'Illusions sensorielles#NARINE D'HYPNOS|NARINE D'HYPNOS]] (Plaines) R-4 r3
+:[[Sorts d'Illusions sensorielles#LANGUE D'HYPNOS|LANGUE D'HYPNOS]] (Cité) R-3 r2
 == Rituels de Communication ==
-: [[Rituels de Communication d'Hypnos#HARPE D'HYPNOS|HARPE D'HYPNOS]] (Monts) R-4 r1+
-: [[Rituels de Communication d'Hypnos#MIROIR D'HYPNOS|MIROIR D'HYPNOS]] (Nécropole) R-5 r1+
-: [[Rituels de Communication d'Hypnos#VOIX D'HYPNOS|VOIX D'HYPNOS]] (Désert) R-4 r4
-: [[Rituels de Communication d'Hypnos#INVOQUER SA VOIX|INVOQUER SA VOIX]] (Cité) R-6 r1+
-: [[Rituels de Communication d'Hypnos#INVOQUER SON IMAGE|INVOQUER SON IMAGE]] (Sanctuaire) R-6 r1+
-: [[Rituels de Communication d'Hypnos#INVOQUER SA PRÉSENCE|INVOQUER SA PRÉSENCE]] (Nécropole) R-9 r1+
+:[[Rituels de Communication d'Hypnos#HARPE D'HYPNOS|HARPE D'HYPNOS]] (Monts) R-4 r1+
+:[[Rituels de Communication d'Hypnos#MIROIR D'HYPNOS|MIROIR D'HYPNOS]] (Nécropole) R-5 r1+
+:[[Rituels de Communication d'Hypnos#VOIX D'HYPNOS|VOIX D'HYPNOS]] (Désert) R-4 r4
+:[[Rituels de Communication d'Hypnos#INVOQUER SA VOIX|INVOQUER SA VOIX]] (Cité) R-6 r1+
+:[[Rituels de Communication d'Hypnos#INVOQUER SON IMAGE|INVOQUER SON IMAGE]] (Sanctuaire) R-6 r1+
+:[[Rituels de Communication d'Hypnos#INVOQUER SA PRÉSENCE|INVOQUER SA PRÉSENCE]] (Nécropole) R-9 r1+
 == Rituels d'Invocation de créatures ==
-: [[Rituels d'Invocation de créatures#GUERRIER SORDE|GUERRIER SORDE]] (Cité Sordide D13) R-8 r7
-: [[Rituels d'Invocation de créatures#GUERRIER TURME|GUERRIER TURME]] (Forêt Turmide C8) R-8 r7
-: [[Rituels d'Invocation de créatures#NONECHALEPASSE|NONECHALEPASSE]] (Cité ]alouse M1) R-8 r7
-: [[Rituels d'Invocation de créatures#GUERRIER KANAILLOU|KANAILLOU]] (Mont de Kana'1'E1) R-5 r4
+:[[Rituels d'Invocation de créatures#GUERRIER SORDE|GUERRIER SORDE]] (Cité Sordide D13) R-8 r7
+:[[Rituels d'Invocation de créatures#GUERRIER TURME|GUERRIER TURME]] (Forêt Turmide C8) R-8 r7
+:[[Rituels d'Invocation de créatures#NONECHALEPASSE|NONECHALEPASSE]] (Cité ]alouse M1) R-8 r7
+:[[Rituels d'Invocation de créatures#GUERRIER KANAILLOU|KANAILLOU]] (Mont de Kana'1'E1) R-5 r4
 == Rituels de Conjuration ==
-: [[Rituels de Conjuration d'Hypnos#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
-: [[Rituels de Conjuration d'Hypnos#ANNULATION DE SES PROPRES ILLUSIONS|ANNULATION DE SES PROPRES ILLUSIONS]] (Variable) R-4 [2
-: [[Rituels de Conjuration d'Hypnos#CONJURER L'OUBLI|CONJURER L'OUBLI]] (Lac) R-4 r4
+:[[Rituels de Conjuration d'Hypnos#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
+:[[Rituels de Conjuration d'Hypnos#ANNULATION DE SES PROPRES ILLUSIONS|ANNULATION DE SES PROPRES ILLUSIONS]] (Variable) R-4 [2
+:[[Rituels de Conjuration d'Hypnos#CONJURER L'OUBLI|CONJURER L'OUBLI]] (Lac) R-4 r4
 == Rituels de Lecture ==
-: [[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
-: [[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3
+:[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
+:[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3

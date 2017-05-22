@@ -98,7 +98,7 @@ L'apprentissage a lieu entre deux aventures, durant la période de ''gris rêve'
 |}
 
 
-''Passer d'un niveau -11 a 0 demande 38 semaines, puis du niveau 0 a +1, 20 semaines. Passer de +3 a +4 demande 40 semaines, de +4 à +5 90 semaines, de +5 à +6 120 semaines, etc.''
+''Passer d'un niveau -11 à 0 demande 38 semaines, puis du niveau 0 à +1, 20 semaines. Passer de +3 à +4 demande 40 semaines, de +4 à +5 90 semaines, de +5 à +6 120 semaines, etc.''
 
 == Entraînement ==
 Contrairement à l'apprentissage, l'entraînement a lieu au cours-même des aventures, durant les heures creuses par exemple. Étant réellement joué, et non pas une commodité de ''gris rêve'', il peut être plus fructueux que l'apprentissage, mais a également ses revers : fatigue, maladresses.<BR>
@@ -112,7 +112,7 @@ Cette seconde façon de gagner des points d'expérience est de loin la plus fruc
 Les points de stress sont en quelque sorte des points de ''pré-expérience''. Ils sont gagnés par les personnages à chaque situation stressante. C'est à chaque fois au gardien des rêves de juger du nombre de points de stress octroyés, en se souvenant que le maximum qu'une situation donnée puisse fournir est de 20 points.<BR>
 De toutes les situations, les combats sont généralement les plus stressants. Un combat qui tourne vite à l'avantage des joueurs peut rapporter 6 ou 8 points ; un combat difficile 10 ou 12 ; s'il y a des morts ou si l'affaire tourne au désastre, on peut approcher du maximum de 18 ou 20. Mais il n'y a pas que les combats qui soient stressants. Chaque fois qu'un personnage ''a eu chaud'', pour quelque raison que ce soit, il est en droit de recevoir des points de stress.
 
-''Pour la volée de pierres, Nitouche reçoit 5 points de stress. Pour sa chute dans le ravin, Brucelin en reçoit 10, et Nitouche, qui a sans doute eu aussi peur que lui, en reçoit 8. Les Groins étaient a trois contre deux, mais le combat a bien fini. Chaque voyageur reçoit 9 points.''
+''Pour la volée de pierres, Nitouche reçoit 5 points de stress. Pour sa chute dans le ravin, Brucelin en reçoit 10, et Nitouche, qui a sans doute eu aussi peur que lui, en reçoit 8. Les Groins étaient à trois contre deux, mais le combat a bien fini. Chaque voyageur reçoit 9 points.''
 
 == Jet de Stress ==
 À l'extrême fin du Château Dormant, tout personnage possédant des points de stress et ayant dormi au moins une heure durant la nuit, joue un jet de Stress. Ce jet est un jet de Rêve, ayant pour but de se souvenir de parcelles de l'archétype. Il est toujours joué non pas avec la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]], mais avec le nombre actuel de points de rêve (ces valeurs varient souvent chez les haut-rêvants.) La difficulté est toujours de zéro, aucune compétence, pas même le Draconic, ne lui est adjointe, ni aucun ajustement, malus ni bonus d'aucune sorte.
@@ -142,7 +142,7 @@ Selon le résultat du jet, un certain nombre de points de stress sont transform�
 
 
 === D.Part. ===
-La double particulière n'est utilisée que pour les jets de Stress. En cas de réussite particulière, rejouer. Si le second résultat est a nouveau une particulière ou une significative, c'est une double particulière. Tout autre résultat au second jet, même un échec total, indique une simple particulière.
+La double particulière n'est utilisée que pour les jets de Stress. En cas de réussite particulière, rejouer. Si le second résultat est à nouveau une particulière ou une significative, c'est une double particulière. Tout autre résultat au second jet, même un échec total, indique une simple particulière.
 
 == Règles ==
 Les points d'expérience dus à la transformation du stress ne peuvent être alloués que dans les compétences, jamais dans les caractéristiques. En ce qui concerne le [[Les Compétences#Draconic|Draconic]], ils ne peuvent être alloués qu'en voie (voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'').<BR>
@@ -151,7 +151,7 @@ Le joueur a la totale liberté de mettre ces points dans les compétences de son
 Les pourcentages sont toujours arrondis à l'inférieur : 20% de 8 (1,6) donne 1 ; 20% de 4 (0,8) donne 0.<BR>
 Quand tous les points de stress ne sont pas transformés, le personnage perd 1 point sur le nombre de points de stress restants. Puis le reste (s'il y a encore un reste après la diminution d'un point), pourra tenter d'être transformé le lendemain à la même heure, selon la même règle. Et ainsi de suite, de jour en jour, tant qu'il reste au moins un point. Entre temps, une nouvelle situation stressante peut venir rajouter d'autres points.
 
-''Le jour de l'épisode de l'avalanche, Nitouche a gagné 13 points de stress. Ayant au moins dormi une heure la nuit qui suit, elle joue un jet de Stress quand vient le moment privilégié de l'extrême fin du Château Dormant. Ses points de rêve sont toujours a 15 et 15 à zéro donne 75%. Avec un 67, elle obtient une réussite normale, transformant 50% de ses points, soit 6 points d expérience. Décidément hantée par la mer, elle décide de les mettre en Navigation. Puis elle en perd 1 sur les 7 restants, et en conserve ainsi 6 pour un nouvel essai le lendemain. C'est alors que survient la rencontre avec les Groins, qui lui procure 9 nouveaux points de stress, soit un total de 15.''<BR>
-''A l 'aube suivante, elle joue un nouveau jet de Stress et obtient une particulière ! Elle recommence aussitôt le jet, mais n 'obtient qu'une réussite normale, 100% transformés. Elle décide cette fois d'en mettre 5 en voie d'Hypnos et 10 en Esquive.''<BR>
-''« J'ai rêvé que j'esquivais toutes tes claques ! » explique-t-elle a Brucelin.''<BR>
+''Le jour de l'épisode de l'avalanche, Nitouche a gagné 13 points de stress. Ayant au moins dormi une heure la nuit qui suit, elle joue un jet de Stress quand vient le moment privilégié de l'extrême fin du Château Dormant. Ses points de rêve sont toujours à 15 et 15 à zéro donne 75%. Avec un 67, elle obtient une réussite normale, transformant 50% de ses points, soit 6 points d expérience. Décidément hantée par la mer, elle décide de les mettre en Navigation. Puis elle en perd 1 sur les 7 restants, et en conserve ainsi 6 pour un nouvel essai le lendemain. C'est alors que survient la rencontre avec les Groins, qui lui procure 9 nouveaux points de stress, soit un total de 15.''<BR>
+''À l 'aube suivante, elle joue un nouveau jet de Stress et obtient une particulière ! Elle recommence aussitôt le jet, mais n 'obtient qu'une réussite normale, 100% transformés. Elle décide cette fois d'en mettre 5 en voie d'Hypnos et 10 en Esquive.''<BR>
+''« J'ai rêvé que j'esquivais toutes tes claques ! » explique-t-elle à Brucelin.''<BR>
 ''Le regard de celui-ci devient songeur : « M'aurais-tu déjà rencontré dans un autre rêve ? ... »''

@@ -21,38 +21,38 @@ Les ECNI sont lentes, 6 mètres par round, et permettent facilement la fuite. Si
 Un haut-rêvant de Thanatos peut contrôler simultanément plusieurs ECNI différentes. Mais, dans tous les cas, le nombre maximum d'entités contrôlables est limité à son niveau en voie de Thanatos (minimum niveau +1).
 
 == Rituels de Possession ==
-* POSSESSION DE CORPS (Marais) R-9 r2+ 
-* POSSESSION D'ESPRIT (Lac) R-9 r2+ 
+:[[Rituels de Possession#POSSESSION DE CORPS|POSSESSION DE CORPS]] (Marais) R-9 r2+ 
+:[[Rituels de Possession#POSSESSION D'ESPRIT|POSSESSION D'ESPRIT]] (Lac) R-9 r2+ 
 == Sorts d'Envoûtement == 
-* CÉCITÉ (Cité) R-8 r2+ 
-* MALADIE (Désolation) R-11 r5+ 
-* SURDITÉ (Gouffre) R-6 r2+ 
-* CAUCHEMAR (Monts) R-5 r5 
-* INTERDICTION (Désert) R-7 r 7 
-* TÂCHE (Forêt) R-8 r 8 
-* MÉTAMORPHOSE EN BÊTE (Fleuve) R-10 r10 
+:[[Sorts d'Envoûtement#CÉCITÉ|CÉCITÉ]] (Cité) R-8 r2+ 
+:[[Sorts d'Envoûtement#MALADIE|MALADIE]] (Désolation) R-11 r5+ 
+:[[Sorts d'Envoûtement#SURDITÉ|SURDITÉ]] (Gouffre) R-6 r2+ 
+:[[Sorts d'Envoûtement#CAUCHEMAR|CAUCHEMAR]] (Monts) R-5 r5 
+:[[Sorts d'Envoûtement#INTERDICTION|INTERDICTION]] (Désert) R-7 r 7 
+:[[Sorts d'Envoûtement#TÂCHE|TÂCHE]] (Forêt) R-8 r 8 
+:[[Sorts d'Envoûtement#MÉTAMORPHOSE EN BÊTE|MÉTAMORPHOSE EN BÊTE]] (Fleuve) R-10 r10 
 == Sorts Individuels ==
-* AUTOMÉTAMORPHOSE EN BÊTE (Foret) R-7 r7 
-* FLÉTRISSEMENT (Fleuve) R-8 rl+ 
-* PEUR THANATAIRE (Lac) R-9 r 1+ 
-* POING DE THANATOS (Plaines) R-6 rl+ 
-* PUTRESCENCE (Marais) R-8 rl + 
-* THANATOEIL (Nécropole) R-5 rl+ 
+:[[Sorts individuels#AUTOMÉTAMORPHOSE EN BÊTE|AUTOMÉTAMORPHOSE EN BÊTE]] (Foret) R-7 r7 
+:[[Sorts individuels#FLÉTRISSEMENT|FLÉTRISSEMENT]] (Fleuve) R-8 rl+ 
+:[[Sorts individuels#PEUR THANATAIRE|PEUR THANATAIRE]] (Lac) R-9 r 1+ 
+:[[Sorts individuels#POING DE THANATOS|POING DE THANATOS]] (Plaines) R-6 rl+ 
+:[[Sorts individuels#PUTRESCENCE|PUTRESCENCE]] (Marais) R-8 rl + 
+:[[Sorts individuels#THANATOEIL|THANATOEIL]] (Nécropole) R-5 rl+ 
 == Rituels d'Invocation ==
-* ANIMER UN SQUELETTE (Nécropole) R-9 rl+ 
-* ANIMER UN ZOMBI (Nécropole) R-7 rl+ 
-* INVOQUER UN DÉSESPOIR (Désolation) R-7 r7 
-* INVOQUER UNE HAINE (Marais) R-7 r7 
-* INVOQUER UNE PEUR (Gouffre) R-7 r7 
+:[[Rituels d'Invocation#ANIMER UN SQUELETTE|ANIMER UN SQUELETTE]] (Nécropole) R-9 rl+ 
+:[[Rituels d'Invocation#ANIMER UN ZOMBI|ANIMER UN ZOMBI]] (Nécropole) R-7 rl+ 
+:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UN DÉSESPOIR]] (Désolation) R-7 r7 
+:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UNE HAINE]] (Marais) R-7 r7 
+:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UNE PEUR]] (Gouffre) R-7 r7 
 == Rituels de Communication ==
-* FAIRE PARLER UN CRÂNE (Désert) R-6 r1+ 
-* FAIRE PARLER UN MORT (Pont) R-4 r1+ 
+:[[Rituels de Communication de Thanatos#FAIRE PARLER UN CRÂNE|FAIRE PARLER UN CRÂNE]] (Désert) R-6 r1+ 
+:[[Rituels de Communication de Thanatos#FAIRE PARLER UN MORT|FAIRE PARLER UN MORT]] (Pont) R-4 r1+ 
 == Rituels de Griffe ==
 ''Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus''
-* GRIFFE DE THANATOS * (Nécropole) R-8 r8 
-* GRIFFE MORBIDE DE THANATOS * (Marais) R-11 r11 
+:[[Rituels d'Enchantement de Thanatos#GRIFFE DE THANATOS|GRIFFE DE THANATOS]] * (Nécropole) R-8 r8 
+:[[Rituels d'Enchantement de Thanatos#GRIFFE MORBIDE DE THANATOS|GRIFFE MORBIDE DE THANATOS]] * (Marais) R-11 r11 
 == Grande Griffe de Thanatos ==
-* DAGUE DE MEURTRE ** (Désolation de Sel G9) R-13 r13 
+:[[Grandes Griffes de Thanatos#DAGUE DE MEURTRE|DAGUE DE MEURTRE]] ** (Désolation de Sel G9) R-13 r13 
 == Rituels de Lecture ==
-* DÉTECTION D'AURA (Sanctuaire) R-3 r1 
-* LECTURE D'AURA (Sanctuaire) R-3 r3
+:[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
+:[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3

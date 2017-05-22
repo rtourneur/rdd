@@ -1,5 +1,4 @@
 __NOTOC__
-
  [[Le Combat|Retour au Combat]]
 
 == Détérioration des armures ==
@@ -40,7 +39,7 @@ C'est la somme de la [[Les Caractéristiques#FORCE|FORCE]] de l'attaquant et du 
 * ''Ech.T.'' Défenseur recule sous le choc et chute automatiquement.
 
 
-''Ayant rattrapé le dernier Groin, Brucelin l'attaque et obtient une particulière qu 'il déclare en force. Le Groin réussit à parer avec son bouclier, qui doit tenter un jet de Résistance. Le +dom de l'attaque de Brucelin est de +6 (+4 d'épée bâtarde et +2 personnel). Le bouclier du Groin possède encore 8 points de résistance. 8 à -6 donne 16%. Avec un 59, le Groin échoue et son bouclier tombe à 2 points, très abîme. Simultanément, le Groin (16 en TAILLE) peut reculer sous le choc. 16 (TAILLE du Groin) - 19 (Impact de Brucelin) = -3. Le jet de Recul (toujours joué avec 10) donne alors 10 à -3 = 35%. Et avec un 59 à nouveau, le Groin titube en arrière. Il termine en jouant un jet d'AGILITÉ a -3 (même difficulté), qu 'il échoue également. Étant à terre, il est en demi-surprise pour le round suivant.''
+''Ayant rattrapé le dernier Groin, Brucelin l'attaque et obtient une particulière qu 'il déclare en force. Le Groin réussit à parer avec son bouclier, qui doit tenter un jet de Résistance. Le +dom de l'attaque de Brucelin est de +6 (+4 d'épée bâtarde et +2 personnel). Le bouclier du Groin possède encore 8 points de résistance. 8 à -6 donne 16%. Avec un 59, le Groin échoue et son bouclier tombe à 2 points, très abîme. Simultanément, le Groin (16 en TAILLE) peut reculer sous le choc. 16 (TAILLE du Groin) - 19 (Impact de Brucelin) = -3. Le jet de Recul (toujours joué avec 10) donne alors 10 à -3 = 35%. Et avec un 59 à nouveau, le Groin titube en arrière. Il termine en jouant un jet d'AGILITÉ aà-3 (même difficulté), qu 'il échoue également. Étant à terre, il est en demi-surprise pour le round suivant.''
 
 Un personnage reculant sous le choc ou chutant ne peut pas attaquer durant le reste du round.
 
@@ -70,7 +69,7 @@ Un personnage reculant sous le choc ou chutant ne peut pas attaquer durant le re
 |-
 | rowspan="2" | ''Échec''  || colspan="3" | Défenseur recule sous le choc.
 |-
-| colspan="3" | Jet d'AGILITÉ a la même difficulté, sil échoue, le défenseur chute.
+| colspan="3" | Jet d'AGILITÉ à la même difficulté, s'il échoue, le défenseur chute.
 |-
 | ''Ech.T.'' || colspan="3" | Défenseur recule sous le choc et chute automatiquement.
 |}
