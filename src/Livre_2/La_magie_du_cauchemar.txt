@@ -32,12 +32,12 @@ Un haut-rêvant de Thanatos peut contrôler simultanément plusieurs ECNI diffé
 :[[Sorts d'Envoûtement#TÂCHE|TÂCHE]] (Forêt) R-8 r 8 
 :[[Sorts d'Envoûtement#MÉTAMORPHOSE EN BÊTE|MÉTAMORPHOSE EN BÊTE]] (Fleuve) R-10 r10 
 == Sorts Individuels ==
-:[[Sorts individuels#AUTOMÉTAMORPHOSE EN BÊTE|AUTOMÉTAMORPHOSE EN BÊTE]] (Foret) R-7 r7 
-:[[Sorts individuels#FLÉTRISSEMENT|FLÉTRISSEMENT]] (Fleuve) R-8 rl+ 
-:[[Sorts individuels#PEUR THANATAIRE|PEUR THANATAIRE]] (Lac) R-9 r 1+ 
-:[[Sorts individuels#POING DE THANATOS|POING DE THANATOS]] (Plaines) R-6 rl+ 
-:[[Sorts individuels#PUTRESCENCE|PUTRESCENCE]] (Marais) R-8 rl + 
-:[[Sorts individuels#THANATOEIL|THANATOEIL]] (Nécropole) R-5 rl+ 
+:[[Sorts Individuels#AUTOMÉTAMORPHOSE EN BÊTE|AUTOMÉTAMORPHOSE EN BÊTE]] (Foret) R-7 r7 
+:[[Sorts Individuels#FLÉTRISSEMENT|FLÉTRISSEMENT]] (Fleuve) R-8 r1+ 
+:[[Sorts Individuels#PEUR THANATAIRE|PEUR THANATAIRE]] (Lac) R-9 r1+ 
+:[[Sorts Individuels#POING DE THANATOS|POING DE THANATOS]] (Plaines) R-6 r1+ 
+:[[Sorts Individuels#PUTRESCENCE|PUTRESCENCE]] (Marais) R-8 r1+ 
+:[[Sorts Individuels#THANATOEIL|THANATOEIL]] (Nécropole) R-5 r1+ 
 == Rituels d'Invocation ==
 :[[Rituels d'Invocation#ANIMER UN SQUELETTE|ANIMER UN SQUELETTE]] (Nécropole) R-9 rl+ 
 :[[Rituels d'Invocation#ANIMER UN ZOMBI|ANIMER UN ZOMBI]] (Nécropole) R-7 rl+ 

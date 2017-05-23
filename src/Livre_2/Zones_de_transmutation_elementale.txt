@@ -32,7 +32,7 @@ Il ne s'agit toujours que des deux métaux les plus inertes (voir [[Narcos]]) : 
 : BOIS EN AIR (Marais) R-8 r6
 : BOIS EN EAU (Sanctuaire) R-6 r4
 : BOIS EN FEU (Désert) R-6 r4
-: BOIS  EN MÉTAL (Monts) R-6 r4
+: BOIS EN MÉTAL (Monts) R-6 r4
 : BOIS EN TERRE (Nécropole) R-4 r2
 
 : EAU EN AIR (Désert) R-4 r2
@@ -48,10 +48,10 @@ Il ne s'agit toujours que des deux métaux les plus inertes (voir [[Narcos]]) : 
 : FEU EN TERRE (Désert) R-6 r4
 
 : MÉTAL EN AIR (Fleuve) R-8 r6
-: MÉTAL EN Bois (Collines) R-6 r4
+: MÉTAL EN BOIS (Collines) R-6 r4
 : MÉTAL EN EAU(Fleuve) R-8 r6
 : MÉTAL EN FEU (Lac) R-8 r6
-: MÉTAL  EN TERRE (Plaines) R-6 r4
+: MÉTAL EN TERRE (Plaines) R-6 r4
 
 : TERRE EN AIR (Lac) R-8 r6
 : TERRE EN BOIS (Plaines) R-4 r2
