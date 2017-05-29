@@ -22,7 +22,7 @@ Si l'attaquant n'avait pas la première initiative (= attaquait en dernier), il 
 === Armes lentes ===
 Certaines armes n'ont droit qu'aux options de force ou de finesse, jamais de rapidité. Il s'agit de toutes les armes tenues à ''deux mains'', ainsi que (une ou deux mains) : épée bâtarde, épée sorde, hache de bataille, masse lourde, fléaux.
 
-=== Esquive et parade particulieres ===
+=== Esquive et parade particulières ===
 C'est une règle semblable à la ''rapidité'' qui s'applique. Quand une parade avec une arme obtient une particulière, le personnage a droit à un second usage de son arme, mais toujours durant ce même round et en respectant les règles de l'initiative. Si c'est la toute dernière action du round, le bénéfice est perdu. S'il reste encore une possibilité de parade, parce qu'il reste encore un adversaire ou parce qu'un adversaire unique a eu droit à deux attaques, le personnage peut parer une seconde fois avec son arme. Si le personnage n'a pas encore attaqué et s'il reste encore un adversaire contre lequel il possède l'initiative, le second usage de son arme peut être une attaque contre cet adversaire. Même chose avec un bouclier, sauf qu'il ne peut que parer, et toujours uniquement si la prochaine action du round peut être une parade.<BR>
 Une arme proprement dite peut donc être utilisée deux fois : pour deux parades, ou deux attaques, ou une attaque et une parade. Un bouclier peut être utilisé pour deux parades.<BR>
 Une esquive obtenant une particulière donne droit à une seconde esquive si la prochaine action du round peut être une esquive ; sinon, le bénéfice est perdu.

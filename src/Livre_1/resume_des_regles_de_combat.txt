@@ -26,7 +26,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 |-
 | * '''Actions diverses''' ''(Soins ou tâches diverses)''
 |-
-| Une action déclarée peut-être annulée mais pas modifiée.
+| Une action déclarée peut être annulée mais pas modifiée.
 |-
 | &nbsp;
 |-
@@ -70,7 +70,7 @@ Pour le premier round de mêlée, l'initiative est à l'arme la plus longue ou l
 |-
 | '''Phase 5 : [[Mêlée]]'''
 |-
-| * '''Initiative entre combattants''' : facteur d'iniriarive + 1d6
+| * '''Initiative entre combattants''' : facteur d'initiative + 1d6
 |-
 | * '''Attaque''' : [[Les Caractéristiques#Mêlée|Mêlée]]/compétence d'arme - difficulté libre
 |-

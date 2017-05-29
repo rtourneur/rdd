@@ -5,7 +5,7 @@ __NOTOC__
 Quand un personnage est touché, ses vêtements ou son armure subissent aussi des dommages. Ces dommages sont comptabilisés sous la forme de ''points de détérioration''.<BR>
 Chaque attaque qui touche entraîne un nombre de points de détérioration égal au +dom de l'attaque : +dom de l'arme et +dom personnel, mais sans les bonus de particulière, de condition ni de tactique. Quand la protection a cumulé 10 point de détérioration, sa valeur de protection devient aléatoire, puis elle baisse de 1 tous les 10 autres points.
 
-''À  force de servir, le cuir épais de Brucelin se détériore. Neuf il valait 3 points de protection fixe. Au bout de 10 points de détérioration, il devient aléatoire et ne protège plus que de 1d3. Encore 10 points de détérioration, et il tombe à 1d3-1 ; encore 10, et il ne vaut plus que 1d3-2 (1 point ou 0). « T u n'es pas très soigneux », murmure Nitouche.''
+''À force de servir, le cuir épais de Brucelin se détériore. Neuf il valait 3 points de protection fixe. Au bout de 10 points de détérioration, il devient aléatoire et ne protège plus que de 1d3. Encore 10 points de détérioration, et il tombe à 1d3-1 ; encore 10, et il ne vaut plus que 1d3-2 (1 point ou 0). « Tu n'es pas très soigneux », murmure Nitouche.''
 
 Certaines attaques, quoique douloureuses, ne sauraient détériorer les protections : coups de poing, coups de bâton, etc. Dans tous les cas, c'est au gardien des rêves de juger si des points de détérioration doivent ou non être comptés, en fonction des spécificités de l'attaque : arme, type de blessure, localisation, etc.
 
@@ -28,7 +28,7 @@ Ce cas ne concerne que les parades obtenues avec une arme, non avec un bouclier.
 == Recul sous le choc ==
 Les ''charges'' ainsi que les réussites particulières déclarées ''en force'' peuvent faire reculer sous le choc quand elles ne sont pas esquivées, c'est-à-dire quand elles touchent ou ne sont que parées. Le défenseur joue alors un jet de ''Recul''.
 === Jet de Recul ===
-Le jet de Recul est toujours joué en prenant 10 comme caractéristique (quels que soient les combattants), avec comme ajustement la [[Les Caractéristiques#TAILLE|TAILLE]] du défenseur moins l'lmpact de l'attaquant.
+Le jet de Recul est toujours joué en prenant 10 comme caractéristique (quels que soient les combattants), avec comme ajustement la [[Les Caractéristiques#TAILLE|TAILLE]] du défenseur moins l'impact de l'attaquant.
 === Impact ===
 C'est la somme de la [[Les Caractéristiques#FORCE|FORCE]] de l'attaquant et du +dom de son arme (le +dom personnel n'est pas ajouté).
 
@@ -39,7 +39,7 @@ C'est la somme de la [[Les Caractéristiques#FORCE|FORCE]] de l'attaquant et du 
 * ''Ech.T.'' Défenseur recule sous le choc et chute automatiquement.
 
 
-''Ayant rattrapé le dernier Groin, Brucelin l'attaque et obtient une particulière qu 'il déclare en force. Le Groin réussit à parer avec son bouclier, qui doit tenter un jet de Résistance. Le +dom de l'attaque de Brucelin est de +6 (+4 d'épée bâtarde et +2 personnel). Le bouclier du Groin possède encore 8 points de résistance. 8 à -6 donne 16%. Avec un 59, le Groin échoue et son bouclier tombe à 2 points, très abîme. Simultanément, le Groin (16 en TAILLE) peut reculer sous le choc. 16 (TAILLE du Groin) - 19 (Impact de Brucelin) = -3. Le jet de Recul (toujours joué avec 10) donne alors 10 à -3 = 35%. Et avec un 59 à nouveau, le Groin titube en arrière. Il termine en jouant un jet d'AGILITÉ aà-3 (même difficulté), qu 'il échoue également. Étant à terre, il est en demi-surprise pour le round suivant.''
+''Ayant rattrapé le dernier Groin, Brucelin l'attaque et obtient une particulière qu'il déclare en force. Le Groin réussit à parer avec son bouclier, qui doit tenter un jet de Résistance. Le +dom de l'attaque de Brucelin est de +6 (+4 d'épée bâtarde et +2 personnel). Le bouclier du Groin possède encore 8 points de résistance. 8 à -6 donne 16%. Avec un 59, le Groin échoue et son bouclier tombe à 2 points, très abîme. Simultanément, le Groin (16 en TAILLE) peut reculer sous le choc. 16 (TAILLE du Groin) - 19 (Impact de Brucelin) = -3. Le jet de Recul (toujours joué avec 10) donne alors 10 à -3 = 35%. Et avec un 59 à nouveau, le Groin titube en arrière. Il termine en jouant un jet d'AGILITÉ à-3 (même difficulté), qu'il échoue également. Étant à terre, il est en demi-surprise pour le round suivant.''
 
 Un personnage reculant sous le choc ou chutant ne peut pas attaquer durant le reste du round.
 

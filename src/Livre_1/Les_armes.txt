@@ -1,5 +1,5 @@
 __NOTOC__
-Il y a trois grands types d'armes dans ''Rêve de Dragon'' : les armes de tir (arc, arbalète, fronde), les armes de lancer (dague, javelot), et les armes de mêlée (épées, haches, masses, etc.) Le [[Combat sans Arme|combat sans arme]], appelé ''Corps à corps'' appartient aussi à la catégorie mêlée. Les armes possèdent les caractéristique suivantes :
+Il y a trois grands types d'armes dans ''Rêve de Dragon'' : les armes de tir (arc, arbalète, fronde), les armes de lancer (dague, javelot), et les armes de mêlée (épées, haches, masses, etc.) Le [[Combat sans Arme|combat sans arme]], appelé ''Corps à corps'' appartient aussi à la catégorie mêlée. Les armes possèdent les caractéristiques suivantes :
 === Compétence ===
 Indiqué en ''italique'' aussitôt après le nom de l'arme, c'est la compétence nécessaire pour manier l'arme.
 === +dom ===
@@ -24,11 +24,11 @@ Les épées portent des noms inusuels dans ''Rêve de Dragon''.
 C'est une épée ''courte'', essentiellement fabriquée et portée par les Gnomes au Second Age.
 === Esparlongue ===
 C'est une épée semblable à la ''rapière'', longue et fine, frappant uniquement d'estoc. Elle doit son nom à ce qu'elle était particulièrement en vogue, au Second Age, dans la cité d'Esparlongue.
-=== Épée Cyane ===
+=== Épée cyane ===
 Long ''cimeterre'' à l'acier bleuté, exclusivement fabriqué par les Cyans ou Hommes bleus.
 === Épée dragonne ===
 C'est une épée ''longue'', plus robuste que l'esparlongue, pouvant également frapper de taille.
-=== Épée Sorde ===
+=== Épée sorde ===
 C'est une épée plus courte que la précédente, mais plus ''large''. Elle peut s'utiliser à une ou deux mains. Sa grande solidité en fait l'épée de prédilection des gardes et des soldats.<BR>
 C'est probablement à elle que le ''Guerrier Sorde'' doit son nom (à moins que ce ne soit l'inverse).
 === Épée bâtarde ===

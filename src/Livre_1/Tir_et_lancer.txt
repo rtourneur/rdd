@@ -1,6 +1,5 @@
 __NOTOC__
-À la résolution de chaque tir ou lancer, le gardien des rêves indique une difficulté. Celle-ci dépend de la ''distance'' de la cible par rapport à la ''portée'' de l'arme, de la ''taille'' de la cible et
-de l'''activité'' de cette dernière, immobile ou au contraire courant en zigzag. D'une manière générale, c'est au gardien des rêves à apprécier la difficulté globale. Il peut toutefois s'aider des tables suivantes :
+À la résolution de chaque tir ou lancer, le gardien des rêves indique une difficulté. Celle-ci dépend de la ''distance'' de la cible par rapport à la ''portée'' de l'arme, de la ''taille'' de la cible et de l'''activité'' de cette dernière, immobile ou au contraire courant en zigzag. D'une manière générale, c'est au gardien des rêves à apprécier la difficulté globale. Il peut toutefois s'aider des tables suivantes :
 
 {|style="border:1px solid black;text-align:left;"
 |-

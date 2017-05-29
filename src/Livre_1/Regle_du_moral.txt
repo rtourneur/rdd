@@ -3,7 +3,7 @@ Le moral est une force interne du personnage, qui l'aide à conserver son libre 
 
  [[Le Moral|Retour au Moral]]
 
-''Assise contre un arbre, Nitouche est fatiguée (ligne -1 en fatigue). Elle entend un bruit suspect. Aura-t-elle la VOLONTÉ de bondir instantanément sur ses pieds, c'est-a-dire dans le round-même ? Elle doit jouer un jet de VOLONTÉ à -1 (dû à sa fatigue), 54%. Mais considérons d'abord l'état de son moral. Quoique fatiguée physiquement, Nitouche est bien dans sa peau et possède un excellent moral de +3. Son jet de VOLONTÉ est finalement ajusté ainsi : -1 (fatigue) + +3 (moral) = +2, soit 72%. C'est une nette différence lorsque sa vie peut être en danger.''
+''Assise contre un arbre, Nitouche est fatiguée (ligne -1 en fatigue). Elle entend un bruit suspect. Aura-t-elle la VOLONTÉ de bondir instantanément sur ses pieds, c'est-à-dire dans le round-même ? Elle doit jouer un jet de VOLONTÉ à -1 (dû à sa fatigue), 54%. Mais considérons d'abord l'état de son moral. Quoique fatiguée physiquement, Nitouche est bien dans sa peau et possède un excellent moral de +3. Son jet de VOLONTÉ est finalement ajusté ainsi : -1 (fatigue) + +3 (moral) = +2, soit 72%. C'est une nette différence lorsque sa vie peut être en danger.''
 
 == Jets de moral ==
 À la création, le moral d'un personnage est de zéro. Les jets de moral servent à le modifier, en mieux ou en pire, chaque fois que survient une situation dont on estime qu'elle peut avoir une influence sur le moral. Certains cas sont davantage soulignés que d'autres dans les règles (éthylisme, musique, cœur) ; pour d'autres, la décision appartient au gardien des rêves.<BR>

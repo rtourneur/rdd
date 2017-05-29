@@ -43,7 +43,7 @@ Tout comme un sort, chaque signe possède une difficulté.
 === Durabilité ===
 Si certains signes sont d'une durée virtuellement infinie, d'autres peuvent être fugaces. Le scénario (gardien des rêves) décide pareillement du nombre de ''rounds'' durant lesquels le signe restera perceptible.
 === Valeur ===
-Enfin, le scénario prévoit la valeur de chaque signe, c'est-a-dire en termes pratiques, le nombre de points de sorts apportés par sa lecture en cas de réussite.
+Enfin, le scénario prévoit la valeur de chaque signe, c'est-à-dire en termes pratiques, le nombre de points de sorts apportés par sa lecture en cas de réussite.
 
 == Lecture draconique ==
 Pour lire un signe draconic, le haut-rêvant doit monter dans les TMR et se rendre dans un genre de case auquel le signe est lié. Montée et déplacement obéissent en tous points aux règles normales. Le problème est que le haut-rêvant ne sait pas à priori à quel(s) genre(s) de cases le signe est lié et n'a d'autre moyen de le découvrir que par tâtonnements. Toutefois, dès qu'il arrive dans le bon genre de case, il en a automatiquement conscience (sans jet de dés).<BR>
