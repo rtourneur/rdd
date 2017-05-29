@@ -99,6 +99,9 @@ __NOTOC__
 ** [[Rituels de Lecture]]
 == Le Livre des Mondes ==
 * [[Le Monde du Rêve|Le Rêve]]
+** [[Un Multirêve]]
+** [[Les Trois Âges]]
+** [[Les Voyageurs]]
 * [[D'un rêve à l'autre]]
 * [[Connaissances]]
 * [[Les Créatures]]
