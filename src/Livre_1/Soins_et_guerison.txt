@@ -1,5 +1,5 @@
 __NOTOC__
-Les soins se font en deux phases : ''premiers soins'' et ''soins complets''. La première phase consiste essentiellement à arrêter l'hémorragie, c'est-a-dire le décompte des points d”endurance ou de vie ; la seconde soigne véritablement (suture, application d'herbes) et permet la future guérison. Les deux se font avec la compétence [[Les Compétences#CHIRIRGIE|Chirurgie]]. Pour déterminer leur durée, qui peut être capitale en cas de personnage mourant. on utilise la règle des points de tâche.<BR>
+Les soins se font en deux phases : ''premiers soins'' et ''soins complets''. La première phase consiste essentiellement à arrêter l'hémorragie, c'est-à-dire le décompte des points d'endurance ou de vie ; la seconde soigne véritablement (suture, application d'herbes) et permet la future guérison. Les deux se font avec la compétence [[Les Compétences#CHIRIRGIE|Chirurgie]]. Pour déterminer leur durée, qui peut être capitale en cas de personnage mourant. on utilise la règle des points de tâche.<BR>
 La périodicité des jets est de 1 round, quel que soit le type de blessure. Le nombre de points à obtenir et la difficulté dépendent de la gravité de la blessure.<BR>
 Les nombres-clés à retenir, s'appliquant respectivement aux blessures légères, graves et critiques, sont : 2, 4, 6. Ils indiquent la difficulté des soins, premiers et complets, le nombre de points de tâche à obtenir, de points de pansement, le nombre de brins d'herbes à appliquer, le nombre de jours minimum pour qu'une blessure soignée commence à guérir, et dans l'optique d'une potion enchantée, le nombre de points de guérison nécessaires.
 
@@ -7,9 +7,8 @@ Les nombres-clés à retenir, s'appliquant respectivement aux blessures légère
 
 == Premiers soins ==
 Effectuer les premiers soins consiste à obtenir le nombre de points de tâche demandé par la blessure. Un minimum de matériel est nécessaire : de l'eau, des chiffons propres pour servir de pansements. Pour la commodité du jeu, les chiffons ou pansements, sont évalués en points. Un mètre carré de tissu fournit 6 points. Une chemise fournit autant de points que la [[Les Caractéristiques#TAILLE|TAILLE]] de son propriétaire. En ce qui concerne l'eau, les nombres-clés s'appliquent à des demi-mesures (10 cl). Ainsi, pour soigner une grave, il faut 4 points de pansements et 4 demi-mesures d'eau (40 cl). Chaque point de pansement ou demi-mesure manquants confère un malus de -1 aux premiers soins. Dès que le nombre de points de tâche est obtenu, les décomptes d'endurance et de vie s'arrêtent aussitôt.<BR>
-Autrement dit, dans le round où s'achèvent les premiers soins, il n'y a ni perte d”endurance ni jet de Vie.<BR>
-Un échec total, outre qu'il apporte -4 points de tâche, confère un malus définitif de -1 aux soins (premiers et complets) de la blessure considérée, même s`il y a
-changement d'opérant. Si le dernier jet apporte un excédent de points de tâche, cet excédent (+1 ou +2) ajustera positivement le jet de soins complets de la blessure considérée, même s'il y a changement d'opérant.<BR>
+Autrement dit, dans le round où s'achèvent les premiers soins, il n'y a ni perte d'endurance ni jet de Vie.<BR>
+Un échec total, outre qu'il apporte -4 points de tâche, confère un malus définitif de -1 aux soins (premiers et complets) de la blessure considérée, même s'il y a changement d'opérant. Si le dernier jet apporte un excédent de points de tâche, cet excédent (+1 ou +2) ajustera positivement le jet de soins complets de la blessure considérée, même s'il y a changement d'opérant.<BR>
 Il peut y avoir changement d'opérant à tout moment, soit durant les premiers soins, soit entre ceux-ci et les soins complets. Les malus et bonus encourus par un opérant s'appliquent au suivant.<BR>
 Les points de tâche, par contre, ne sont conservés d'un opérant à l'autre que s'ils sont positifs.
 
@@ -40,7 +39,7 @@ Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours
 |-
 | '''''Ech.P. ou Échec.''''' La blessure est soignée, sans plus. Le blessé peut commencer à guérir normalement.
 |-
-| '''''Norm.''''' Idem. Mais, quand sera venu le moment de tester sa blessure, le blessé bénéficiera d”un bonus de +1 à son jet de CONSTITUTION, bonus s'ajoutant aux herbes éventuellement appliquées.
+| '''''Norm.''''' Idem. Mais, quand sera venu le moment de tester sa blessure, le blessé bénéficiera d'un bonus de +1 à son jet de CONSTITUTION, bonus s'ajoutant aux herbes éventuellement appliquées.
 |-
 | '''''Sign.''''' Idem avec un bonus de +2.
 |-
@@ -48,15 +47,14 @@ Les soins complets sont sanctionnés par un seul jet de dés, sans avoir recours
 |}
 
 
-''Examinons les soins de Brucelin. Parvenue au ravin, Nitouche constate qu'il soufre d'une blessure grave à la tête. (En termes de règles, le fait qu 'elle soit à la tête n 'a aucune importance.) Nitouche déchire sa chemise, elle a une TAILLE de 9, ce qui peut fournir 9 points de pansement, la blessure grave en demande 4. Dans sa gourde, elle puise l 'eau nécessaire, 4 demi-mesures. Il lui faut maintenant obtenir 4 points de tache, périodicité 1 round avec des jets de DEXTÉRITÉ/Chirurgie à -4.''<BR>
-''Le premier jet obtient une significative = 2 points. Hélas ! le second est un échec total valant -4 points. Tous les jets de DEXTÉRITÉ/Chirurgie suivants seront à  -5, et Nitouche doit maintenant totaliser 4 -2 +4 = 6 points de tâche.''<BR>
+''Examinons les soins de Brucelin. Parvenue au ravin, Nitouche constate qu'il souffre d'une blessure grave à la tête. (En termes de règles, le fait qu'elle soit à la tête n'a aucune importance.) Nitouche déchire sa chemise, elle a une TAILLE de 9, ce qui peut fournir 9 points de pansement, la blessure grave en demande 4. Dans sa gourde, elle puise l'eau nécessaire, 4 demi-mesures. Il lui faut maintenant obtenir 4 points de tache, périodicité 1 round avec des jets de DEXTÉRITÉ/Chirurgie à -4.''<BR>
+''Le premier jet obtient une significative = 2 points. Hélas ! Le second est un échec total valant -4 points. Tous les jets de DEXTÉRITÉ/Chirurgie suivants seront à -5, et Nitouche doit maintenant totaliser 4 -2 +4 = 6 points de tâche.''<BR>
 '' « Courage, Brucelin ! »''<BR>
-''Troisième jet, une particulière, plus que 3 points à obtenir. Quatrième : significative, plus qu 'un point. Dernier jet : encore une particulière donnant un excédant de 2 points.''<BR>
+''Troisième jet, une particulière, plus que 3 points à obtenir. Quatrième : significative, plus qu'un point. Dernier jet : encore une particulière donnant un excédant de 2 points.''<BR>
 ''Ce +2 va maintenant ajuster l'unique jet de soins complets, lequel a néanmoins une base de -5. Nitouche obtient une réussite normale, donnant un bonus de +1 au premier test de guérison.''
 
 == Test de guérison ==
-Les tests de guérison des blessures ont lieu 2, 4 ou 6 jours (selon le type de blessure) après l'application des ''soins complets''. Le jour où les soins sont donnés
-ne compte pas dans le calcul des jours, quelle que soit l'heure. Les tests ont toujours lieu au moment privilégié de l'extrême fin du Château Dormant du jour considéré (voir ''[[Au Fil des Jours]]''). Le moment venu, jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/Ajustement de guérison.
+Les tests de guérison des blessures ont lieu 2, 4 ou 6 jours (selon le type de blessure) après l'application des ''soins complets''. Le jour où les soins sont donnés ne compte pas dans le calcul des jours, quelle que soit l'heure. Les tests ont toujours lieu au moment privilégié de l'extrême fin du Château Dormant du jour considéré (voir ''[[Au Fil des Jours]]''). Le moment venu, jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]/Ajustement de guérison.
 
 === Ajustement de guérison ===
 On l'obtient en faisant la somme (algébrique) de
@@ -71,7 +69,7 @@ On l'obtient en faisant la somme (algébrique) de
 Hormis les points de vie manquant, l'ajustement général (fatigue, éthylisme) n'est pas pris en compte.<BR>
 La table de Test de guérison des blessures donne le résultat final.<BR>
 Quand une blessure rétrograde au stade précédent, le prochain test de guérison doit attendre la durée de la nouvelle gravité de la blessure. Ainsi une critique demande 6 jours pour rétrograder à grave, puis encore 4 jours pour rétrograder à légère, puis encore 2 jours pour rétrograder à éraflure, c'est-à-dire disparaître.<BR>
-Les bonus d'herbe ne sont valables que pour un seul test de guérison, que celui-ci réussisse ou échoue, de même que les bonus dérivant des soins complets. Il est toutefois possible, et souhaitable, de recommencer les soins complets, avec nouvelle application d'herbe, entre deux tests de guérison. Ce sont les nouveaux bonus éventuellement gagnés qui seront applicables au prochain test. Attention ! même en cours de guérison, un échec total aux soins complets demande de recommencer au tout début (premiers soins) et fait repartir le décompte des points d'endurance et de vie.
+Les bonus d'herbe ne sont valables que pour un seul test de guérison, que celui-ci réussisse ou échoue, de même que les bonus dérivant des soins complets. Il est toutefois possible, et souhaitable, de recommencer les soins complets, avec nouvelle application d'herbe, entre deux tests de guérison. Ce sont les nouveaux bonus éventuellement gagnés qui seront applicables au prochain test. Attention ! Même en cours de guérison, un échec total aux soins complets demande de recommencer au tout début (premiers soins) et fait repartir le décompte des points d'endurance et de vie.
 
 {|style="border:1px solid black;text-align:left;"
 |-
@@ -87,7 +85,7 @@ Les bonus d'herbe ne sont valables que pour un seul test de guérison, que celui
 |}
 
 
-''Nítouche a appliqué 4 brins de suppure sur la blessure grave de Brucelin. L'accident ayant eu lieu le 1er jour du mois du Dragon, c'est à l'extrême ﬁn de l'heure du Château Dormant du 5, 4 jours plus tard, que Brucelin tente son premier jet de CONSTITUTION. Son ajustement est ainsi calcule' : -3 (points de vie manquant) +1 (qualite des soins) +2 suppure = 0. Hélas, Brucelin échoue et doit attendre le lendemain pour recommencer. Toutefois, le +1 de qualité des soins et le +2 de suppure ne seront plus applicables.''
+''Nitouche a appliqué 4 brins de suppure sur la blessure grave de Brucelin. L'accident ayant eu lieu le 1er jour du mois du Dragon, c'est à l'extrême fin de l'heure du Château Dormant du 5, 4 jours plus tard, que Brucelin tente son premier jet de CONSTITUTION. Son ajustement est ainsi calcule' : -3 (points de vie manquant) +1 (qualité des soins) +2 suppure = 0. Hélas, Brucelin échoue et doit attendre le lendemain pour recommencer. Toutefois, le +1 de qualité des soins et le +2 de suppure ne seront plus applicables.''
 
 == Effet des décoctions ==
 Quand toutes les blessures ont disparu, une décoction d'herbes de soin sert à donner un bonus au test de récupération des points de vie. Elle doit être bue au plus tôt à l'heure de la Lyre précédant le test, et au plus tard à l'heure de l'Araignée. Au moment du test (à l'extrême fin du Château Dormant), son bonus de guérison ajuste positivement le jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]. Prendre plusieurs décoctions pour un même test ne sert à rien ; seul le bonus de la plus forte est pris en compte.
@@ -115,7 +113,7 @@ Dès que la potion est bue, et qu'un éventuel jet de résistance est échoué (
 Si le nombre de points de guérison de la potion est insuffisant, elle n'a qu'un effet partiel. Supposons un blessé atteint d'une critique (6 points) et ayant perdu 5 points de vie (5 x 2 = 10), total 16 points. On lui fait boire une potion de méritoine (+5) enchantée à 4 points de rêve. La force de cette potion enchantée étant de 3 x 4 = 12 points de guérison, il manque 4 points pour guérir entièrement le blessé. Sa blessure critique sera donc guérie, ainsi que 3 points de vie (6 + (5 x 2) = 12), mais il se réveillera du sommeil magique avec encore -2 points de vie.<BR>
 Les potions enchantées n'ont aucun effet sur l'endurance et la fatigue, qui ne peuvent être récupérées que normalement. Le sommeil magique qui accompagne la guérison dure ''5 minutes x points de guérison effectifs''. Notre blessé précédent va ainsi dormir magiquement pendant 5 x 12 = 60 minutes. Le rêve et la
 récupération du rêve sont possibles durant le sommeil magique.<BR>
-Une potion enchantée peut intervenir à tout moment des soins, c'est-a-dire en guise de premiers soins et de soins complets ou de soins complets seuls. Pour faire avaler une décoction à un blessé inconscient, il faut obtenir 1 point de tâche avec [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]] à zéro, périodicité 1 round. Dès que le point est obtenu, les décomptes s'arrêtent aussitôt. bien que le sommeil magique ne fasse que commencer.
+Une potion enchantée peut intervenir à tout moment des soins, c'est-à-dire en guise de premiers soins et de soins complets ou de soins complets seuls. Pour faire avaler une décoction à un blessé inconscient, il faut obtenir 1 point de tâche avec [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]] à zéro, périodicité 1 round. Dès que le point est obtenu, les décomptes s'arrêtent aussitôt. bien que le sommeil magique ne fasse que commencer.
 
 ''Voyant que Brucelin ne va pas mieux. Nitouche décide de faire appel à ses talents de haut-rêvante et d'enchanter une potion. L'état de Brucelin demande 10 points de guérison : 4 de blessure grave et 2 x 3 = 6 de points de vie manquants. Elle commence par préparer une décoction, utilisant toujours de la suppure. Avec son bonus de +2, cette herbe demande 12 - 2 = 10 brins. Quand la décoction est prête, Nitouche l'enchante de 5 points de rêve. Ces 5 points, multipliés par le bonus de l'herbe (+2), donnent tout juste 10 points de guérison. Brucelin boit la potion, échoue (heureusement) à son jet de résistance, et tombe endormi d'un sommeil magique de 10 x 5 = 50 minutes. Au bout de ce temps, il est entièrement guéri : blessures disparues et points de vie regagnés. Endurance et fatigue pourront rapidement être récupérées selon la règle normale.''
 

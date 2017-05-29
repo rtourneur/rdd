@@ -1,6 +1,6 @@
 __NOTOC__
 Les queues et les souffles de Dragon sont les noms familièrement donnés aux perturbations mentales, voire psychosomatiques, résultant d'expériences oniriques mal assumées. Ces états sont temporaires. Les souffles durent généralement plus longtemps que les queues et sont plus sérieux.<BR>
-Les têtes de Dragon représentent à l'opposé les bénéfices que le personnage tire d'une expérience particulièrement bien vécue, et dont il ressort grandi. Les têtes de Dragon sont définitivement acquises pour toute l'incarnation actuelle du personnage. À sa mort, toutefois, aussi bien les queues et les soufﬂes encore en cours, que les têtes acquises, sont annulés. La seule exception à cette règle sont les modifications de caractéristique, augmentation ou diminution, qui restent acquises dans la nouvelle incarnation. Tous les autres effets sont annulés.<BR>
+Les têtes de Dragon représentent à l'opposé les bénéfices que le personnage tire d'une expérience particulièrement bien vécue, et dont il ressort grandi. Les têtes de Dragon sont définitivement acquises pour toute l'incarnation actuelle du personnage. À sa mort, toutefois, aussi bien les queues et les souffles encore en cours, que les têtes acquises, sont annulés. La seule exception à cette règle sont les modifications de caractéristique, augmentation ou diminution, qui restent acquises dans la nouvelle incarnation. Tous les autres effets sont annulés.<BR>
 Quand un personnage reçoit une queue, un souffle ou une tête de Dragon, le gardien des rêves peut en décider librement la teneur, ou s'il l'estime plus équitable, la tirer au sort.<BR>
 Les listes ci-après ne sont pas exhaustives et ne sont la que pour modèle. Les gardiens des rêves peuvent les modifier d'idées nouvelles. Il peut notamment être intéressant de créer des queues de Dragon en rapport direct avec le scénario joué. Une queue de Dragon étant une aberration passagère, il n'est pas illogique que sa manifestation ait un rapport étroit avec le vécu actuel du personnage. Plus de prudence doit en revanche être accordé à la création de nouvelles têtes, sous peine d'aboutir à déséquilibrer le jeu.
 
@@ -342,7 +342,7 @@ On devient immédiatement haineux et jaloux envers la première personne inconnu
 ==== 96-00 Infarctus ====
 Perte immédiate de 4 points de vie (et 8 points d'endurance). Ces points pourront commencer à être regagner au bout d'un jour complet.
 
-== Soufﬂes de Dragon ==
+== Souffles de Dragon ==
 Pour les vrai-rêvants, retirer tous les résultats inférieurs à 61.<BR>
 Quand un souffle dure d<sup>dr</sup> jours, déterminer ce nombre de la même façon que la force d'un Rêve de Dragon, sur une base minimum de 7. Le souffle prend effet à liinstant même et dure jusqu'à la fin de l'heure du Château Dormant du Xième jour. Aucun souffle de Dragon n'est refoulable.
 ==== 01-05 SOMMEIL SANS RÊVE ====

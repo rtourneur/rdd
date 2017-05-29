@@ -43,8 +43,7 @@ Le ''téthanatos'' est pris en exemple de maladie dans ce chapitre. D'autres mal
 |}
 
 == Fonctionnement ==
-Au bout de chaque période, le malade joue un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté ''négativement'', soit par la malignité de la
-maladie, soit par le nombre de points de vie déjà perdus, en prenant le plus défavorable des deux, et ''positivement'' par l'efficacité d'un remède éventuellement absorbé. Puis selon le résultat, il consulte la table de Test de Maladie.<BR>
+Au bout de chaque période, le malade joue un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté ''négativement'', soit par la malignité de la maladie, soit par le nombre de points de vie déjà perdus, en prenant le plus défavorable des deux, et ''positivement'' par l'efficacité d'un remède éventuellement absorbé. Puis selon le résultat, il consulte la table de Test de Maladie.<BR>
 On ne peut prendre qu'un seul remède efficace par période. Et si lion veut continuer à en bénéficier, il faut en reprendre pour la période suivante.<BR>
 Les pertes de points de vie s'accompagnent toujours du double de perte de points d'endurance, et cette dernière doit également être traduite en fatigue.
 
@@ -81,8 +80,7 @@ Les remèdes se présentant sous une forme suffisamment fluide (voir la liste ci
 Dans l'optique d'une guérison magique, une maladie nécessite un nombre de points de guérison égal à 3 fois la malignité. Ainsi le téthanatos, malignité 7, demande 21 points de guérison. Le seul remède enchantable étant le ''mirobolant'' (+8), il faut y ajouter 13 points de rêve pour obtenir les 21 nécessaires.<BR>
 Si le nombre de points de guérison est obtenu au complet, la guérison magique intervient. Cette guérison est très semblable, dans son fonctionnement, à celle des blessures. Il n'y a aucun jet de dés (hormis le jet de résistance à la magie), le malade s'endort magiquement pour une durée égale à 5 minutes x points de guérison, au bout de quoi sa maladie est définitivement enrayée. Endurance et points de vie manquants peuvent alors être récupérés selon la règle normale.<BR>
 Si le nombre de points de guérison n'est pas obtenu au complet, il n'y a pas de guérison magique. Le malade ne s'endort pas magiquement et doit attendre la fin de la période pour tenter son jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] normal. Toutefois, chaque point de rêve conféré au remède augmente de +1 l'efficacité de celui-ci, favorisant ainsi ses chances d'obtenir l'indispensable réussite ''particulière''.<BR>
-Enchanter un remède est le seul apport du haut-rêve à la guérison des maladies. Pas plus qu'il n'y a de sort de guérison directe des blessures, il n'y a de sort de
-guérison des maladies ni des venins.
+Enchanter un remède est le seul apport du haut-rêve à la guérison des maladies. Pas plus qu'il n'y a de sort de guérison directe des blessures, il n'y a de sort de guérison des maladies ni des venins.
 
 {|style="border:1px solid black;text-align:center;"
 |-
@@ -104,15 +102,15 @@ guérison des maladies ni des venins.
 |-
 | style="text-align:left;" | Topazoïne || ''granulé'' || 2s
 |-
-| style="text-align:left;" | Élixir des Gnomes || ''ﬂuide'' || 1s
+| style="text-align:left;" | Élixir des Gnomes || ''fluide'' || 1s
 |-
-| style="text-align:left;" | Lait de lune || ''ﬂuide'' || 1s
+| style="text-align:left;" | Lait de lune || ''fluide'' || 1s
 |-
-| style="text-align:left;" | Liqueur de Bagdol || ''ﬂuide'' || 50d
+| style="text-align:left;" | Liqueur de Bagdol || ''fluide'' || 50d
 |-
-| style="text-align:left;" | Mirobolant || ''ﬂuide'' || 2s
+| style="text-align:left;" | Mirobolant || ''fluide'' || 2s
 |-
-| style="text-align:left;" | Teinture d”Érozonne || ''ﬂuide'' || 2s
+| style="text-align:left;" | Teinture d'Érozonne || ''fluide'' || 2s
 |-
-| style="text-align:left;" | Huile de Sélikanthe || ''ﬂuide'' || 1s
+| style="text-align:left;" | Huile de Sélikanthe || ''fluide'' || 1s
 |}

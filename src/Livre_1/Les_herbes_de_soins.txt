@@ -9,9 +9,9 @@ Plus le bonus d'une herbe est élevé, plus elle est rare dans son milieu. La fa
 Les herbes sont mesurées au ''brin''. Le nombre de brins à appliquer sur une blessure dépend de cette dernière et non de l'herbe elle-même : 2 brins pour une légère, 4 pour une grave, 6 pour une critique. Chaque brin manquant retire 1 point de bonus lors du test de guérison.
 
 === Décoction d'herbe ===
-Les herbes peuvent également être préparées en décoction, c'est-a-dire bouillies dans de l'eau. Pour une décoction, plonger les herbes dans 2 mesures d'eau froide, puis faire bouillir et réduire jusqu'à ce qu'il ne reste plus qu'une mesure de liquide. Sur un feu normal, cela demande 30 minutes. La simplicité de l'opération ne requiert aucun jet de dés.<BR>
+Les herbes peuvent également être préparées en décoction, c'est-à-dire bouillies dans de l'eau. Pour une décoction, plonger les herbes dans 2 mesures d'eau froide, puis faire bouillir et réduire jusqu'à ce qu'il ne reste plus qu'une mesure de liquide. Sur un feu normal, cela demande 30 minutes. La simplicité de l'opération ne requiert aucun jet de dés.<BR>
 Les décoctions ne servent que dans deux cas : donner un bonus au test de récupération des points de vie (quand toutes les blessures ont disparu), ou guérir magiquement (blessures et points de vie) quand elles sont enchantées.<BR>
-En dehors de l`enchantement, les décoctions n'ont aucun effet sur les blessures.<BR>
+En dehors de l'enchantement, les décoctions n'ont aucun effet sur les blessures.<BR>
 Les décoctions peuvent être préparées d'avance. Dans une fiole bien bouchée, une décoction se conserve une semaine. Passé ce délai, elle pourrit. Enchantée, une décoction peut se conserver indéfiniment tant qu'elle possède encore du rêve.<BR>
 
 === Quantité ===

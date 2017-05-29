@@ -6,7 +6,7 @@ Lancer un sort comprend deux grandes parties : 1) se positionner dans la terre c
 === Demi-rêve ===
 La toute première action consiste à monter en TMR. Là, le haut-rêvant retrouve son ''demi-rêve'' ou il l'avait laissé. Pour bien comprendre le processus, sans plus nous embarrasser de métaphysique, considérons le demi-rève comme un pion sur un jeu de plateau, les TMR étant justement le plateau. À la création du personnage, le joueur décide librement de la case où il pose son pion (son demi-rêve), il a le choix entre les 189 cases. Ensuite, chaque fois qu'il monte en TMR, il retrouve son pion dans la case où il l'a laissé.
 
-''À la création, on décide que le demi-rêve de Nitouche se trouve dans le sanctuaire Blanc (G4). La première fois qu'elle veut lancer un sort, elle monte en TMR et trouve donc son demi-rêve en G4. Voulant lancer un Tympan d'Hypnos en collines, elle déplace son demi-rêve (son pion), case après case, jusqu'aux collines les plus proches, les collines d'Encre (J4). Supposons son périple effectué sans problème et le sort lancé avec succès, la haut-rêvante quitte les TMR. Plus tard, voulant invoquer un Guerrier Sorde, elle remonte en TMR et retrouve son demi-rêve en J4, là où elle l'a précédemment laissé. Le problème alors est que le Guerrier Sorde ne s'invoque qu'en cite Sordide (D13), tout en bas de la carte et de l'autre côté du ﬂeuve : un long périple mental en perspective !''
+''À la création, on décide que le demi-rêve de Nitouche se trouve dans le sanctuaire Blanc (G4). La première fois qu'elle veut lancer un sort, elle monte en TMR et trouve donc son demi-rêve en G4. Voulant lancer un Tympan d'Hypnos en collines, elle déplace son demi-rêve (son pion), case après case, jusqu'aux collines les plus proches, les collines d'Encre (J4). Supposons son périple effectué sans problème et le sort lancé avec succès, la haut-rêvante quitte les TMR. Plus tard, voulant invoquer un Guerrier Sorde, elle remonte en TMR et retrouve son demi-rêve en J4, là où elle l'a précédemment laissé. Le problème alors est que le Guerrier Sorde ne s'invoque qu'en cite Sordide (D13), tout en bas de la carte et de l'autre côté du fleuve : un long périple mental en perspective !''
 
 === Montée en TMR ===
 Monter en TMR coûte un point de rêve, immédiatement défalqué. Ceci fait, la montée s'effectue automatiquement, sans jet de dés. Le haut-rêvant doit toutefois être capable de se concentrer. Il doit donc être ''immobile'' et maître de son corps. Si le gardien des rêves estime au vu des conditions que la concentration est impossible, il peut refuser la montée en TMR. Dans des cas plus litigieux, par exemple dans une voiture secouée de cahots ou une barque ballottée par les vagues, il peut demander un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] ajusté à la difficulté qu'il estime.<BR>
@@ -46,7 +46,7 @@ Face à une rencontre, le haut-rêvant a 3 alternatives : ''maîtriser'', ''se d
 |-
 | style="text-align:left;" | '''Briseur de rêve''' || 2d6 || 81-85 || 76-82 || 70-82 || 60-75 || 50-65 || 40-60 || 31-50
 |-
-| style="text-align:left;" | '''Reﬂet d'ancien rêve''' || 2d6 || 86-90 || 83-88 || 83-88 || 76-85 || 66-79 || 61-75 || 51-65
+| style="text-align:left;" | '''Reflet d'ancien rêve''' || 2d6 || 86-90 || 83-88 || 83-88 || 76-85 || 66-79 || 61-75 || 51-65
 |-
 | style="text-align:left;" | '''Tourbillon blanc''' || 2d6 || 91-94 || 89-93 || 89-93 || 86-92 || 80-89 || 76-86 || 66-80
 |-

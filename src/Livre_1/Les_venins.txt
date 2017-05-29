@@ -45,9 +45,9 @@ Si tous les points de tâche sont obtenus avant que l'empoisonné n'ait subi de 
 |}
 
 
-''Quelques jours plus tard, nos voyageurs ont découvert un petit lac. Il fait chaud et ils se baignent dans le plus simple appareil. Soudain, Nitouche pousse un cri : « Quelque chose m'a mordu la cuisse ! c'est une vipère jaune ! » Le temps de regagner la berge, 6 rounds sont passes. Nitouche joue un jet de CONSTITUTION à -2 (malignité du venin), 52%, mais n'obtient qu 'une réussite normale, état stationnaire sans plus. « Vite ! sanglote-t-elle, aspire le venin avant qu il ne soit entièrement dans mon sang !''<BR>
-''- Je ne sais pas le faire, gémit Brucelin, je n'aí aucune compétence de chirurgie.''<BR>
-''- Alors, sors une fiole de suppure de ma besace, c'est un antidote universel. » Six nouveaux rounds sont passés, et Nitouche obtient un échec. Elle perd 1 point de vie, sa jambe se contracte. Brucelin trouve enfin la ﬁole de décoction. Contre les venins, la suppure n'a qu'un bonus de zéro, mais comme c'est un antidote, une réussite normale suffit à sauver la jeune fille.''
+''Quelques jours plus tard, nos voyageurs ont découvert un petit lac. Il fait chaud et ils se baignent dans le plus simple appareil. Soudain, Nitouche pousse un cri : « Quelque chose m'a mordu la cuisse ! C'est une vipère jaune ! » Le temps de regagner la berge, 6 rounds sont passés. Nitouche joue un jet de CONSTITUTION à -2 (malignité du venin), 52%, mais n'obtient qu'une réussite normale, état stationnaire sans plus. « Vite ! Sanglote-t-elle, aspire le venin avant qu'il ne soit entièrement dans mon sang !''<BR>
+''- Je ne sais pas le faire, gémit Brucelin, je n'ai aucune compétence de chirurgie.''<BR>
+''- Alors, sors une fiole de suppure de ma besace, c'est un antidote universel. » Six nouveaux rounds sont passés, et Nitouche obtient un échec. Elle perd 1 point de vie, sa jambe se contracte. Brucelin trouve enfin la fiole de décoction. Contre les venins, la suppure n'a qu'un bonus de zéro, mais comme c'est un antidote, une réussite normale suffit à sauver la jeune fille.''
 
 {|style="border:1px solid black;text-align:left;"
 |-
@@ -77,7 +77,7 @@ L'enchantement des antidotes est analogue en tous points à celui des remèdes, 
 |-
 | colspan="3" | '''<big>Antidotes universels</big>'''
 |-
-| colspan="3" style="text-align:left;" | Les 10 grandes herbes de soin connues, préparées en décoctions, sont des ''antidotes universels'', valables contre tous les venins et substances vénéneuses. Leur efﬁcacité est malheureusement très faible, comparée aux antidotes plus spécifiques. Pour posséder un pouvoir d'antidote, elles doivent avoir été préparées avec le nombre optimal de brins, c'est à dire 12 - ''bonus standard de l'herbe''. L'efﬁcacité d'antidote des 10 herbes diffère sensiblement du bonus standard.
+| colspan="3" style="text-align:left;" | Les 10 grandes herbes de soin connues, préparées en décoctions, sont des ''antidotes universels'', valables contre tous les venins et substances vénéneuses. Leur efficacité est malheureusement très faible, comparée aux antidotes plus spécifiques. Pour posséder un pouvoir d'antidote, elles doivent avoir été préparées avec le nombre optimal de brins, c'est à dire 12 - ''bonus standard de l'herbe''. L'efficacité d'antidote des 10 herbes diffère sensiblement du bonus standard.
 |-
 ! Nom !! Efficacité !! Prix à la dose
 |-

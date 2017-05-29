@@ -29,7 +29,7 @@ Les points de tâche négatifs ne signifient pas que le travail a été « défa
 ''Période 1, Brucelin obtient 35, soit une réussite normale et gagne 1 point.''<BR>
 ''Période 2, il obtient 88, soit un échec valant 0 point ; il reste à 1 point.''<BR>
 ''Période 3, il obtient 08, soit une réussite particulière valant +3 points, total 4 points.''<BR>
-''Période 4, il termine avec une réussite significative valant +2 points, total 6 poínts : le compte est bon.''<BR>
+''Période 4, il termine avec une réussite significative valant +2 points, total 6 points : le compte est bon.''<BR>
 ''Pour construire la passerelle, il lui aura fallu 4 périodes de 20 mn, soit 80 mn en tout. « Tu t'appelles comment, déjà ?...» murmure la jolie voyageuse.''
 
 == Tâche en un temps donné ==

@@ -4,7 +4,7 @@ Comme leur nom l'indique, les points de vie traduisent le potentiel vital de l'i
  [[La Santé|Retour à La Santé]]
 
 == Perte de points de vie ==
-Les points de vie ne sont perdus qu`en cas de traumatismes importants : inconscience, blessures graves ou critiques, maladie, empoisonnement. Tous ces cas sont explicitement traités dans les règles.
+Les points de vie ne sont perdus qu'en cas de traumatismes importants : inconscience, blessures graves ou critiques, maladie, empoisonnement. Tous ces cas sont explicitement traités dans les règles.
 
 == Jet de Vie ==
 Quand un personnage est atteint d'une blessure grave ou critique, il doit jouer périodiquement des jets de Vie tant que des soins ne lui ont pas été prodigués. La périodicité est de 1 round pour les blessures critiques et de SC minutes pour les blessures graves. On utilise 1d20, comme pour le jet d'Endurance, et, pareillement, il faut obtenir un résultat égal ou inférieur au nombre actuel de points de vie. Si le jet réussit, le personnage ne perd pas de point de vie pour cette période ; s'il échoue, il en perd un.<BR>
@@ -17,8 +17,9 @@ Le personnage peut descendre dans le négatif. Il meurt dès qu'il dépasse, en 
 == État général ==
 Chaque point de vie manquant donne un malus de -1 à toutes les actions du personnage, physiques, mentales, intellectuelles ou oniriques. Points de vie manquants et lignes de fatigue s'ajoutent. Un personnage ayant entamé sa ligne de fatigue -2 et ayant perdu 3 points de vie a un état général de -5. Si la règle additionnelle d'''Éthylisme'' est utilisée, les points d'éthylisme s'ajoutent également au malus général. En cas de surencombrement, chaque point excédentaire ajoute encore un malus de -1.<BR>
 Seuls les jets de [[Les Caractéristiques#CHANCE|CHANCE]], les tests de guérison, les jets de Stress (voir ''[[L'Archétype]]'') et les jets de résistance à la magie (voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'') ne sont pas concernés par ce malus.
-Récupération des points de vie
-Quand le moment est venu de tester la récupération des points de vie, jouer un jet de  [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté négativement au nombre de points de vie manquants. Ce jet traduisant l'activité de la constitution sur une longue période, et non pas uniquement au moment où le jet de dés est joué, l'état général actuel n'est pas appliqué. Seuls les points de vie manquants établissent la difficulté du jet. La qualité du résultat détermine le nombre de points de vie récupérés.
+
+== Récupération des points de vie ==
+Quand le moment est venu de tester la récupération des points de vie, jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté négativement au nombre de points de vie manquants. Ce jet traduisant l'activité de la constitution sur une longue période, et non pas uniquement au moment où le jet de dés est joué, l'état général actuel n'est pas appliqué. Seuls les points de vie manquants établissent la difficulté du jet. La qualité du résultat détermine le nombre de points de vie récupérés.
 Limite à la récupération des points de vie
 Aucun point de vie ne peut être récupéré, même par une potion enchantée, tant que le personnage :
 * est sous le coup d'une maladie non encore guérie
@@ -58,8 +59,8 @@ Le premier test de récupération de point de vie peut avoir lieu le lendemain d
 ''Pour le premier, il obtient 17 sur 1d20, résultat supérieur à son nombre actuel de points de vie, et en reperd un autre, tombant à 11.''<BR>
 ''Pour le second, il obtient 11 tout juste et n'en reperd pas.''<BR>
 ''Pour le troisième, il obtient 01 et stabilise son état pour 5 x 20 = 100 minutes.''
-''Nitouche a le temps d'arriver et de le soigner, ce qui le tire définitivement d'affaire. « Ce n'était pas la peine de te presser, murmure-t-il une fois revenu à lui, j'ai de la resistance ! »''<BR>
+''Nitouche a le temps d'arriver et de le soigner, ce qui le tire définitivement d'affaire. « Ce n'était pas la peine de te presser, murmure-t-il une fois revenu à lui, j'ai de la résistance ! »''<BR>
 ''À -5 points de vie (son SC), Brucelin peut être encore vivant, il ne meurt que s'il atteint -6. Toutefois, un 20 à l'un quelconque de ses jets de Vie l'aurait tué instantanément.''<BR>
-''Avec ses 3 points de vie perdus, Brucelin a maintenant un état général de -5, sans compter sa fatigue. Son endurance ne pourra pas remonter au-delà de 14 à cause de sa blessure grave, et donc ses 14 premières cases de fatigue ne pourront pas être effacées non plus. Quand sa blessure aura cicatrisé, il pourra remonter au-dessus d'une demi-endurance, mais ses -3 points de vie mobiliseront toujours 6 points d endurance (et 6 cases de fatigue) non récupérables.''<BR>
-''Il pourra toutefois tenter journellement un jet de CONSTITUTION pour récupérer ses points de vie. Le premier jet sera à -3. S'il réussit, 1 point de vie sera récupéré, de même que les 2 points d'endurance et de fatigue conjoints ; puis le lendemain, n 'ayant plus qu'une perte de 2 points de vie, le jet sera à -2, et ainsi de suite jusqu'a la totale guérison.''<BR>
+''Avec ses 3 points de vie perdus, Brucelin a maintenant un état général de -5, sans compter sa fatigue. Son endurance ne pourra pas remonter au-delà de 14 à cause de sa blessure grave, et donc ses 14 premières cases de fatigue ne pourront pas être effacées non plus. Quand sa blessure aura cicatrisé, il pourra remonter au-dessus d'une demi-endurance, mais ses -3 points de vie mobiliseront toujours 6 points d'endurance (et 6 cases de fatigue) non récupérables.''<BR>
+''Il pourra toutefois tenter journellement un jet de CONSTITUTION pour récupérer ses points de vie. Le premier jet sera à -3. S'il réussit, 1 point de vie sera récupéré, de même que les 2 points d'endurance et de fatigue conjoints ; puis le lendemain, n'ayant plus qu'une perte de 2 points de vie, le jet sera à -2, et ainsi de suite jusqu'à la totale guérison.''<BR>
 ''« Tu vois bien que ce n'est pas si terrible ! » le console Nitouche...''

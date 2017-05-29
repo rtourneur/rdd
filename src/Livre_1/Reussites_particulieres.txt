@@ -8,7 +8,7 @@ Quand une attaque de mêlée obtient une réussite particulière, l'attaquant do
 Si le défenseur manque sa défense (esquive ou parade), le +dom de l'attaque est majoré de +5. Une attaque de difficulté zéro est obligatoirement en force. Pour choisir la finesse ou la rapidité, il faut au minimum une difficulté d'attaque de -1. Les ''charges'' sont également toujours en force.
 
 === Finesse ===
-Le choix de la finesse oblige le défenseur à obtenir au minimum une réussite ''significative'' pour parer/esquiver l'attaque. Une réussite normale est considérée comme un échec. S'il échoue, en revanche, les dommages qu”il encaisse ne sont pas majorés.
+Le choix de la finesse oblige le défenseur à obtenir au minimum une réussite ''significative'' pour parer/esquiver l'attaque. Une réussite normale est considérée comme un échec. S'il échoue, en revanche, les dommages qu'il encaisse ne sont pas majorés.
 
 === Rapidité ===
 Si l'attaquant choisit la rapidité, les dommages éventuellement infligés restent normaux et la défense n'a pas non plus besoin de significative. À la place, l'attaquant a droit à un second usage de l'arme utilisée, à condition que ce soit sa prochaine action durant le même round en respectant les règles de l'initiative. Si cette restriction ne peut être appliquée, le bénéfice est perdu.<BR>

@@ -1,5 +1,5 @@
 __NOTOC__
-Le mouvement dans ''Rêve de Dragon'' est traité de deux façons : par heure et par round. Par heure, il s'agit essentiellement de la vitesse de marche, du voyage, activité quotidienne du voyageur. Par round, c`est surtout les mouvements en combat, la course.
+Le mouvement dans ''Rêve de Dragon'' est traité de deux façons : par heure et par round. Par heure, il s'agit essentiellement de la vitesse de marche, du voyage, activité quotidienne du voyageur. Par round, c'est surtout les mouvements en combat, la course.
 
  [[Au Fil des Jours|Retour au Fil des Jours]]
 

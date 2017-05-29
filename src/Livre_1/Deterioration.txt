@@ -5,7 +5,7 @@ __NOTOC__
 Quand un personnage est touché, ses vêtements ou son armure subissent aussi des dommages. Ces dommages sont comptabilisés sous la forme de ''points de détérioration''.<BR>
 Chaque attaque qui touche entraîne un nombre de points de détérioration égal au +dom de l'attaque : +dom de l'arme et +dom personnel, mais sans les bonus de particulière, de condition ni de tactique. Quand la protection a cumulé 10 point de détérioration, sa valeur de protection devient aléatoire, puis elle baisse de 1 tous les 10 autres points.
 
-''À  force de servir, le cuir épais de Brucelin se détériore. Neuf il valait 3 points de protection ﬁxe. Au bout de 10 points de détérioration, il devient aléatoire et ne protège plus que de 1d3. Encore 10 points de détérioration, et il tombe à 1d3-1 ; encore 10, et il ne vaut plus que 1d3-2 (1 point ou 0). « T u n'es pas très soigneux », murmure Nitouche.''
+''À  force de servir, le cuir épais de Brucelin se détériore. Neuf il valait 3 points de protection fixe. Au bout de 10 points de détérioration, il devient aléatoire et ne protège plus que de 1d3. Encore 10 points de détérioration, et il tombe à 1d3-1 ; encore 10, et il ne vaut plus que 1d3-2 (1 point ou 0). « T u n'es pas très soigneux », murmure Nitouche.''
 
 Certaines attaques, quoique douloureuses, ne sauraient détériorer les protections : coups de poing, coups de bâton, etc. Dans tous les cas, c'est au gardien des rêves de juger si des points de détérioration doivent ou non être comptés, en fonction des spécificités de l'attaque : arme, type de blessure, localisation, etc.
 

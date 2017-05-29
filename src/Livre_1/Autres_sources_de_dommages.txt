@@ -3,7 +3,7 @@ __NOTOC__
  [[La Santé|Retour à La Santé]]
 
 == Chute ==
-Ces dommages dépendent de la hauteur de chute et du type de sol de réception. Quelle que soit la protection ou armure portée par le personnage, un maximum de 2 points sont seulement applicables. Pour les chutes « de sa propre hauteur », utiliser la table[[Les Blessures#Coups non mortels|table des Coups non mortels]].
+Ces dommages dépendent de la hauteur de chute et du type de sol de réception. Quelle que soit la protection ou armure portée par le personnage, un maximum de 2 points sont seulement applicables. Pour les chutes « de sa propre hauteur », utiliser la [[Les Blessures#Coups non mortels|table des Coups non mortels]].
 
 {|style="border:1px solid black;text-align:center;"
 |-
@@ -55,10 +55,10 @@ Ces dommages dépendent de la hauteur de chute et du type de sol de réception. 
 |}
 
 
-''Le ravin de Brucelin faisait 5 m de proﬁmdeur (+2) avec un sol constitué de roc (+5). Le jet d'encaissement du voyageur fut donc de: (+2) + (+5) = +7.''
+''Le ravin de Brucelin faisait 5 m de profondeur (+2) avec un sol constitué de roc (+5). Le jet d'encaissement du voyageur fut donc de: (+2) + (+5) = +7.''
 
 == Asphyxie ==
-L'asphyxie survient quand le milieu ambiant devient irrespirable. C'est essentiellement le cas des noyades. Chaque round d'asphyxie, le personnage perd directement 1d6 points d'endurance. Quand son endurance arrive à zéro, il sombre dans l'inconscience et perd 1 point de vie. Puis, tous les rounds suivants, il perd directement 1d4 points de vie. N'étant pas réellement blessé, il n'a pas à jouer de jet de Vie. S'il n”est pas réanimé avant d'avoir dépassé son seuil de constitution en points de vie négatifs, il meurt.
+L'asphyxie survient quand le milieu ambiant devient irrespirable. C'est essentiellement le cas des noyades. Chaque round d'asphyxie, le personnage perd directement 1d6 points d'endurance. Quand son endurance arrive à zéro, il sombre dans l'inconscience et perd 1 point de vie. Puis, tous les rounds suivants, il perd directement 1d4 points de vie. N'étant pas réellement blessé, il n'a pas à jouer de jet de Vie. S'il n'est pas réanimé avant d'avoir dépassé son seuil de constitution en points de vie négatifs, il meurt.
 
 == Réanimation ==
 Pour réanimer un asphyxié ou un noyé, on utilise [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]] à -4 (comme pour une blessure grave), mais le système de tâche est un peu différent. La périodicité est de 1 round, et chaque point de tâche obtenu rend 1 point de vie à l'asphyxié. Dès que 1 point de tâche est obtenu, l'asphyxié cesse de perdre 1d4 points de vie par round ; tant qu'aucun point de tâche n'est obtenu, il continue à les perdre. S'il survient un échec total ou particulier au jet de réanimation, il n'y a pas de points de tâche négatifs : à la place, le patient recommence à mourir, c'est-a-dire à perdre 1d4 points de vie par round ; et ainsi de suite jusqu'à ce que 1 point de tâche soit enfin, ou à nouveau, obtenu. En cas d'échec total, la difficulté du jet de réanimation augmente de 1.<BR>
@@ -74,7 +74,7 @@ Quand un personnage est touché par le feu, il joue un jet d'encaissement modul�
 |-
 ! Nature !! +dom
 |-
-| style="text-align:left;" | Zone d”air en feu || +10
+| style="text-align:left;" | Zone d'air en feu || +10
 |-
 | style="text-align:left;" | Brasier || +8
 |-
@@ -82,12 +82,12 @@ Quand un personnage est touché par le feu, il joue un jet d'encaissement modul�
 |-
 | style="text-align:left;" | Torche || 0
 |-
-| style="text-align:left;" | Vêtements enﬂammés || +1
+| style="text-align:left;" | Vêtements enflammés || +1
 |}
 
 
 == Famine ==
-Au moment privilégié de l'extrême ﬁn du Château Dormant, chaque personnage considère la sustentation absorbée au cours de cette journée qui s'achève. Ceux qui ont mangé autant ou plus que leur seuil de sustentation commencent la nouvelle journée normalement.<BR>
+Au moment privilégié de l'extrême fin du Château Dormant, chaque personnage considère la sustentation absorbée au cours de cette journée qui s'achève. Ceux qui ont mangé autant ou plus que leur seuil de sustentation commencent la nouvelle journée normalement.<BR>
 Ceux qui ont mangé moins que leur seuil, mais ont au moins mangé la moitié de celui-ci, perdent 1 point d'endurance.<BR>
 Ceux qui ont mangé moins de la moitié, mais ont au moins mangé un demi-point, perdent 2 points d'endurance.<BR>
 Ceux qui n'ont rien mangé du tout en perdent 3.<BR>

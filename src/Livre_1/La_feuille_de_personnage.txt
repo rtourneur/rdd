@@ -302,7 +302,7 @@ Choisir librement une heure parmi les douze (voir [[Au Fil des Jours]]).
 Homme ou femme. Comme au cinéma, il est préférable que les rôles féminins soient tenus par des femmes et les rôles masculins par des hommes. Mais rien ne vous empêche de choisir un rôle travesti. C'est une question de goût.
 
 === Âge ===
-Les voyageurs sont généralement jeunes, entre 18 et 40 ans. Si vous choisissez un personnage de moins de 18 ans, le gardien des rêves peut décider de vous donner moins de 3000 points d'expérience préliminaire, et d'amputer certaines de vos caractéristiques (qui n`ont pu raisonnablement se développer qu'avec l'âge). En revanche, un personnage plus vieux ne bénéficie pas d'un surcroît de points. Sous prétexte qu'il a une barbe blanche, un vieux haut-rêvant débutant ne sera pas plus doué qu'un jeunot.
+Les voyageurs sont généralement jeunes, entre 18 et 40 ans. Si vous choisissez un personnage de moins de 18 ans, le gardien des rêves peut décider de vous donner moins de 3000 points d'expérience préliminaire, et d'amputer certaines de vos caractéristiques (qui n'ont pu raisonnablement se développer qu'avec l'âge). En revanche, un personnage plus vieux ne bénéficie pas d'un surcroît de points. Sous prétexte qu'il a une barbe blanche, un vieux haut-rêvant débutant ne sera pas plus doué qu'un jeunot.
 
 === Poids et taille ===
 Le poids doit être choisi dans la fourchette indiquée, selon la caractéristique [[Les Caractéristiques#TAILLE|TAILLE]]. Puis la taille, c'est-à-dire la hauteur en mètre et centimètres, est librement décidée par le joueur en respectant la vraisemblance. Un personnage trop maigre (ou trop gros), par exemple [[Les Caractéristiques#TAILLE|TAILLE]] 6, 35 kg, prétendant faire 1m80, peut être déclaré gravement malade par le gardien des rêves et se voir obligé de baisser sa [[Les Caractéristiques#FORCE|FORCE]] et/ou sa [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] de moitié, sans pour autant récupérer les points.
@@ -371,4 +371,4 @@ Tous les personnages ont une base gratuite de 10 en Beauté. Ils peuvent libreme
 |}
 
 === Ambidextre ===
-Le joueur choisit librement la main de son personnage, gaucher ou droitier. Pour être ambidextre, c'est-à-dire pouvoir indifféremment utiliser l`une ou l'autre main pour une manipulation donnée, il faut réussir 1 sur 1d12 (environ 8% de chances).
+Le joueur choisit librement la main de son personnage, gaucher ou droitier. Pour être ambidextre, c'est-à-dire pouvoir indifféremment utiliser l'une ou l'autre main pour une manipulation donnée, il faut réussir 1 sur 1d12 (environ 8% de chances).

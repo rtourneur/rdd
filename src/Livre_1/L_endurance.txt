@@ -7,7 +7,7 @@ L'endurance représente une couche plus profonde et plus vitale des ressources d
 Perdre de l'endurance est une chose sérieuse et n'obéit qu'à des règles précises : essoufflement (course, nage) ; asphyxie (noyade) ; affaiblissement (famine, maladie) ; traumatismes (coups, blessures). Tous ces cas sont explicitement traités dans les règles.
 
 == Jet d'Endurance ==
-Quand un personnage perd 2 points d'endurance ou plus simultanément c'est-à-dire au cours diun même round) il doit jouer un jet d,Endurance. Pour ce faire, utiliser 1d20 et obtenir un résultat égal ou inférieur au nombre actuel de points d'endurance.
+Quand un personnage perd 2 points d'endurance ou plus simultanément c'est-à-dire au cours d'un même round) il doit jouer un jet d'Endurance. Pour ce faire, utiliser 1d20 et obtenir un résultat égal ou inférieur au nombre actuel de points d'endurance.
  Jet réussi : rien de spécial.
  Jet échoué : le personnage est ''sonné''.
 Un 20 est toujours un échec, quel que soit l'état de l'endurance, un 01 est non seulement une réussite, mais accorde 1 point d'expérience en [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]].
@@ -19,11 +19,11 @@ L'état ''sonné'' dure tout le reste du round où il est acquis, plus tout le r
 Quand un personnage a perdu tous ses points d'endurance, il tombe évanoui, inconscient, et traduit le fait en perdant, en plus, 1 point de vie.
 
 == Récupération de l'endurance ==
-Sans dormir, un personnage récupère 1 point d'endurance toutes les 5 minutes jusqu'au maximum de la moitie de son endurance (arrondie au chiffre inférieur). En dormant une pleine heure, il récupère toute son endurance, aussi bas qu'elle soit descendue (sauf limite ci-après).
+Sans dormir, un personnage récupère 1 point d'endurance toutes les 5 minutes jusqu'au maximum de la moitié de son endurance (arrondie au chiffre inférieur). En dormant une pleine heure, il récupère toute son endurance, aussi bas qu'elle soit descendue (sauf limite ci-après).
 
 == Limite à la récupération de l'endurance ==
 Chaque point de vie perdu empêche la récupération de 2 points d'endurance. Ces points ne pourront être récupérés que quand les points de vie responsables auront eux-mêmes été récupérés.<BR>
 Chaque blessure grave empêche de récupérer la moitié de l'endurance. Autrement dit avec une blessure grave sans dormir, l'endurance maximum peut être d'un quart de l'endurance, et en dormant, d'une demi-endurance. Avec deux graves, un huitième ou un quart (toujours arrondi à l'inférieur). Si après une blessure grave, un personnage a perdu moins de la moitié de son endurance, il reste à ce niveau. Mais si pour une raison quelconque, son endurance venait encore à baisser, il ne récupérerait pas au-delà d'une demi-endurance.
 Avec une blessure critique, l'endurance maximum est de 1 point, que l'on dorme ou non.
 
-''Le chemin de montagne est de plus en plus encaissé. Un éboulement se produit soudain, des pierres dévalent la pente, blessant Nitouche qui perd 16 points d'endurance. « Écarte-toi ! » hurle Brucelin. Mais la voyageuse doit d'abord tester son endurance actuelle (23 -16 = 7) par un jet d'endurance. Elle obtient 13 sur 1d20, un résultat supérieur à son endurance actuelle : elle est sonnée ! Pour se mettre hors de danger, son jet d'AGILITÉ doit au minimum obtenir une réussite significative. Plus tard, ayant constate qu 'elle ne souffre que de multiples contusions, Nitouche récupère son endurance. En 4 x 5 = 20 minutes, elle récupère les 4 points qui la ramènent à une demi-endurance (11). Pour récupérer le reste, il lui faut dormir une pleine heure. Si sa blessure avait été grave, elle n aurait pu récupérer au-delà de 5 sans dormir, puis au-delà de 11 en dormant.''
+''Le chemin de montagne est de plus en plus encaissé. Un éboulement se produit soudain, des pierres dévalent la pente, blessant Nitouche qui perd 16 points d'endurance. « Écarte-toi ! » hurle Brucelin. Mais la voyageuse doit d'abord tester son endurance actuelle (23 -16 = 7) par un jet d'endurance. Elle obtient 13 sur 1d20, un résultat supérieur à son endurance actuelle : elle est sonnée ! Pour se mettre hors de danger, son jet d'AGILITÉ doit au minimum obtenir une réussite significative. Plus tard, ayant constaté qu'elle ne souffre que de multiples contusions, Nitouche récupère son endurance. En 4 x 5 = 20 minutes, elle récupère les 4 points qui la ramènent à une demi-endurance (11). Pour récupérer le reste, il lui faut dormir une pleine heure. Si sa blessure avait été grave, elle n'aurait pu récupérer au-delà de 5 sans dormir, puis au-delà de 11 en dormant.''

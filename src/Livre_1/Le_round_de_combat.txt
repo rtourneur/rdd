@@ -5,7 +5,7 @@ Les rounds se succèdent ainsi, phase après phase, toujours dans cet ordre.
  [[Le Combat|Retour au Combat]]
 
 == Déclaration d'intention ==
-Au début de chaque round, chaque joueur indique ce que son personnage va tenter de faire durant le round. S'il attaque (tir, lancer, mêlée), il doit préciser quelle cible. Le gardien des rêves indique pareillement ce que vont tenter de faire les personnages non joueurs. Lors de la résolution du round, une action déclarée peut être annulée, mais en aucun cas modiﬁée.
+Au début de chaque round, chaque joueur indique ce que son personnage va tenter de faire durant le round. S'il attaque (tir, lancer, mêlée), il doit préciser quelle cible. Le gardien des rêves indique pareillement ce que vont tenter de faire les personnages non joueurs. Lors de la résolution du round, une action déclarée peut être annulée, mais en aucun cas modifiée.
 
 == Initiative ==
 Les armes de tir ont priorité sur les armes de lancer, qui ont elles-mêmes priorité sur les combats de mêlée. Toutefois, pour qu'une attaque soit possible, il faut que l'arme soit prête. Préparer une arme (bander un arc, préparer une fronde, dégainer une lame) prend usuellement un round.<BR>
