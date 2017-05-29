@@ -3,7 +3,7 @@ La quantité d'informations concernant un personnage est telle que celles-ci ne 
 Il y a en tout :
 * La feuille de personnage proprement dite où est décrit le personnage.
 * La feuille de route qui sert à tenir à jour tout ce qui varie en cours de partie (endurance, fatigue, blessures, ...)
-* La feuille d'équipement où est décrit en détail ce qu possède le personnage, ''voir le chapitre [[Au Fil des Jours]]''.
+* La feuille d'équipement où est décrit en détail ce que possède le personnage, ''voir le chapitre [[Au Fil des Jours]]''.
 * La feuille d'archétype qui est la somme de toutes les vies antérieures du personnage, ''voir le chapitre [[L'Archétype]]''.
 * La feuille de sorts qui est réservée aux magiciens, ''voir [[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]''.
 
@@ -20,14 +20,14 @@ Le principe de création des haut-rêvants et des autres personnages (appelés v
 Déterminer les 14 premières caractéristiques, de [[Les Caractéristiques#TAILLE |TAILLE à CHANCE]], en répartissant librement entre elles 160 points, soit 11,4 de moyenne. Aucune caractéristique ne peut être inférieure à 6 ni supérieure à 15.<BR>
 Inscrire les caractéristiques dans la colonne de gauche, la colonne de droite étant réservée aux points d'expérience que le personnage ne manquera pas de gagner au cours de sa carrière.
 === Limitation ===
-La [[Les Caractéristiques#FORCE|FORCE]] peut au maximum être égale à [[Les Caractéristiques#TAILLE |TAILLE ]] + 4. Un personnage de 6 en [[Les Caractéristiques#TAILLE |TAILLE ]] peut au maximum avoir une [[Les Caractéristiques#FORCE|FORCE]] de 10. Pour bénéficier de la [[Les Caractéristiques#FORCE|FORCE]] maximale, il faut un minimum de 11 en [[Les Caractéristiques#TAILLE |TAILLE ]].
+La [[Les Caractéristiques#FORCE|FORCE]] peut au maximum être égale à [[Les Caractéristiques#TAILLE|TAILLE]] + 4. Un personnage de 6 en [[Les Caractéristiques#TAILLE|TAILLE]] peut au maximum avoir une [[Les Caractéristiques#FORCE|FORCE]] de 10. Pour bénéficier de la [[Les Caractéristiques#FORCE|FORCE]] maximale, il faut un minimum de 11 en [[Les Caractéristiques#TAILLE|TAILLE]].
 === Beauté ===
 Tous les personnages ont un minimum de 10 dans ce signe particulier. Pour avoir davantage, ils peuvent réserver de 1 à 6 points sur les 160 qui leur sont alloués.
 === Dérivées ===
 Les quatre dernières caractéristiques sont obtenues par des moyennes d'autres caractéristiques. Toutes sont arrondies au chiffre inférieur.
-* [[Les Caractéristiques#Mêlée|Mêlée]] :  ( [[Les Caractéristiques#AGILITÉ|AGILITÉ]] + [[Les Caractéristiques#FORCE|FORCE]]) / 2
-* [[Les Caractéristiques#Tir|Tir]] :  ([[Les Caractéristiques#VUE|VUE]] + [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]) / 2
-* [[Les Caractéristiques#Lancer|Lancer]] :  ([[Les Caractéristiques#Tir|Tir]] + [[Les Caractéristiques#FORCE|FORCE]]) / 2 
+* [[Les Caractéristiques#Mêlée|Mêlée]] : ([[Les Caractéristiques#AGILITÉ|AGILITÉ]] + [[Les Caractéristiques#FORCE|FORCE]]) / 2
+* [[Les Caractéristiques#Tir|Tir]] : ([[Les Caractéristiques#VUE|VUE]] + [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]) / 2
+* [[Les Caractéristiques#Lancer|Lancer]] : ([[Les Caractéristiques#Tir|Tir]] + [[Les Caractéristiques#FORCE|FORCE]]) / 2 
 * [[Les Caractéristiques#Dérobée|Dérobée]] : ((21 - [[Les Caractéristiques#TAILLE|TAILLE]]) + [[Les Caractéristiques#AGILITÉ|AGILITÉ]]) / 2
 
 == Compétences : 3000 points ==

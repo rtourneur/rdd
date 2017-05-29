@@ -8,7 +8,7 @@ La feuille de route est le complément de la feuille de personnage. C'est sur el
 == Partie gauche ==
 La partie supérieure est essentiellement réservée aux haut-rêvants pour prendre note des sorts en réserve, queues et souffles de Dragon en cours (voir ces notions dans ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]''). <BR>
 La partie inférieure est un rappel de tables très utilisées : résultats spéciaux, Éthylisme (voir ''[[Rêve de Dragon Seconde Édition#La Destinée|Règles additionnelles]]''), Marche (voir ''[[Au Fil des Jours]]''), Stress (voir ''[[L'Archétype]]'').<BR>
-Le bas de la feuille est un calendrier mensuel ou les astrologues peuvent noter les nombres astraux qu'ils ont découverts. Voir ''[[Au Fil des Jours]]'' pour le calendrier spécifique de ''Rêve de Dragon'', et ''[[Rêve de Dragon Seconde Édition#La Destinée|Règles additionnelles]]'' pour l”Astrologie.
+Le bas de la feuille est un calendrier mensuel ou les astrologues peuvent noter les nombres astraux qu'ils ont découverts. Voir ''[[Au Fil des Jours]]'' pour le calendrier spécifique de ''Rêve de Dragon'', et ''[[Rêve de Dragon Seconde Édition#La Destinée|Règles additionnelles]]'' pour l'Astrologie.
 
 == Partie droite ==
 
@@ -108,13 +108,13 @@ C'est ici que le joueur garde en mémoire l'état général de son personnage.<B
 Un personnage en pleine forme a un état général de 0.
 
 === Blessures ===
-Compteur des 4 types de blessures (contusions, blessures légères, graves et critique). Au départ, le personnage nia évidemment aucune blessure.
+Compteur des 4 types de blessures (contusions, blessures légères, graves et critique). Au départ, le personnage n'a évidemment aucune blessure.
 
 === Sust & Eau ===
 Compteur de nourriture et d'eau absorbée. Sert à se rappeler combien le personnage a déjà mangé et bu dans la journée.
 
 === Moral === 
-Compteur des points de moral si la règle additionnelle du Moral est utilisée, ainsi que des points de dissolution ('''diss''') et d”exaltation ('''exal''').
+Compteur des points de moral si la règle additionnelle du Moral est utilisée, ainsi que des points de dissolution ('''diss''') et d'exaltation ('''exal''').
 
 === Chance ===
 Compteur des points de chance si les règles additionnelles d'appel à la Chance sont utilisées, ainsi que des points de '''Destinée'''.
@@ -126,4 +126,4 @@ Compteur des points de stress. Voir ''[[L'Archétype]]''.
 Le joueur note ici la nature et les points de détérioration de son armure ou de ses vêtements, ainsi que leur valeur actuelle de protection.
 
 == Note ==
-Les jeux de rôle ont grosso modo deux façons de créer les personnages : ''globalement'' ou ''façon rnécano''. Globalement, on simplifie le choix pour vous, on vous propose des types de personnages tout faits : des guerriers, des voleurs, des barbares, etc. Imaginez un casier contenant dix portraits : vous devez choisir un des dix. Si un détail des physionomies ne vous plaît pas, vous êtes néanmoins obligé d'en choisir une. En échange, votre personnage est censé être bien composé, équilibré et jouable. ''Rêve de Dragon'' préfère la liberté du jeu de construction. Dans le casier, vous trouvez à la place 10 sortes de nez, 10 sortes d'oreilles, 10 sortes de bouches, etc. À vous de composer le portrait qui vous inspire, un très grand nombre de combinaisons étant possible. Il y a toutefois un revers de médaille : il est tout à fait possible de créer ainsi un personnage absurde et injouable. C'est au joueur d`avoir le bon sens de ses choix. S'il met trois yeux à son personnage et oublie les oreilles, qu'il ne vienne pas se plaindre ensuite que son personnage est sourd. Un exemple plus concret : se mettre un bon niveau en [[Les Compétences#ALCHIMIE|Alchimie]], mais rien du tout en [[Les Compétences#ÉCRITURE|Écriture]]. Nous aurons un soi-disant alchimiste incapable de déchiffrer le moindre grimoire. Pourtant RIEN dans la règle n'oblige à mettre des points en [[Les Compétences#ÉCRITURE|Écriture]] ET en [[Les Compétences#ALCHIMIE|Alchimie]].
+Les jeux de rôle ont grosso modo deux façons de créer les personnages : ''globalement'' ou ''façon mécano''. Globalement, on simplifie le choix pour vous, on vous propose des types de personnages tout faits : des guerriers, des voleurs, des barbares, etc. Imaginez un casier contenant dix portraits : vous devez choisir un des dix. Si un détail des physionomies ne vous plaît pas, vous êtes néanmoins obligé d'en choisir une. En échange, votre personnage est censé être bien composé, équilibré et jouable. ''Rêve de Dragon'' préfère la liberté du jeu de construction. Dans le casier, vous trouvez à la place 10 sortes de nez, 10 sortes d'oreilles, 10 sortes de bouches, etc. À vous de composer le portrait qui vous inspire, un très grand nombre de combinaisons étant possible. Il y a toutefois un revers de médaille : il est tout à fait possible de créer ainsi un personnage absurde et injouable. C'est au joueur d`avoir le bon sens de ses choix. S'il met trois yeux à son personnage et oublie les oreilles, qu'il ne vienne pas se plaindre ensuite que son personnage est sourd. Un exemple plus concret : se mettre un bon niveau en [[Les Compétences#ALCHIMIE|Alchimie]], mais rien du tout en [[Les Compétences#ÉCRITURE|Écriture]]. Nous aurons un soi-disant alchimiste incapable de déchiffrer le moindre grimoire. Pourtant RIEN dans la règle n'oblige à mettre des points en [[Les Compétences#ÉCRITURE|Écriture]] ET en [[Les Compétences#ALCHIMIE|Alchimie]].

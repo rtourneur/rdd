@@ -25,32 +25,32 @@ Chaque genre d'échec ou de réussite donne toujours le même nombre de points d
 
 Les points de tâche négatifs ne signifient pas que le travail a été « défait », mais qu'il en faut finalement plus que prévu. En cas d'échec total, outre 4 points négatifs, la difficulté des jets suivants acquiert un malus définitif de -1. Qui plus est, dans certains cas, le gardien des rêves peut estimer qu'une maladresse a été commise, qui ruine définitivement l'ensemble du travail. De même, il peut fixer un seuil négatif maximal qui, s'il est atteint, fait définitivement échouer l'action.
 
-''À l'heure du Dragon, Nitouche et son nouveau compagnon sont arrêtés par une petite rivière. Comment traverser ? Nitouche n 'a pas trop envie de se jeter a l 'eau. « Je vais construire un pont ! » s'écrie Brucelin en commençant à taillader les sapins alentour avec son épée. Le jeune homme a 12 en DEXTÉRITÉ et +1 en Charpenterie. Au vu des conditions, une épée n'étant pas une hache, le gardien des rêves décide que pour obtenir une passerelle de fortune, il faut 6 points de tâche, périodicité 20 mn, difficulté -3, soit 48%.''<BR>
+''À l'heure du Dragon, Nitouche et son nouveau compagnon sont arrêtés par une petite rivière. Comment traverser ? Nitouche n'a pas trop envie de se jeter à l 'eau. « Je vais construire un pont ! » s'écrie Brucelin en commençant à taillader les sapins alentour avec son épée. Le jeune homme a 12 en DEXTÉRITÉ et +1 en Charpenterie. Au vu des conditions, une épée n'étant pas une hache, le gardien des rêves décide que pour obtenir une passerelle de fortune, il faut 6 points de tâche, périodicité 20 mn, difficulté -3, soit 48%.''<BR>
 ''Période 1, Brucelin obtient 35, soit une réussite normale et gagne 1 point.''<BR>
 ''Période 2, il obtient 88, soit un échec valant 0 point ; il reste à 1 point.''<BR>
 ''Période 3, il obtient 08, soit une réussite particulière valant +3 points, total 4 points.''<BR>
-''Période 4, il termine avec une réussite signiﬁcative valant +2 points, total 6 poínts : le compte est bon.''<BR>
+''Période 4, il termine avec une réussite significative valant +2 points, total 6 poínts : le compte est bon.''<BR>
 ''Pour construire la passerelle, il lui aura fallu 4 périodes de 20 mn, soit 80 mn en tout. « Tu t'appelles comment, déjà ?...» murmure la jolie voyageuse.''
 
 == Tâche en un temps donné ==
-Le système permet également de savoir si telle action peut ou non être accomplie en un temps donné. Le gardien des rêves fixe un nombre de points de tâche, une difficulté et une périodicité, ainsi qu'un temps limite maximum. Puis, comme précédemment, le personnage tente d'accumuler des points de tâche. Si, quand le temps imparti est écoulé. le nombre fixé est atteint, l'action est réussie, sinon elle ne l'est pas. Comme toujours, un certain seuil négatif peut signifier un échec éliminatoire.
+Le système permet également de savoir si telle action peut ou non être accomplie en un temps donné. Le gardien des rêves fixe un nombre de points de tâche, une difficulté et une périodicité, ainsi qu'un temps limite maximum. Puis, comme précédemment, le personnage tente d'accumuler des points de tâche. Si, quand le temps imparti est écoulé, le nombre fixé est atteint, l'action est réussie, sinon elle ne l'est pas. Comme toujours, un certain seuil négatif peut signifier un échec éliminatoire.
 
 == Tâche accomplie à plusieurs ==
 Le système permet également de résoudre les actions communes. Comme précédemment, le gardien des rêves indique difficulté, périodicité et nombre de points de tâche. Puis, à la fin de chaque période, tous ceux qui ont participé ajoutent les points gagnés (perdus) au fonds commun. Le travail est terminé dès que le nombre nécessaire est atteint ou dépassé. On peut régler de la même manière une tâche accomplie à plusieurs et dans un temps donné.
 
-''Et voila qu'il se remet à pleuvoir à l'heure de la Lyre. Nos deux voyageurs décident de construire un abri pour la nuit DEXTÉRITÉ/Survie en Extérieur à 0, périodicité 10 minutes, 4 points de tâche.''<BR>
+''Et voilà qu'il se remet à pleuvoir à l'heure de la Lyre. Nos deux voyageurs décident de construire un abri pour la nuit DEXTÉRITÉ/Survie en Extérieur à 0, périodicité 10 minutes, 4 points de tâche.''<BR>
 ''Période 1, Brucelin obtient une réussite normale (+1) et Nitouche un échec (0), total : 1 point.''<BR>
 ''Période 2, Brucelin obtient une particuliere (+3) et Nitouche un échec particulier (-2) total 2 points.''<BR>
 ''Période 3, les deux échouent (0), total toujours 2 points.''<BR>
-''Période 4, Nitouche obtient encore un échec (0), mais Brucelin une signiﬁcative (+2), total= 4 points.''<BR>
-''Il aura fallu 40 minutes. « Ouf s'écrie Nitouche, j'ai bien cru que je n'y arriverais jamais malgré ton aide I »''
+''Période 4, Nitouche obtient encore un échec (0), mais Brucelin une significative (+2), total= 4 points.''<BR>
+''Il aura fallu 40 minutes. « Ouf s'écrie Nitouche, j'ai bien cru que je n'y arriverais jamais malgré ton aide ! »''
 
 == Comment choisir les paramètres ? ==
 Certaines règles précises ont été prévues, notamment pour les soins, mais dans l'ensemble, c'est au gardien des rêves de déterminer les différents paramètres : difficulté, périodicité des jets et nombre de points de tâche. Notons cependant les points suivants.<BR>
 Le nombre de points gagnés dépend du genre de réussite et non de la longueur de la période. On ne gagne pas davantage avec une longue période. Par ailleurs, si l'on regarde la table, on constate que l'ensemble des 5 échecs donne -6 points et l'ensemble des 5 réussites +6 points.<BR>
-Cela semble équilibré. Toutefois, la signiﬁcative (50% des chances de succès) donne 2 points, alors que -2 points ne sont donnés que par l'échec particulier (20% des chances d'échec).<BR>
+Cela semble équilibré. Toutefois, la significative (50% des chances de succès) donne 2 points, alors que -2 points ne sont donnés que par l'échec particulier (20% des chances d'échec).<BR>
 La conséquence est que, pour des durées proportionnellement égales, un plus grand nombre de jets favorise les points positifs. Il faudra souvent moins de temps pour obtenir 10 points de tâche avec une périodicité d'une minute que 5 points avec une périodicité de 2 minutes.<BR>
 Empiriquement, considérer qu'une action moyenne demande 4 points de tâche et que la périodicité est égale au quart du temps total estimé nécessaire. Puis, sur cette base, augmenter ou diminuer plus ou moins le nombre de points de tâches comme vous le souhaitez.
 
-''Il faut maintenant allumer un feu pour la nuit. On commence par estimer la difficulté. Il pleut et le bois est mouillé, ce sera donc laborieux (-4). Puis on imagine qu il faut bien 15 minutes pour y parvenir. Divisé par 4, cela donne 3,75 que l'on arrondit à 4 minutes. Voilà notre périodicité. En ce qui concerne les points de tâche, la base de 4 points nous semble un peu légère puisque l'action est supposée laborieuse, on en rajoute donc un. Nous obtenons finalement : DEXTÉRITÉ/Srv Extérieur à -4 \ 5 points de tâche \ périodicité  4 mn.''<BR>
+''Il faut maintenant allumer un feu pour la nuit. On commence par estimer la difficulté. Il pleut et le bois est mouillé, ce sera donc laborieux (-4). Puis on imagine qu'il faut bien 15 minutes pour y parvenir. Divisé par 4, cela donne 3,75 que l'on arrondit à 4 minutes. Voilà notre périodicité. En ce qui concerne les points de tâche, la base de 4 points nous semble un peu légère puisque l'action est supposée laborieuse, on en rajoute donc un. Nous obtenons finalement : DEXTÉRITÉ/Srv Extérieur à -4 \ 5 points de tâche \ périodicité 4 mn.''<BR>
 ''Dans le meilleur des cas, les voyageurs mettront 8 minutes (2 périodes) ; dans le pire des cas, toute la nuit !''

@@ -37,11 +37,11 @@ Pour chaque heure de marche, le voyageur marque un nombre de points de fatigue �
 |-
 | style="text-align:left;"| <small>Hors piste (herbes et buissons)</small> 
 |-
-| style="text-align:left;"| '''Difﬁcile''' || rowspan="2" | 2  || rowspan="2" | 3  || rowspan="2" | 4  || rowspan="2" | 5  || rowspan="2" | 6
+| style="text-align:left;"| '''Difficile''' || rowspan="2" | 2  || rowspan="2" | 3  || rowspan="2" | 4  || rowspan="2" | 5  || rowspan="2" | 6
 |-
 | style="text-align:left;"| <small>Hors piste (collines, forêt)</small> 
 |-
-| style="text-align:left;"| '''Très difﬁcile''' || rowspan="2" | 1  || rowspan="2" | 1,5  || rowspan="2" | 2 || rowspan="2" | 2,5  || rowspan="2" | 3
+| style="text-align:left;"| '''Très difficile''' || rowspan="2" | 1  || rowspan="2" | 1,5  || rowspan="2" | 2 || rowspan="2" | 2,5  || rowspan="2" | 3
 |-
 | style="text-align:left;"| <small>Hors piste (montagne, jungle, marais)</small> 
 |}
@@ -100,7 +100,7 @@ Quand il s'agit de ne nager que quelques mètres en eau peu dangereuse, aucun je
 
 === Encombrement ===
 Chaque point d'encombrement porté, et non pas seulement excédentaire au seuil d'encombrement, confère un malus de -1 aux jets de [[Les Compétences#NATATION|Natation]]. Dans cette optique, compter l'encombrement de tous les vêtements portés. (Appliquer la même règle pour l'utilisation de la compétence Acrobatie.)<BR>
-''Frissonnant sous les arbres, Nitouche se rappelle le jour ou elle a failli se noyer, étant tombée dans une rivière. Elle était vêtue de cuir souple, bottée, armée de deux dagues, chargée d'une outre pleine et d'une lourde besace. Ses vêtements de cuir souple, qui ne comptent usuellement pas, lui valaient 1 enc, de même que ses deux dagues. Son outre en valait également 1 et sa besace 3. Pour refaire surface, la voyageuse avait eu un malus de -6.''
+''Frissonnant sous les arbres, Nitouche se rappelle le jour où elle a failli se noyer, étant tombée dans une rivière. Elle était vêtue de cuir souple, bottée, armée de deux dagues, chargée d'une outre pleine et d'une lourde besace. Ses vêtements de cuir souple, qui ne comptent usuellement pas, lui valaient 1 enc, de même que ses deux dagues. Son outre en valait également 1 et sa besace 3. Pour refaire surface, la voyageuse avait eu un malus de -6.''
 
 {|style="border:1px solid black;text-align:center;"
 |-
@@ -126,7 +126,7 @@ Chaque point d'encombrement porté, et non pas seulement excédentaire au seuil 
 |}
 
 === Distance parcourue ===
-En barbotant, la distance parcourue en un round est du quart de la vitesse de combat, soit 3 m. En nage rapide, elle est de la moitié de la vitesse de combat, soit 6 m. Pour différencier les distances parcourues, on peut également utiliser la table de Nage, après un jet de ''[[Les Caractéristiques#Mêlée|Mêlée/]]/[[Les Compétences#NATATION|Natation]]''.
+En barbotant, la distance parcourue en un round est du quart de la vitesse de combat, soit 3 m. En nage rapide, elle est de la moitié de la vitesse de combat, soit 6 m. Pour différencier les distances parcourues, on peut également utiliser la table de Nage, après un jet de ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#NATATION|Natation]]''.
 
 === Maladresse ===
 Le personnage commence à se noyer, voir ''[[La Santé]]''.

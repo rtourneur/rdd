@@ -2,7 +2,7 @@ __NOTOC__
 Les ''points'', sans cesse dépensés puis regagnés, servent à indiquer l'état actuel du personnage, sa santé, sa puissance onirique.<BR>
 Les ''seuils'' sont des limites, au-delà ou en deçà desquelles des modifications peuvent intervenir dans son comportement. Points et seuils dérivent directement des caractéristiques.<BR>
 Les ''signes particuliers'' achèvent de dessiner le personnage et lui confèrent la touche de finition. Pour la plupart, ils sont librement choisis par le joueur.<BR>
-Tous les détails de création sont donnés dans la [[Naissance d'un Voyageur]]. par ailleurs, les [[Rêve de Dragon Seconde Édition#La Destinée|Règles Additionnelles]] proposent encore d'autres points et seuils, pour faire du personnage une entité aussi complète que possible et pour un maximum de simulation (''Moral, Chance, Destinée'').
+Tous les détails de création sont donnés dans la [[Naissance d'un Voyageur]]. Par ailleurs, les [[Rêve de Dragon Seconde Édition#La Destinée|Règles Additionnelles]] proposent encore d'autres points et seuils, pour faire du personnage une entité aussi complète que possible et pour un maximum de simulation (''Moral, Chance, Destinée'').
 
  [[Anatomie d'un Voyageur|Retour vers L'Anatomie d'un Voyageur]]
 

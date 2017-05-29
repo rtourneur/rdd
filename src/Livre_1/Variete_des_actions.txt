@@ -53,7 +53,7 @@ Tirer une flèche : [[Les Caractéristiques#Tir|Tir]]/[[Les Compétences#ARC|Arc
 Lancer un projectile (dague, javelot) : [[Les Caractéristiques#Lancer|Lancer]]/[[Les Compétences#Tir et Lancer|Compétence d'arme utilisée]]<BR>
 
 == Connaissances ==
-''Les connaissances ne peuvent pas êtres utilisées quand elles ne sont qu'au niveau de base -11.''
+''Les connaissances ne peuvent pas être utilisées quand elles ne sont qu'au niveau de base -11.''
 
 Identifier une substance : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ALCHIMIE|Alchimie]]<BR>
 Observer les étoiles : [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ASTROLOGIE|Astrologie]]<BR>

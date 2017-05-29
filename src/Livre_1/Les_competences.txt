@@ -1,5 +1,5 @@
 __NOTOC__
-Les compétences complètent les caractéristiques et représentent l'''acquis'' du personnage. Ce sont les domaines , les matières, où le personnage a acquis de l'expérience.
+Les compétences complètent les caractéristiques et représentent l'''acquis'' du personnage. Ce sont les domaines, les matières, où le personnage a acquis de l'expérience.
 Les compétences sont représentées par des niveaux relatifs, c'est-à-dire  pouvant être positif, zéro ou négatifs.
 De même que 10 est une caractéristique statistiquement moyenne, 0 est un niveau statistiquement moyen. Un personnage ayant 10 dans une caractéristique et 0 dans la compétence conjointe  possède 50% de chances de réussir une action de difficulté statistiquement ''moyenne''.
 Les compétences n'ont pas de limite théorique dans le positif, encore que rares soient les niveaux supérieurs à +11. Il existe en revanche une limite dans le négatif, appelé ''niveau de base''. Le niveau de base varie selon la famille de compétences.
@@ -76,7 +76,7 @@ Se sentir à son aise dans un milieu urbain, dans une foule. Savoir s'orienter i
 ==== SURVIE EN EXTÉRIEUR ====
 Se sentir à son aise dans la nature, hors de toute civilisation, s'orienter. Construire un abri, allumer un feu en mauvaises conditions, trouver de l'eau, pêcher, savoir dépecer un gibier et l'accommoder sur un feu de braise. Quand un milieu particulier devient déterminant, utiliser à la place une des 6 survies spécifiques :<BR>
 '''SRV EN DÉSERT, SRV EN FORÊT, SRV EN GLACES, SRV EN MARAIS, SRV EN MONTAGNE, SRV EN SOUS-SOL'''<BR>
-Par exemple pister un gibier en forêt demande l'usage de Survie en Forêt, trouver une grotte pour s'abriter en montagne demande Survie en Montagne. Survie en Extérieur tient lieu de survie spécifiques pour les plaines et collines non boisées.
+Par exemple pister un gibier en forêt demande l'usage de Survie en Forêt, trouver une grotte pour s'abriter en montagne demande Survie en Montagne. Survie en Extérieur tient lieu de survie spécifique pour les plaines et collines non boisées.
 ==== TRAVESTISSEMENT ====
 L'art de se déguiser, de se grimer, de se rendre méconnaissable.
 
@@ -101,7 +101,7 @@ Connaissance des manœuvres à accomplir sur un voilier, connaissance de la mer,
 ==== ORFÈVRERIE ====
 Travail et connaissance des métaux précieux : or, argent, cuivre, étain, et par extension des pierres et perles précieuses. Évaluer la taille et la pureté d'une gemme, le prix d'un bijou.
 ==== SERRURERIE ====
-Compréhension des mécaniques et mécanismes, et plus particulièrement des serrures. Comprendre un mécanisme, le faire fonctionner, le réparer, le désarmer , le crocheter.
+Compréhension des mécaniques et mécanismes, et plus particulièrement des serrures. Comprendre un mécanisme, le faire fonctionner, le réparer, le désarmer, le crocheter.
 
 == Connaissances ==
 '''(Base -11)'''
@@ -118,7 +118,7 @@ Lire et écrire. Savoir composer un texte, un poème. Connaissance générale de
 ==== MÉDECINE ====
 Diagnostic et soin de maladies. Connaissance des remèdes.
 ==== ZOOLOGIE ====
-Connaissance des espèces animales, de leurs mœurs , leur habitat.
+Connaissance des espèces animales, de leurs mœurs, leur habitat.
 
 == Draconic ==
 '''(Base -11)'''
@@ -141,7 +141,7 @@ Groupées en une seule jusqu'au niveau zéro, ces compétences sont les principe
 ==== ÉPÉE À UNE MAIN, ÉPÉE À DEUX MAINS ====
 Groupées en une seule jusqu'au niveau zéro, ces compétences permettent l'utilisation des sept types d'épées de ''Rêve de Dragon'' pour attaquer ou parer.
 ==== FLÉAU ====
-Utilisation de tous les type de fléaux, pour attaquer.
+Utilisation de tous les types de fléaux, pour attaquer.
 ==== HACHE À UNE MAIN, HACHE À DEUX MAINS ====
 Groupées en une seule jusqu'au niveau zéro, ces deux compétences permettent l'utilisation des hachettes, cognées et haches de bataille, pour attaquer.
 ==== LANCE ====
