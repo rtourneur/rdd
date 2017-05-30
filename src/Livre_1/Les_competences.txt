@@ -1,10 +1,10 @@
 __NOTOC__
-Les compétences complètent les caractéristiques et représentent l'''acquis'' du personnage. Ce sont les domaines, les matières, où le personnage a acquis de l'expérience.
-Les compétences sont représentées par des niveaux relatifs, c'est-à-dire  pouvant être positif, zéro ou négatifs.
-De même que 10 est une caractéristique statistiquement moyenne, 0 est un niveau statistiquement moyen. Un personnage ayant 10 dans une caractéristique et 0 dans la compétence conjointe  possède 50% de chances de réussir une action de difficulté statistiquement ''moyenne''.
-Les compétences n'ont pas de limite théorique dans le positif, encore que rares soient les niveaux supérieurs à +11. Il existe en revanche une limite dans le négatif, appelé ''niveau de base''. Le niveau de base varie selon la famille de compétences.
-Les compétences augmentent par l'acquisition pour chacune d'elles de points d'expérience, représentant l'acquis progressif.
-Au départ le personnage reçoit un certain nombre de points d'expérience préliminaire qu'il répartit dans les compétences qu'il veut développer.
+Les compétences complètent les caractéristiques et représentent l'''acquis'' du personnage. Ce sont les domaines, les matières, où le personnage a acquis de l'expérience.<BR>
+Les compétences sont représentées par des niveaux relatifs, c'est-à-dire  pouvant être positif, zéro ou négatifs.<BR>
+De même que 10 est une caractéristique statistiquement moyenne, 0 est un niveau statistiquement moyen. Un personnage ayant 10 dans une caractéristique et 0 dans la compétence conjointe  possède 50% de chances de réussir une action de difficulté statistiquement ''moyenne''.<BR>
+Les compétences n'ont pas de limite théorique dans le positif, encore que rares soient les niveaux supérieurs à +11. Il existe en revanche une limite dans le négatif, appelé ''niveau de base''. Le niveau de base varie selon la famille de compétences.<BR>
+Les compétences augmentent par l'acquisition pour chacune d'elles de points d'expérience, représentant l'acquis progressif.<BR>
+Au départ le personnage reçoit un certain nombre de points d'expérience préliminaire qu'il répartit dans les compétences qu'il veut développer.<BR>
 Si aucun point n'est alloué dans une compétence, cette dernière sera possédée au niveau de base, par exemple [[#BRICOLAGE|Bricolage]], base -4, sera à -4.
 
  [[Anatomie d'un Voyageur|Retour vers L'Anatomie d'un Voyageur]]
