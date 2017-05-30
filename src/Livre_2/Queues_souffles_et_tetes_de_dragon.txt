@@ -2,7 +2,7 @@ __NOTOC__
 Les queues et les souffles de Dragon sont les noms familièrement donnés aux perturbations mentales, voire psychosomatiques, résultant d'expériences oniriques mal assumées. Ces états sont temporaires. Les souffles durent généralement plus longtemps que les queues et sont plus sérieux.<BR>
 Les têtes de Dragon représentent à l'opposé les bénéfices que le personnage tire d'une expérience particulièrement bien vécue, et dont il ressort grandi. Les têtes de Dragon sont définitivement acquises pour toute l'incarnation actuelle du personnage. À sa mort, toutefois, aussi bien les queues et les souffles encore en cours, que les têtes acquises, sont annulés. La seule exception à cette règle sont les modifications de caractéristique, augmentation ou diminution, qui restent acquises dans la nouvelle incarnation. Tous les autres effets sont annulés.<BR>
 Quand un personnage reçoit une queue, un souffle ou une tête de Dragon, le gardien des rêves peut en décider librement la teneur, ou s'il l'estime plus équitable, la tirer au sort.<BR>
-Les listes ci-après ne sont pas exhaustives et ne sont la que pour modèle. Les gardiens des rêves peuvent les modifier d'idées nouvelles. Il peut notamment être intéressant de créer des queues de Dragon en rapport direct avec le scénario joué. Une queue de Dragon étant une aberration passagère, il n'est pas illogique que sa manifestation ait un rapport étroit avec le vécu actuel du personnage. Plus de prudence doit en revanche être accordé à la création de nouvelles têtes, sous peine d'aboutir à déséquilibrer le jeu.
+Les listes ci-après ne sont pas exhaustives et ne sont là que pour modèle. Les gardiens des rêves peuvent les modifier d'idées nouvelles. Il peut notamment être intéressant de créer des queues de Dragon en rapport direct avec le scénario joué. Une queue de Dragon étant une aberration passagère, il n'est pas illogique que sa manifestation ait un rapport étroit avec le vécu actuel du personnage. Plus de prudence doit en revanche être accordé à la création de nouvelles têtes, sous peine d'aboutir à déséquilibrer le jeu.
 
  [[Les Terres du Rêve|Retour aux Terres du Rêve]]
 
@@ -20,7 +20,7 @@ Avant de pouvoir à nouveau faire usage du haut-rêve, y compris déclencher vol
 ==== 13-16 Inertie draconique ====
 Pendant un jour, la fatigue en TMR est doublée. Chaque case ou round coûte 2 points au lieu d'un.
 ==== 17-20 Urgence draconique ====
-Le haut-rêvant est pris du besoin irrésistible de déclencher immédiatement son plus proche sort en réserve. À équidistance, prendre dans le sens des aiguilles d'une montre en commençant par le haut. En cas de rencontre dans les TMR, se dérober équivaut à refouler la queue de Dragon. Si aucun sort n'est en réserve, ou si il y a impossibilité de pratiquer la magie à cause d'une autre queue ou d'un souffle, tirer à la place une idée fixe. ''Refoulable au prix de 2 points de refoulement''.
+Le haut-rêvant est pris du besoin irrésistible de déclencher immédiatement son plus proche sort en réserve. À équidistance, prendre dans le sens des aiguilles d'une montre en commençant par le haut. En cas de rencontre dans les TMR, se dérober équivaut à refouler la queue de Dragon. Si aucun sort n'est en réserve, ou s'il y a impossibilité de pratiquer la magie à cause d'une autre queue ou d'un souffle, tirer à la place une idée fixe. ''Refoulable au prix de 2 points de refoulement''.
 ==== 21-24 Réinsertion aléatoire ====
 Comme après une sortie de la carte, le gardien des rêves réintroduit secrètement le demi-rêve du haut-rêvant dans les TMR.
 ==== 25-28 Montée laborieuse ====
@@ -36,13 +36,11 @@ Pendant un jour, perte totale d'une compétence, à l'exclusion du Draconic. Dé
 ==== 49-60 Souvenir obsessionnel de l'archétype ====
 Les prochains points d'expérience dus au stress doivent être mis dans une compétence déterminée aléatoirement.
 ==== 61-65 Coup de foudre fatal ====
-On devient immédiatement amoureux fou de la première personne inconnue de sexe opposé et de même espèce rencontrée. Tant que satisfaction n'est pas obtenue, traiter comme un désir
-lancinant.''Refoulable au prix de 2 points de refoulement''.
+On devient immédiatement amoureux fou de la première personne inconnue de sexe opposé et de même espèce rencontrée. Tant que satisfaction n'est pas obtenue, traiter comme un désir lancinant.''Refoulable au prix de 2 points de refoulement''.
 ==== 66-70 Masque de Narcos ====
 Pendant 1d7 jours à compter du lendemain, la caractéristique [[Les Caractéristiques#APPARENCE|APPARENCE]] baisse de 1d6 points, de même que la Beauté.
 ==== 71-85 Désir lancinant ====
-Tirer 1d20 sur la table des Désirs lancinants. Les ''désirs lancinants'' durent jusqu'à ce qu'ils soient satisfaits ou refoulés. Tant que satisfaction n'est pas obtenue, aucun point d'expérience ne peut plus être gagné par l'exercice en cas de particulière et d'ajustement final négatif. Les points d'expérience dus au stress ne sont pas affectés. ''Les désirs lancinants peuvent être refoulés à
-tout moment au prix de 1 point de refoulement.''
+Tirer 1d20 sur la table des Désirs lancinants. Les ''désirs lancinants'' durent jusqu'à ce qu'ils soient satisfaits ou refoulés. Tant que satisfaction n'est pas obtenue, aucun point d'expérience ne peut plus être gagné par l'exercice en cas de particulière et d'ajustement final négatif. Les points d'expérience dus au stress ne sont pas affectés. ''Les désirs lancinants peuvent être refoulés à tout moment au prix de 1 point de refoulement.''
 ==== 86-00 Idée fixe ====
 Tirer 1d20 sur la table des Idées fixes. Les ''idées fixes'' prennent effet immédiatement et durent jusqu'à l'extrême fin de l'heure du Château Dormant du lendemain. Si passé ce délai, l'occasion de les manifester ne s'est pas présentée, la queue prend fin néanmoins. Si elles entrent en contradiction avec une autre queue de Dragon, retirer. ''Les idées fixes peuvent être refoulées à tout moment au prix de 1 point de refoulement.''
 
@@ -154,7 +152,7 @@ Tirer 1d20 sur la table des Idées fixes. Les ''idées fixes'' prennent effet im
 | Vider sur sa tête toute fiole ou flacon aperçu.
 |-
 ! 12 
-| Appeler les hommes « madame » et les femmes «messires ».
+| Appeler les hommes « madame » et les femmes « messires ».
 |-
 ! 13 
 | Ne marcher qu'à quatre pattes.
@@ -366,7 +364,7 @@ Pendant d<sup>dr</sup> jours, traverser un pont ou pénétrer dans une cité co�
 ==== 46-50 MONTÉE LABORIEUSE ====
 Pendant d<sup>dr</sup> jours, monter dans les TMR coûte 2 points de rêve au lieu d'un, et le déplacement accéléré en coûte 5.
 ==== 51-55 DOUBLE RÉSISTANCE DU FLEUVE ====
-Pendant d<sup>dr</sup> jours, toute case de fleuve, lac ou marais doit etre consécutivement maîtrisée deux fois. Si la seconde fois échoue. la concentration est rompue et il faut recommencer au début.
+Pendant d<sup>dr</sup> jours, toute case de fleuve, lac ou marais doit etre consécutivement maîtrisée deux fois. Si la seconde fois échoue, la concentration est rompue et il faut recommencer au début.
 ==== 56-60 CONFUSION DRACONIQUE ====
 Perte de la connaissance d'un sort ou d'un rituel, à déterminer aléatoirement. Le haut-rêvant peut le ré-apprendre par un jet normal de Synthèse, en ne dépensant que la moitié des points de sorts prévus. Les bonus de case dus à l'usage sont perdus.
 ==== 61-65 ÉPUISEMENT ====
@@ -407,9 +405,9 @@ Permet d'augmenter n'importe quelle caractéristique de 1 point, sauf [[Les Cara
 ==== 08-14 SOUVENIR IMMÉDIAT DE L'ARCHÉTYPE ====
 Permet d'augmenter immédiatement une compétence de son choix inférieure à l'archétype. Si la compétence a déjà atteint un niveau +3 ou plus, l'augmentation n'est que de 1 niveau. Si elle est inférieure à +3, elle peut monter jusqu'à +3 (ou jusqu'au niveau de l'archétype si celui-ci est inférieur à +3).
 ==== 15-21 DON LIMITÉ DE RÉUSSITE ====
-Permet de réussir automatiquement les 7 prochains jets de dés concernant la compétence de son choix, ayant un ajustement final supérieur à -11 . Pratiquement, le joueur continue à jouer ses jets. S'il réussit de lui-même, il ne dépense rien ; s'il échoue (normal à total), il dépense une de ses 7 réussites automatiques, qui sont toujours considérées être des réussites significatives. La compétence concernée (une seule) doit être désignée dès l'obtention de la tête.
+Permet de réussir automatiquement les 7 prochains jets de dés concernant la compétence de son choix, ayant un ajustement final supérieur à -11. Pratiquement, le joueur continue à jouer ses jets. S'il réussit de lui-même, il ne dépense rien ; s'il échoue (normal à total), il dépense une de ses 7 réussites automatiques, qui sont toujours considérées être des réussites significatives. La compétence concernée (une seule) doit être désignée dès l'obtention de la tête.
 ==== 22-28 DON DE VRAIE CHANCE ====
-Permet à un vrai-rêvant de regagner 2 points de chance au lieu d'un quand il n'en a dépensé aucun la veille, et tout de même 1 point s'il en a dépensé. Pour un haut-rêvant, permet uniquement de regagner tous ses points de chance (comme s'il dépensait un point de destinée). S'il est encore 'a son maximum de points de chance, tirer une autre tête. Unique pour les vrai-rêvants.
+Permet à un vrai-rêvant de regagner 2 points de chance au lieu d'un quand il n'en a dépensé aucun la veille, et tout de même 1 point s'il en a dépensé. Pour un haut-rêvant, permet uniquement de regagner tous ses points de chance (comme s'il dépensait un point de destinée). S'il est encore à son maximum de points de chance, tirer une autre tête. Unique pour les vrai-rêvants.
 ==== 29-34 DON DE VOIR LA MAGIE ====
 Un jet de [[Les Caractéristiques#VUE|VUE]] à zéro permet de distinguer une aura bleutée délimitant les [[La Magie des Zones|zones magiques d'Oniros]] ou entourant les objets enchantés ou les créatures soumises à l'effet d'un sort ou d'un rituel. Un seul essai par zone, objet ou personnage. Cumulable.
 ==== 35-40 DON DE HAUT-RÊVE ====
@@ -436,7 +434,7 @@ Un jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]]E à zéro permet de deviner
 Permet d'obtenir un point de tâche supplémentaire à chaque jet de [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#CHIRURGIE|Chirurgie]] et de considérer tout échec total comme un simple échec particulier. L'échec total se limite ainsi à conférer -2 points de tâche ; l'échec particulier en confère -1 point ; l'échec normal en confère +1, la réussite normale +2, la significative +3 et la particulière +4. Unique.
 === Table 2 : Haut-rêvants ===
 ==== 01-10 DON DE DOUBLE-RÊVE ====
-Lors de la récupération des points de rêve, permet de jeter Id<sup>dr</sup> toutes les demi-heures draconiques au lieu de toutes les heures. Unique.
+Lors de la récupération des points de rêve, permet de jeter 1d<sup>dr</sup> toutes les demi-heures draconiques au lieu de toutes les heures. Unique.
 ==== 11-20 DON DE DÉPLACEMENT ACCÉLÉRÉ ====
 Permet à tout moment l'option du déplacement accéléré dans les TMR sans avoir à dépenser un point de rêve supplémentaire. Unique.
 ==== 21-30 AUGMENTATION DU SEUIL DE RÊVE ====
@@ -446,12 +444,11 @@ Le haut-rêvant bénéficiaire de cette tête se retrouve en possession d'un nou
 ==== 41-50 TERRE D'ATTACHE ====
 Par cette tête, le haut-rêvant peut désigner une case des TMR de son choix à l'exception d'une case humide. Ensuite, à n'importe quel round de son périple en TMR, il peut s'y téléporter directement quel que soit le nombre de cases qui lien sépare. Cette téléportation instantanée remplace son mouvement normal et coûte donc un point de fatigue. De même, tout comme après un mouvement normal, 1d7 de rencontre doit être tiré dès l'arrivée dans la terre d'attache. Enfin, le haut-rêvant ne peut s'y téléporter que s'il est libre de son mouvement, c'est-à-dire s'il n'est sous l'emprise ni d'un [[Lancer un Sort#Reflet d'ancien rêve|Reflet d'ancien rêve]], ni d'un [[Lancer un Sort#Tourbillon blanc|Tourbillon]]. Cumulable : on peut avoir plusieurs terres d'attache.
 ==== 51-60 PRÉSENT DES CITÉS ====
-Par cette tête, chaque cité offre automatiquement soit une [[Lancer un Sort#Fleur des rêves|Fleur des rêves]], soit un [[Lancer un Sort#Passeur|Passeur des rêves]], soit un [[Lancer un Sort#Messager|Messager des rêves]]. dès qu'elle est visitée par le demi-rêve du haut-rêvant. Il n'y a pas de d7 à tirer, le haut-rêvant choisit librement ce qu'il préfère, et la rencontre est
-considérée automatiquement maîtrisée, Fleurs, Messagers et Passeurs ayant une force de 2d6 points. Dès qu'elle a offert son présent, la cité redevient normale en ce qui concerne le tirage des rencontres ; il n'y a qu'un seul présent par cité. La tête de Dragon prend fin des que toutes les cités (22) ont été visitées ; entre temps, la tête ne peut être ré-obtenue.
+Par cette tête, chaque cité offre automatiquement soit une [[Lancer un Sort#Fleur des rêves|Fleur des rêves]], soit un [[Lancer un Sort#Passeur|Passeur des rêves]], soit un [[Lancer un Sort#Messager|Messager des rêves]], dès qu'elle est visitée par le demi-rêve du haut-rêvant. Il n'y a pas de d7 à tirer, le haut-rêvant choisit librement ce qu'il préfère, et la rencontre est considérée automatiquement maîtrisée, Fleurs, Messagers et Passeurs ayant une force de 2d6 points. Dès qu'elle a offert son présent, la cité redevient normale en ce qui concerne le tirage des rencontres ; il n'y a qu'un seul présent par cité. La tête de Dragon prend fin des que toutes les cités (22) ont été visitées ; entre temps, la tête ne peut être ré-obtenue.
 ==== 61-70 RÉSERVE EN SÉCURITÉ ====
 Un haut-rêvant possédant cette tête peut pénétrer sur une case où il a un sort en réserve sans forcément le déclencher s'il ne le souhaite pas. Même chose si un [[Lancer un Sort#Tourbillon blanc|Tourbillon]] l'abandonne sur une case de réserve. Déclencher un sort en réserve devient un acte volontaire. Même chose pour un échec total en réserve. Cette tête s'applique à toutes les cases. Unique.
 ==== 71-80 RÉSERVE EXTENSIBLE ====
-Une (seule) case spécifique librement choisie par le haut-rêvant à l'exception d'une case de fleuve, n'est plus dorénavant limitée à un seul sort en réserve. Le haut-rêvant peut yen stocker autant qu'il le désire (dans les limites du nombre permis par ses niveaux). En conséquence, tant que ce maximum n'est pas atteint, le demi-rêve peut entrer dans la case concernée sans déclencher les sorts qui s'y trouvent. Le haut-rêvant peut se contenter d'y passer, ou rajouter un sort aux précédents. Dès que le maximum permis est atteint, le fait de passer par la case déclenche automatiquement l'un des sorts (au choix). Les sorts peuvent être déclenchés l'un après l'autre (rappelons que déclencher un sort fait obligatoirement redescendre le demi-rêve), ou déclenchés ensemble (tout ou partie d'entre eux) à la condition expresse qu'ils aient la même cible (même créature, objet, ou centre de zone). Cumulable : on peut avoir plusieurs cases de réserve extensible.
+Une (seule) case spécifique librement choisie par le haut-rêvant à l'exception d'une case de fleuve, n'est plus dorénavant limitée à un seul sort en réserve. Le haut-rêvant peut y en stocker autant qu'il le désire (dans les limites du nombre permis par ses niveaux). En conséquence, tant que ce maximum n'est pas atteint, le demi-rêve peut entrer dans la case concernée sans déclencher les sorts qui s'y trouvent. Le haut-rêvant peut se contenter d'y passer, ou rajouter un sort aux précédents. Dès que le maximum permis est atteint, le fait de passer par la case déclenche automatiquement l'un des sorts (au choix). Les sorts peuvent être déclenchés l'un après l'autre (rappelons que déclencher un sort fait obligatoirement redescendre le demi-rêve), ou déclenchés ensemble (tout ou partie d'entre eux) à la condition expresse qu'ils aient la même cible (même créature, objet, ou centre de zone). Cumulable : on peut avoir plusieurs cases de réserve extensible.
 ==== 81-90 QUÊTE DES EAUX ====
 Sous l'influence de cette tête, le haut-rêvant est invité à se rendre dans un lac ou dans un marais de son choix. Dès que cette case, lac ou marais, a été maîtrisée selon les règles usuelles, la victoire devient définitive, et la case n'aura plus jamais besoin d'être maîtrisée. Une fois le lac ou le marais choisi, le haut-rêvant ne peut en changer, mais a droit à un nombre illimité d'essais pour le maîtriser. Cumulable : on peut maîtriser définitivement plusieurs lacs ou marais.
 ==== 91-00 CONNAISSANCE DU FLEUVE ====

@@ -25,7 +25,7 @@ La Barque de Rêve est insubmersible : l'eau qui y pénètre en ressort automati
 '''Durée''' HN<BR>
 '''JR''' Aucun<BR>
 '''Effet''' L'intérieur de la zone de Bouclier ne possède aucune vertu particulière, son intérêt réside dans sa frontière. Cette dernière ne peut être franchie, dans un sens comme dans l'autre, que par des objets ou des créatures animées d'une vitesse inférieure à 7 mètres par round. Si la vitesse est supérieure, objets ou créatures rebondissent contre l'invisible surface de la zone. Les projectiles, flèches, javelots, pierres, etc, sont donc automatiquement arrêtés par ce bouclier, dans un sens comme dans l'autre. Sa surface apparaît comme légèrement élastique et ne peut causer en soi aucun dommage aux créatures trop rapides qui fonceraient dedans.<BR>
-La zone laisse passer la lumière et le son. De l'intérieur, on peut pratiquer toute sorte de magie dont l'effet a lieu à l'extérieur, ou à l'intérieur (sauf autre sort de zone). De l'extérieur, on peut pratiquer toute magie dont l'effet a lieu à l'intérieur, sauf toujours un autre sort de zone. La zone arrête la grêle. En revanche. elle laisse passer la pluie, la neige ainsi que le vent et la foudre.
+La zone laisse passer la lumière et le son. De l'intérieur, on peut pratiquer toute sorte de magie dont l'effet a lieu à l'extérieur, ou à l'intérieur (sauf autre sort de zone). De l'extérieur, on peut pratiquer toute magie dont l'effet a lieu à l'intérieur, sauf toujours un autre sort de zone. La zone arrête la grêle. En revanche, elle laisse passer la pluie, la neige ainsi que le vent et la foudre.
 
 === BROUILLARD ===
 (Forêt) R-3 r1+<BR>
@@ -57,7 +57,7 @@ La vitesse maximum d'une Bulle Volante est de 50 m par round (50 km/60mn). Il n'
 '''Portée''' E4<BR>
 '''Durée''' HN<BR>
 '''JR''' Aucun<BR>
-'''Effet''' Le moindre murmure ou bruit produit dans la zone est amplifié comme s'il était une clameur. Chaque point de rêve dépensé augmente le volume sonore, et, pratiquement, accroît de 5 m la distance à laquelle une voix normale peut être entendue intelligiblement. L'effet de Clameurs est perceptible aussi bien de l'intérieur que de l'extérieur de la zone. Il peut être un excellent substitut de ''sono'' pour les musiciens. Permet également d'entendre ce qui ce murmure à l'autre bout de la taverne, sauf que tout le monde en profite, à commencer par les intéressés.
+'''Effet''' Le moindre murmure ou bruit produit dans la zone est amplifié comme s'il était une clameur. Chaque point de rêve dépensé augmente le volume sonore, et, pratiquement, accroît de 5 m la distance à laquelle une voix normale peut être entendue intelligiblement. L'effet de Clameurs est perceptible aussi bien de l'intérieur que de l'extérieur de la zone. Il peut être un excellent substitut de ''sono'' pour les musiciens. Permet également d'entendre ce qui se murmure à l'autre bout de la taverne, sauf que tout le monde en profite, à commencer par les intéressés.
 
 === CROISSANCE VÉGÉTALE ===
 (Foret) R-6 r5<BR>
@@ -120,11 +120,11 @@ La vitesse maximum d'une Bulle Volante est de 50 m par round (50 km/60mn). Il n'
 '''Portée''' E2<BR>
 '''Durée''' HN<BR>
 '''JR''' Aucun<BR>
-'''Effet''' Quoique zone fixe, Pont lmmatériel est un des rares exemples de zone non sphérique. C'est un pont en dos d'âne, champ de force immatériel sans épaisseur, ayant comme la [[#BARQUE DE RÊVE|Barque de Rêve]] la fragile transparence bleutée d'une bulle de savon. On ne peut rien faire d'autre que l'emprunter, à pied, à dos d'animal ou en voiture. On ne peut rien y fixer. Si on le heurte par en dessous ou sur la tranche, il éclate comme une bulle. Dessus, par contre, il peut supporter les plus lourdes charges.<BR>
-Le Pont lmmatériel peut être de longueur et de hauteur variables. Pour 2 points de rêve, il peut faire jusqu'à 3 m de long, avec une hauteur maximale de 1 m au centre. Chaque point supplémentaire dépensé permet d'accroître de 1 m sa longueur ou sa hauteur, sachant que sa hauteur ne peut jamais dépasser la moitié de sa longueur. L'entrée et la sortie du pont peuvent ne pas être au même niveau. Le haut-rêvant doit être capable de voir le centre du pont (ciblage) ainsi que les points de départ et d'arrivée. Sa largeur, par contre, n'est pas modifiée par les points dépensés. Au choix du haut-rêvant, elle peut aller de 10 cm à un maximum de 3 m.
+'''Effet''' Quoique zone fixe, Pont Immatériel est un des rares exemples de zone non sphérique. C'est un pont en dos d'âne, champ de force immatériel sans épaisseur, ayant comme la [[#BARQUE DE RÊVE|Barque de Rêve]] la fragile transparence bleutée d'une bulle de savon. On ne peut rien faire d'autre que l'emprunter, à pied, à dos d'animal ou en voiture. On ne peut rien y fixer. Si on le heurte par en dessous ou sur la tranche, il éclate comme une bulle. Dessus, par contre, il peut supporter les plus lourdes charges.<BR>
+Le Pont Immatériel peut être de longueur et de hauteur variables. Pour 2 points de rêve, il peut faire jusqu'à 3 m de long, avec une hauteur maximale de 1 m au centre. Chaque point supplémentaire dépensé permet d'accroître de 1 m sa longueur ou sa hauteur, sachant que sa hauteur ne peut jamais dépasser la moitié de sa longueur. L'entrée et la sortie du pont peuvent ne pas être au même niveau. Le haut-rêvant doit être capable de voir le centre du pont (ciblage) ainsi que les points de départ et d'arrivée. Sa largeur, par contre, n'est pas modifiée par les points dépensés. Au choix du haut-rêvant, elle peut aller de 10 cm à un maximum de 3 m.
 
 === QUIÉTUDE ===
-(Necropole) R-3 r4<BR>
+(Nécropole) R-3 r4<BR>
 '''Portée''' E2<BR>
 '''Durée''' HN<BR>
 '''JR''' Aucun<BR>
@@ -142,7 +142,7 @@ Le Pont lmmatériel peut être de longueur et de hauteur variables. Pour 2 point
 '''Portée''' E2<BR>
 '''Durée''' HN, puis HN + 12 heures<BR>
 '''JR''' Aucun<BR>
-'''Effet''' Téléportation est un sort de double zone. Il ne fonctionne en effet que lorsque deux Zones distinctes ont été mises en place : la zone de départ et la zone d'arrivée. Les deux doivent être lancées depuis la ''même'' case de collines. Le haut-rêvant commence par créer la zone d'arrivée, puis il a jusqu'à sa prochaine heure de naissance pour créer la zone de départ. Peu importe la distance séparant les deux zones tant que le délai n'est pas dépassé. Si cela se produit, la première zone disparaît purement et simplement comme n'importe quelle zone parvenue au bout de sa durée. Dès que la zone de départ est créée, la durée des deux zones est repoussée jusqu'à la fin de la ''seconde'' heure de naissance du haut-rêvant. c'est-à-dire son heure de naissance + 12 heures. Au bout de cette nouvelle durée, les deux zones s'annihilent.<BR>
+'''Effet''' Téléportation est un sort de double zone. Il ne fonctionne en effet que lorsque deux Zones distinctes ont été mises en place : la zone de départ et la zone d'arrivée. Les deux doivent être lancées depuis la ''même'' case de collines. Le haut-rêvant commence par créer la zone d'arrivée, puis il a jusqu'à sa prochaine heure de naissance pour créer la zone de départ. Peu importe la distance séparant les deux zones tant que le délai n'est pas dépassé. Si cela se produit, la première zone disparaît purement et simplement comme n'importe quelle zone parvenue au bout de sa durée. Dès que la zone de départ est créée, la durée des deux zones est repoussée jusqu'à la fin de la ''seconde'' heure de naissance du haut-rêvant, c'est-à-dire son heure de naissance + 12 heures. Au bout de cette nouvelle durée, les deux zones s'annihilent.<BR>
 Quand le couple de zones est prêt à fonctionner, toute créature qui entre dans la zone de départ, ou tout objet qu'on y fait pénétrer, se retrouve instantanément dans la zone d'arrivée. Si la zone d'arrivée reste occupée par quoi que ce soit d'assez volumineux pour empêcher la re-matérialisation d'un personnage ou d'un objet téléporté, la téléportation cesse de fonctionner jusqu'à ce que la zone d'arrivée ait été suffisamment déblayée (au gardien des rêves de juger des cas litigieux).
 
 === TÉNÈBRES ===

@@ -16,12 +16,11 @@ Le haut-rêvant a quatre compétences de magie à sa disposition, correspondant 
 En termes de jeu, l'état mental que représentent les Terres Médianes du Rêve est concrétisé par une carte symbolique divisée en cases. Chaque positionnement possible est indiqué sous la forme d'un nom de lieu géographique. On trouve ainsi des ''plaines'', des ''forêts'', des ''cités'', etc., chacune occupant une case de la carte. Pour obtenir un effet magique, le haut-rêvant doit se positionner sur l'une de ces cases. Chaque sort est affilié à un type de case de la carte.
 === Paramètres ===
 Chaque sort est caractérisé :
-* par sa voie, c'est-à-dire la compétence de Draconic qui doit être utilisée pour le mettre en oeuvre,
+* par sa voie, c'est-à-dire la compétence de Draconic qui doit être utilisée pour le mettre en œuvre,
 * par son genre, sort ou rituel,
 * par un type de case des TMR, où le haut-rêvant doit se positionner,
 * par une difficulté (R-),
 * par un coût en points de rêve (r). Ce coût est soit fixe, par exemple r7 (7 points de rêve dépensés), soit variable pour un effet graduel, par exemple r2+ (2 points de rêve ou plus au choix du haut-rêvant).
-
 
 === Rituels ===
 Les ''rituels'' sont des effets magiques aux règles d'application identiques aux sorts, à deux exceptions près. Premièrement, leur lancer comporte un ajustement supplémentaire, positif, neutre ou négatif, correspondant à l'influence astrologique de l'heure où ils sont lancés. Quand un haut-rêvant accomplit un rituel durant une heure qui lui est astrologiquement ''très favorable'', il bénéficie d'un bonus de +4 à son jet de [[Les Caractéristiques#RÊVE|RÊVE]]/[[Les Compétences#Draconic|Draconic]] et inversement d'un malus de -4 si l'heure lui est astrologiquement ''très défavorable''. Les deux heures ''favorables'' confèrent un bonus de +2 et les deux heures ''défavorables'' un malus de -2. Les six autres heures ne rajoutent ni n'enlèvent rien. Deuxièmement, les rituels, ni leurs échecs totaux, ne peuvent jamais être mis ''en réserve''.
