@@ -1,0 +1,12 @@
+__NOTOC__
+Ce chapitre est une aide de jeu multiple destinée à étoffer les compétences de connaissance. On y trouvera des exemples de plantes pour satisfaire la Botanique, des maladies pour servir la compétence Médecine, une bibliographie choisie pour accréditer la compétence Ecriture, ainsi que les grands principes d'Alchimie, telle qu'on la pratique dans Rêve de Dragon, accompagnés des recettes de base. Les autres connaissances sont traitées séparément : pour l'Astrologie, voir les règles additionnelles du Livre I ; pour la Zoologie, voir les animaux du prochain chapitre de ce même livre.
+
+ [[Rêve de Dragon Seconde Édition|Retour à Rêve de Dragon Seconde Édition]]
+
+* [[Botanique]]
+
+* [[Maladies]]
+
+* [[Ecrits]]
+
+* [[Principes d'Alchimie]]
