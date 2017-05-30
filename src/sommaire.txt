@@ -103,5 +103,7 @@ __NOTOC__
 ** [[Les Trois Âges]]
 ** [[Les Voyageurs]]
 * [[D'un rêve à l'autre]]
+** [[Les Passages]]
+** [[Navigation]]
 * [[Connaissances]]
 * [[Les Créatures]]

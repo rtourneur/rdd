@@ -1,0 +1,175 @@
+__NOTOC__
+ [[D'un rêve à l'autre|Retour à d'un rêve à l'autre]]
+
+Il ne saurait y avoir de vrai voyage qui ne connaisse au moins un épisode en mer. L'angoisse de voir la côte qui s'éloigne, le ricanement des mouettes, le balancement du vaisseau sur la houle, les grincements du gréement, toutes ces émotions font partie intégrante du voyage. Les règles de Navigation sont une aide de jeu d'un emploi très épisodique. Tant qu'on reste sur la terre ferme, il n'y a pas de raison de les utiliser.<BR>
+=== Les courants ===
+Les mers et océans rêvés par les Dragons se caractérisent autant par la force et la direction de leurs vents que par celles de leurs courants. Ces derniers sont très nombreux, localisés, et forment un réseau complexe. Ils résultent du grand nombre de déchirures du rêve que contiennent les étendues marines et sous-marines. Aux dires de certains, routes les mers rêvées par les Dragons communiquent entre elles par une multitude de points. La plupart de ces déchirures sont situées en profondeur, mais certaines peuvent se trouver en surface. Outre la connaissance des vents, le grand art du marin consiste à reconnaître et évaluer les courants ainsi formés.<BR>
+Généralement stables le long des côtes, les courants le sont beaucoup moins en pleine mer. D'où la première et essentielle règle de navigation : ''ne jamais s'éloigner des côtes''.<BR>
+Les courants ont généralement la forme d'une courbe, au rayon pouvant varier de quelques dizaines de mètres à plusieurs centaines de kilomètres, la courbe étant alors une quasi ligne droite. Ce sont des bandes de largeur variable, de quelques mètres à plusieurs centaines de mètres. C'est au centre de la bande, nommé ''dos'', que la force (la vitesse) est la plus grande. Elle détroit de part et d'autre du dos, sur les ''flancs'', jusqu'à devenir nulle. Un espace sans courant, c'est-à-dire situé entre deux courants, est appelé ''ventre''. Enfin, les courants finissent tous par ralentir et mourir. L'espace sans courant dû à la mort de ce dernier s'appelle la ''queue'' ; l'espace où un courant prend naissance s'appelle la ''tête''. Il est intéressant de noter que, dans leur terminologie, les marins s'imaginent naviguer sur le dos des Dragons et que, les courants se déplaçant de la tête à la queue, ces derniers vont à reculons.
+==== Boucle ====
+C'est l'unité de vitesse des bateaux. Une boucle équivaut à 1 kilomètre par heure draconique.<BR>
+La force d'un courant traduit directement sa vitesse en boucles. Les courants emportent tout à une vitesse uniforme, quelle que soit la taille des objets. Le dos de certains courants peut avoir jusqu'à une force de 100, c'est-à-dire entraîner tout ce qui s'y trouve à une vitesse de 100 boucles. Ils sont évidemment très difficiles à remonter. Mais la majorité n'ont qu'une force de 3 à 18 (3d6).<BR>
+=== Les perditions ===
+La plupart des têtes et des queues des courants sont sans danger car les déchirures qui les provoquent (jaune à la tête, violette à la queue) sont situées sous la surface des eaux. En revanche, les marins redoutent ce qu'ils appellent les ''perditions''. Ce sont les déchirures du rêve situées à la surface, ou pire, à une légère distance au dessus de la surface.<BR>
+Les perditions violettes, à la queue des courants, sont des déchirures de départ. Etant situées à la surface, elles emportent avec elles tout ce qui s'y engouffre. La plupart du temps, les marins ne ressentent qu'une secousse, une sensation de déséquilibre, et continuent leur voyage sur une mer apparemment inchangée. En réalité, ils ne sont plus dans le même rêve, ils sont « perdus », d'où le nom donné à ces colorations violettes.<BR>
+Les plus redoutées des perditions violettes sont celles qui ne touchent pas véritablement la surface et, de fait, sont capables d'emporter le bateau sans emporter la mer qui est en dessous. Victimes de telles perditions, nombre de marins se sont ainsi retrouvés en plein désert, en forêt ou au sommet d'une montagne.<BR>
+Les perditions jaunes, déchirures d'arrivée, sont les moins dangereuses. On ne risque pas de s'y perdre véritablement. Mais elles sont souvent accompagnées de tourbillons.
+=== Les manoeuvres ===
+[[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#NAVIGATION|Navigation]] permet de voir les courants, à la coloration de la mer, à la forme des vagues, à l'aspect de l'écume. Permet d'en apprécier la force, la largeur, la courbure, la tête, la queue, la présence de perditions.<BR>
+[[Les Caractéristiques#ODORAT-GOÛT|ODORAT-GOÛT]]/[[Les Compétences#NAVIGATION|Navigation]] permet, olfactivement, de sentir le vent. On peut en déduire s'il vient de la côte ou du large. On peut sentir s'il promet d'être stable ou s'il n'est que passager, s'il va forcir ou mollir, s'il annonce une bourrasque, un calme plat, une tempête, etc.<BR>
+''Bon nez, bon oeil !'' tels sont donc les attributs du marin, les clés essentielles de la navigation. Lorsque la nuit est claire, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ASTROLOGIE|Astrologie]] permet également de repérer les couchers et levers des étoiles et de maintenir un cap approximatif, mais uniquement en ce qui concerne les directions est-ouest. La latitude est un concept incertain : seuls s'en étonneront ceux qui pensent que les rêves des Dragons sont des planètes.<BR>
+[[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#NAVIGATION|Navigation]] permet de décider des manœuvres précises à accomplir dans chaque cas : hisser telle voile ou l'affaler, changer tel cordage de position, etc. Le jet de dés n'est joué que par un seul : celui qui dirige la manœuvre (le capitaine).<BR>
+Si l'ajustement final est positif, le jet n'est jamais réellement joué. C'est un cas de routine où l'on considérera la réussite automatique. S'il est de zéro ou négatif, il doit par contre être joué normalement. Noter qu'un véritable « capitaine », digne de ce nom, doit avoisiner les +10 en [[Les Compétences#NAVIGATION|Navigation]]. En cas d'échec, fausse manœuvre, le navire encaisse à zéro ; en cas d'échec total, il encaisse à +3 (voir ci-après les dommages). Puis la manœuvre peut être recommencée.<BR>
+À partir du moment où l'ordre donné est correct, l'exécution des manœuvres ne requiert aucun jet de dés de la part de l'équipage.<BR>
+La difficulté du jet est à décider cas par cas par le scénario. Noter toutefois qu'un ajustement final positif ne suppose une réussite automatique que pour les manœuvres. Le jet doit toujours être joué, quel que soit l'ajustement, quand il s'agit de voir un courant ou de sentir un vent.
+=== Les vaisseaux ===
+Les vaisseaux sont définis par les caractéristiques suivantes : 
+==== Résistance ====
+C'est leur résistance aux intempéries et aux chocs, leur endurance, leur solidité. À zéro point de résistance, un vaisseau perd directement des points de structure. Les points de résistance perdus peuvent être réparés en mer. 25% d'un équipage normal peuvent réparer 1d6+1 points de résistance par heure. Il faut toutefois que le matériel nécessaire soit présent : calfat, cordages, pièces de bois, etc... Un vaisseau ne peut emporter un nombre de points de réparation supérieur à sa structure. 
+==== Structure ====
+C'est la matière même du vaisseau, ses points de vie. À zéro point de structure, un vaisseau coule ou n'est plus qu'une épave inutilisable. Les points de structure perdus ne peuvent être réparés qu'en cale sèche. 
+==== Vitesse ====
+C'est la vitesse du navire obtenue grâce au vent quand la voilure est utilisée. Les navires de ''Rêve de Dragon'', de type antique-médiéval ont généralement des voiles carrées, parfois de longues voiles triangulaires montées sur antenne. Ils ne connaissent que 3 allures : vent arrière ; trois-quarts arrière ; de travers. Ils ne peuvent jamais remonter le vent au près. La vitesse de chaque navire est exprimée par 3 chiffres, x/y/z, qui représentent respectivement les vitesses des trois allures possibles. Ces chiffres sont à multiplier par la force du vent, pour obtenir la vitesse réelle exprimée en boucles.<BR>
+''Dans le port d'Esparlongue, Nitouche et Brucelin se sont embarqués à bord du Homard Cramoisi. Ce vaisseau a comme caractéristique de vitesse : 4/3/1. Supposons qu'il souffle un vent de force 4. Par vent arrière, le Homard Cramoisi filera à une vitesse de 4 x 4 = 16 boucles (soit 16 km/h draconique, soit encore, exprimé dans un autre jargon, une vitesse de 4,3 nœud) ; par trois-quarts arrière, il filera à 3 x 4 = 12 boucles ; et par vent de travers, à 1 x 4= 4 boucles.''<BR>
+À la vitesse due au vent peut toujours s'ajouter ou se soustraire la force d'un courant.<BR>
+''Si le Homard Cramoisi a le vent arrière, mais remonte un courant de force 10, sa vitesse tombera à 16 -10 = 6 boucles. S'il prend le vent de travers en descendant un courant de force 8, sa vitesse sera 4 + 8 = 12 boucles.''
+==== Bonus rames ====
+Le premier nombre, entre parenthèses, (x),indique le nombre de paires de rames nécessaires pour obtenir la vitesse indiquée. Les deux nombres suivants, +y/+z, expriment directement la vitesse en boucles quand le bateau est propulsé de toute la force de ses rames et représentent respectivement la simple et double cadence. La simple cadence coûte 2 points de fatigue par période de 60 minutes à chaque rameur (4 points par heure), la double cadence coûte 3 points de fatigue par période de 30 minutes (12 points par heure). Ces bonus s'ajoutent à la vitesse déjà obtenue par le navire en fonction du vent et/ou du courant. Le résultat peut être négatif. Si un navire veut remonter un courant de force 9 et ne peut obtenir que 8 à double cadence, il recule en fait de 1. Chaque paire de rames manquante baisse la vitesse proportionnellement. Arrondir au plus près. 
+==== Manœuvrabilité ====
+Ajustement aux jets d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#NAVIGATION|Navigation]] par rapport à certaines allures ou manœuvres. Comme la vitesse, la manœuvrabilité est exprimée par 3 ajustements correspondant aux trois allures. 
+==== Équipage ====
+Nombre normal de marins que doit posséder le vaisseau. Faire la moyenne de compétence [[Les Compétences#NAVIGATION|Navigation]] de l'équipage en considérant chaque marin manquant comme un marin à -11. Si la compétence moyenne obtenue est positive, on n'en tient pas compte. Si elle est négative, elle ajuste d'autant le jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#NAVIGATION|Navigation]] du capitaine, en plus de l'ajustement de condition. Puis, comme dit plus haut, si l'ajustement final reste positif, il n'y a pas vraiment de jet à tirer. 
+
+{| style="border:1px solid black;text-align:center;"
+|-
+| colspan="8" | '''<big>Quelques embarcations types</big>'''
+|-
+| colspan="8" | Les modèles suivants sont donnés à titre d'exemple et pour fixer un ordre de grandeur en ce qui concerne les caractéristiques (structure, résistance, etc). Ils peuvent naturellement être soumis à de multiples variations.
+|-
+! !! Résistance !! Structure !! Vitesse <small>(boucles)</small> !! Bonus rames !! Manœuvrabilité !! Équipage <small>(hommes)</small> !! Prix <small>(sols)</small>
+|-
+| style="text-align:left;" | '''Canot''' || 14 || 6 || - || (2)/+3/+5 || - || 1 || 10 
+|-
+| style="text-align:left;" | '''Barque''' || 20 || 10 || 3/2/1 || (4)/+4/+6 || 0/0/-4 || 4 || 30-50 
+|-
+| style="text-align:left;" | '''Drakkar''' || 28 || 12 || 3/2/1 || (10)/+10/+14 || 0/-2/-4 || 8 || 150-200 
+|-
+| style="text-align:left;" | '''Nef''' || 30 || 14 || 5/4/2 || - || 0/-3/-4 || 12 || 400-600 
+|-
+| style="text-align:left;" | '''Galère''' || 36 || 14 || 2/2/1 || (16)/+12/+16 || 0/-4/-6 || 10 || 400-600
+|-
+| colspan="8" | &nbsp;
+|-
+| colspan="8" style="text-align:left;" | '''Note''' La manœuvrabilité et le nombre d'hommes d'équipage ne s'appliquent qu'à l'utilisation des voiles, pas des rames. Pour drakkar et galère, le nombre de rameurs est du double du nombre de paires de rames. 
+|}
+
+''Le Homard Cramoisi doit avoir un équipage minimum de 20 hommes. 20 marins sont effectivement enrôlés, ayant tous +3 en Navigation. Tant qu'ils sont là tous les vingt, la compétence moyenne de l'équipage est de +3 et le capitaine peut diriger sans malus. Mais après une grave tempête, l'équipage décimé ne comprend plus que 7 marins. Tout se passe alors comme s'il y avait 13 marins à -11 et 7 marins à +3. On fait la moyenne et on obtient -6,1. Arrondi au plus près, cela donne -6. Dès lors, à chaque manœuvre, le capitaine aura un malus de -6. Supposons qu'il ait lui-même +10 en Navigation et qu'il tente, par exemple, de virer de bord dans une passe dangereuse, manœuvre estimée selon le scénario à une difficulté -4. L'ajustement du jet d'EMPATHIE/Navigation du capitaine sera donc calculé: (-4) + (-6) + (+10) = 0. Et à zéro, le jet doit réellement être joué.''
+
+=== Les vents et la mer ===
+La force et la direction du vent peuvent être décidées par le gardien des rêves en fonction de son scénario ou déterminées aléatoirement. Pour la direction, utiliser 1d8, en supposant 1 = nord, 2 = nord-est, etc. Pour la force, tirer 1d<sup>dr</sup> (0 à 7), et pratiquer comme pour un rêve de Dragon. Retirer et ajouter tant qu'on obtient 7. Zéro indique calme plat, pas de vent ; et 8 ou plus indique une tempête capable de causer des dommages.
+
+{| style="border:1px solid black;text-align:right;"
+|-
+! style="text-align:left;" | Vent !! Force !! Mer 
+|-
+| style="text-align:left;" | Calme || 0 || Calme
+|-
+| style="text-align:left;" | Légère brise || 1 || Belle
+|-
+| style="text-align:left;" | Jolie brise || 2 || Peu agitée
+|-
+| style="text-align:left;" | Bonne brise || 3 || Agitée
+|-
+| style="text-align:left;" | Vent frais || 4 || Forte
+|-
+| style="text-align:left;" | Coup de vent || 5 || Très forte
+|-
+| style="text-align:left;" | Fort coup de vent || 6 || Très forte
+|-
+| style="text-align:left;" | Tempête || 7-9 || Grosse
+|-
+| style="text-align:left;" | Violente tempête || 10-13 || Très grosse
+|-
+| style="text-align:left;" | Ouragan || 14+ || Enorme
+|}
+
+=== Les dommages ===
+Chaque agression que peut subir un vaisseau (tempête, récif, etc) est caractérisée par un +dom, comme pour les combats. Le vaisseau joue alors un jet d'encaissement et l'on se reporte à la table des Avaries.<BR>
+Quand la résistance tombe à zéro, les dommages suivants sont directement perdus en structure. Quand la structure tombe à zéro, c'est le naufrage.<BR>
+La vitesse effective du navire est réduite de 1 boucle par point de structure manquant. Ce malus ne s'applique qu'à la propulsion par vent/rame, pas à la propulsion due au courant. De même, chaque point de structure manquant donne un malus de -1 à la manœuvrabilité, c'est-à-dire au jet d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#NAVIGATION|Navigation]] du capitaine.<BR>
+''Pris dans la tempête, le Homard Cramoisi doit jouer un jet d'encaissement à +1. On tire 2d10, donnant 15, +1 = 16, une avarie grave. Il perd 2d6 points de résistance, en l'occurrence 8, et 2 points de structure. Quand le calme revient, le gardien des rêves annonce que 3 marins sont portés disparus. Avec un vent arrière de force 3, le navire devrait filer à 3 x 4 = 12 boucles. Mais comme il lui manque 2 points de structure, sa vitesse ne sera que de 12 - 2 = 10 boucles. Les 2 points de structure manquant sont également un malus de -2 aux jets d'EMPATHIE/Navigation du capitaine, s'ajoutant au malus dû à un équipage incomplet. « On peut vous aider ? » propose aimablement Nitouche.''
+
+{| style="border:1px solid black;text-align:center;"
+|-
+| colspan="4" | '''<big>Avaries</big>'''
+|-
+| colspan="2" | || colspan="2" | '''''perte de points'''''
+|-
+| colspan="2" | || '''''de résistance''''' || '''''de structure'''''
+|-
+| style="text-align:left;" | '''01-10''' || style="text-align:left;" | '''dégâts mineurs''' || -1d4 || 0 
+|-
+| style="text-align:left;" | '''11-14''' || style="text-align:left;" | '''avarie légère''' || -1d6 || 0
+|-
+| style="text-align:left;" | '''16-19''' || style="text-align:left;" | '''avarie grave''' || -2d6 || -2
+|-
+| style="text-align:left;" | '''20+''' || style="text-align:left;" | '''avarie critique''' || -3d6+ || -4+
+|}
+
+=== Les récifs ===
+Les hauts-fonds et les récifs sont caractérisés par un +dom, compris entre 0 pour les simples hauts-fonds et +5 pour les récifs les plus déchirants. A ce +dom s'ajoute un second, dû à la vitesse du navire en boucles (vent, rames, courant combinés), selon la table ci-dessous.
+ 
+{| style="border:1px solid black;text-align:center;"
+|-
+! Vitesse (boucles) !! +dom 
+|-
+| 1-6 || 0 
+|-
+| 7-12 || +1 
+|-
+| 13-16 || +2 
+|-
+| 17-20 || +3 
+|-
+| 21-24 || +4 
+|-
+| 25-26 || +5 
+|-
+| 27-30 || +6 
+|-
+| 31-35 || +7 
+|-
+| 36-40 || +8 
+|-
+| (+5) || (+1) 
+|}
+
+''Mal secondé, le capitaine du Homard Cramoisi dirige le navire vers des hauts fonds dont le gardien des rêves estime le +dom à +2. Au moment du choc, le Homard Cramoisi a une vitesse de 10 boucles. Le +dom subi sera donc de +3 (+2 de hauts-fonds + +1 de vitesse).'' 
+
+=== Les tempêtes ===
+Les tempêtes sont des vents de force 8 et plus. Elles endommagent obligatoirement les navires, quelle que soit la compétence des marins. Dans ce cas, la compétence effective consiste à se débrouiller pour ne pas subir la tempête. Quand un navire est pris dans une tempête, il doit jouer un jet d'encaissement par rapport à la violence de la tempête, selon la table ci-dessous. Ces dommages sont indépendants de ceux qui peuvent être parallèlement causés par des récifs ou des hauts-fonds.
+
+{| style="border:1px solid black;text-align:center;"
+|-
+! Force du vent !! +dom
+|-
+| 8 || -2 
+|-
+| 9 || -1 
+|-
+| 10 || 0 
+|-
+| 11 || +1 
+|-
+| 12 || +2 
+|-
+| 13 || +3 
+|-
+| 14 || +4 
+|-
+| (+1) || (+1) 
+|}
+
+==== Phases des tempêtes ====
+Les tempêtes ont autant de phases qu'il y a eu de d<sup>dr</sup> ''rejoués''. Au minimum 1 par définition. On joue autant de jets d'encaissement qu'il y a eu de phases, mais avec des +dom graduels.<BR>
+Par exemple, un premier jet de force de vent donne 7. On rejoue donc et on obtient 7 à nouveau ; on rejoue encore et on obtient encore 7 ; on rejoue une troisième et (ouf !) on n'obtient que 4. Trois dés ayant été rejoués, la tempête aura trois phases. La première avec une violence de 7 + 7 = 14 (+dom +4) ; la seconde avec une violence de 14 + 7 = 21 (+dom +11) ; la troisième avec une vio-lence de 21 + 4 = 25 (+dom + 15). Les tempêtes peuvent être des événements tragiques.
