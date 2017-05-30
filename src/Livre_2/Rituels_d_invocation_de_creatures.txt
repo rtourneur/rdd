@@ -9,33 +9,33 @@ Les créatures invoquées ne sont pas des hologrammes sans substance mais des pr
 '''Durée''' Tâche<BR>
 '''JR''' Aucun<BR>
 '''Effet''' Le Guerrier Sorde a l'apparence d'un humanoïde entièrement revêtu d'une armure de plaques, visière du heaume toujours baissée, dissimulant son visage. Il est armé d'une épée sorde, d'un bouclier moyen et d'une dague. La seule tâche que l'on puisse lui demander est de faire usage de ses armes. Une fois invoqué, il attaque toute créature que le haut-rêvant lui désigne expressément, et se bat contre elle jusqu'à ce qu'il l'extermine ou reçoive un contre-ordre. On peut alors lui ordonner de commencer un autre combat, à condition que le délai entre deux combats n'excède pas 10 rounds. faute de quoi il considère sa tâche accomplie et se dématérialise. S'il est invoqué alors qu'il n'y a pas de créature à combattre immédiatement, il ne patiente que jusqu'à la fin de l'heure en cours, après quoi il s'estime dérangé pour rien et se dématérialise. Durant le délai, il peut accompagner le haut-rêvant où qu'il aille, mais sans pouvoir s'éloigner de lui de plus de E1 mètres. Sa vitesse est limitée à 12 m/round, il ne court, n'escalade ni ne nage jamais. Il n'obéit qu'au haut-rêvant qui l'a invoqué. Le rituel peut être répété pour invoquer plusieurs Guerriers Sordes dans un même combat. Tous ont les mêmes caractéristiques. La Perception indiquée tient compte des malus dus au heaume. Les Guerriers Sordes sont normalement affectés par les suggestions et illusions d'Hypnos, avec un JR standard r-8, ainsi que par les sorts individuels de Thanatos.
-{|style="border:1px solid black;text-align:center;"
+{| style="border:1px solid black;text-align:center;"
 |-
 | colspan="6" | '''<big>Guerrier Sorde</big>'''
 |-
-|style="text-align:left;" | TAILLE||13||style="text-align:left;"|PERCEPTION||10||style="text-align:left;"|Vie||14
+| style="text-align:left;" | TAILLE || 13 || style="text-align:left;" | PERCEPTION || 10 || style="text-align:left;" | Vie || 14
 |-
-|style="text-align:left;" | CONSTITUTION||15||style="text-align:left;"|VOLONTÉ||16||style="text-align:left;"|Endurance||30
+| style="text-align:left;" | CONSTITUTION || 15 || style="text-align:left;" | VOLONTÉ|| 16 || style="text-align:left;" | Endurance || 30
 |-
-|style="text-align:left;" | FORCE||15||style="text-align:left;"|RÊVE||10||style="text-align:left;"|+dom||+2
+| style="text-align:left;" | FORCE || 15 || style="text-align:left;" | RÊVE || 10 || style="text-align:left;" | +dom || +2
 |-
-|style="text-align:left;" | AGILITÉ||13||style="text-align:left;"|Mêlée||14||style="text-align:left;"|Protection||6
+| style="text-align:left;" | AGILITÉ || 13 || style="text-align:left;" | Mêlée || 14 || style="text-align:left;" | Protection || 6
 |-
-|style="text-align:left;" | DEXTÉRITÉ||10||style="text-align:left;"|Dérobée||10||style="text-align:left;"|M. armure||-6
+| style="text-align:left;" | DEXTÉRITÉ || 10 || style="text-align:left;" | Dérobée || 10 || style="text-align:left;" | M. armure || -6
 |-
-||
+| colspan="6" | &nbsp;
 |-
-|style="text-align:left;" | Épée sorde||14||style="text-align:left;"|niv +5||init 12||+dom +5
+| style="text-align:left;" | Épée sorde || 14|| style="text-align:left;" | niv +5 || init 12 || +dom +5 ||
 |-
-|style="text-align:left;" | Dague Mêlée||14||style="text-align:left;"|niv +5||init 12||+dom +3
+| style="text-align:left;" | Dague Mêlée || 14|| style="text-align:left;" | niv +5 || init 12 || +dom +3 ||
 |-
-|style="text-align:left;" | Corps à corps||14||style="text-align:left;"|niv +5||init 12||+dom (+2)
+| style="text-align:left;" | Corps à corps || 14|| style="text-align:left;" | niv +5 || init 12 || +dom (+2) ||
 |-
-|style="text-align:left;" | Bouclier||14||style="text-align:left;"|niv +5||
+| style="text-align:left;" | Bouclier || 14|| style="text-align:left;" | niv +5 || colspan="3" |
 |-
-|style="text-align:left;" | Esquive||10||style="text-align:left;" colspan="4"|niv +5 (- malus armure = -1)|
+| style="text-align:left;" | Esquive || 10|| style="text-align:left;" colspan="4" | niv +5 (- malus armure = -1)
 |-
-|style="text-align:left;" | Vigilance||10||style="text-align:left;"|niv +5|
+| style="text-align:left;" | Vigilance || 10|| style="text-align:left;" | niv +5 || colspan="3" |
 |}
 
 === GUERRIER TURME ===
@@ -44,31 +44,30 @@ Les créatures invoquées ne sont pas des hologrammes sans substance mais des pr
 '''Durée''' Tâche <BR>
 '''JR''' Aucun <BR>
 '''Effet''' Le Guerrier Turme a l'apparence d'un Humain vêtu de cuir souple, armé d'une unique dague, et porteur d'un cor. Ses traits physiques sont sans importance, blond ou brun. laid ou beau, homme ou femme. La seule tâche qu'il puisse accomplir est de veiller sur le sommeil du haut-rêvant. Il n'y a pas même besoin de le lui demander : il ne peut et ne sait faire que cela. Doté d'une forte perception empathique, il est capable de déceler tout danger ''réel'' à l'égard de son invocateur, qui se manifeste ou s'approche dans un rayon de E4 mètres. Il sonne alors du cor et continue à sonner jusqu'à ce que le haut-rêvant soit pleinement réveillé. Puis estimant sa tâche accomplie, il se dématérialise. Sa dague ne lui sert qu'à se défendre s'il est agressé avant le réveil du haut-rêvant. Ayant invoqué le Guerrier Turme, le haut-rêvant doit s'endormir avant la fin de l'heure en cours, faute de quoi le guerrier se dématérialise, s'estimant dérangé pour rien. Les Guerriers Turmes ont tous les mêmes caractéristiques et sont affectés par les sorts comme les Guerriers Sordes.
-{|style="border:1px solid black;text-align:center;"
+{| style="border:1px solid black;text-align:center;"
 |-
 | colspan="6" | '''<big>Guerrier Turme</big>'''
 |-
-|style="text-align:left;" | TAILLE||11||style="text-align:left;"|PERCEPTION||16||style="text-align:left;"|Vie||12
+| style="text-align:left;" | TAILLE || 11 || style="text-align:left;" | PERCEPTION|| 16 || style="text-align:left;" | Vie || 12
 |-
-|style="text-align:left;" | CONSTITUTION||13||style="text-align:left;"|VOLONTÉ||12||style="text-align:left;"|Endurance||24
+| style="text-align:left;" | CONSTITUTION || 13 || style="text-align:left;" | VOLONTÉ|| 12 || style="text-align:left;" | Endurance || 24
 |-
-|style="text-align:left;" | FORCE||12||style="text-align:left;"|RÊVE||10||style="text-align:left;"|+dom||0
+| style="text-align:left;" | FORCE || 12 || style="text-align:left;" | RÊVE|| 10 || style="text-align:left;" | +dom || 0
 |-
-|style="text-align:left;" | AGILITÉ||12||style="text-align:left;"|Mêlée||12||style="text-align:left;"|Protection||2
+| style="text-align:left;" | AGILITÉ || 12 || style="text-align:left;" | Mêlée|| 12 || style="text-align:left;" | Protection || 2
 |-
-|style="text-align:left;" | DEXTÉRITÉ||12||style="text-align:left;"|Dérobée||11
+| style="text-align:left;" | DEXTÉRITÉ || 12 || style="text-align:left;" | Dérobée || 11 || colspan="2" |
 |-
-||
+| colspan="6" | &nbsp;
 |-
-|style="text-align:left;" | Dague Mêlée||12||style="text-align:left;"|niv +5||init 12||+dom +1
+| style="text-align:left;" | Dague Mêlée || 12 || style="text-align:left;" | niv +5 || init 12 || +dom +1 ||
 |-
-|style="text-align:left;" | Corps à corps||12||style="text-align:left;"|niv +5||init 12||+dom (0)
+| style="text-align:left;" | Corps à corps || 12 || style="text-align:left;" | niv +5 || init 12 || +dom (0) ||
 |-
-|style="text-align:left;" | Esquive||11||style="text-align:left;"|niv +5
+| style="text-align:left;" | Esquive || 11 || style="text-align:left;" | niv +5 || colspan="3" |
 |-
-|style="text-align:left;" | Vigilance||16||style="text-align:left;"|niv +5
+| style="text-align:left;" | Vigilance || 16 || style="text-align:left;" | niv +5 || colspan="3" |
 |}
-
 
 === NONECHALEPASSE ===
 (Cité Jalouse M1) R-8 r7<BR>
