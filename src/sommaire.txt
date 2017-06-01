@@ -106,4 +106,8 @@ __NOTOC__
 ** [[Les Passages]]
 ** [[Navigation]]
 * [[Connaissances]]
+** [[Botanique]]
+** [[Maladies]]
+** [[Écrits]]
+** [[Principes d'Alchimie]]
 * [[Les Créatures]]

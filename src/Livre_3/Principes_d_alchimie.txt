@@ -1,0 +1,180 @@
+__NOTOC__
+ [[Connaissances|Retour aux Connaissances]]
+
+Plus qu'une règle, les Principes d'Alchimie sont une aide de jeu permettant de développer et d'utiliser la compétence du même nom. Les univers fantastiques sont friands de laboratoires mystérieux pleins de fioles aux couleurs étranges, de vapeurs délétères et suffocantes dans le rougeoiement des braseros et le bouillonnement des cornues - le tout ponctué d'un ricanement insane en voix off. Sans pousser la couleur locale jusque-là, ''Rêve de Dragon'' propose surtout un système qui puisse être compatible avec les exigences du voyage, c'est-à-dire un minimum de matériel.<BR>
+L'alchimie dans ''Rêve de Dragon'' n'est pas véritablement magique au sens que les règles donnent à ce mot. Elle n'a aucun rapport avec le haut-rêve. Certaines préparations alchimiques peuvent être enchantées pour accroître ensuite leur pouvoir, mais elles existent en totale indépendance. Un alchimiste n'a pas besoin d'être haut-rêvant.<BR>
+Dans sa forme de base, seule étudiée ici, ne traitant que des liquides et des pâtes, l'alchimie est la science des ''couleurs'' et des ''consistances''. Elle ne demande qu'un matériel succinct : du feu, un chaudron, un mortier, un pilon, un entonnoir, du parchemin pour filtrer, une fiole hermétique. Sa pratique requiert essentiellement trois caractéristiques : l'[[Les Caractéristiques#INTELLECT|INTELLECT]], pour se souvenir des recettes et être capable de les mettre en oeuvre ; et sur le plan pratique. la [[Les Caractéristiques#VUE|VUE]] pour identifier les couleurs et la [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]] pour identifier les consistances.
+
+=== Poids et mesures draconiques ===
+Les grimoires et autres parchemins que les personnages ne manqueront pas de découvrir et de compulser ne connaissent pas les mots simples tels que ''gramme'' ou ''centilitre''. Pour être sûr de ne commettre aucune erreur, il est bon de se familiariser avec le système de mesure.
+
+{| style="border:1px solid black;text-align:right;"
+|-
+| colspan="3" style="text-align:center;" | '''<big>Mesures de volume</big>'''
+|-
+| colspan="2" style="text-align:left;" | '''pinte''' || 1 litre
+|-
+| colspan="2" style="text-align:left;" | '''demi-pinte''' || 50 centilitres
+|-
+| colspan="2" style="text-align:left;" | '''mesure''' || 20 centilitres
+|-
+| colspan="2" style="text-align:left;" | '''demi-mesure''' || 10 centilitres
+|-
+| style="text-align:left;" | '''doigt''' || colspan="2" | 1 centilitre (10 cm<sup>3</sup>)
+|-
+| style="text-align:left;" | '''déhacoudre''' || colspan="2" | 1 millilitre (1 cm<sup>3</sup>)
+|-
+| style="text-align:left;" | '''pépin''' || colspan="2" | 0,1 millilitre (100 mm<sup>3</sup>)
+|-
+| colspan="3" | &nbsp;
+|-
+| colspan="3" style="text-align:center;" | '''<big>Mesures de poids</big>'''
+|-
+| colspan="2" style="text-align:left;" | '''livre''' || 500 grammes
+|-
+| colspan="2" style="text-align:left;" | '''écaille''' || 10 grammes
+|-
+| colspan="2" style="text-align:left;" | '''brin''' || 1 décigramme
+|}
+
+Quand le mot ''brin'' est utilisé en tant que mesure, il représente une unité de poids. Dans cette acception, 1 ''brin'' d'herbes ne signifie pas une « tige » d'herbe, mais une certaine quantité qui, une fois sèche, correspond à un poids de 0,1 gramme. Tout personnage ayant au moins zéro en Botanique ou en Alchimie est capable de faire cette évaluation sans jet de dés.<BR>
+Le ''pépin'' est une unité de volume, notamment utilisé pour mesurer la taille des gemmes. Un gemme cubique d'une taille de 10 pépins fait un centimètre d'arête. Un volume de 1 pépin d'eau pèse 1 brin.
+
+=== Les couleurs ===
+Les couleurs alchimiques sont de subtils reflets que l'alchimiste peut repérer à travers un prisme de ''cristal alchimique'', et qui correspondent à des degrés de chauffe. C'est au moment où la température atteint la ''couleur'' désirée qu'il faut vite passer à la manipulation suivante. Les sept couleurs de base, telles qu'elles sont répertoriées sur l'échelle de Van Gluten, sont : 
+ '''le Vert'''
+ '''le Glauque'''
+ '''le Bleu'''
+ '''le Pourpre'''
+ '''le Sarigue''' ''(parfois appelé Rouge)''
+ '''le Gris''' ''(parfois appelé Blanc)''
+ '''le Brun''' ''(parfois appelé Noir)''
+On identifie les couleurs avec [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]]. Avec un prisme de cristal alchimique, la difficulté des couleurs de base est de 0, mais nombre de températures correspondent à des composées, par exemple, ''vert-vert-bleu'', difficulté -3. Sans prisme de cristal, toutes les difficultés ont un malus de -5.<BR>
+L'obtention d'un prisme de cristal alchimique peut se faire chez un alchimiste, au prix moyen de 4 sols. Les principes de base permettent également d'en fabriquer un soi-même ; sa recette ne comprend aucune couleur à identifier, uniquement des consistances. Les prismes de cristal alchimique sont fragiles et se brisent au moindre choc. Tant qu'aucune maladresse ne le réduit en miettes, un prisme peut être utilisé un nombre infini de fois. 
+
+=== Les consistances ===
+Les sept consistances, plus ou moins fluides, épaisses, pâteuses, etc., ont reçu le nom d'animaux : 
+ '''Serpent'''
+ '''Lapin'''
+ '''Chèvre'''
+ '''Mouton'''
+ '''Hibou'''
+ '''Renard'''
+ '''Cheval'''
+L'obtention des consistances requiert des jets de [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]]/[[Les Compétences#ALCHIMIE|Alchimie]] à 0 ; mais comme pour les couleurs, la plupart des consistances souhaitables sont des composées, par exemple ''chèvre-chèvre'', difficulté -1. 
+==== Difficultés ====
+Les difficultés des couleurs et des consistances de base sont de zéro. Les mêmes doublées, par exemple lapin-lapin ou bleu-bleu, sont de -1. Ensuite la difficulté est de -1 par composante. Brun-sangue est d'une difficulté -2 (2 composantes) ; cheval-hibou-hibou est d'une difficulté -3 (3 composantes) ; bleu-bleu-vert-glauque est -4.
+
+=== Ingrédients de base ===
+Les ingrédients suivants sont les plus courants. La plupart sont trouvables directement dans la nature. À défaut, on peut se les procurer chez les alchimistes ou les apothicaires. Les prix indiqués correspondent à un brin pour les herbes et à un pépin pour les sels.
+==== Les herbes ====
+Les trois herbes de base de l'alchimie sont le ''mercurion'' (2 d), le ''satum'' (3 d) et la ''névropenthe'' (6 d), utilisées pour obtenir l'eau ''alchimiquement simple'', base de presque tous les travaux. Les trois poussent en toutes forêts, mais la névropenthe est beaucoup plus rare que le mercurion ''(voir [[Botanique#Mercurion|plus haut, Botanique]])''. 
+==== Les sels ====
+Les sept principaux sels utilisés en alchimie sont :<BR>
+''Le candique'', poudre blanche apparaissant sous l'écorce de nombreux arbres, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à 0 (2 d).<BR>
+''Le boralm'', poudre brune apparaissant sur les parois des grottes, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à -1 (3 d).<BR>
+''L'obyssum vert'', poudre verdâtre apparaissant sur les tiges de certains roseaux, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à -2 (5 d).<BR>
+''L'obyssum gris'', plus rare que le vert, poudre grisâtre apparaissant le long de certaines lianes des marais, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à -4 (10 d).<BR>
+''L'obbadion'', poudre bleuâtre obtenue par disruption alchimique du minerai appelé obbadine, sorte de tourbe, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à -2 (20 d).<BR>
+''Le nartha'', poudre noire obtenue par disruption alchimique du minerai appelé narthalide, sorte de marne, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à -3 (40 d).<BR>
+''Le chramaelium'', poudre rouge obtenue par disruption alchimique de la chramaele, minerai ayant l'apparence de la glaise, [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#ALCHIMIE|Alchimie]] à -4 (50 d).<BR>
+Pour repérer dans la nature ces sels ou ces minerais, utiliser les jets de dés indiqués. 
+
+=== Les gemmes ===
+Les gemmes, ou pierres précieuses, sont définies par deux caractéristiques : taille et pureté. Elles entrent parfois dans la composition de préparations alchimiques, ou comme dans le cas de la ''Pulvérisation alchimique'', peuvent être l'objet de la préparation elle-même. Toutefois, la connaissance, l'évaluation, ainsi que le travail (non alchimique) des gemmes s'effectue avec [[Les Compétences#ORFÈVRERIE|Orfèvrerie]]. Sans cette compétence, un alchimiste peut toujours mesurer la taille d'une gemme, mais est incapable d'évaluer sa pureté.
+==== Taille. ====
+La taille des gemmes, c'est-à-dire leur volume, est mesurée en pépins. Une gemme de 10 pépins fait 1 cm<sup>3</sup>.
+====Pureté ====
+La pureté des gemmes, leur « eau », est mesurée sur une échelle de 1 à 7. Une pierre d'une pureté inférieure à 1 est semi-précieuse et ne mérite pas le qualificatif de gemme. Il n'existe aucune pureté supérieure à 7.
+====Prix ====
+Le prix de base d'une gemme, en sols, est calculé en effectuant le produit de sa taille par sa pureté. Le travail de l'orfèvre qui l'a taillée, rajoute 1 sol par point de qualité.
+
+''Soit une aquafane de taille 4 et de pureté 6. Son prix de base est de 4 x 6 = 24 sols. Ayant été taillée avec un travail de qualité 6, elle vaut en définitive 30 sols.''
+
+Les douze gemmes suivantes sont les plus recherchées. Aucune n'est en soi plus chère qu'une autre, leur valeur ne dépendant que des caractéristiques que l'on vient de voir. Toutes peuvent avoir jusqu'à 7 de pureté.
+
+{| style="border:1px solid black;text-align:right;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Les Gemmes</big>'''
+|-
+| style="text-align:left;" | '''''Gemme''''' || '''''Couleurs'''''
+|-
+| style="text-align:left;" | '''Almaze''' || blanc
+|-
+| style="text-align:left;" | '''Aquafane''' || vert profond
+|-
+| style="text-align:left;" | '''Astérite''' || bleu, violet ou blanc
+|-
+| style="text-align:left;" | '''Cyanolithe''' || bleu intense 
+|-
+| style="text-align:left;" | '''Larme de Dragon''' || rouge intense 
+|-
+| style="text-align:left;" | '''Muska''' || violet profond 
+|-
+| style="text-align:left;" | '''Nébuleuse''' || brouillard interne, rose, vert, ou bleu pâle 
+|-
+| style="text-align:left;" | '''Oeil de Tigre''' || jaune 
+|-
+| style="text-align:left;" | '''Scarlatine''' || rouge clair ou orangé 
+|-
+| style="text-align:left;" | '''Séliphane''' || vert lumineux 
+|-
+| style="text-align:left;" | '''Tournelune''' || violet ou bleu 
+|-
+| style="text-align:left;" | '''Zébraïde''' || bandes bicolores, toutes couleurs 
+|}
+
+== Recettes de base ==
+Les recettes suivantes sont censées connues de tout personnage ayant au moins zéro en [[Les Compétences#ALCHIMIE|Alchimie]]. La plupart demandent plusieurs jets de dés. Comme on ne peut savoir qu'en toute extrémité si le processus a réussi ou non, pratiquement le personnage exécute l'ensemble de la recette et ne joue les jets de dés qu'à la fin, en bloc. Si un seul échoue, inutile de jouer les suivants, la préparation est perdue.
+
+ CRISTAL ALCHIMIQUE
+ RELIQUÉFACTION D'ALGAGATH LE VIEIL
+ DISRUPTION ALCHIMIQUE
+ PULVÉRISATION ALCHIMIQUE
+ POTION DE FORCE
+ POTION DE DEXTÉRITÉ
+ SURPOTION DE SOIN 
+
+=== CRISTAL ALCHIMIQUE ===
+''But''. Obtenir un prisme de cristal alchimique.<BR>
+''Manipulation''. Écraser 12 brins de névropenthe jusqu'à obtenir une bouillie de consistance serpent-cheval (-2) et laisser reposer une heure. Saupoudrer la préparation de 4 pépins d'obyssum gris et reprendre le malaxage jusqu'à consistance serpent-cheval-serpent (-3). Laisser reposer encore une heure. Pendant ce temps, préparer un abri à proximité du lieu de travail, capable d'intercepter des projectiles violents, une pile de sacs de sable par exemple. Ceci fait, dans un chaudron bien propre, faire chauffer à sec une livre de sable de rivière dans lequel on aura introduit une bille de plomb d'un poids de 20 écailles, et remuer l'ensemble jusqu'à consistance mouton-mouton-mou-ton (-3). Dès que la consistance est obtenue, jeter la préparation précédente dans le chaudron et gagner l'abri le plus vite possible. L'explosion consécutive doit être extrêmement violente.<BR>
+Dans les débris déchiquetés du chaudron (qui doit être sacrifié pour l'opération), on doit normalement retrouver un prisme de cristal alchimique aux proportions parfaites. S'il n'y a pas d'explosion ou si dans les débris du chaudron on ne retrouve qu'une boule de plomb fondue, c'est que l'opération a échoué.
+
+=== RELIQUÉFACTION D'ALGAGATH LE VIEIL ===
+''But''. Obtenir de l'eau alchimiquement simple.<BR>
+''Manipulation''. Faire une décoction de 5 brins de mercurion, de satum ou de névropenthe dans 1 pinte d'eau filtrée. Pousser la chauffe jusqu'à la couleur indiquée selon l'herbe utilisée et tirer vivement hors du feu. Le contenu du chaudron doit alors gélifier progressivement. Tester la gélification, et quand elle a atteint la consistance indiquée, remettre sur un feu fort. Si le travail se reliquéfie instantanément, la manipulation a réussi. Si la gelée durcit davantage, c'est perdu.<BR>
+Filtrer l'eau obtenue avec un parchemin de veau, et l'utiliser dans toute manipulation requérant de l'eau alchimiquement simple. La quantité obtenue est d'une pinte et peut être fractionnée à volonté.<BR>
+Selon l'herbe utilisée, les couleurs et consistances à obtenir sont les suivantes, suivies entre parenthèses de leur difficulté.<BR>
+''Mercurion'' : pourpre-pourpre-sangue (-3) ; serpent-serpent-chèvre (-3).<BR>
+''Satum'' : pourpre-pourpre (-1) ; serpent-serpent (-1).<BR>
+''Névropenthe'' : pourpre (0) ; serpent (0).<BR>
+(Noter que l'eau obtenue par transmutation élémentale est également alchimiquement simple.)
+
+=== DISRUPTION ALCHIMIQUE ===
+''But''. Extraire un ingrédient d'un autre, par exemple un sel alchimique de son minerai.<BR>
+''Manipulation''. Faire chauffer une livre de minerai à sec jusqu'à couleur brun-gris-sangue (-3), et verser dessus une pinte d'eau alchimiquement simple. Reculer précipitamment pour éviter le jet de vapeur et mélanger vigoureusement jusqu'à consistance hibou-renard-mouton (-3). Laisser reposer 12 heures à l'abri de la lumière, avant de filtrer le liquide obtenu dans du parchemin de veau. Après évaporation à l'air libre, on obtient 10 pépins de sel alchimique résiduel. (Si une sorte de colle apparaît au lieu d'une poudre, c'est que la manipulation a foiré quelque part.)
+
+=== PULVÉRISATION ALCHIMIQUE ===
+''But''. Obtenir une gemme ''alchimiquement pulvérisée'' pour l'inclure à l'alliage d'un objet que l'on désire enchanter.<BR>
+''Manipulation''. Plonger une gemme dans une mesure d'eau alchimiquement simple et chauffer le tout jusqu'à température gris (0). Ajouter alors une quantité de boralm équivalente, en pépins, à la taille de la gemme, et continuer la chauffe jusqu'à température noir (0). A ce moment précis, rajouter une même quantité de chramaelium, et continuer de chauffer jusqu'à couleur gris-noir (-2). Tirer alors du feu, ajouter une mesure d'eau (alchimiquement simple) froide, et couvrir à l'abri de la lumière. Laisser reposer 7 heures. Au bout de ce temps, récupérer la gemme et l'éponger soigneusement avant de la placer au fond d'un mortier de marbre. Puis, au moyen d'un pilon également de marbre, la frapper d'un petit coup sec. Sous le choc, la gemme doit se pulvériser, littéralement tomber en poussière. Si elle reste intacte, c'est que l'opération a failli quelque part.<BR>
+''Utilisation''. Ne pas oublier que pour l'enchantement, l'intégralité de la gemme doit être utilisée. Bien veiller à recueillir chaque fragment de la poudre obtenue.
+
+=== POTION DE FORCE ===
+''But''. Augmenter la force physique du buveur de la potion.<BR>
+''Manipulation''. Mélanger à froid 5 déhacoudres de cendre de bouleau dans 1 mesure de lait de femme jusqu'à obtenir une crème de consistance cheval (0). Ajouter alors une mesure d'eau alchimiquement simple et faire chauffer jusqu'à couleur vert-bleu (-2). Ajouter à ce moment 3 pépins de candique, tirer hors du feu et mélanger jusqu'à consistance mouton-cheval-serpent (-3). Laisser reposer au moins une heure avant utilisation. Le produit obtenu doit être translucide, signe que la manipulation a réussi. S'il est opaque, tout est à recommencer.<BR>
+''Utilisation''. Boire l'intégralité de la potion sans respirer. L'effet a lieu au bout de 2 minutes (20 rounds) et dure 1 minute (10 rounds). Il confère un bonus de +5 à tous les jets de [[Les Caractéristiques#FORCE|FORCE]] pure (ni [[Les Caractéristiques#Mêlée|Mêlée]] ni [[Les Caractéristiques#Lancer|Lancer]] ne sont affectés), un bonus de +2 au +dom personnel en [[Les Caractéristiques#Mêlée|Mêlée]] et de +1 en [[Les Caractéristiques#Lancer|Lancer]], et double le seuil d'encombrement. La fin de l'effet s'accompagne d'une perte de 2d6 points d'endurance.<BR>
+''Enchantement''. Si la potion est enchantée, l'effet magique n'a lieu que si un jet de résistance standard est échoué. L'effet se produit alors dans le round consécutif au jet de résistance (au lieu de 2 minutes) et voit sa durée modifiée. Les bonus aux jets de [[Les Caractéristiques#FORCE|FORCE]] et aux dommages durent autant de minutes que de points de rêve, le doublement du seuil d'encombrement dure autant d'heures que de points de rêve, et le tout sans perte d'endurance.<BR>
+''Sur-effet''. Il y 3% de chances par point de rêve de la potion qu'un sur-effet se produise : la perte totale du système pileux (sauf les ongles). La repousse aura lieu normalement avec le temps.
+
+=== POTION DE DEXTÉRITÉ ===
+''But''. Augmenter la précision des gestes du buveur.<BR> 
+''Manipulation''. Piler à froid 2 doigts de graisse de carpe et 4 pépins d'obyssum vert, le tout jusqu'à consistance lapin (0). Ajouter une demi-pinte d'eau alchimiquement simple et chauffer jusqu'à couleur bleu-vert-glauque (-3). Tirer hors du feu et ajouter 1 pépin de boralm, puis couvrir immédiatement à l'abri de la lumière, et laisser reposer au moins une heure. Le résultat doit être un lait verdâtre parfaitement fluide. Si le produit a un aspect granulé, tout est à recommencer.<BR>
+''Utilisation''. Boire l'intégralité de la potion sans respirer. L'effet a lieu au bout de 2 minutes (20 rounds) et dure 1 minute (10 rounds). Il confère un bonus de +5 à tous les jets de [[Les Caractéristiques#DEXTÉRITÉ|DEXTÉRITÉ]], de [[Les Caractéristiques#Tir|Tir]] et de [[Les Caractéristiques#Lancer|Lancer]], et est suivi d'une perte de 1d6 points d'endurance.<BR>
+''Enchantement''. Même règle que la potion de Force. L'effet dure un nombre de minutes égal aux points de rêve de la potion, sans perte d'endurance.<BR>
+''Sur-effet''. Il y a 3% de chances par point de rêve de la potion qu'un sur-effet se produise : la perte totale du goût et de l'odorat ([[Les Caractéristiques#ODORAT-GOÛT|ODORAT-GOÛT]] tombe à zéro). Pour le regain, jouer tous les matins un jet d'[[Les Caractéristiques#ODORAT-GOÛT|ODORAT-GOÛT]] (originel) à zéro et regagner selon le barème des points de tâche.
+
+=== SURPOTION DE SOIN ===
+''But''. Amplifier le pouvoir de guérison des herbes de soin.<BR>
+''Manipulation''. Pratiquer la décoction dans deux mesures d'eau alchimiquement simple (au lieu d'eau ordinaire). Laisser décocter jusqu'à couleur brun-sangue (-2). Tirer alors du feu et jeter dans le liquide une poignée de sable de rivière. Laisser refroidir, puis filtrer pour éliminer le sable, avant d'utiliser ou d'enchanter. Si le filtrage laisse une trace rouge (teinte véritable) comme un dépôt de sang, la manipulation a échoué et la potion n'a plus aucune vertu. Dans le cas contraire, le bonus de la potion est doublé.<BR>
+''Enchantement''. Une surpotion de soin peut être enchantée comme une simple potion, les points de rêve conférés étant multipliés au nouveau bonus pour obtenir la force de la potion en points de guérison.<BR>
+''Sur-effet''. Il y a 3% de chances par point de rêve de la potion qu'un sur-effet se produise : un épuisement se traduisant par la prise immédiate de 16 cases de fatigue.

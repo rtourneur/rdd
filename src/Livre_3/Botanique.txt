@@ -1,0 +1,163 @@
+__NOTOC__
+ [[Connaissances|Retour aux Connaissances]]
+
+Si l'on peut supposer que toutes les plantes de notre monde réel poussent dans l'univers de ''Rêve de Dragon'', on peut imaginer qu'il y en a également bien d'autres. Le lexique ci-après n'est pas exhaustif, et chaque gardien des rêves est invité à l'enrichir de ses propres trouvailles. Nombre de plantes n'ont de mérite que d'exister, et l'on se bornera à de brèves indications. Seules les plus utiles ou les plus insolites méritent quelques détails.<BR>
+Pour savoir si l'on connaît une plante donnée, ainsi que les connaissances s'y rattachant, utiliser [[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#BOTANIQUE|Botanique]]. Rechercher une plante avérée connue demande [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu X]]. [[Les Caractéristiques#EMPATHIE|EMPATHIE]]/[[Les Compétences#SURVIE EN EXTÉRIEUR|Survie en milieu X]] peut tout juste faire savoir empiriquement que telle plante n'est pas mauvaise ou que telle autre est nocive, sans plus de précision.<BR>
+Aucune difficulté chiffrée n'est fournie dans la liste suivante. C'est à chaque gardien des rêves de décider de l'existence de la plante dans son scénario et d'en évaluer la ''rareté''/abondance. Il peut toutefois guider son appréciation sur les quatre qualificatifs utilisés : ''commun'', ''fréquent'', ''rare'', ''rarissime''. Ces qualificatifs sont d'ordre général car une plante commune dans un rêve peut être rarissime dans un autre et inversement. En termes pratiques, ''commun'' peut correspondre à une difficulté zéro, ''fréquent'' à une difficulté -2, ''rare'' à une difficulté -5, et ''rarissime'' à -8 et plus. 
+== Herbes ==
+==== Bélidane ====
+Herbe de soin. Herbacée aux feuilles fines et dentelées comme celle de la ciguë. Ne pousse que sur les versants de collines ensoleillées. Fréquente. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Chronophile ==== 
+Minuscule herbacée à feuille unique, poussant usuellement en toutes forêts, parmi les mousses où elle est difficile à repérer. La chronophile entretient des rapports étranges avec le temps. Elle est souvent bien verte en pleine sécheresse, jaunie en période d'humidité, rare au printemps, abondante sous la neige, comme si elle était en perpétuel ''décalage temporel''. Elle peut être consommée en décoction, une dose devant toujours faire 3 brins. Plusieurs doses peuvent être préparées dans la même quantité d'eau (2 mesures au départ, réduites à une, selon la recette usuelle).<BR>
+En décoction naturelle, la chronophile a un effet détestable. Elle plonge le buveur dans un état de décalage temporel sauvage, se traduisant par un état semi-hallucinatoire accompagné de spasmes et de crispations incontrôlables. En termes de jeu, chaque dose ingérée donne un malus de -1 à tous les jets d'action physique.<BR>
+L'enchantement de la décoction permet par contre d'en contrôler les effets et de tirer un bénéfice de son effet de décalage temporel. Chaque dose de la décoction doit être enchantée de 3 points de rêve. Si par exemple 3 doses ont été mises à décocter (9 brins), il faudra 9 points de rêve pour l'enchanter (si le nombre de points de rêve est insuffisant, l'effet sauvage l'emporte automatiquement sur l'effet contrôlé). Le buveur doit alors tenter un JR standard r-8. En cas de réussite, la magie n'opère pas, et c'est malheureusement l'effet sauvage qui se produit. En cas de JR échoué, le buveur dépense un point de rêve de maîtrise, puis la magie opère, conférant un bonus de +1 par dose. Ce bonus s'applique à tous les jets de Mêlée et de Dérobée (attaque, parade, esquive) ainsi qu'aux jets de Tir et Lancer sur une cible ''mobile''. Le bonus de décalage temporel ne réduit pas la difficulté due à la taille ou à l'éloignement de la cible, uniquement celle due à son mouvement. L'effet dure une heure (120 mn) à compter dès l'ingestion de la potion.<BR>
+Quoique poussant en toutes forêts, la difficulté à repérer la chronophile en fait une plante ''rare''. On peut la trouver chez les herboristes au prix moyen de 60 deniers la dose.
+
+''Pressentant la présence de Groins, Nitouche prépare une décoction de 12 brins de chronophile (4 doses), puis l'enchante du nombre de points de rêve exigés, soit 12. Elle la fait boire à Brucelin. Ayant manqué son jet de résistance, celui-ci aura maintenant un bonus de +4 à tous ses jets de combat pendant une heure.'' 
+==== Endorlotte ====
+Plante voisine du gui, poussant en parasite dans les branches des arbres de toutes forêts, l'endorlotte est une herbe de soin fonctionnant comme les dix grandes herbes connues, avec un bonus de guérison de +5. Son pouvoir ne s'applique toutefois qu'à la récupération des points de vie, pas à la cicatrisation des blessures. Elle doit être préparée en décoction selon la règle standard, à raison de 12 - 5 = 7 brins pour une décoction, et bue par le convalescent. Puis lors du test de récupération des points de vie :
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| Part. || 4 points de vie regagnés
+|- 
+| Sign. || 3 points de vie regagnés
+|- 
+| Norm. || 2 points de vie regagnés
+|- 
+| Tout échec. || Aucun point, sans autre conséquence.
+|}
+
+Enchantée, la décoction d'endorlotte fonctionne selon la règle standard avec son bonus de +5. et pratiquement devient équivalente à l'ortigal noir. Rare.
+==== Fausse suppure ====
+Herbe de soin. Mousse semblable à la suppure, mais plus sèche. et poussant en tous milieux. Commune. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)'' 
+==== Faux murus ====
+Herbe de soin. Variété de murus poussant en prairie de montagne. Rare. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)'' 
+==== Herbe de lune ====
+Petite herbacée aux feuilles en forme de polygone à 7 côtés, d'un bleu très pâle, presque translucide, ne poussant qu'en haute montagne, à partir 2000 mètres, et uniquement dans les recoins pouvant être éclairés par la lune. L'herbe de lune possède un fort pouvoir onirique sur celui qui la consomme ; en termes de jeu, elle permet de gagner des points de rêve. Elle doit être cueillie de nuit et lorsque la lune l'éclaire, faute de quoi son pouvoir est nul. Sa force dépend de la phase lunaire durant laquelle elle est cueillie : 
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| Nouvelle lune || 0
+|- 
+| Nouvelle lune à 1<sup>er</sup> quartier || 1d3
+|- 
+| Premier quartier à pleine lune || 1d6+2
+|- 
+| Pleine lune || 1d6+4
+|- 
+| Pleine lune à deuxième quartier || 1d6
+|- 
+| Deuxième quartier à nouvelle lune || 1d2
+|}
+
+Une fois séchée, l'herbe de lune peut être fumée dans une pipe ou préparée en décoction. Dans les deux cas, une dose doit être composée de 7 brins. Dès la dose absorbée (bue ou fumée), le consommateur doit jouer un JR r-force, c'est-à-dire un jet de points de rêve ajusté négativement à la force de l'herbe. Si le JR réussit, aucun effet ne se produit ; s'il échoue, le consommateur gagne immédiatement un nombre de points de rêve égal à la force de l'herbe, puis en échange, marque un nombre identique de points de fatigue. On peut ainsi gagner des points de rêve même si le seuil de rêve est dépassé, mais se souvenir que dépasser le triple de son seuil provoque l'éclatement. L'herbe de lune est parfois trouvable chez les herboristes, mais n'est pas bon marché. Une dose (7 brins) vaut usuellement un nombre de sols égal à sa force. Une dose de force 6 vaut ainsi 6 sols. Rare.
+==== Mercurion ====
+Lierre noirâtre s'accrochant aux arbres des forêts, principalement les chênes. C'est une des herbes de base utilisées en alchimie (voir [[Principes d'Alchimie|ci-après]]). Commune.
+==== Méritoine ====
+Herbe de soin. Plante rampante et ramifiée, aux minuscules feuilles vert pâle, s'accrochant aux troncs de certains conifères. Fréquente. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Murus ====
+Herbe de soin. Sorte de minuscule chardon aux feuilles vert violacé, s'accrochant aux rochers escarpés. Son principe actif est contenu dans ses piquants. Rare. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Névropenthe ====
+Plante foisonnante à grappes de feuilles rondes, dont le vert est souvent piqueté de points rouges. Pousse au cœur de toutes forêts à l'abri des fourrés et des ronciers. C'est une des herbes de base utilisées en alchimie (voir [[Principes d'Alchimie|ci-après]]). Rare.
+==== Ortigal ====
+Herbe de soin. Plante aquatique des marais, aux petites feuilles rondes et luisantes, voisine du nénuphar. Fréquente. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Ortigal glauque ====
+Plante aquatique de la famille des ortigals. Écrasées sur le visage et la peau, ses feuilles exhalent une odeur qui repousse les moustiques. Ce peut être une bonne précaution contre les maladies véhiculées par ces derniers, notamment la fièvre brune. Commun.
+==== Ortigal noir ====
+Herbe de soin. Variété d'ortigal aux feuilles d'un vert sombre presque noir. Fréquente. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)'' 
+==== Satum ====
+Également appelé ''nez de satin'', le satum est une petite plante à feuille unique, douce et moirée comme le satin, poussant en toutes forêts, usuellement à l'orée des clairières. C'est une des herbes de base utilisées en alchimie (voir [[Principes d'Alchimie|ci-après]]). Commune.
+==== Solimonce ====
+Variété d'ortie non urticante, poussant dans les lieux humides à l'abri de la lumière. Ses décoctions sont réputées souveraines contre les maladies des yeux (voir la fièvre brune). Rare.
+==== Suppure ====
+Herbe de soin. Sorte de mousse d'aspect maladif, s'accrochant aux vieux troncs et aux rochers des forêts, d'où elle semble ''suppurer''. Commune. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)'' 
+==== Tanemiel ====
+Herbe de soin. Plante grimpante, dotée de vrilles, voisine du liseron, de couleur vert laiteux presque blanc, s'accrochant aux arbres des forêts chaudes et humides. Rare. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Tanemiel doré ====
+Herbe de soin. Variété de tanemiel aux feuilles luisantes de couleur ambrée. Rarissime. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Tshaï ====
+Petit arbuste à fleurs blanches et feuilles persistantes, poussant au versant des collines ensoleillées. Une fois séchées, ses feuilles sont consommées en infusion, donnant une boisson parfumée et tonique. Par extension, tshaï est aussi le nom donné à la boisson en question. Fréquent.
+
+== Fruits et Baies ==
+==== Amandelle ====
+Fruit de l'amandelier, un petit arbuste à feuilles très découpées de couleur mauve pâle à violet foncé. L'amandelle est une noix plate et allongée au goût d'amande allié au parfum de violette. Fréquente.
+====Calamine ====
+Fruit du calaminier, sorte de figuier rampant doté de lianes et de vrilles. La calamine pousse en petites grappes de fruits à goût mi-figue, mi-raisin. Fréquente.
+==== Clopinette ====
+Fruit du clopinier, petit arbuste buissonneux semblable au genêt. Les clopinettes poussent en grappes nombreuses de petites baies rondes d'un blanc presque translucide. Peu juteuses, elles sont d'un goût neutre, non sucré, même pas âpre, et sont d'un pouvoir nutritif ridiculement faible (3 livres pour 1 sust). Poussant de préférence en plaine, y compris à l'abord des villages, elles sont ordinairement dédaignées des autochtones, même des animaux sauvages. On les laisse aux voyageurs. Pour cette raison, elles sont parfois appelées ''baies des voyageurs''. Commune.
+==== Floume ====
+Fruit du floumier, sorte de poirier pleureur vivant dans les lieux très humides, au bord des rivières ou dans les marais. La floume a l'aspect d'une poire jaune pâle à la chair ferme, grumeleuse et rose. Son goût est âcre et amer, et son pouvoir nutritif encore plus faible que celui des clopinettes. Il existe heureusement une larve parasite, appelée ''ver du floumier'' ou plus simplement ''floumette''. Ce ver ronge la floume de l'intérieur et la dévore entièrement, ne laissant à la place de la chair qu'un excrément brunâtre, sorte de gelée poisseuse. Cette pommade est en revanche hautement nutritive, bien que son goût soit parmi les plus ignobles. Jouer [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3, et en cas d'échec, recracher tellement c'est mauvais. Une floume bien floumée, c'est-à-dire bien véreuse, vaut en moyenne 3 points de sustentation. Fréquente.
+==== Lulube ====
+Fruit du lulubier, arbre de la taille d'un cerisier, la lulube est un petit fruit rouge dont le goût est un panaché de cerise et de citron. Fréquente.
+====Mélikasse ====
+Fruit du mélikassier, arbuste buissonneux voisin du sureau. La mélikasse pousse en grappes de petites baies noires. Insolite, son goût est un mélange de cassis et de savon. Fréquente.
+==== Noisemûre ====
+Fruit du noisemûrier, petit arbuste très ramifié vivant en sous-bois à l'ombre des plus grands arbres. La noisemûre a extérieurement l'apparence d'une grosse noisette à la coquille rougeâtre et granulée. Intérieurement, sa chair est tendre, juteuse et sucrée. Fréquente.
+==== Mignote ====
+Cône du mignotier, arbre voisin du mélèze, poussant en contreforts montagneux. Les mignotes doivent être grillées puis moulues. La farine obtenue a un goût chocolaté qui accompagne agréablement le lait chaud du petit déjeuner. Fréquente.
+==== Trésure ====
+Fruit du trésurier, buisson épineux de la famille des ronces poussant principalement en montagne. La trésure est une grosse framboise de la taille d'une mandarine, rouge foncé avec un jus noir. Non seulement délicieuse, la trésure est nourrissante et énergétique. Chaque fruit vaut 3 points de sustentation et défatigue instantanément comme après une heure de sommeil. En termes de jeu, effacer un segment comme si l'on venait de dormir une heure. Enfin, si la règle additionnelle du Moral est utilisée, faire suivre un repas de trésures (qu'il soit composé d'un ou plusieurs fruits) d'un jet de Moral en situation heureuse. Une fois cueillies, les trésures ne se conservent pas plus de 12 heures, et même leur jus n'a plus aucune valeur. Véritables plantes miraculeuses, les trésuriers portent des fruits d'un bout de l'année à l'autre, même en hiver sous la neige. Rare.
+==== Veloute ====
+Fruit du veloutier, petit arbre pleureur au tronc recouvert d'un lichen duveteux gris rose, poussant usuellement au bord de l'eau, la veloute est une petite pêche très velue, juteuse et douce, au goût panaché de litchi et de fraise des bois. Fréquente. 
+
+== Champignons comestibles ==
+Quoique d'un goût souvent délicieux, les champignons sont rarement nourrissants. Ils servent surtout d'accompagnement ou de condiment dans un ragoût. Tous poussent en forêt, de préférence après une forte humidité. Le nombre entre parenthèses correspond à la qualité de leur goût, de 1 = banal, à 5 = excellent. 
+==== Asper violet ====
+Champignon violet à pied filiforme et chapeau pointu très effilé (2). Fréquent.
+==== Corne de rêve ====
+Champignon en forme de conque violet sombre (5). Rarissime.
+==== Fricortille ====
+Bolet à pied mince et blanc, et large chapeau pointu blanc à pois bleus (3). Fréquent.
+==== Gironde ====
+Sorte de girolle à pied violet et corolle brun doré (4). Rare.
+==== Primelune ====
+Apparaissant le plus souvent à la nouvelle lune, c'est un petit champignon à pied blanc et chapeau plat vert tendre (1). Commun.
+==== Salsimir à points jaunes ====
+Sorte de bolet doté d'un pied blanc et mince, au chapeau arrondi brun à pois jaune (1). Commun.
+==== Salsimir à points rouges ====
+Autre variété de salsimir, au teint plus clair et tacheté de points rouges (2). Fréquent.
+==== Salsimir ventru ====
+À points jaunes ou à points rouges, le salsimir ventru se distingue par un pied large et renflé (4). Rare.
+==== Tricollet ====
+Champignon à pied blanc, triple volve, et large chapeau vert à points bleus (4). Rare.
+
+== Feules et Champignons vénéneux ==
+Toutes les baies et champignons présentés ci-dessous sont des toxiques mortels. Leur poisons sont indiqués avec les abréviations suivantes M = malignité \ P = périodicité \ D = dommages exprimés en perte de points de vie à chaque période, par exemple D2 veut dire perte de 2 points de vie à chaque fois. Suivent enfin la difficulté à diagnostiquer l'empoisonnement et les bonus des deux antidotes connus. Se rappeler que les dix grandes herbes de soin sont également des antidotes universels. ''(Voir [[Soins et Guérison|Livre I, La Santé]].)''
+==== Amanite thanataire ====
+L'un des plus beaux, mais également le plus foudroyant des champignons vénéneux. Pied et volve élégamment proportionnés, chapeau arrondi à peine galbé, le tout paré d'une somptueuse teinte blanc argenté parsemée de points noirs. M7 \ P 3 rounds \ D4 \ -3 \ Tournegraisse +12, Perle de Bjwal +10. Fréquente.
+==== Arrache-rêve. ====
+Le plus virulent des champignons vénéneux après l'amanite thanataire, procurant une agonie des plus douloureuses. Ressemble à cette dernière, avec un chapeau en boule au lieu de plat et galbé. M6 \ P 4 rounds \ D4 \ -3 \ Tournegraisse +14, Perle de Bjwal +12. Fréquent.
+==== Blèmissure ====
+Champignon affectant la forme d'une éponge, de couleur gris blême, apparaissant sur les troncs des arbres. M4 \ P 1 minute \ D2 \ -4 \ Élixir des Gnomes +14, Huile de Sélikanthe +10. Fréquente.
+==== Bousille ====
+Appétissant champignon brun beige très semblable à la morille. M5 \ P 6 rounds \ D3 \ -4 \ Teinture d'Érozonne +10, Topazoïne +6. Fréquente.
+==== Crétamère ====
+Petite fraise des bois en forme de crête dentelée. Son goût est très amer et devrait suffire à dissuader les gourmands. M3 \ P 3 minutes \ D2 \ -3 \ Lait de lune +12, Gelée royale +8. Fréquente.
+==== Croupigne ====
+Sorte de groseille rose pâle, poussant à l'orée des sous-bois et des clairières. M2 \ P 5 minutes \ D1 \ -3 \ Élixir des Gnomes +16, Gelée Royale +10. Fréquente.
+==== Fesse de groin ====
+Poussant à même le sol, sans quasiment de pied, c'est un champignon fendu verticalement, évoquant un gros derrière pustuleux. Quand on le bouscule, il émet un bruit incongru, accompagné d'une odeur pénible. M3 \ P 1 minute \ D1 \ -3 \ Bitume de camphre +16, Élixir des Gnomes +12. Commune.
+==== Fumebol ====
+Champignon brun ressemblant grossièrement au cèpe bolet. M5 \ P 8 rounds \ D2 \ -5 \ Sable-Poudre +12, Huile de Sélikanthe +8. Rare.
+==== Genèfle ====
+Fruit du genèflier, arbuste buissonneux vivant en plaine. La genèfle est très semblable à la clopinette, mais avec une peau plus nacrée. M1 \ P 10 minutes \ D1 \ -3 \ Teinture d'Érozonne +16, Topazoïne +12. Commune.
+==== Hécatombe ====
+Petite poire rouge à peau lustrée, au goût acidulé et pas désagréable. M4 \ P 1 minute \ D2 \ -5 \ Bitume de camphre +12, Mirobolant +6. Rare.
+==== Nanar ====
+Champignon assez amusant, avec un pied minuscule et un joli petit chapeau rose. M2 \ P 2 minutes \ D1 \ -3 \ Teinture d'Erozonne +16, Lait de lune +12. Commun.
+==== Salsimir à points verts ====
+Champignon semblable aux autres variétés de salsimir, hormis la couleur de ses points. M1 \ P 5 minutes \ D1 \ -5 \ Lait de lune +14, Gelée royale +12. Rare.
+
+== Urticants venimeux ==
+Toutes ces plantes produisent des enflures autour des plaies occasionnées par les piquants. Les symptômes sont des sensations d'étouffement accompagnées de vertiges et de sueurs froides.
+==== Cheleuse ====
+Fausse menthe à feuilles urticantes. M1 \ P 5 minutes \ D1 \ -3 \ Liqueur de Bagdol +16, Mirobolant +14. Fréquente.
+==== Énervure ====
+Fausse fougère aux feuilles tranchantes comme des rasoirs, distillant un venin mortel. M3 \ P 1 minute \ D2 \ -3 \ Tournegraisse +14, Mirobolant +10. Fréquente.
+==== Ortilise ====
+Redoutable variété d'ortie, poussant dans les lieux humides, le voisinage des marais. M3 \ P 1 minute \ D2 \ -3 \ Topazoïne 12, Lait de lune +8. Fréquente.
+==== Ortironce ====
+Ronce venimeuse infestant de nombreux fourrés. M4 \ P 1 minute \ D2 \ Bitume de camphre +12, Teinture d'Erozonne +8. Commune.
+==== Ossiphage ====
+Également appelée ''suceuse d'os'', c'est une liane rampante à feuilles triangulaires de couleur violacée. Chaque feuille est dotée de trois longs piquants, une à chaque pointe de son triangle. Son venin est si foudroyant que la victime n'a souvent pas le temps d'aller bien loin et meurt empêtrée dans la liane. Il arrive que l'on découvre un squelette entier au cœur d'un bouquet d'ossiphage, chaque os maintenu en place par les vrilles de la plante. M6 \ P 3 rounds \ D4 \ -5 \ Perle de Bjwal +10, Huile de Sélikanthe +6. Rare.

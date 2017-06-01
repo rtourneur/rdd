@@ -1,0 +1,70 @@
+__NOTOC__
+ [[Connaissances|Retour aux Connaissances]]
+
+La majorité des écrits (parchemins, grimoires, inscriptions) que les voyageurs peuvent découvrir, datent du [[Les Trois Âges#Le Second Âge|Second Âge]] et ne sont pas rédigés dans la langue du voyage. Il peut s'agir d'une forme vieillie de la langue du Grand Empire, d'une de ses anciennes langues constitutives, ou plus probablement de langues plus vieilles encore.<BR>
+Outre la connaissance du système de runes actuellement utilisé, la compétence [[Les Compétences#ÉCRITURE|Écriture]] permet le déchiffrage, patient et laborieux, de tels documents en langues anciennes, y compris la langue gnome. Comme il serait lourd en termes de règles de créer une compétence par langue, [[Les Compétences#ÉCRITURE|Écriture]] doit être comprise comme une sorte de culture générale des langues anciennes, comme les érudits des siècles passés qui savaient tous lire le latin et le grec. Quand, en termes de scénario, un texte est rédigé dans une langue supposée plus rare, il suffit d'en corser la difficulté.<BR>
+On trouvera ci-après une liste des ouvrages les plus répandus, ayant été les plus fréquemment retranscrits par les copistes. Chacun possède une difficulté, un nombre de points de tâche à obtenir, et un nombre de points d'expérience gagnés sur le sujet avec un niveau maximum. Si une partie des points gagnés font atteindre ce niveau, l'excédent est perdu. Pour tous les ouvrages indiqués, la périodicité de lecture est de 1 heure. A la fin de chaque période, jouer un jet d'[[Les Caractéristiques#INTELLECT|INTELLECT]]/[[Les Compétences#ÉCRITURE|Écriture]] à la difficulté indiquée, et totaliser les points de tâche obtenus selon la règle standard. 
+
+== Alchimie ==
+'''Traité de Précipitation Lente''', par Algagath le Vieil, ''traité d'alchimie''. Difficulté -6, 18 points de tâche, 30 points d'expérience en [[Les Compétences#ALCHIMIE|Alchimie]], niveau maximum +6. C'est à Algagath le Vieil qu'on doit le célèbre procédé de reliquéfaction alchimique.
+
+'''Nomenclature Alchimique''', par Balzoukar l'Ancien, ''traité d'alchimie''. Difficulté -7, 18 points de tâche, 32 points d'expérience en [[Les Compétences#ALCHIMIE|Alchimie]], niveau maximum +7. Balzoukar l'Ancien travailla toute sa chienne de vie à transmuer l'or en plomb, et mourut dans la plus grande pauvreté.
+
+'''Science des Dosages''', par Klorür de Saudyome, ''traité d'alchimie''. Difficulté -6, 15 points de tâche, 28 points d'expérience en [[Les Compétences#ALCHIMIE|Alchimie]], niveau maximum +8. Selon la légende, c'est le jour anniversaire de ses 20 ans que le jeune Klorür provoqua l'explosion qui détruisit intégralement la ville de Saudyome, et dont il sortit lui-même miraculeusement indemne. « Tout est dans le dosage », devait-il par la suite affirmer au bourreau.
+
+'''Traité d'Ébullition''', par Van Gluten, ''traité d'alchimie''. Difficulté -2, 12 points de tâche, 18 points d'expérience en [[Les Compétences#ALCHIMIE|Alchimie]], niveau maximum +4. C'est à Van Gluten, de son véritable nom Aratchik Kammerloduck, que l'on doit l'élaboration de l'échelle de température selon les couleurs, adoptée en alchimie moderne.
+
+== Astrologie ==
+'''Principes d'Astrologie''', par Antédar de Bagdol, ''traité d'astrologie''. Difficulté -4, 12 points de tâche, 20 points d'expérience en [[Les Compétences#ASTROLOGIE|Astrologie]], niveau maximum +4. C'est à Antédar de Bagdol que l'on doit le nom actuel de l'heure du Poisson Acrobate, d'après la constellation du même nom, et qui s'appelait avant lui « le Chameau Suggestif ».
+
+'''Second Nébulorum''', par Astrobazzarh, ''traité d'astrologie''. Difficulté -7, 15 points de tâche, 15 points d'expérience en [[Les Compétences#ASTROLOGIE|Astrologie]], niveau maximum +8. Astrobazzarh, frappé de cécité dès le début de sa carrière, fut l'un des rares astrologues à écouter les étoiles au lieu de les regarder.
+
+'''Numérologie Astrale''', par Wortex, ''traité d'astrologie''. Difficulté -5, 15 points de tâche, 25 points d'expérience en [[Les Compétences#ASTROLOGIE|Astrologie]], niveau maximum +7. Grand amateur de loteries et de jeux de hasard, Wortex se fit une réputation de perdant systématique, et s'expliquait ainsi : « Si je gagnais, on me traiterait de tricheur ! »
+
+'''Le Regard des Etoiles''', par Zulgar le Pointu, ''abrégé d'astrologie''. Difficulté -3, 8 points de tâche, 12 points d'expérience en [[Les Compétences#ASTROLOGIE|Astrologie]], niveau maximum +5. « C'est écrit dans les étoiles », répondait Zulgar le Pointu, à qui l'on reprochait des honoraires exorbitants.
+
+== Botanique ==
+'''Tiges et Racines''', par Kotylédon, ''traité de botanique''. Difficulté -3, 13 points de tâche, 25 points d'expérience en [[Les Compétences#BOTANIQUE|Botanique]], niveau maximum +5. Le seul trait marquant de la destinée de Kotylédon, botaniste patient et appliqué, fut qu'il mourut d'une indigestion d'escargots.
+
+'''Jus d'Herbes''', par Radikos, ''traité de botanique''. Difficulte -2, 10 points de tâche, 15 points d'expérience en [[Les Compétences#BOTANIQUE|Botanique]], niveau maximum +4. Radikos, par ailleurs fin cuisinier, est l'inventeur de plus d'une centaine de salades, dont la célèbre « draconique » : navet, clopinette, estragon, herbe de lune.
+
+'''Pétalographie''', par Zormilius l'Aîné, ''traité de botanique''. Difficulté -6, 18 points de tâche, 28 points d'expérience en [[Les Compétences#BOTANIQUE|Botanique]], niveau maximum +8. Zormilius l'Aîné, horticulteur autant que botaniste, est l'inventeur d'une énorme rose verte à senteur de chou. 
+
+== Écriture ==
+'''Précis de Calligraphie''', par Frampanar le Bienveillant, ''précis de calligraphie''. Difficulté -1, 18 points de tâche, 15 points d'expérience en [[Les Compétences#ÉCRITURE|Écriture]], niveau maximum +4. Frampanar le Bienveillant fut l'un des professeurs les plus adulés, les étudiants venant s'inscrire à ses cours par centaines. On dit qu'il n'a jamais accordé de mention inférieure à « très bien ».
+
+'''Des Pieds et des Iambes''', par Werther de Zloth, ''traité de versification''. Difficulté -2, 15 points de tâche, 20 points d'expérience en [[Les Compétences#ÉCRITURE|Écriture]], niveau maximum +5. Werther de Zloth fut le poète le plus à cheval sur les rimes de tout le [[Les Trois Âges#Le Second Âge|Second Âge]] ; il se suicida de désespoir à ne pouvoir trouver une rime suffisamment riche à «Ffjkuikhl», le nom de sa fiancée. 
+
+== Légendes ==
+'''Songes Infinis''', par Artomik le Pensif, ''pensées''. Difficulté -2, 8 points de tâche, 12 points d'expérience en [[Les Compétences#LÉGENDES|Légendes]], niveau maximum +7. Artomik le Pensif mourut la plume à la main, en butte à une pensée insolite.
+
+'''La Guerre des Grands''', par Epizod I<sup>er</sup>, roi de Carmélie, ''légendes''. Difficulté -5, 13 points de tâche, 18 points d'expérience en [[Les Compétences#LÉGENDES|Légendes]], niveau maximum +8. Epizod I<sup>er</sup> perdit toutes les guerres engagées contre ses voisins, affirmant que, littérairement parlant, le point de vue du vaincu est le plus objectif.
+
+'''Aphorismes Majeurs''', par Khrachtchoum le Problémeux, ''traité de philosophie onirique''. Difficulté -3, 14 points de tâche, 20 points d'expérience en [[Les Compétences#LÉGENDES|Légendes]], niveau maximum +5. Khrachtchoum le Problémeux, célèbre haut-rêvant, prétendait que son génie draconic était contenu dans les ongles de ses orteils, qu'il ne coupait jamais, malgré de grandissants problèmes pour marcher.
+
+'''Lamenticides''', par Waldemar de Gnia, ''poèmes''. Difficulté -4, 12 points de tâche, 12 points d'expérience en [[Les Compétences#LÉGENDES|Légendes]], niveau maximum +9. Waldemar de Gnia fut à coup sûr le poète le plus flippé de tout le [[Les Trois Âges#Le Second Âge|Second Âge]].
+
+== Médecine et Chirurgie ==
+'''Des Maladies Terrifiantes''', par Artomik le Pensif, ''traité de médecine''. Difficulté -5, 16 points de tâche, 28 points d'expérience en [[Les Compétences#MÉDECINE|Médecine]], niveau maximum +9. Artomik le Pensif, également auteur de célèbres pensées, toussait de plus en plus vers la fin de sa vie.
+
+'''Ordre et Désordre des Fièvres''', par Lanquedû, ''traité de médecine''. Difficulté -4, 15 points de tâche, 24 points d'expérience en [[Les Compétences#MÉDECINE|Médecine]], niveau maximum +7. Lanquedû est l'inventeur oublié de la fièvre ronde, qui avant lui n'existait pas. 
+
+'''Des Plaies et des Bosses''', par Estobide le Forcené, ''précis de chirurgie''. Difficulté -3, 14 points de tâche, 20 points d'expérience en [[Les Compétences#CHIRURGIE|Chirurgie]], niveau maximum +6. Estobide le Forcené se rendit justement célèbre par la vigueur avec laquelle il maîtrisait ses patients.
+
+'''La Voie du Sang''', par Sémolosse de Tucleïde, ''abrégé d'anatomie''. Difficulté -4, 14 points de tâche, 26 points d'expérience en [[Les Compétences#CHIRURGIE|Chirurgie]], niveau maximum +7. Spécialiste des plaies béantes, Sémolosse de Tucleïde ne parvint jamais à se débarrasser du rouge qui restait marqué sous ses ongles.
+
+== Zoologie ==
+'''Nos Ennemies les Bêtes''', par Paranos le Moindre, ''traité de zoologie''. Difficulté -2, 15 points de tâche, 36 points d'expérience en [[Les Compétences#ZOOLOGIE|Zoologie]], niveau maximum +7. Génie précoce, Paranos le Moindre connut sa première griffade de chat à l'âge de sept mois, sa première piqûre d'abeille à l'âge de onze mois, sa première morsure de chien à dix-huit mois, son premier coup de corne de chèvre à deux ans, et son premier coup de pied d'âne à deux ans et demi.
+
+'''Du Règne Bestial''', par Pikasson, ''traité de zoologie''. Difficulté -4, 15 points de tâche, 25 points d'expérience en [[Les Compétences#ZOOLOGIE|Zoologie]]. On connaît la célèbre réplique de Pikasson à qui l'on reprochait son odeur corporelle : « ce n'est pas la mienne, c'est celle de ma truie ».
+
+'''Des Curiosités Bestiales''', par Tétragore le Grand, ''aperçu de zoologie''. Difficulté -4, 10 points de tâche, 16 points d'expérience en [[Les Compétences#ZOOLOGIE|Zoologie]], niveau maximum +8. C'est à Tétragore le Grand, qui était sourd comme une bûche, que l'on doit la seule véritable approche scientifique jamais faite sur les sirènes.
+
+'''Traité de Vivisection''', par Wertèbre, ''zoologie''. Difficulté -4, 12 points de tâche, 20 points d'expérience en [[Les Compétences#ZOOLOGIE|Zoologie]]. « Les grandes douleurs sont muettes », se plaisait à répéter Wertèbre.
+
+== Divers ==
+'''Recettes et Tours de Mains''', par Pralinor le Goûteux, ''cuisine''. Difficulté -3, 12 points de tâche, 36 points d'expérience en [[Les Compétences#CUISINE|Cuisine]], niveau maximum +8. Qui ne connaît les beignets de pattes de canard de Pralinor le Goûteux, ou son célèbre gratin d'os de chèvre ? Mais seuls les plus ambitieux des cuisiniers osent encore tenter sa recette d'« Oiseau-Oracle à la Sacrilège ».
+
+'''Traité de Navigation''', par Abélard Fluvium, ''navigation''. Difficulté -3, 10 points de tâche, 35 points d'expérience en [[Les Compétences#NAVIGATION|Navigation]], niveau maximum +5. C'est à ce génie du vent et de la voile que nous devons la première, grande, et essentielle règle de navigation : ne jamais s'éloigner des côtes.
+
+'''L'Art de la Manière''', par Frimilias le Jeune, ''précis de séduction''. Difficulté -3, 10 points de tâche, 20 points d'expérience en [[Les Compétences#SÉDUCTION|Séduction]], niveau maximum +7. Frimilias le Jeune fut découvert mort à l'âge de 19 ans, dans le lit d'une de ses élèves, atteint d'une maladie suspecte autant que boutonneuse.

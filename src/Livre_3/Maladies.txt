@@ -1,0 +1,75 @@
+__NOTOC__
+ [[Connaissances|Retour aux Connaissances]]
+
+Les exemples de maladies présentées ci-après fonctionnent tous selon les règles énoncées au [[Les Maladies|Livre I, 5. LA SANTÉ]]. C'est au gardien des rêves de décider, à chaque occasion, si la maladie peut être contractée ou non, par un jet de Chance par exemple. Si la maladie peut être contractée, le premier jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] n'est joué qu'au bout de la première période. Le personnage n'est effectivement malade qu'à partir du moment où il a commencé à subir des dommages.
+=== Fièvre brune ===
+La fièvre brune est une fièvre mortelle véhiculée par les moustiques de certains marais. Outre un affaiblissement général, elle provoque la cécité. Ses symptômes progressifs consistent en hallucinations de taches brunes, puis en saignement des yeux, jusqu'à la cécité complète qui précède la mort. La première période indiquée est celle de l'incubation, la seconde est la périodicité normale. Tant que le malade n'a subi aucun dommage, utiliser la période d'incubation (1 heure) ; puis dès qu'il a perdu un premier point de vie, utiliser la périodicité normale (6 heures).
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| '''Malignité''' || 6
+|- 
+| '''Périodicité''' || 1 heure \ 6 heures
+|- 
+| '''Dommages''' || Perte de 1 pt de vie et de 1 pt de [[Les Caractéristiques#VUE|VUE]].
+|- 
+| '''Remèdes''' || -4 \ Élixir des Gnomes +14, Bitume de Camphre +10.
+|}
+
+Les points de [[Les Caractéristiques#VUE|VUE]] perdus ne peuvent être regagnés que quand la maladie est entièrement guérie. À chaque point de vie regagné, jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] ajusté négativement par les points de vie toujours manquants. Puis selon le résultat :
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| '''''Part.''''' || Regain de 2 points de [[Les Caractéristiques#VUE|VUE]]
+|- 
+| '''''Norm. et Sign.''''' || Regain de 1 point de [[Les Caractéristiques#VUE|VUE]]
+|- 
+| '''''Échec et Éch.P.''''' || Aucun regain 
+|- 
+| '''''Éch.T.''''' || Aggravation, re-perte d'un point de [[Les Caractéristiques#VUE|VUE]]
+|}
+
+Si tous les points de Vie ont été regagnés et qu'il manque toujours un ou plusieurs points de [[Les Caractéristiques#VUE|VUE]], jouer un jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] à zéro toutes les 12 heures, et appliquer les mêmes résultats que ci-dessus. Une potion d'herbes de soin enchantée peut faire regagner tous les points de vie une fois la maladie guérie, mais ne fait pas regagner les points de [[Les Caractéristiques#VUE|VUE]] perdus. Si le malade est devenu entièrement aveugle au cours de sa maladie, c'est-à-dire si sa [[Les Caractéristiques#VUE|VUE]] est tombée à zéro, il perd définitivement un point de [[Les Caractéristiques#VUE|VUE]]. Quand il regagnera ses points de [[Les Caractéristiques#VUE|VUE], il les regagnera tous moins un.
+==== Bains de solimonce ====
+Une décoction de feuilles de solimonce (voir plus haut, Botanique) utilisée en bains d'yeux donne un bonus de +4 au jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] pour le regain des points de [[Les Caractéristiques#VUE|VUE]]. La décoction se prépare comme une décoction d'herbes de soin. Pour baigner les deux yeux, il en faut 10 brins. Le bain doit durer 60 minutes (pour les deux yeux), puis les yeux doivent être tenus à l'abri de la lumière pendant un minimum de 3 heures. Le mieux est de les fermer et de dormir. Un bain d'yeux n'est valable que pour un seul jet de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]]. Dans tous les cas, la fréquence des jets est toutes les 12 heures. La décoction de solimonce n'étant jamais bue, un enchantement ne lui confère rien de plus. La solimonce ne guérit pas la fièvre brune et ne peut avoir d'effet que quand la maladie est entièrement guérie.
+=== Acrève ===
+L'acrève est une mortelle infection pulmonaire, due à un brusque refroidissement. Ses symptômes sont l'apparition de sueurs et de tremblements, bientôt suivis d'une toux de plus en plus douloureuse. Puis le malade se met à cracher du sang. La première période indiquée est celle de l'incubation, la seconde est la périodicité normale. Tant que le malade n'a subi aucun dommage, utiliser la période d'incubation (2 heures) ; puis dès qu'il a perdu ses deux premiers points de vie, utiliser la périodicité normale (5 heures). 
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| '''Malignité''' || 3
+|- 
+| '''Périodicité''' || 2 heures \ 5 heures
+|- 
+| '''Dommages''' || Perte de 2 points de vie.
+|- 
+| '''Remèdes''' || -4 \ Gelée royale +14, Huile de Sélikanthe +10.
+|}
+
+=== Fièvre blanche ===
+La fièvre blanche est une fièvre infectieuse, mortelle, qui accompagne souvent les blessures graves. Elle se caractérise par un rapide affaiblissement général accompagné de délire. Tout autour de la blessure, la chair devient blanche et purulente. 
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| '''Malignité''' || 4
+|- 
+| '''Périodicité''' || 8 heures
+|- 
+| '''Dommages''' || Perte de 2 points de vie.
+|- 
+| '''Remèdes''' || -5 \ Sable-Poudre +15, Tournegraisse +10.
+|}
+
+=== Mal glauque ===
+Le mal glauque est une maladie due à la famine. Il peut être contracté en conséquence d'un jeûne prolongé ou d'une malnutrition chronique. Ses symptômes sont de violents maux de tête accompagnés d'hallucinations auditives où le malade croit entendre le bruit de la mer. À mesure que le mal progresse, la peau du malade prend une couleur plombée, puis carrément verdâtre, cependant que dans sa tête, le bruit de la mer atteint des mugissements de tempête. La perte de chaque point de vie s'accompagne de celle d'un point d'[[Les Caractéristiques#EMPATHIE|EMPATHIE]]. Une fois la maladie éliminée, ces points sont regagnés de la même manière que les points de [[Les Caractéristiques#VUE|VUE]] de la fièvre brune (sauf qu'il n'y a pas d'équivalent de la solimonce). Il faut enfin noter qu'aucun remède ne peut être efficace tant que l'alimentation n'est pas redevenue normale.
+
+{| style="border:1px solid black;text-align:left;"
+|- 
+| '''Malignité''' || 8
+|- 
+| '''Périodicité''' || 12 heures
+|- 
+| '''Dommages''' || Perte d'un point de vie.
+|- 
+| '''Remèdes''' || -6 \ Topazoïne +16, Élixir des Gnomes +14.
+|}
