@@ -1,0 +1,675 @@
+__NOTOC__
+ [[Les Créatures|Retour aux Créatures]]
+
+Il y a trois grandes sortes de créatures dans ''Rêve de Dragon'' : les humanoïdes, les animaux, et les entités, incarnées ou non incarnées. Ces dernières ne sont pas réellement des créatures vivantes : pas de vrais organes, pas de sang battant dans des artères, pas même de corps pour les non incarnées. Les animaux sont vivants, biologiquement parlant, au même titre que les personnages des joueurs. Aussi monstrueux soient-ils, ils n'en ont pas moins la vulnérabilité de la chair vivante. Les humanoïdes, enfin, sont ceux qui ont à la fois une silhouette anthropomorphe (deux jambes, un tronc, une tête, deux bras, deux mains), et qui sont doués de parole. Quand une créature a une silhouette anthropomorphe, mais ne parle pas, c'est en termes de règles un animal (Glou, Goule). De rares exemples d'animaux sont doués de parole (Oiseau Oracle, Félorn), sans pour autant être des humanoïdes.<BR>
+Les humanoïdes ne sont pas des races mais des espèces différentes. Aucun croisement n'est envisageable entre deux espèces. 
+=== Caractéristiques ===
+''Rêve de Dragon'' étant anthropocentrique, c'est-à-dire avec l'Humain comme base de référence, les humanoïdes utilisent non seulement le même éventail de caractéristiques, mais aussi la même échelle de valeur, avec la moyenne située à 10. Toutefois, quand un humanoïde a 10 dans une caractéristique, cela n'implique pas qu'il soit moyen par rapport à sa propre espèce. Par exemple, un Ogre avec 10 en [[Les Caractéristiques#FORCE|FORCE]] a la force d'un Humain moyen, mais est plutôt faible par rapport à la moyenne des Ogres. Pour cela, les 14 premières caractéristiques des humanoïdes ne sont pas directement exprimées en valeurs, mais en bonus/malus par rapport à la moyenne statistique humaine. Pour retrouver les valeurs moyennes de l'espèce, ajouter ou soustraire les bonus/malus à la base de 10.<BR>
+Cette approche a une double utilité. Pour le gardien des rêves qui veut créer un humanoïde, elle permet sans peine de définir l'individu moyen, puis, en rajoutant ou retirant des points, d'en faire un individu plus ou moins doué. Pour le joueur, cela permet de créer un humanoïde avec les règles de création standard.<BR>
+Répartir 160 points comme si l'on créait un Humain (minimum 6, maximum 15), sans se soucier pour l'instant des différences. Puis tous les points ayant été alloués, ajouter ou retrancher pour chaque caractéristique le bonus/malus indiqué, ne rien changer quand il y a zéro. Noter que le nouveau total obtenu peut faire plus ou moins de 160 points selon l'espèce. Les points éventuellement perdus par rapport à 160 ne peuvent être alloués autre part. Les caractéristiques peuvent également descendre en dessous de 6 et monter au-delà de 15. 
+==== Taille ====
+Une [[Les Caractéristiques#TAILLE|TAILLE]] maximale est indiquée pour chaque humanoïde, précédant le bonus/malus. Procéder comme pour les autres caractéristiques en ajoutant/retranchant le bonus/malus indiqué, mais en prenant garde que la [[Les Caractéristiques#TAILLE|TAILLE]] finalement obtenue n'excède pas la [[Les Caractéristiques#TAILLE|TAILLE]] maximale. Se souvenir également que la [[Les Caractéristiques#FORCE|FORCE]] peut être au maximum égale à [[Les Caractéristiques#TAILLE|TAILLE]] +4.
+
+''Par exemple, le Chafouin a une TAILLE maximale de 10, -3 en TAILLE, +4 en AGILITÉ, -5 en INTELLECT. Commençant par répartir les points comme si on créait un Humain, on attribue 10 en INTELLECT, 15 en AGILITÉ et 13 en TAILLE. Puis réajustant avec les bonus/malus, on obtient finalement 5 en INTELLECT, 19 en AGILITÉ et 10 en TAILLE, ce qui est la limite maximale pour un Chafouin.''
+
+Caractéristiques dérivées, points et seuils sont calculés de la façon standard. Pour chaque exemple d'humanoïde, on trouvera tout calculé les dérivées, points et seuils, correspondant à un individu moyen dans son espèce. La table ci-contre, également valable pour les animaux, fournit les poids pour les Tailles de 1 à 32, les +dom (selon la moyenne Taille + Force), les seuils de constitution et de sustentation (selon la Taille).
+==== Vitesse ====
+Les humanoïdes plus petits ou plus grands que les Humains ont une vitesse de base différente. Pour chaque espèce, est indiquée la vitesse de combat. La vitesse de course s'obtient en multipliant cette dernière par deux.
+
+=== Combat ===
+Les caractéristiques de chaque humanoïde sont suivies d'un pavé de compétences de combat, avec les armes de prédilection de l'espèce. L'initiative et le +dom total (somme du +dom personnel et du +dom de l'arme) sont également calculés pour un individu moyen. 
+==== Niveaux ====
+Comme pour les voyageurs, les niveaux pouvant être infiniment variables, la convention suivante est adoptée. Quand l'espèce humanoïde décrite est jugée peu combative ou peu douée, ses niveaux de combat sont conventionnellement de +1. Quand elle est jugée normalement combative, ses niveaux de combat sont de +3. Et enfin, quand elle est jugée très combative, ses niveaux sont de +5. Les gardiens des rêves sont naturellement libres de les réajuster selon leurs besoins. 
+
+=== Compétences ===
+La description se termine par une liste des compétences usuellement développées, avec la même convention de niveaux (+1, +3 ou +5). Des compétences non mentionnées peuvent également exister au choix du gardien des rêves, sauf celles qui sont prohibées et qui ne sont ''normalement'' jamais développées chez ce type d'humanoïde.<BR>
+Les joueurs voulant créer un humanoïde ont pareillement 3000 points à répartir sans pouvoir dépasser le niveau +3, quelle que soit l'espèce. Ils créent leur archétype de façon standard, sauf que les compétences prohibées ne doivent pas y figurer (pas même à zéro). Aucun point d'expérience préliminaire ne peut non plus leur être alloué au départ. Elles ne pourront monter que par l'exercice.
+ 
+{| style="border:1px solid black;text-align:center;"
+|-
+| '''''TAILLE''''' || '''''Poids(kg)''''' || '''''+dom''''' || '''''SC''''' || '''''sust''''' 
+|-
+|1 || style="text-align:right;" | moins de 1 || -5 || 0,5 || 0,1
+|-
+| 2 || style="text-align:right;" | 1-5 || -4 || 0,5 || 0,3
+|-
+| 3 || style="text-align:right;" | 6-10 || -3 || 1 || 0,5
+|-
+| 4 || style="text-align:right;" | 11-20 || -3 || 1 || 1
+|-
+| 5 || style="text-align:right;" | 21-30 || -2 || 1 || 1
+|-
+| 6 || style="text-align:right;" | 31-40 || -1 || 2 || 2
+|-
+| 7 || style="text-align:right;" | 41-50 || -1 || 2 || 2
+|-
+| 8 || style="text-align:right;" | 51-60 || 0 || 2 || 2
+|-
+| 9 || style="text-align:right;" | 61-65 || 0 || 3 || 2
+|-
+| 10 || style="text-align:right;" | 66-70 || 0 || 3 || 3
+|-
+| 11 || style="text-align:right;" | 71-75 || 0 || 3 || 3
+|-
+| 12 || style="text-align:right;" | 76-80 || +1 || 4 || 3
+|-
+| 13 || style="text-align:right;" | 81-90 || +1 || 4 || 3
+|-
+| 14 || style="text-align:right;" | 91-100 || +2 || 4 || 4
+|-
+| 15 || style="text-align:right;" | 101-110 || +2 || 5 || 4
+|-
+| 16 || style="text-align:right;" | 111-120 || +3 || 5 || 4
+|-
+| 17 || style="text-align:right;" | 121-130 || +3 || 5 || 5
+|-
+| 18 || style="text-align:right;" | 131-140 || +4 || 6 || 5
+|-
+| 19 || style="text-align:right;" | 141-150 || +4 || 6 || 5
+|-
+| 20 || style="text-align:right;" | 151-160 || +4 || 6 || 6
+|-
+| 21 || style="text-align:right;" | 161-180 || +5 || 7 || 6
+|-
+| 22 || style="text-align:right;" | 181-200 || +5 || 7 || 7
+|-
+| 23 || style="text-align:right;" | 201-300 || +6 || 7 || 8
+|-
+| 24 || style="text-align:right;" | 301-400 || +6 || 8 || 9
+|-
+| 25 || style="text-align:right;" | 401-500 || +7 || 8 || 10
+|-
+| 26 || style="text-align:right;" | 501-600 || +7 || 8 || 11
+|-
+| 27 || style="text-align:right;" | 601-700 || +8 || 9 || 12
+|-
+| 28 || style="text-align:right;" | 701-800 || +8 || 9 || 13
+|-
+| 29 || style="text-align:right;" | 801-900 || +9 || 9 || 14
+|-
+| 30 || style="text-align:right;" | 901-1000 || +9 || 10 || 15
+|-
+| 31 || style="text-align:right;" | 1001-1500 || +10 || 10 || 16
+|-
+| 32 || style="text-align:right;" | 1501-2000 || +11 || 10 || 17 
+|}
+
+== Chafouin ==
+==== Description ====
+Les Chafouins sont des humanoïdes de petite taille, d'allure simiesque, glabre, blême et d'aspect huileux. Leur crâne a une forme légèrement aplatie, le lobe de leurs oreilles est très développé ; ils ont des paupières allongées et des yeux jaunâtres. Leur langage ressemble à un gargouillis, ils ne parlent que rarement la langue du voyage et de façon très rudimentaire.
+==== Mœurs ====
+Sauvages, presque animaux, les Chafouins vivent nus, en bandes d'au moins dix individus. Leurs repaires d'élection sont les ruines, les cavernes et tous les endroits où ils peuvent se cacher. Omnivores, ils se nourrissent de tout, et toute chair, même humaine, est bonne à manger.
+==== Combat ====
+Lâches et rusés, les Chafouins n'attaquent jamais de front, mais toujours par surprise et quand le rapport de force est d'au moins trois contre un en leur faveur. Rarement armés, sauf parfois d'une dague ou d'un gourdin, leur technique consiste à se jeter à plusieurs sur leur proie pour l'étrangler, certains commençant déjà à mordre au passage. Utiliser normalement les règles d'[[Combat sans Arme#Empoignade|Empoignade]] en n'oubliant pas les malus probables dus à leur petite taille. Il suffit qu'un Chafouin totalise 2 points d'empoignade non contrés pour que sa victime soit virtuellement morte (le round d'après, il lui ouvre la gorge à coups de dents). Peu dangereux quand on est nombreux et sur ses gardes, les Chafouins sont une menace mortelle lorsqu'on est seul ou surpris.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 10 / -3 || VOLONTÉ || style="text-align:right;" | -4 || Vie || style="text-align:right;" | 9
+|-
+| APPARENCE || style="text-align:right;" | -2 || INTELLECT || style="text-align:right;" | -5 || Endurance || style="text-align:right;" | 17
+|-
+| CONSTITUTION || style="text-align:right;" | 0 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | 0 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | +4 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 2
+|-
+| DEXTÉRITÉ || style="text-align:right;" | +1 || Mêlée || style="text-align:right;" | 12 || Enc || style="text-align:right;" | 8
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 10
+|-
+| OUÏE || style="text-align:right;" | +3 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 0
+|-
+| ODORAT-GOÛT || style="text-align:right;" | +3 || Dérobée || style="text-align:right;" colspan = "3" | 14
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Corps à corps || niv +3 || Init 9 || colspan="2" | +dom 0 (morsure)
+|-
+| colspan="2" | Esquive || colspan="4" | niv +3
+|-
+| Discrétion || +5 || Vigilance || +5 || Srv Extérieur || +5
+|-
+| Srv Sous-sol || colspan="5" | +5
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : toutes compétences de combat sauf''
+|-
+| colspan="6" | ''Corps à corps, Dague, Esquive et Masse à une main /''
+|-
+| colspan="6" | ''Comédie / Commerce / Équitation Musique /''
+|-
+| colspan="6" | ''Chirurgie / Jeu / Métallurgie / Navigation /''
+|-
+| colspan="6" | ''Orfèvrerie / Serrurerie / Alchimie / Botanique /''
+|-
+| colspan="6" | ''Écriture / Médecine / Zoologie / Draconic''.
+|}
+
+== Chèvre-Pied ==
+==== Description ====
+Les Chèvres-Pieds sont des humanoïdes à tête et pieds de chèvre ou de bouc. Seuls leur tête et leurs jambes sont entièrement couvertes de poils ; leurs mains ont des doigts épais à la force considérable. Plus grands que les Humains, ils font en moyenne 80 kg. Leur langage est constitué de bêlements rauques, ils ne parlent que très rarement la langue du voyage.
+==== Mœurs ====
+Les Chèvres-Pieds sont organisés en tribus hiérarchisées. Ils vivent dans les forêts, dans des villages de huttes ou dans des cavernes quand le relief s'y prête. Ils travaillent le bois et le cuir, dont ils se vêtent, et pratiquent une métallurgie sommaire. Particulièrement vindicatifs, ils défendent farouchement leur territoire et sont rarement en paix avec les tribus voisines. La guerre est pour eux une activité normale. Cruels et féroces, ils se nourrissent de végétaux mais boivent le sang de leurs ennemis.
+==== Combat ====
+Vêtus de cuir souple, les Chèvres-Pieds utilisent la lance courte, le javelot, la fronde, un bouclier de cuir et de bois arborant l'emblème de la tribu, et possèdent un ''cri qui tue''. Lors du round d'engagement avec un nouvel adversaire, le Chèvre-Pied peut, à son tour d'attaquer, utiliser son cri en guise d'attaque physique. L'adversaire doit jouer [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3 ou être sonné.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 17 / +2 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 12
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -3 || Endurance || style="text-align:right;" | 23
+|-
+| CONSTITUTION || style="text-align:right;" | +1 || EMPATHIE || style="text-align:right;" | -1 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | +2 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | +1
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 11 || Enc || style="text-align:right;" | 12
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 11 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 9
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Lance courte || niv +5 || Init 10 || colspan="2" | +dom +3
+|-
+| colspan="2" | Javelot || niv +5 || Init 9 || colspan="2" | +dom +2
+|-
+| colspan="2" | Fronde || niv +5 || Init 9 || colspan="2" | +dom +1
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +5 
+|-
+| colspan="2" | Esquive || colspan="4" | niv +5
+|-
+| Vigilance || +5 || colspan="3" | Srv Forêt || +5
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Équitation / Maçonnerie /''
+|-
+| colspan="6" | ''Srv Cité / Navigation Chfevrerie /''
+|-
+| colspan="6" | ''Serrurerie / Draconic''.
+|}
+
+== Cyan ==
+==== Description ====
+Physiquement, les Cyans sont les plus humains des humanoïdes. Leur seule différence est d'avoir la peau bleue. Leurs muqueuses (lèvres, langue) sont noires, leurs cheveux sont d'un noir bleuté et leurs yeux d'un bleu tendant sur le vert. Bien proportionnés, ils sont généralement beaux, une fois admise leur étrange pigmentation. Leur langage, très évolué, a des sonorités fluides et musicales, ils connaissent la langue du voyage tout en feignant de ne pas la comprendre.
+==== Mœurs ====
+Les Cyans vivent en tribus, elles-mêmes composées de clans centrés autour d'un haut-rêvant. Ce sont des nomades. Excellents cavaliers, ils montent souvent des aligates, qu'ils élèvent en troupeaux, et vivent sous la tente, pratiquant avec la même adresse commerce, métallurgie, orfèvrerie, maroquinerie et pillage. Tous les clans d'une même tribu sont amis, mais les guerres entre tribus ne sont pas rares. Vis à vis des autres humanoïdes et principalement des Humains, qu'ils appellent ''hommes blêmes'', les Cyans affichent le mépris le plus profond.
+==== La mémoire bleue ====
+C'est dans leur ''mental'' que les Cyans sont les plus inhumains de tous les humanoïdes. Ils ont la conscience permanente de n'être réellement qu'un rêve et sentent que leur être véritable se situe au-delà de leur état actuel, comme s'ils avaient une connaissance intuitive de tout leur archétype. De ce fait, ils ne redoutent absolument pas la mort. La connaissance intuitive de l'archétype est parfois si aiguë qu'elle en devient intolérable, c'est ce qu'on appelle la ''mémoire bleue''. Le Cyan ne sait réellement plus qui il est : lui-même aujourd'hui, lui-même il y a vingt ans, son fils, son frère, son aïeul ? Pour s'en guérir et retrouver sa stabilité, il doit voler une partie de la personnalité de quelqu'un d'autre. Pour ce faire, il se fait incruster une gemme dans le front par le haut-rêvant du clan, au moyen d'un rituel que les Cyans sont seuls à connaître. La gemme se met alors à luire (on dit qu'elle est activée) et appelle une certaine caractéristique (Force, Agilité, Vue, etc.). La quête commence.
+==== La quête ====
+Dès que le Cyan se retrouve en présence d'un personnage possédant la caractéristique convoitée à un plus haut degré que lui, généralement un Humain, le Cyan en a automatiquement conscience et le fait savoir, retrouvant comme par hasard l'usage de la langue du voyage : « Comme ta vue est perçante, homme blême ! » Puis il doit le tuer de sa propre main. Dès que sa proie expire, la gemme s'éteint (elle est désactivée) et le Cyan acquiert le niveau de caractéristique de sa victime. Si par exemple le Cyan avait 11 en VUE et sa victime 13, le Cyan a maintenant 13. Puis il se retrouve en paix avec lui-même jusqu'à ce qu'il soit à nouveau aiguillonné par la mémoire bleue. Certains vieux Cyans possèdent jusqu'à douze gemmes incrustées dans leur front. Les quêtes peuvent demander du temps, et si le Cyan doit tuer sa victime lui-même, cela ne l'empêche pas de se faire accompagner par des membres de son clan. Pour peu qu'un haut-rêvant non encore en poste puisse se joindre à eux, l'ensemble forme alors un nouveau clan, et c'est tout ce clan qui est en quête.
+==== Combat ====
+Les Cyans, usuellement protégés de cuir souple, combattent à l'épée cyane, un cimeterre à l'acier bleuté, et parent au bouclier léger. Les femmes (les Cyanes) ont socialement les mêmes droits et devoirs que les hommes et tirent excellemment à l'arc. Les Cyanes sont également sujettes à la mémoire bleue et à la quête. 
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 15 / 0 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 10
+|-
+| APPARENCE || style="text-align:right;" | +1 || INTELLECT || style="text-align:right;" | 0 || Endurance || style="text-align:right;" | 20
+|-
+| CONSTITUTION || style="text-align:right;" | 0 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | 0 || RÊVE || style="text-align:right;" | +1 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 10 || Enc || style="text-align:right;" | 10
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 10
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Épée cyane || niv +3 || Init 8 || colspan="2" | +dom +3
+|-
+| colspan="2" | Arc || niv +3 || Init 8 || colspan="2" | +dom +2
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +3
+|-
+| colspan="2" | Esquive || colspan="4" | niv +3
+|-
+| Vigilance || +3 || Discrétion || +3 || Srv Extérieur || +3
+|-
+| Commerce || +3 || colspan="3" | Équitation || +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : aucune.''
+|}
+
+== Cynoferox ==
+==== Description ====
+Les Cynoferox sont des humanoïdes à tête de chien. Leur espèce comprend plusieurs races pouvant se croiser : Cynoferox à tête de dogue, d'épagneul, de lévrier, de doberman, etc. Un peu plus grands que les Humains, ils font en moyenne 75 kg. Leur langage, très évolué, a des sonorités agressives et saccadées, semblable à des aboiements. Ils ne parlent jamais la langue du voyage.
+==== Mœurs ====
+Les Cynoferox sont toujours l'espèce dominante du rêve où ils vivent, et leurs coutumes, mœurs, organisation sociale, habitats, etc., sont exactement les mêmes que ceux des Humains des autres rêves. Ils en sont l'exacte transposition. Les Humains de leur rêve, en revanche, sont totalement réduits en esclavage. Nus, ils sont élevés en troupeaux et considérés comme des animaux. Les Cynoferox sont l'équivalent des singes de La Planète des Singes.
+==== Combat ====
+Comme les Humains, les Cynoferox utilisent toutes les techniques de combat. 
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 16 / +1 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 11
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | 0 || Endurance || style="text-align:right;" | 22
+|-
+| CONSTITUTION || style="text-align:right;" | +1 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | 0 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 10 || Enc || style="text-align:right;" | 10,5
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 10
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Épée sorde || niv +3 || Init 8 || colspan="2" | +dom +3
+|-
+| colspan="2" | Arc || niv +3 || Init 8 || colspan="2" | +dom +2
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +3
+|-
+| colspan="2" | Esquive || colspan="4" | niv +3
+|-
+| Vigilance || +3 || Équitation || +3 || Srv Cité || +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : aucune.''
+|}
+
+== Drôle  ==
+==== Description ====
+Les Drôles, également appelés Trôles, ont l'apparence d'Humains contrefaits : difformes, tordus, hirsutes, pustuleux et morveux. Ils sont doués d'une grande force physique et, malgré leur difformité, d'une stupéfiante agilité. Leurs mains sont d'énormes battoirs aux ongles durs comme des griffes. Ils pratiquent la langue du voyage.
+==== Mœurs ====
+Drôles et Drôlesses vivent en solitaires, ne se rencontrant que brièvement pour s'accoupler. Méchants et mesquins, ils détestent tout le monde, y compris leurs congénères. Ils vivent généralement cachés sous les vieux ponts ou à l'entrée de bâtiments en ruines, où ils se nourrissent de vermine et de racines, tout juste vêtus d'un pagne. Ils possèdent un pouvoir inné qu'ils peuvent conserver et utiliser tant qu'ils respectent la règle de n'agresser personne si la personne respecte elle-même la condition de jeter une pièce de monnaie (un denier suffit) en disant « pour le péage ! » ou une formule équivalente. Si cette condition n'est pas respectée, le Drôle s'estime offensé. Si le fauteur est seul ou faible, il cherche à le tuer ; à défaut, il utilise son pouvoir qui est de lancer le mauvais œil. Ce pouvoir est l'équivalent d'un sort de ''Thanatœil'' de 10 points (voir ''[[Sorts Individuels#THANATOEIL|Le Haut-rêve]]''). S'agissant d'un pouvoir inné, le Drôle n'a ni à monter dans les TMR, ni à dépenser de points de rêve.
+==== Combat ====
+Les Drôles se contentent généralement de leurs énormes mains (Corps à corps) qui causent des dommages sur la table des Blessures (et non celle des Coups non mortels). Ils sont parfois armés d'une masse lourde ou d'une hache. Leur grande résistance physique leur confère une protection naturelle de 2 points.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 17 / +2 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 12
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -5 || Endurance || style="text-align:right;" | 24
+|-
+| CONSTITUTION || style="text-align:right;" | +2 || EMPATHIE || style="text-align:right;" | -2 || SC || style="text-align:right;" | 4
+|-
+| FORCE || style="text-align:right;" | +2 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | +1
+|-
+| AGILITÉ || style="text-align:right;" | +2 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 12 || Enc || style="text-align:right;" | 12
+|-
+| VUE || style="text-align:right;" | -2 || Tir || style="text-align:right;" | 9 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | +2 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | -2 || Dérobée || style="text-align:right;" colspan = "3" | 10
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Corps à corps || niv +3 || Init 9 || colspan="2" | +dom +1
+|-
+| colspan="2" | Hache || niv +3 || Init 9 || colspan="2" | +dom 3
+|-
+| Discrétion || +3 || Vigilance || +3 || Srv Extérieur || +3
+|-
+| Srv Sous-sol || colspan="5" | +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : tous les Tirs / Équitation /''
+|-
+| colspan="6" | ''Musique / Pickpocket / Srv Cité / toutes ''
+|-
+| colspan="6" | ''les compétences spécialisées sauf Maroquinerie''
+|-
+| colspan="6" | ''et Natation / toutes les connaissances /''
+|-
+| colspan="6" | ''Draconic''.
+|}
+
+== Fièrabras ==
+==== Description ====
+Les Fièrabras sont des humanoïdes à visage humain, au torse, aux épaules et aux bras extrêmement développés et musclés, mais à la tête minuscule. Un Fièrabras moyen fait 1,90 m de haut pour une tête de 15 cm de diamètre ; placés le long du corps, ses bras descendent plus bas que le genou. Le bas du corps est de proportions normales. Les femmes, plus petites, sont morphologiquement l'inverse : le haut du corps est normal, y compris la tête, mais cuisses, hanches et fesses sont de proportions énormes. Hommes et femmes ne sont généralement vêtus que d'un pagne et de quelques ornements de cuir, les hommes arborant en plus un petit casque à peine grand comme un bol. Les Fièrabras s'expriment par grognements et ignorent tout de la langue du voyage.
+==== Mœurs ====
+Les mâles ne savent faire que trois choses (qu'ils font au demeurant fort bien) : rouler des mécaniques, engrosser leurs femelles et taper sur tout ce qui bouge. Toutes proportions gardées, leurs compagnes sont intellectuellement des surdouées. Ce sont elles qui fabriquent les huttes de branchages où ils vivent, tannent les peaux, pratiquent la poterie, etc. Face à une rencontre de Fièrabras, il n'y a que deux comportements raisonnables : fuir le plus vite possible ou frapper encore plus fort.
+==== Combat ====
+Les Fièrabras ignorent la subtilité des armes de tir ou de jet et ne combattent qu'à la masse lourde tenue à deux mains. 
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 18 / +3 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 13
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -5 || Endurance || style="text-align:right;" | 26
+|-
+| CONSTITUTION || style="text-align:right;" | +3 || EMPATHIE || style="text-align:right;" | -4 || SC || style="text-align:right;" | 4
+|-
+| FORCE || style="text-align:right;" | +3 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | +1
+|-
+| AGILITÉ || style="text-align:right;" | +1 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | -2 || Mêlée || style="text-align:right;" | 12 || Enc || style="text-align:right;" | 13
+|-
+| VUE || style="text-align:right;" | -2 || Tir || style="text-align:right;" | 8 || Vitesse || style="text-align:right;" | 14
+|-
+| OUÏE || style="text-align:right;" | -2 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 0
+|-
+| ODORAT-GOÛT || style="text-align:right;" | -2 || Dérobée || style="text-align:right;" colspan = "3" | 9
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Masse à 2 mains || niv +5 || Init 9 || colspan="2" | +dom +5
+|-
+| colspan="2" | Esquive || colspan="4" | niv +5
+|-
+| Course || +3 || Saut || +3 || Srv Extérieur || +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Comédie / Équitation / Maçonnerie /''
+|-
+| colspan="6" | ''Musique / Pickpocket / Srv Cité / Navigation /''
+|-
+| colspan="6" | ''Orfèvrerie / Serrurerie / toutes connaissances /''
+|-
+| colspan="6" | ''Draconic''.
+|}
+
+== Gigant ==
+==== Description ====
+Les Gigants sont les plus grands des humanoïdes, pouvant peser jusqu'à 300 kg, avec une taille moyenne de 2.50 m. Hormis leurs mensurations gigantesques, ils sont de morphologie humaine.
+==== Mœurs ====
+Les Gigants vivent dans les montagnes, de préférence dans des vallées fermées qui les coupent du reste du monde, assemblés en familles de quatre ou cinq individus au maximum. Ils sont peu sociables et amateurs de solitude, vivant de chasse et d'élevage de chèvres. Au demeurant paisibles, ils ne sont pas agressifs tant qu'on respecte leur intimité. Leur langage est à base de chuchotements (pour éviter les avalanches) et il est exceptionnel qu'ils parlent la langue du voyage.
+==== Combat ====
+Surtout chasseurs, les Gigants manient excellemment le javelot. Au contact. ils utilisent la masse lourde à deux mains. Ils sont vêtus de cuir souple valant 2 points de protection, auxquels ils ajoutent 2 points de protection naturelle due à leur grande taille.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 23 / +8 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 16
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -2 || Endurance || style="text-align:right;" | 32
+|-
+| CONSTITUTION || style="text-align:right;" | +4 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 4
+|-
+| FORCE || style="text-align:right;" | +4 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | +3
+|-
+| AGILITÉ || style="text-align:right;" | +2 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 5
+|-
+| DEXTÉRITÉ || style="text-align:right;" | -2 || Mêlée || style="text-align:right;" | 13 || Enc || style="text-align:right;" | 16
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 16
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 13 || Protection || style="text-align:right;" | 4
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 7
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Masse à 2 mains || niv +3 || Init 9 || colspan="2" | +dom +6
+|-
+| colspan="2" | Javelot || niv +3 || Init 9 || colspan="2" | +dom +2
+|-
+| colspan="2" | Esquive || colspan="4" | niv +3
+|-
+| Saut || +5 || Escalade || +5 || Vigilance || +5
+|-
+| Srv Montagne || colspan="5" | +5
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Équitation / Pickpocket / Srv Cité /''
+|-
+| colspan="6" | ''Navigation / Orfèvrerie / Serrurerie / Alchimie /''
+|-
+| colspan="6" | ''Draconic''.
+|}
+
+== Gnome  ==
+==== Description ====
+Les Gnomes sont les plus petits des humanoïdes, 90 cm de haut pour 30 kg en moyenne. Hormis leur petite taille, ils sont de morphologie humaine. Les hommes (Gnomes) sont barbus de très bonne heure, et un individu rasé est une rare excentricité. Les femmes (Gnomesses) ne se coupent jamais les cheveux, qu'elles nattent ordinairement. Une chevelure de Gnomesse dénouée lui descend souvent plus bas que les chevilles. Tous sont robustes et particulièrement adroits de leurs mains. Ils ont généralement les cheveux et les yeux clairs. Les Gnomes des cités humaines parlent couramment la langue du voyage.
+==== Mœurs ====
+Les Gnomes sont, selon la légende, les plus anciens des humanoïdes. On leur attribue la découverte des gemmes, assimilée à celle de la magie, découverte qui provoqua le premier grand cauchemar des Dragons et leur réveil. Une partie d'entre eux vit maintenant dans des cités troglodytes ou souterraines, d'accès quasiment impossible pour qui n'est pas explicitement invité. Ils y défendent farouchement leur culture et leurs traditions. Une autre partie s'est déracinée et vit avec les Humains dans certaines cités humaines. Sociables quoique discrets et peu bavards, ils pratiquement l'artisanat, excellant notamment en [[Les Compétences#ORFÈVRERIE|Orfèvrerie]], [[Les Compétences#MÉTALLURGIE|Métallurgie]], [[Les Compétences#SERRURERIE|Serrurerie]] et [[Les Compétences#ALCHIMIE|Alchimie]]. Nombre d'entre eux sont haut-rêvants ; et l'on en trouve aussi parmi les voyageurs.
+==== Combat ====
+Quoique d'un naturel peu vindicatif, les Gnomes savent se battre courageusement s'il le faut, compensant leur manque de puissance par une bonne escrime. Leur arme de prédilection est une petite épée, forgée par eux-mêmes, et justement appelée épée gnome. Ils se protègent de cuir souple.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 9 / -3 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 10
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | 0 || Endurance || style="text-align:right;" | 19
+|-
+| CONSTITUTION || style="text-align:right;" | +2 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 4
+|-
+| FORCE || style="text-align:right;" | -2 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | -1
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 2
+|-
+| DEXTÉRITÉ || style="text-align:right;" | +2 || Mêlée || style="text-align:right;" | 9 || Enc || style="text-align:right;" | 7,5
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 11 || Vitesse || style="text-align:right;" | 8
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 9 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 12
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Épée gnome || niv +1 || Init 5 || colspan="2" | +dom +1
+|-
+| colspan="2" | Esquive || colspan="4" | niv +1
+|-
+| Bricolage || +3 || Discrétion || +3 || Vigilance || +3
+|-
+| Commerce || +3 || Srv Cité || +3 || Légendes || +3
+|-
+| Écriture || colspan="5" | +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : aucune''.
+|}
+
+== Groin ==
+==== Description ====
+Les Groins sont des humanoïdes à faciès porcin, dotés de groins, d'où leur nom. Ils ont généralement la peau blême ou rosâtre, recouverte de soies pâles, les yeux minuscules, et de grandes oreilles tombantes comme celles des porcs. Certaines races ont le museau plus allongé, le poil plus sombre, les canines dépassant de la bouche, et tiennent davantage du sanglier. Lourds, trapus, costauds, les Groins ont tout de la brute. Les femmes (les Grouines) ne se distinguent des mâles que par leur énorme paire de mamelles et un volumineux postérieur. Ils ont un langage à base de couinements, mais parlent tous la langue du voyage, qu'ils écorchent de barbarismes et de syntaxe approximative.
+==== Mœurs ====
+Les Groins sont brutaux, méchants, querelleurs, sales, vulgaires, lubriques, souvent lâches, et (heureusement) plutôt stupides. Aussi nombreux que fréquents (leur rêve d'origine doit être surpeuplé), ils ne cessent de déferler en bandes de pillards, massacrant les animaux, incendiant les maisons, et violant les femmes. Après la tuerie, la fornication est ce qu'ils aiment le plus, et les femmes humaines les excitent tout particulièrement. Ne reconnaissant que la loi du plus fort, ils acceptent temporairement pour chef celui qui cogne le mieux. Avides, ils aiment ce qui brille, mais leur ignorance et leur imbécillité leur font souvent préférer le toc et le tape-à-l’œil à la valeur réelle.
+==== Combat ====
+Quoique pouvant utiliser toutes les armes, les Groins ont rarement des armes de tir ou de lancer. Ils sont le plus souvent armés d'une grouine, une masse lourde qu'ils bricolent eux-mêmes en la renforçant de clous et de ferrailles tordues. Ils parent au bouclier moyen, et sont protégés de bric et de broc de morceaux d'armures dépenaillées valant pour 2 points de protection.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 16 / +1 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 11
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -5 || Endurance || style="text-align:right;" | 22
+|-
+| CONSTITUTION || style="text-align:right;" | +1 || EMPATHIE || style="text-align:right;" | -4 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | +1 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 10 || Enc || style="text-align:right;" | 11
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 10
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Grouine || niv +3 || Init 8 || colspan="2" | +dom +3
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +3
+|-
+| colspan="2" | Esquive || colspan="4" | niv +3
+|-
+| Course || +3 || Saut || +3 || Srv Extérieur || +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Orfèvrerie / Serrurerie / toutes ''
+|-
+| colspan="6" | ''connaissances / Draconic''.
+|}
+
+== Ogre ==
+==== Description ====
+Venant au second rang en ce qui concerne la taille (après les Gigants), les Ogres font en moyenne 2,20 m pour 110 kg. Leur faciès et leur morphologie sont grossièrement humains et laids, voire repoussants, avec des traits lourds, des mâchoires saillantes et des yeux jaunes. Chauves de naissance, ils n'ont aucun poil sur le corps à l'exception des cils ; Ogres et Ogresses ont une silhouette identique. Leur langage a des sonorités sifflantes et d'une musicalité qui surprend chez des êtres aussi massifs. Certains baragouinent la langue du voyage.
+==== Mœurs ====
+Farouches, distants, peut-être conscients d'être objets d'horreur, les Ogres se mêlent le moins possible aux autres populations. En eux-mêmes, ils se savent bons et doux et ne comprennent pas pourquoi tant de haine. Leurs territoires d'élection sont les collines boisées, les contreforts montagneux où ils peuvent trouver des cavernes. À défaut, ils se construisent des huttes. Ils vivent de chasse et de pêche, se vêtant de cuir et de peaux. Ce qui les fait craindre et haïr, c'est qu'ils dévorent leurs proies encore vivantes. On dit qu'ils aiment la viande « hurlante » et qu'ils sont anthropophages. En réalité, manger de la chair morte est tout aussi impensable que répugnant pour un Ogre, il préférerait se contenter de ronger des racines. Et en ce qui concerne les quelques enfants humains qu'il leur arrive de dévorer, en toute honnêteté de cœur et d'esprit, ils ne voient pas la différence avec un agneau. « C'est gentil aussi, un agneau, et c'est bon aussi... »
+==== Combat ====
+Les Ogres n'utilisent quasiment que la lance et le bouclier. Leur force est telle qu'ils utilisent la même lance courte en mêlée et en lancer en guise de javelot. Leur cuir souple les protège de 2 points, auxquels ils rajoutent 1 point de protection naturelle.
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 20 / +5 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 14
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -3 || Endurance || style="text-align:right;" | 28
+|-
+| CONSTITUTION || style="text-align:right;" | +3 || EMPATHIE || style="text-align:right;" | -2 || SC || style="text-align:right;" | 4
+|-
+| FORCE || style="text-align:right;" | +3 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | +2
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 4
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 11 || Enc || style="text-align:right;" | 14
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 14
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 11 || Protection || style="text-align:right;" | 3
+|-
+| ODORAT-GOÛT || style="text-align:right;" | +2 || Dérobée || style="text-align:right;" colspan = "3" | 8
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Lance courte || niv +3 || Init 8 || colspan="2" | +dom +4
+|-
+| colspan="2" | Javelot || niv +3 || Init 8 || colspan="2" | +dom +2
+|-
+| colspan="2" | Esquive || colspan="4" | niv +3
+|-
+| Course || +3 || Saut || +3 || Escalade || +3
+|-
+| Srv Extérieur || +3 || Maroquinerie || colspan="3" | +3
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Cuisine / Comédie / Équitation /''
+|-
+| colspan="6" | ''Pickpocket / Orfèvrerie / Serrurerie / Alchimie /''
+|-
+| colspan="6" | ''Draconic''.
+|}
+
+== Sagouin ==
+==== Description ====
+Les Sagouins sont les plus horribles des humanoïdes. D'une raille légèrement inférieure à la moyenne humaine, ils ont le corps recouvert d'écailles, hérissé de piquants aux coudes et aux genoux. Leur tête mi-reptilienne, mi-batracienne, a un front cornu et une large bouche fendue jusqu'aux oreilles, avec des lèvres adipeuses, molles et pendantes. En plein jour, leurs veux globuleux se protègent de la lumière en se recouvrant d'une membrane blanchâtre, ce qui ne les empêche pas de voir. On pourrait les prendre pour des animaux s'ils n'avaient un langage et n'utilisaient armes et vêtements. Ces derniers consistent sommairement en lambeaux de toile, rares fruits de leurs pillages, dont ils se drapent les hanches. Les femelles (les Sagouines) se piquent davantage de coquetterie et recouvrent leur crâne écailleux de perruques de ficelle tressée ; elles aiment également farder de rouge la membrane protectrice de leurs veux. À part cela, rien ne les distingue nettement des mâles. Les deux exhalent une odeur atroce d'urine et de moisi. Ils ignorent la langue du voyage.
+==== Mœurs ====
+Les Sagouins sont un fléau identique aux Groins. Ils déferlent, ravagent, détruisent. Toutefois, à la différence de ceux-ci, ils ne pillent pas pour le butin ni pour la luxure. Ils dévastent tout par principe, détruire étant un but en soi. L'or les laisse indifférents. Après avoir massacré un village entier, ils n'emportent parfois que quelques morceaux de tissu pour renouveler leur pagne, tandis que les Sagouines se disputent la ficelle. Quittant les lieux de leur besogne, ils tirent derrière eux le cadavre d'un homme ou d'une femme. Ils ne le dévoreront que quand il sera amplement putréfié.
+==== Combat ====
+Les Sagouins se battent à la sagouine, une sorte de fléau à trois chaînes terminées par des crochets barbelés, et parent au bouclier moyen. Leur morphologie leur vaut une protection naturelle de 3 points. 
+
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 14 / -1 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 10
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -4 || Endurance || style="text-align:right;" | 20
+|-
+| CONSTITUTION || style="text-align:right;" | +1 || EMPATHIE || style="text-align:right;" | -2 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | +1 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | +1 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 2
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 11 || Enc || style="text-align:right;" | 10
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 3
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 11
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Sagouine || niv +5 || Init 5 || colspan="2" | +dom +4
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +5
+|-
+| colspan="2" | Esquive || colspan="4" | niv +5
+|-
+| Srv Extérieur || +3 || colspan="4" | 
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Comédie / Commerce / Équitation /''
+|-
+| colspan="6" | ''Musique / Pickpocket / Srv Cité / Navigation /''
+|-
+| colspan="6" | ''Orfèvrerie / Serrurerie / toutes connaissances /''
+|-
+| colspan="6" | ''Draconic''.
+|}
+
+== Saure ==
+==== Description ====
+Les Saures sont des humanoïdes sauriens, des hommes-reptiles au corps recouvert d'écailles. Ils ont les mains et les pieds légèrement palmés, dotés de griffes rétractiles. Aussi à l'aise sur terre que dans l'eau, ils respirent au moyen de poumons, mais leur morphologie est telle qu'ils peuvent demeurer immergés plusieurs dizaines de minutes avant de devoir reprendre de l'air. Leur langage, évolué, a des sonorités nasillardes et chuintantes ; ils parlent parfois la langue du voyage.
+==== Mœurs ====
+Les Saures ont une culture primitive, mais néanmoins raffinée et très organisée. Ils fabriquent des objets, connaissent la métallurgie, le textile, la musique et l'écriture et l'on trouve même des haut-rêvants parmi eux. Ils vivent au bord de l'eau, près des lacs ou dans les marécages où ils construisent des huttes sur pilotis. Leur alimentation consiste en poisson, mollusques, larves et autres « fruits de marais ». Hors de l'eau, ils se vêtent de longues tunique de soie moirée, qu'ils tissent eux-mêmes avec le cocon d'un insecte qu'ils sont seuls à connaître. La soie saure est magnifique et très recherchée. Très belliqueux, les Saures ne tolèrent aucune intrusion sur le territoire qu'ils estiment être le leur et il est très difficile de commercer avec eux. Expansionnistes, ils sont souvent en guerre pour agrandir leur domaine. Leurs armées sont efficaces et disciplinées, parfois montées sur aligates.
+==== Combat ====
+Lances courtes, javelots, frondes et boucliers sont les armes traditionnelles des Saures. Leur morphologie leur assure une protection naturelle de 2 points.
+
+TAILLE 16 / +1 VOLONTÉ 0 Vie 11 APPARENCE 0 INTELLECT 0 Endurance 22 CONSTITUTION +1 EMPATHIE 0 SC 3 FORCE +1 RÊVE 0 +dom 0 AGILITÉ 0 CHANCE 0 Sust 3 DEXTÉRITÉ 0 Mêlée 10 Enc 11 VUE 0 Tir 10 Vitesse 12 OUÏE 0 Lancer 10 Protection 2 ODORAT-GOÛT 0 Dérobée 10 
+Lance courte Javelot Fronde 
+niv +5 niv +5 niv +5 
+irait 10 +dom +2 init 10 +dom +1 init 10 +dom +1 
+Discrétion +3 Vigilance +3 Équitation (aligate) +5 Survie Extérieur et Marais +5 Natation +5. 
+Prohibées : aucune. 
+
+== Sylvain ==
+==== Description ====
+Les Sylvains sont de petits êtres de la taille des Gnomes, vivant exclusivement au cœur des forêts. Les hommes (Sylvains) ont l'allure de diablotins avec une barbiche au bout du menton et deux petites cornes pointant verticalement en haut du front, parmi la masse de leurs cheveux bouclés. Les femmes (Sylvaines) n'ont ni barbe ni corne et sont généralement bien proportionnées, jolies, adorables petites poupées. Les sylvains ont un langage à base de gazouillis et ne parlent que très rarement la langue du voyage.
+==== Mœurs ====
+Les Sylvains vivent au cœur des forêts, qu'ils ne quittent jamais sous peine de dépérir. Ils construisent de véritables villages suspendus dans les arbres, faits de plateformes et de passerelles. Ils se vêtent de fibres végétales qu'ils tissent et pigmentent eux-mêmes. Bons alchimistes, ils parviennent à obtenir des couleurs éclatantes avec le suc de certaines fleurs. Leur nourriture est exclusivement végétarienne : fruits, fleurs confites, miel. Peuple joyeux et paisible, les Sylvains font perpétuellement la fête : chants, danses, musique et mascarades. Les Sylvains adorent leurs Sylvaines, qui le leur rendent, et l'amour est probablement pour eux la chose la plus importante. Nombre d'entre eux sont haut-rêvants, avec une prédilection pour les illusions d'Hypnos.
+==== Combat ====
+Les Sylvains ne chassent pas et ne se battent que contraints et forcés. Ils utilisent le javelot en guise de lance de mêlée, le bouclier léger, tirant parfois d'un petit arc. Ils n'ont aucune protection.
+
+TAILLE 9 / -3 APPARENCE 0 CONSTITUTION 0 FORCE -1 AGILITÉ 0 DEXTÉRITÉ 0 VUE +2 OUÏE +2 ODORAT-GOÛT +2 
+Petite lance Petit arc Bouclier Esquive 
+VOLONTÉ 0 Vie 9 INTELLECT 0 Endurance 17 EMPATHIE +2 SC 3 REVE 0 +dom 0 CHANCE 0 Sust  2 Mêlée 10 Enc 8,5 Tir 11 Vitesse 8 Lancer 10 Protection 0 Dérobée 12 
+niv +1 Mit 6 +dom +1 niv +1 finit 6 +dom +1 niv +1 niv +1 
+Chant +5 Danse +5 Discrétion +5 Escalade +5 Séduction +5 Charpenterie +5 Comédie +5 Srv Forêt +5. Prohibées : Équitation / Maçonnerie / Toutes survies sauf Forêt Navigation / Serrurerie. 
+
+== Tortemoque ==
+==== Description ====
+Les Tortemoques sont les plus étranges des humanoïdes, avec un corps de tortue et une tête de veau. Comme tous les humanoïdes, ils sont néanmoins bipèdes et verticaux, avec des bras pourvus de mains. Ils sont en moyenne plus petits que les Humains, mais plus grands que les Gnomes. Leur langage tient plus du veau que de la tortue et ressemble à des meuglements tristes et étouffés. Ils ne parlent que rarement la langue du voyage.
+==== Mœurs. ====
+Les Tortemoques vivent en sociétés très organisées, avec un roi et une reine. Leurs lieux d'élection sont les marécages bordés de falaises où des grottes ramifiées abritent leur colonie. Dans les marais, ils pêchent le zomar qui, apprêté en soupe, est à la fois leur plat national et leur presque unique raison de vivre. Ils ne pratiquent que peu d'artisanat et ignorent l'usage du fer. Quelques-uns pratiquent le haut-rêve. Tortemoques mâles et femelles (au premier coup d’œil, on ne voit pas la différence) vivent nus, protégés par leur carapace naturelle, à l'exception d'un petit bonnet fait d'écailles de zomar dont ils se couvrent le chef. Se montrer devant ses congénères sans son bonnet est d'une indécence scandaleuse et choquante. Durant les relations amoureuses, même, certaines Tortemoques femelles répugnent à retirer leur bonnet devant leur partenaire. Les Tortemoques sont à la fois craintifs et trouillards, et dotés d'un sens de l'honneur hypertrophié. Face à une agression, ils se mettent à chialer comme des veaux, mais, tout en s'inondant de larmes, ne s'en battent pas moins jusqu'à la mort.
+==== Combat ====
+Les Tortemoques utilisent la lance courte à pointe de pierre, un bouclier léger de cuir et d'écaille, ainsi que la fronde. Leur carapace leur assure une protection naturelle de 3 points. 
+
+TAILLE 13 / -2 
+APPARENCE CONSTITUTION FORCE AGILITÉ DEXTÉRITÉ VUE OUÏE ODORAT-GO Û 1' 
+Lance de pierre Fronde Bouclier Esquive 
+VOLONTÉ +2 Vie 9 INTELLECT -3 Endurance 18 EMPATHIE 0 SC 3 RÊVE 0 +dom CHANCE 0 Sust 2 Mêlée 10 Enc 9 Tir 10 Vitesse 10 Lancer 10 Protection 3 Dérobée 11 
+niv +1 init 6 +dom + 1 niv +1 finit 6 +dom +1 niv +1 niv +1 
+Cuisine (soupe au zomar) +5 Vigilance +3 Srv Sous-sol et Marais +3 Natation +3. Prohibées : Équitation / Srv Cité / Métallurgie / Serrurerie. 
+
