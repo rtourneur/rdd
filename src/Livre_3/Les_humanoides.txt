@@ -120,7 +120,7 @@ Lâches et rusés, les Chafouins n'attaquent jamais de front, mais toujours par 
 |-
 | OUÏE || style="text-align:right;" | +3 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 0
 |-
-| ODORAT-GOÛT || style="text-align:right;" | +3 || Dérobée || style="text-align:right;" colspan = "3" | 14
+| ODORAT-GOÛT || style="text-align:right;" | +3 || Dérobée || style="text-align:right;" | 14 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -173,7 +173,7 @@ Vêtus de cuir souple, les Chèvres-Pieds utilisent la lance courte, le javelot,
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 11 || Protection || style="text-align:right;" | 2
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 9
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 9 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -187,7 +187,7 @@ Vêtus de cuir souple, les Chèvres-Pieds utilisent la lance courte, le javelot,
 |-
 | colspan="2" | Esquive || colspan="4" | niv +5
 |-
-| Vigilance || +5 || colspan="3" | Srv Forêt || +5
+| Vigilance || +5 || Srv Forêt || colspan="3" | +5
 |-
 | colspan="6" | &nbsp;
 |-
@@ -228,7 +228,7 @@ Les Cyans, usuellement protégés de cuir souple, combattent à l'épée cyane, 
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 10
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 10 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -242,7 +242,7 @@ Les Cyans, usuellement protégés de cuir souple, combattent à l'épée cyane, 
 |-
 | Vigilance || +3 || Discrétion || +3 || Srv Extérieur || +3
 |-
-| Commerce || +3 || colspan="3" | Équitation || +3
+| Commerce || +3 || Équitation || colspan="3" | +3
 |-
 | colspan="6" | &nbsp;
 |-
@@ -275,7 +275,7 @@ Comme les Humains, les Cynoferox utilisent toutes les techniques de combat.
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 10
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 10 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -320,7 +320,7 @@ Les Drôles se contentent généralement de leurs énormes mains (Corps à corps
 |-
 | OUÏE || style="text-align:right;" | +2 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
 |-
-| ODORAT-GOÛT || style="text-align:right;" | -2 || Dérobée || style="text-align:right;" colspan = "3" | 10
+| ODORAT-GOÛT || style="text-align:right;" | -2 || Dérobée || style="text-align:right;" | 10 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -371,7 +371,7 @@ Les Fièrabras ignorent la subtilité des armes de tir ou de jet et ne combatten
 |-
 | OUÏE || style="text-align:right;" | -2 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 0
 |-
-| ODORAT-GOÛT || style="text-align:right;" | -2 || Dérobée || style="text-align:right;" colspan = "3" | 9
+| ODORAT-GOÛT || style="text-align:right;" | -2 || Dérobée || style="text-align:right;" | 9 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -418,7 +418,7 @@ Surtout chasseurs, les Gigants manient excellemment le javelot. Au contact. ils 
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 13 || Protection || style="text-align:right;" | 4
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 7
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 7 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -467,7 +467,7 @@ Quoique d'un naturel peu vindicatif, les Gnomes savent se battre courageusement 
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 9 || Protection || style="text-align:right;" | 2
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 12
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 12 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -512,7 +512,7 @@ Quoique pouvant utiliser toutes les armes, les Groins ont rarement des armes de 
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 10
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 10 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -557,7 +557,7 @@ Les Ogres n'utilisent quasiment que la lance et le bouclier. Leur force est tell
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 11 || Protection || style="text-align:right;" | 3
 |-
-| ODORAT-GOÛT || style="text-align:right;" | +2 || Dérobée || style="text-align:right;" colspan = "3" | 8
+| ODORAT-GOÛT || style="text-align:right;" | +2 || Dérobée || style="text-align:right;" | 8 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -606,7 +606,7 @@ Les Sagouins se battent à la sagouine, une sorte de fléau à trois chaînes te
 |-
 | OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 3
 |-
-| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" colspan = "3" | 11
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 11 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
@@ -637,12 +637,42 @@ Les Saures ont une culture primitive, mais néanmoins raffinée et très organis
 ==== Combat ====
 Lances courtes, javelots, frondes et boucliers sont les armes traditionnelles des Saures. Leur morphologie leur assure une protection naturelle de 2 points.
 
-TAILLE 16 / +1 VOLONTÉ 0 Vie 11 APPARENCE 0 INTELLECT 0 Endurance 22 CONSTITUTION +1 EMPATHIE 0 SC 3 FORCE +1 RÊVE 0 +dom 0 AGILITÉ 0 CHANCE 0 Sust 3 DEXTÉRITÉ 0 Mêlée 10 Enc 11 VUE 0 Tir 10 Vitesse 12 OUÏE 0 Lancer 10 Protection 2 ODORAT-GOÛT 0 Dérobée 10 
-Lance courte Javelot Fronde 
-niv +5 niv +5 niv +5 
-irait 10 +dom +2 init 10 +dom +1 init 10 +dom +1 
-Discrétion +3 Vigilance +3 Équitation (aligate) +5 Survie Extérieur et Marais +5 Natation +5. 
-Prohibées : aucune. 
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 16 / +1 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 11
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | 0 || Endurance || style="text-align:right;" | 22
+|-
+| CONSTITUTION || style="text-align:right;" | +1 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | +1 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 3
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 10 || Enc || style="text-align:right;" | 11
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 12
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 2
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 10 || colspan="2" | 
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Lance courte || niv +5 || Init 41 || colspan="2" | +dom +2
+|-
+| colspan="2" | Javelot || niv +5 || Init 8 || colspan="2" | +dom +1
+|-
+| colspan="2" | Fronde || niv +5 || Init 8 || colspan="2" | +dom +1
+|-
+| Discrétion || +3 || Vigilance || +3 || Équitation (aligate) || +5
+|-
+| Srv Extérieur || +5 || Srv Marais || +5 || Natation || +5
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : aucune''.
+|}
 
 == Sylvain ==
 ==== Description ====
@@ -652,11 +682,48 @@ Les Sylvains vivent au cœur des forêts, qu'ils ne quittent jamais sous peine d
 ==== Combat ====
 Les Sylvains ne chassent pas et ne se battent que contraints et forcés. Ils utilisent le javelot en guise de lance de mêlée, le bouclier léger, tirant parfois d'un petit arc. Ils n'ont aucune protection.
 
-TAILLE 9 / -3 APPARENCE 0 CONSTITUTION 0 FORCE -1 AGILITÉ 0 DEXTÉRITÉ 0 VUE +2 OUÏE +2 ODORAT-GOÛT +2 
-Petite lance Petit arc Bouclier Esquive 
-VOLONTÉ 0 Vie 9 INTELLECT 0 Endurance 17 EMPATHIE +2 SC 3 REVE 0 +dom 0 CHANCE 0 Sust  2 Mêlée 10 Enc 8,5 Tir 11 Vitesse 8 Lancer 10 Protection 0 Dérobée 12 
-niv +1 Mit 6 +dom +1 niv +1 finit 6 +dom +1 niv +1 niv +1 
-Chant +5 Danse +5 Discrétion +5 Escalade +5 Séduction +5 Charpenterie +5 Comédie +5 Srv Forêt +5. Prohibées : Équitation / Maçonnerie / Toutes survies sauf Forêt Navigation / Serrurerie. 
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 9 / -3 || VOLONTÉ || style="text-align:right;" | 0 || Vie || style="text-align:right;" | 9
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | 0 || Endurance || style="text-align:right;" | 17
+|-
+| CONSTITUTION || style="text-align:right;" | 0 || EMPATHIE || style="text-align:right;" | +2 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | -1 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 2
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 10 || Enc || style="text-align:right;" | 8,5
+|-
+| VUE || style="text-align:right;" | +2 || Tir || style="text-align:right;" | 11 || Vitesse || style="text-align:right;" | 8
+|-
+| OUÏE || style="text-align:right;" | +2 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 0
+|-
+| ODORAT-GOÛT || style="text-align:right;" | +2 || Dérobée || style="text-align:right;" | 12 || colspan="2" | 
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Petite lance || niv +1 || Init 6 || colspan="2" | +dom +1
+|-
+| colspan="2" | Petite arc || niv +1 || Init 6 || colspan="2" | +dom +1
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +1
+|-
+| colspan="2" | Esquive || colspan="4" | niv +1
+|-
+| Chant || +5 || Danse || +5 || Discrétion || +5
+|-
+| Escalade || +5 || Séduction || +5 || Charpenterie || +5
+|-
+| Comédie || +5 || Srv Forêt || +5 || colspan="2" |
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Équitation / Maçonnerie / Toutes''
+|-
+| colspan="6" | ''survies sauf Forêt /  Navigation / Serrurerie''. 
+|}
 
 == Tortemoque ==
 ==== Description ====
@@ -666,10 +733,43 @@ Les Tortemoques vivent en sociétés très organisées, avec un roi et une reine
 ==== Combat ====
 Les Tortemoques utilisent la lance courte à pointe de pierre, un bouclier léger de cuir et d'écaille, ainsi que la fronde. Leur carapace leur assure une protection naturelle de 3 points. 
 
-TAILLE 13 / -2 
-APPARENCE CONSTITUTION FORCE AGILITÉ DEXTÉRITÉ VUE OUÏE ODORAT-GO Û 1' 
-Lance de pierre Fronde Bouclier Esquive 
-VOLONTÉ +2 Vie 9 INTELLECT -3 Endurance 18 EMPATHIE 0 SC 3 RÊVE 0 +dom CHANCE 0 Sust 2 Mêlée 10 Enc 9 Tir 10 Vitesse 10 Lancer 10 Protection 3 Dérobée 11 
-niv +1 init 6 +dom + 1 niv +1 finit 6 +dom +1 niv +1 niv +1 
-Cuisine (soupe au zomar) +5 Vigilance +3 Srv Sous-sol et Marais +3 Natation +3. Prohibées : Équitation / Srv Cité / Métallurgie / Serrurerie. 
-
+{| style="border:1px solid black;text-align:left;"
+|-
+| TAILLE || style="text-align:right;" | 13 / -2 || VOLONTÉ || style="text-align:right;" | +2 || Vie || style="text-align:right;" | 9
+|-
+| APPARENCE || style="text-align:right;" | 0 || INTELLECT || style="text-align:right;" | -3 || Endurance || style="text-align:right;" | 18
+|-
+| CONSTITUTION || style="text-align:right;" | 0 || EMPATHIE || style="text-align:right;" | 0 || SC || style="text-align:right;" | 3
+|-
+| FORCE || style="text-align:right;" | 0 || RÊVE || style="text-align:right;" | 0 || +dom || style="text-align:right;" | 0
+|-
+| AGILITÉ || style="text-align:right;" | 0 || CHANCE || style="text-align:right;" | 0 || Sust || style="text-align:right;" | 2
+|-
+| DEXTÉRITÉ || style="text-align:right;" | 0 || Mêlée || style="text-align:right;" | 10 || Enc || style="text-align:right;" | 9
+|-
+| VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 10
+|-
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 10 || Protection || style="text-align:right;" | 3
+|-
+| ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 11 || colspan="2" | 
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="2" | Lance de pierre || niv +1 || Init 6 || colspan="2" | +dom +1
+|-
+| colspan="2" | Fronde || niv +1 || Init 6 || colspan="2" | +dom +1
+|-
+| colspan="2" | Bouclier || colspan="4" | niv +1
+|-
+| colspan="2" | Esquive || colspan="4" | niv +1
+|-
+| Cuisine (soupe au zomar) || +5 || Vigilance || +3 || Srv Sous-sol || +3
+|-
+| Srv Marais || +3 || Natation || colspan="3" | +3 
+|-
+| colspan="6" | &nbsp;
+|-
+| colspan="6" | ''Prohibées : Équitation / Srv Cité / Métallurgie''
+|-
+| colspan="6" | ''Serrurerie''. 
+|}
