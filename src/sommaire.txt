@@ -111,3 +111,7 @@ __NOTOC__
 ** [[Écrits]]
 ** [[Principes d'Alchimie]]
 * [[Les Créatures]]
+** [[Les Humanoïdes]]
+** [[Les Animaux]]
+** [[Le Gibier]]
+** [[Les Entités]]

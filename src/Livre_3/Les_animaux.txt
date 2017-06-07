@@ -1,0 +1,1471 @@
+__NOTOC__
+ [[Les Créatures|Retour aux Créatures]]
+
+==== Caractéristiques ====
+Les animaux n'ont que 6 caractéristiques. [[Les Caractéristiques#TAILLE|TAILLE]], [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] et [[Les Caractéristiques#FORCE|FORCE]] jouent le même rôle que pour les humanoïdes, [[Les Caractéristiques#PERCEPTION|PERCEPTION]] rassemble [[Les Caractéristiques#OUÏE|OUÏE]], [[Les Caractéristiques#VUE|VUE]], [[Les Caractéristiques#ODORAT-GOÛT|ODORAT-GOÛT]] et [[Les Caractéristiques#EMPATHIE|EMPATHIE]] en une seule caractéristique. [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] représente le libre arbitre de l'animal, ce qui lui permet de résister à la peur, à la curiosité, à la gourmandise, et à tous les conditionnements normaux de son espèce. [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] figure donc en quelque sorte son intelligence. Un animal très rusé, comme le renard par exemple, a une forte caractéristique de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]. [[Les Caractéristiques#RÊVE|RÊVE]] est le pouvoir de rêver et, en ce qui concerne les animaux, indique le degré d'évolution. Un mammifère a un meilleur [[Les Caractéristiques#RÊVE|RÊVE]] qu'un mollusque. 
+====Compétences ====
+Chaque compétence, de combat ou autre, est précédée d'une valeur de caractéristique qui lui est liée. L'aligate a, par exemple, Piétinement 15 niv +3, Esquive 8 niv +1, Course 13 niv +3, signifiant que son attaque de piétinement est jouée avec 15 en guise de [[Les Caractéristiques#Mêlée|Mêlée]], son esquive avec 8 en guise de [[Les Caractéristiques#Dérobée|]], et sa course avec 13 en guise de [[Les Caractéristiques#CONSTITUTION|Constitution]], de [[Les Caractéristiques#Mêlée|Mêlée]] ou d'[[Les Caractéristiques#AGILITÉ|Agilité]]. 
+==== Vie et endurance ====
+Les points de vie sont calculés comme pour les humanoïdes. Les points d'endurance sont la somme de points de vie + [[Les Caractéristiques#CONSTITUTION|Constitution]]. 
+==== Vitesse ====
+La première vitesse indiquée est la vitesse de combat ; la seconde, après le signe /, est la vitesse de course, souvent supérieure au double de la vitesse de combat. Noter que la vitesse de course est un terme de règles qui s'applique même quand l'animal ne court pas (animal volant, aquatique). La distance parcourue peut être modulée pour tous les animaux non bipèdes par un jet de Course, Nage ou Vol, en utilisant la table de Course animale, quel que soit le mode de déplacement réel. Les bipèdes utilisent la table de Course des humanoïdes. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Course animale</big>'''
+|-
+| style="text-align:left;" | ''Ech.T'' || -10 m
+|-
+| style="text-align:left;" | ''Ech.P.'' || -8 m
+|-
+| style="text-align:left;" | ''Echec'' || -6 m
+|-
+| style="text-align:left;" | ''Norm.'' || +0 m
+|-
+| style="text-align:left;" | ''Sign.'' || +8 m
+|-
+| style="text-align:left;" | ''Part.'' || +12 m
+|}
+      
+==== Encombrement ====
+Le seuil d'encombrement n'est pertinent que pour les animaux pouvant servir de monture ou porter des charges. Il est calculé comme pour les humanoïdes avec la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#FORCE|FORCE]]. Quand un animal porte un cavalier, l'encombrement de ce dernier est équivalent à sa [[Les Caractéristiques#TAILLE|TAILLE]] s'il est actif. Un personnage ne montant pas activement (endormi, inconscient, en croupe) est un poids mort dont l'encombrement est calculé en se souvenant que 2 kg valent 1 enc. Armures, armes et bagages du cavalier valent normalement leur encombrement. Chaque point d'enc excédentaire donne un malus de -1 aux jets de Course et de Saut de l'animal. Non expressément indiqué, le seuil de sustentation peut être déterminé, d'après la [[Les Caractéristiques#TAILLE|TAILLE]], sur la [[Les Humanoïdes#Compétences|table des humanoïdes]]. Il est utile de savoir combien mange sa monture pour la nourrir correctement.
+==== +dom ====
+Le bonus aux dommages personnel est calculé comme pour un humanoïde, d'après la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#FORCE|FORCE]]. En l'ajoutant au +dom de l'arme naturelle, on obtient le +dom total. 
+==== Protection ====
+Les animaux ont une protection naturelle, pouvant être négative chez les petites tailles ou les créatures fragiles, positives chez les animaux à morphologie puissante, ou simplement égales à zéro. Les protections naturelles ne subissent jamais de détérioration et ne diminuent pas devant les flèches et les carreaux. 
+==== Variations ====
+Contrairement à ce qui se passe chez les humanoïdes, il y peu de variations de compétences/caractéristiques chez les animaux. Les modèles présentés ci-après sont des exemples d'adultes le plus souvent rencontrés et doivent normalement être utilisés sans changement. Comme toujours, 10 représente la moyenne statistique humaine et non pas celle de la race animale considérée. Le gardien des rêves peut modifier les compétences/caractéristiques de +2 ou -2, mais pas davantage. Une plus grande modification impliquerait qu'il ne s'agit pas de la même race, ou alors (en cas de diminution) d'un individu malade, incapacité, ou d'un jeune. 
+=== Animaux domestiques ===
+Si les caractéristiques ont peu de raison de changer en dehors de la fourchette +2/-2, les compétences des animaux domestiques, chiens, montures, etc., peuvent en revanche varier sans limite, à la discrétion du gardien des rêves, simulant en cela des spécificités de dressage et d'entraînement.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="2" style="text-align:center;" | '''<big>Armes naturelles</big>'''
+|-
+| || '''''+dom'''''
+|-
+| style="text-align:left;" | Morsure || rowspan="2" | +1 
+|-
+| style="text-align:left;" | ''<small>chat sauvage, loup</small>''
+|-
+| style="text-align:left;" | Grande morsure || rowspan="2" | +2
+|-
+| style="text-align:left;" | ''<small>tigre</small>''
+|-
+| style="text-align:left;" | Griffes || rowspan="2" | +1
+|-
+| style="text-align:left;" | ''<small>chat sauvage</small>''
+|-
+| style="text-align:left;" | Grandes griffes || rowspan="2" | +2
+|-
+| style="text-align:left;" | ''<small>tigre, ours</small>''
+|-
+| style="text-align:left;" | Cornes, défenses || rowspan="2" | +2
+|-
+| style="text-align:left;" | ''<small>sanglier</small>''
+|-
+| style="text-align:left;" | Grandes cornes, bois || rowspan="2" | +3
+|-
+| style="text-align:left;" | ''<small>cerf, glou</small>''
+|-
+| style="text-align:left;" | Ruade, piétinement || rowspan="2" | +4
+|-
+| style="text-align:left;" | ''<small>aligate, cheval</small>''
+|}
+
+== Aligate ==
+==== Description ====
+L'aligate est une sorte de dinosaure de petite taille, à la peau écailleuse de couleur gris bleu. Ses pattes postérieures sont larges et munies de griffes recourbées qui lui servent de crampons quand il court. Ses pattes antérieures sont minuscules. Il se tient dans une position semi-verticale, aidé par sa longue queue qui lui sert de balancier. Il pèse environ 250 kg.
+==== Mœurs ====
+Paisible, l'aligate est herbivore. Il vit en plaine, souvent aux abords des marais, en larges troupeaux. Souvent domestiqué, principalement par les [[Les Humanoïdes#Cyan|Cyans]] et les [[Les Humanoïdes#Saure|Saures]], il sert de monture ou d'animal de bât. Il ne se bat que rendu furieux, cherchant à piétiner. Ses réussites particulières sont toujours en ''force''.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Aligate</big>'''
+|-
+| style="text-align:left;" | TAILLE || 23 || colspan="2" style="text-align:left;" | Vie || 21
+|-
+| style="text-align:left;" | CONSTITUTION || 18 || colspan="2" style="text-align:left;" | Endurance || 39
+|-
+| style="text-align:left;" | FORCE || 18 || colspan="2" style="text-align:left;" | Vitesse || 12/40
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | +dom || +4
+|-
+| style="text-align:left;" | VOLONTÉ || 7 || colspan="2" style="text-align:left;" | Enc || 20
+|-
+| style="text-align:left;" | RÊVE || 8 || colspan="2" style="text-align:left;" | Protection || 4
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Piétinement || 14 || +3 || 10 || +8
+|-
+| style="text-align:left;" | Esquive || 8 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 11 || +3 || - || -
+|}
+
+== Araflate == 
+==== Description ====
+L'araflate est une araignée géante au corps extrêmement plat, de couleur gris terne. Elle fait en moyenne 3 m de diamètre, pattes comprises, pour un poids de 6 kg, et seulement 25 cm d'épaisseur.
+==== Mœurs ====
+Hôte des lieux secs et sombres, les ruines, les cavernes, l'araflate ne tisse pas de toile. Elle reste à l'affût et bondit sur sa proie avec une vitesse foudroyante, sa morphologie lui permettant de se glisser dans des failles très étroites. Prédateur toujours affamé, elle n'hésite pas à s'attaquer à des proies aussi grandes que les Humains. Sa morsure inflige un venin anesthésiant, inoculé sur toute blessure sauf contusion  / éraflure. Quand sa victime cesse de bouger, l'araflate la dévore.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Araflate</big>'''
+|-
+| style="text-align:left;" | TAILLE || 3 || colspan="2" style="text-align:left;" | Vie || 8
+|-
+| style="text-align:left;" | CONSTITUTION || 12 || colspan="2" style="text-align:left;" | Endurance || 20
+|-
+| style="text-align:left;" | FORCE || 7 || colspan="2" style="text-align:left;" | Vitesse || 14/36
+|-
+| style="text-align:left;" | PERCEPTION || 15 || colspan="2" style="text-align:left;" | +dom || -2
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" |Protection || -3
+|-
+| style="text-align:left;" | RÊVE || 7 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 12 || +3 || 9 || 0 (venin)
+|-
+| style="text-align:left;" | Esquive || 14 || +4 || - || -
+|-
+| style="text-align:left;" | Course || 14 || +4 || - || -
+|-
+| style="text-align:left;" | Discrétion || 14 || +4 || - || -
+|-
+| style="text-align:left;" | Vigilance || 15 || +6 || - || -
+|-
+| colspan="5" | &nbsp;
+|-
+| colspan="5" style="text-align:left;" | '''''Venin'''''
+|-
+| style="text-align:left;" | ''Malignité'' || colspan="4" style="text-align:left;" | 6
+|-
+| style="text-align:left;" | ''Périodicité'' || colspan="4" style="text-align:left;" | 1 round
+|-
+| style="text-align:left;" | ''Dommages'' || colspan="4" style="text-align:left;" | -1d6 points d'endurance
+|-
+| rowspan="2" style="text-align:left;" | ''Antidotes'' || colspan="4" style="text-align:left;" | -3 \ Liqueur de Bagdol +12
+|-
+| colspan="4" style="text-align:left;" | Lait de Lune +6
+|-
+| colspan="5" style="text-align:left;" | Chaque perte d'endurance s'accompagne
+|-
+| colspan="5" style="text-align:left;" | de la fatigue équivalente. À zéro 
+|-
+| colspan="5" style="text-align:left;" | d'endurance, la victime est paralysée 
+|-
+| colspan="5" style="text-align:left;" | et ne peut plus faire un geste.
+|}
+
+== Baffreux ==
+==== Description ====
+Le baffreux a l'apparence d'un petit hippopotame de couleur vert de gris, pesant en moyenne 150 kg, doté d'immenses mâchoires garnies de doubles rangées de crocs.
+==== Mœurs ====
+Le baffreux vit dans les lieux humides tels que les marécages, à demi enlisé dans la vase ou la boue, où il est difficile à détecter. Carnivore et agressif, il se rue pour dévorer tout ce qui bouge. Ses réussites particulières sont toujours en force. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Baffreux</big>'''
+|-
+| style="text-align:left;" | TAILLE || 19 || colspan="2" style="text-align:left;" | Vie || 19
+|-
+| style="text-align:left;" | CONSTITUTION || 18 || colspan="2" style="text-align:left;" | Endurance || 37
+|-
+| style="text-align:left;" | FORCE || 18 || colspan="2" style="text-align:left;" | Vitesse || 10/24
+|-
+| style="text-align:left;" | PERCEPTION || 12 || colspan="2" style="text-align:left;" | +dom || +4
+|-
+| style="text-align:left;" | VOLONTÉ || 4 || colspan="2" style="text-align:left;" | Protection || 4
+|-
+| style="text-align:left;" | RÊVE || 6 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 13 || +4 || 10 || +6
+|-
+| style="text-align:left;" | Esquive || 8 || +1 || - || -
+|-
+| style="text-align:left;" | Course || 8 || 0 || - || -
+|-
+| style="text-align:left;" | Discrétion || 13 || +4 || - || -
+|-
+| style="text-align:left;" | Vigilance || 12 || +4 || - || -
+|}
+
+== Bandersnatch ==
+==== Description ====
+Le bandersnatch, parfois appelé jabberwock, est peut-être la créature la plus terrifiante qui soit rêvée par les Dragons en dehors des entités de cauchemar. Quoiqu'il possède des traits de ces dernières (résistance à la magie), c'est néanmoins un animal véritable. Énorme, pesant dans les trois tonnes, il ressemble à un gigantesque crapaud, avec une tête de cheval, des ailes de chauve-souris, une peau écailleuse, des griffes comme des dagues et des pointes barbelées sur le dos. Sans véritablement voler, ses ailes lui permettent de se déplacer par bonds pouvant faire jusqu'à 12 m. Sa carapace d'écailles le rend quasiment invulnérable et il résiste automatiquement à tous les sorts d'Hypnos et de Thanatos.
+==== Mœurs ====
+Le bandersnatch vit dans le profond des cavernes enténébrées, ne sortant chasser que par les nuits sombres et sans lune. Il a pour la lumière une phobie absolue et la moindre clarté le plonge dans des accès de colère démentielle et dévastatrice. Paranos le Moindre, le célèbre zoologue auteur de ''[[Écrits#Zoologie|Nos ennemies les bêtes]]'', affirme que la lumière du soleil a le pouvoir de le réduire instantanément en cendres. Merci, cher Paranos, mais comment vous y prendriez-vous pour le faire sortir de son antre en plein jour ?
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Bandersnatch</big>'''
+|-
+| style="text-align:left;" | TAILLE || 33 || colspan="2" style="text-align:left;" | Vie || 30
+|-
+| style="text-align:left;" | CONSTITUTION || 26 || colspan="2" style="text-align:left;" | Endurance || 56
+|-
+| style="text-align:left;" | FORCE || 26 || colspan="2" style="text-align:left;" | Vitesse || 16/60
+|-
+| style="text-align:left;" | PERCEPTION || 13 || colspan="2" style="text-align:left;" | +dom || +9
+|-
+| style="text-align:left;" | VOLONTÉ || 3 || colspan="2" style="text-align:left;" | Protection || 10
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes/morsure || 20 || +8 || 18 || +11
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 15 || +6 || - || -
+|-
+| style="text-align:left;" | Discrétion || 13 || +3 || - || -
+|}
+
+== Bramart ==
+==== Description ====
+Le bramart est un quadrupède herbivore de l'allure d'un grand cerf, au brun pelage brun roux à l'exception du bout des pattes qui est franchement rouge - comme s'il portait des chaussettes. Adulte, il peut faire jusqu'à 270 kg et en moyenne 160. Tout comme le cerf, il porte des bois qui tombent tous les ans et repoussent à la saison suivante avec une ramification supplémentaire.
+==== Mœurs. ====
+Hôte des forêts où ils se nourrissent de jeunes pousses, les bramarts vivent en petits groupes. Les mâles n'hésitent pas à charger les intrus pour protéger biches et faons.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Bramart</big>'''
+|-
+| style="text-align:left;" | TAILLE || 20 || colspan="2" style="text-align:left;" | Vie || 18
+|-
+| style="text-align:left;" | CONSTITUTION || 15 || colspan="2" style="text-align:left;" | Endurance || 33
+|-
+| style="text-align:left;" | FORCE || 16 || colspan="2" style="text-align:left;" | Vitesse || 14/54
+|-
+| style="text-align:left;" | PERCEPTION || 13 || colspan="2" style="text-align:left;" | +dom || +4
+|-
+| style="text-align:left;" | VOLONTÉ || 9 || colspan="2" style="text-align:left;" | Protection || 1
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Bois || 12 || +3 || 9 || +7
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Course, Saut || 15 || +6 || - || -
+|-
+| style="text-align:left;" | Vigilance || 13 || +6 || - || -
+|}
+
+== Brolute rieuse ==
+==== Description ====
+La brolute rieuse est un grand rat d'allure anthropomorphe, bipède, vertical, faisant en moyenne 1m70 pour 45 kg. Dotée du pelage du rat, de sa longue queue nue et annelée, elle se singularise néanmoins par un museau de castor et des yeux bridés. 
+==== Mœurs. ====
+La brolute rieuse vit de préférence à l'écart des hommes et de la civilisation, mais sans habitat spécifique. Elle se nourrit de fruits, de champignons et d’œufs qu'elle dérobe habilement aux oiseaux. Ce qui la caractérise essentiellement, c'est que quand elle se sent agressée, elle a le pouvoir de créer une déchirure du rêve violette (déchirure de départ), dont elle est le centre. Le rêve d'arrivée lui est toujours profitable, lui permettant de se tirer d'affaire. Elle doit son nom à ce qu'elle adore rire aux grimaces et autres clowneries qu'on peut lui faire. Pendant ce temps, on peut se concentrer pour tenter de lui communiquer empathiquement l'image d'un lieu où l'on voudrait aller, non un lieu spécifique, mais un type de paysage : rivage marin, forêt, agglomération urbaine, etc. Au moment où elle est le plus en train de rire, il suffit alors de stresser la brolute, et l'on a une chance que la déchirure créée mène au type d'endroit souhaité. Pour parvenir à la communication empathique, réussir [[Les Caractéristiques#EMPATHIE|EMPATHIE]] à -5. La brolute rieuse se distingue de la brolute ordinaire, dite brolute pointue, qui ne rit jamais et ne peut créer de déchirure. Celle-là se contente de chercher à fuir en cas d'agression, ou attaque toutes griffes dehors si elle se sent acculée. Pour la distinguer (visuellement) de la rieuse, réussir [[Les Caractéristiques#VUE|VUE]]\[[Les Compétences#ZOOLOGIE|Zoologie]] à -5. Les caractéristiques de combat indiquées ne s'appliquent qu'à la pointue. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Brolute rieuse</big>'''
+|-
+| style="text-align:left;" | TAILLE || 7 || colspan="2" style="text-align:left;" | Vie || 10
+|-
+| style="text-align:left;" | CONSTITUTION || 12 || colspan="2" style="text-align:left;" | Endurance || 22
+|-
+| style="text-align:left;" | FORCE || 11 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | PERCEPTION || 14 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 8 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 15 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes || 11 || +2 || 7 || +1
+|-
+| style="text-align:left;" | Esquive || 13 || +5 || - || -
+|-
+| style="text-align:left;" | Course, Saut || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Escalade || 15 || +4 || - || -
+|-
+| style="text-align:left;" | Vigilance || 14 || +3 || - || -
+|}
+
+== Chamule ==
+==== Description ====
+La chamule est une sorte de chameau sans bosse, de la taille d'un âne, à fourrure épaisse rayée brun et noir, et à la tête vaguement féline avec des oreilles et des moustaches de chat. Adulte, la chamule pèse 180 kg pour 1m35 au garrot. Son cri est un hululement plaintif et strident.
+==== Mœurs ====
+À l'état sauvage, les chamules vivent dans les plaines à l'orée des forêts, en bandes de 10 à 20 individus. D'un naturel dolent et paresseux, elles passent le plus clair de leur temps à dormir au soleil. Sociables, elles se laissent souvent capturer et apprivoiser pour servir de monture ou d'animaux de bât. Omnivores de dentition, elles se nourrissent normalement de graines et de fruits. Si on les laisse goûter à la chair, elles deviennent agressives, intraitables, et mordent.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Chamule</big>'''
+|-
+| style="text-align:left;" | TAILLE || 21 || colspan="2" style="text-align:left;" | Vie || 19
+|-
+| style="text-align:left;" | CONSTITUTION || 17 || colspan="2" style="text-align:left;" | Endurance || 36
+|-
+| style="text-align:left;" | FORCE || 16 || colspan="2" style="text-align:left;" | Vitesse || 12/40
+|-
+| style="text-align:left;" | PERCEPTION || 12 || colspan="2" style="text-align:left;" | +dom || 64
+|-
+| style="text-align:left;" | VOLONTÉ || 12 || colspan="2" style="text-align:left;" | Enc || 18
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" style="text-align:left;" | Protection || 1
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Coup de pied || 12 || +3 || 9 || +7
+|-
+| style="text-align:left;" | Morsure || 12 || +2 || 8 || +5
+|-
+| style="text-align:left;" | Esquive || 8 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Saut || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 12 || 0 || - || -
+|}
+
+== Chiard ==
+==== Description et Mœurs ====
+Le chiard est un canidé charognard des plaines et des désolations, vivant en meute, voisin du chacal et du coyote. Usuellement lâche, il peut devenir d'une audace extrême s'il est affamé. Un individu adulte pèse en moyenne 40 kg. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Chiard</big>'''
+|-
+| style="text-align:left;" | TAILLE || 6 || colspan="2" style="text-align:left;" | Vie || 8
+|-
+| style="text-align:left;" | CONSTITUTION || 10 || colspan="2" style="text-align:left;" | Endurance || 18
+|-
+| style="text-align:left;" | FORCE || 10 || colspan="2" style="text-align:left;" | Vitesse || 12/36
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 8 || colspan="2" style="text-align:left;" | Protection || -1
+|-
+| style="text-align:left;" | RÊVE || 8 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 12 || +2 || 8 || +1
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Course, Saut || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 11 || +3 || - || -
+|}
+
+== Chrasme ==
+==== Description ====
+Le chrasme (prononcer krasme) est une sorte de cafard géant à carapace de crabe aux jointures poilues. Il mesure en moyenne 1 m de haut sur 1m50 de long, et peut peser jusqu'à 50 kg. Doté de mandibules acérées et puissantes, il est redouté pour son venin mortel.
+==== Mœurs ====
+Le chrasme vit dans les lieux sombres, cavernes et souterrains, où il se nourrit de tout. Paranos le Moindre affirme qu'à défaut d'une meilleure chère, il peut même se sustenter de cailloux. Il déteste la lumière comme son cousin de petite taille, mais a toutefois un comportement différent : au lieu de fuir, il entre dans une rage féroce et se rue sur le porteur de lumière pour le réduire en charpie. Savez-vous, cher Paranos, que vous nous faites un peu peur ? 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Chrasme</big>'''
+|-
+| style="text-align:left;" | TAILLE || 7 || colspan="2" style="text-align:left;" | Vie || 8
+|-
+| style="text-align:left;" | CONSTITUTION || 9 || colspan="2" style="text-align:left;" | Endurance || 17
+|-
+| style="text-align:left;" | FORCE || 11 || colspan="2" style="text-align:left;" | Vitesse || 12/28
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 3 || colspan="2" style="text-align:left;" |Protection || 4
+|-
+| style="text-align:left;" | RÊVE || 2 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Mandibules || 11 || +3 || 8 || +2 (venin)
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|-
+| colspan="5" | &nbsp;
+|-
+| colspan="5" style="text-align:left;" | '''''Venin'''''
+|-
+| style="text-align:left;" | ''Malignité'' || colspan="4" style="text-align:left;" | 3
+|-
+| style="text-align:left;" | ''Périodicité'' || colspan="4" style="text-align:left;" | 1 minute
+|-
+| style="text-align:left;" | ''Dommages'' || colspan="4" style="text-align:left;" | -1 point de vie
+|-
+| rowspan="2" style="text-align:left;" | ''Antidotes'' || colspan="4" style="text-align:left;" | -2 \ Liqueur de Bagdol +16
+|-
+| colspan="4" style="text-align:left;" | Teinture d'Érozonne +10
+|}
+
+== Cornicochon ==
+==== Description ====
+Le cornicochon est une sorte d'énorme sanglier, aux défenses très réduites, mais pourvu en revanche d'une paire de cornes acérées, recourbées vers l'avant. Le cornicochon se distingue en outre par sa couleur verdâtre, due au vert des feuilles et des mousses qui lui teignent la peau. Un adulte pèse en moyenne 160 kg.
+==== Mœurs ====
+Hôte des forêts profondes, le cornicochon, vit en familles de 4 à 5 individus ; mais comme chez les sangliers, il arrive que l'on tombe sur un vieux solitaire acariâtre. Omnivore, le cornicochon est excité par l'odeur du sang, qui le pousse d'autant plus au carnage. Il dévore usuellement ses adversaires vaincus. Gibier recherché, c'est tout autant un mortel prédateur qui n'hésite pas à s'attaquer à l'homme, se servant redoutablement de ses cornes.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Cornicochon</big>'''
+|-
+| style="text-align:left;" | TAILLE || 20 || colspan="2" style="text-align:left;" | Vie || 19
+|-
+| style="text-align:left;" | CONSTITUTION || 18 || colspan="2" style="text-align:left;" | Endurance || 37
+|-
+| style="text-align:left;" | FORCE || 16 || colspan="2" style="text-align:left;" | Vitesse || 12/36
+|-
+| style="text-align:left;" | PERCEPTION || 13 || colspan="2" style="text-align:left;" | +dom || +4
+|-
+| style="text-align:left;" | VOLONTÉ || 7 || colspan="2" style="text-align:left;" | Protection || 3
+|-
+| style="text-align:left;" | RÊVE || 9 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Cornes || 13 || +4 || 10 || +4
+|-
+| style="text-align:left;" | Esquive || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 13 || +4 || - || -
+|}
+
+== Dong ==
+==== Description ====
+Le dong est une créature saurienne de l'apparence d'un gros crapaud, doté d'une peau écailleuse, de griffes et de crocs. Quand il gonfle son jabot puis le contracte, il émet un son qui ressemble à s'y méprendre à celui d'une cloche, d'où son nom. Plus le dong est gros, plus le son est grave, et inversement plus il est aigu. Une colonie de dongs produit un véritable carillon. Doté de membres postérieurs puissants, le dong est un sauteur impressionnant capable de faire des bonds de 6-8 m. Un dong moyen fait 80 kg.
+==== Mœurs ====
+Le dong vit en plaine à proximité de l'eau (rivière, lac, marais). Carnivore, c'est un chasseur habile qui n'hésite pas à s'attaquer à l'homme. Quand il bondit, son attaque est considérée comme une charge.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Dong</big>'''
+|-
+| style="text-align:left;" | TAILLE || 12 || colspan="2" style="text-align:left;" | Vie || 12
+|-
+| style="text-align:left;" | CONSTITUTION || 12 || colspan="2" style="text-align:left;" | Endurance || 24
+|-
+| style="text-align:left;" | FORCE || 15 || colspan="2" style="text-align:left;" | Vitesse || 14/38
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| style="text-align:left;" | VOLONTÉ || 6 || colspan="2" style="text-align:left;" | Protection || 3
+|-
+| style="text-align:left;" | RÊVE || 4 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes et crocs || 13 || +3 || 9 || +3
+|-
+| style="text-align:left;" | Esquive-saut || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Course-saut || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +0 || - || -
+|}
+
+== Drakkule ==
+==== Description ====
+Le drakkule, également surnommé ''chauve-souris dragon'', est un énorme chiroptère vampire pouvant atteindre 20 kg pour 4 m d'envergure. Paranos le Moindre suggère que son surnom vient sûrement de ce que les mythiques Dragons du Premier Age étaient censés posséder les mêmes grandes ailes membraneuses et le même goût du sang. Serions-nous alors dans un rêve de chauve-souris ? Je suppose que c'est encore une de vos plaisanteries, cher Paranos.
+==== Mœurs ====
+Comme les chauves-souris, les drakkules sont nocturnes, repliés le jour dans des cavernes ou autres lieux sombres, pour ne sortir chasser qu'à la tombée de la nuit. Comme pour la plupart des grands prédateurs, l'homme est pour eux une proie comme les autres. En combat, quand un drakkule réussit une particulière et cause au moins une blessure légère, il reste accroché à sa victime qui perd alors automatiquement 1d6 points d'endurance par round sous l'effet de la saignée. Quand l'endurance tombe à zéro, le drakkule continue à la vider de son sang à raison de 1d6 points de vie par round. Le drakkule ne se détache que blessé ''gravement'' ou ''sonné''. Pour se dégager, la victime ne peut utiliser que [[Les Compétences#CORPS À CORPS, ESQUIVE, DAGUE DE MÊLÉE|Corps à corps]] (totaliser 2 points d'empoignade) ou une dague. Tant qu'il est accroché, le drakkule ne joue plus de jets d'attaque, puisqu'il cause des dommages automatiques, mais peut contrer empoignade ou attaque de dague par le battement de ses ailes.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Drakkule</big>'''
+|-
+| style="text-align:left;" | TAILLE || 4 || colspan="2" style="text-align:left;" | Vie || 7
+|-
+| style="text-align:left;" | CONSTITUTION || 10 || colspan="2" style="text-align:left;" | Endurance || 17
+|-
+| style="text-align:left;" | FORCE || 8 || colspan="2" style="text-align:left;" | Vitesse || 12/38
+|-
+| style="text-align:left;" | PERCEPTION || 12 || colspan="2" style="text-align:left;" | +dom || -1
+|-
+| style="text-align:left;" | VOLONTÉ || 7 || colspan="2" style="text-align:left;" | Protection || -3
+|-
+| style="text-align:left;" | RÊVE || 7 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 10 || +2 || 7 || -1
+|-
+| style="text-align:left;" | Contre || 10 || +2 || - || -
+|-
+| style="text-align:left;" | Esquive vol || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Vol || 10 || +3 || - || -
+|}
+
+== Félorn ==
+==== Description ====
+Le félorn est un petit chat de l'apparence d'un siamois, au pelage gris mauve, doté d'une grande paire d'ailes duveteuses. Ces ailes sont sur le même principe que celles des chauves-souris, sauf qu'au lieu d'être nues, elles sont couvertes de duvet. Elles ne remplacent pas les membres supérieurs, mais sont en plus des deux paires de pattes. Le félorn est capable de voler grâce à elles sur d'assez longues distances. Mais chose encore plus étonnante, le félorn parle, et s'exprime assez bien dans la langue du voyage.
+==== Mœurs ====
+Très sociable, le félorn adore la compagnie des Humains et ne demande généralement qu'à se faire adopter. Son grand dilemme est d'adorer le poisson et de détester l'eau, et les Humains pêcheurs le fascinent. S'il parle, son discours est en revanche plutôt insignifiant, et il n'a pratiquement pas de mémoire. Au demeurant adorable, un félorn de compagnie peut vite devenir assez crispant.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Félorn</big>'''
+|-
+| style="text-align:left;" | TAILLE || 2 || colspan="2" style="text-align:left;" | Vie || 5
+|-
+| style="text-align:left;" | CONSTITUTION || 8 || colspan="2" style="text-align:left;" | Endurance || 13
+|-
+| style="text-align:left;" | FORCE || 3 || colspan="2" style="text-align:left;" | Vitesse || 10/30 vol
+|-
+| style="text-align:left;" | PERCEPTION || 13 || colspan="2" style="text-align:left;" | +dom || -4
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | Protection || -6
+|-
+| style="text-align:left;" | RÊVE || 11 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Vol || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 13 || 0 || - || -
+|}
+
+== Furlong ==
+==== Description ====
+Le furlong est un carnassier des forêts, au corps très allongé, presque serpentin, pourvu de huit pattes. Hormis ce nombre de pattes curieusement excédentaire (4 de chaque côté), qui lui donne l'air d'une chenille à fourrure, il pourrait ressembler à un long, très long vison. Adulte, il mesure en moyenne 2 m du museau au bout de la queue, pour un poids de 50 kg.
+==== Moeurs. ====
+Très bon grimpeur, le furlong vit essentiellement dans les arbres où il se coule de branche en branche avec la rapidité et l'efficacité d'un serpent. Ses proies de prédilection sont les oiseaux et les rongeurs, mais poussé par la faim, il peut s'attaquer à des animaux aussi gros que les chevreuils, voire aux humains isolés. La fourrure de furlong est très recherchée.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Furlong</big>'''
+|-
+| style="text-align:left;" | TAILLE || 7 || colspan="2" style="text-align:left;" | Vie || 10
+|-
+| style="text-align:left;" | CONSTITUTION || 12 || colspan="2" style="text-align:left;" | Endurance || 22
+|-
+| style="text-align:left;" | FORCE || 11 || colspan="2" style="text-align:left;" | Vitesse || 12/30
+|-
+| style="text-align:left;" | PERCEPTION || 13 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 12 || +3 || 9 || +1
+|-
+| style="text-align:left;" | Esquive || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Escalada || 14 || +5 || - || -
+|-
+| style="text-align:left;" | Discrétion || 14 || +5 || - || -
+|-
+| style="text-align:left;" | Vigilance || 13 || +3 || - || -
+|}
+
+== Glipzouk ==
+==== Description ====
+Le glipzouk, ou singe vert, a la morphologie générale du ouistiti, membres minces et longue queue préhensile, avec un pelage uniformément vert amande, sauf le museau et le ventre qui sont blancs. Des épaules à la naissance de la queue, il mesure 1 m en moyenne, la queue pouvant, elle, atteindre le double. Ses quatre mains sont extrêmement habiles, et comme tous les singes, il est d'une agilité diabolique. Le glipzouk doit son nom à son « langage ». On dirait presque un véritable parler, avec des syllabes articulées et une intonation générale, sauf que ''glip'' et ''zouk'' sont les seuls phonèmes qu'il emploie, en les prononçant sur tous les tons et en les mélangeant en d'infinies variations.
+==== Mœurs ====
+Paisibles, les colonies de glipzouks vivent en milieu boisé, se nourrissant de pousses et de fruits. Très bon observateur et non moins excellent imitateur, le glipzouk est un voleur et un pickpocket né. Il vaut mieux éviter de laisser traîner ses affaires quand on voyage dans une région peuplée de glipzouks, et la nuit, être particulièrement vigilant en montant la garde. Non agressif, le glipzouk ne se bat que s'il est acculé sans pouvoir fuir.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Glipzouk</big>'''
+|-
+| style="text-align:left;" | TAILLE || 6 || colspan="2" style="text-align:left;" | Vie || 8
+|-
+| style="text-align:left;" | CONSTITUTION || 10 || colspan="2" style="text-align:left;" | Endurance || 18
+|-
+| style="text-align:left;" | FORCE || 9 || colspan="2" style="text-align:left;" | Vitesse || 12/26
+|-
+| style="text-align:left;" | PERCEPTION || 14 || colspan="2" style="text-align:left;" | +dom || -1
+|-
+| style="text-align:left;" | VOLONTÉ || 11 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 10 || +1 || 6 || 0
+|-
+| style="text-align:left;" | Esquive || 15 || +6 || - || -
+|-
+| style="text-align:left;" | Discrétion || 14 || +3 || - || -
+|-
+| style="text-align:left;" | Pickpocket || 14 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 14 || 0 || - || -
+|-
+| style="text-align:left;" | Course-saut || 15 || +6 || - || -
+|}
+
+== Glou ==
+==== Description ====
+Les glous sont des créatures anthropomorphes recouvertes de carapaces d'origine minérale, comme les coquillages. Ce ne sont pas des humanoïdes, en ce sens qu'ils n'ont pas de langage. Grands, lourds, ils ont le torse très large, et la tête ornée d'une crête de pierre qu'ils utilisent parfois comme arme en chargeant tête baissée. Quoique malhabiles de leurs mains, ils peuvent lancer de lourdes pierres ou s'en servir pour asséner des coups terribles.
+==== Mœurs. ====
+Les glous vivent en haute montagne ou dans les pays de neige et de glace, où ils ne ressentent nullement le froid. Uniquement diurnes, ils dorment la nuit d'un sommeil profond. Les voyageurs qui le savent ne franchissent que de nuit les cols réputés gardés par les glous. Agressifs et omnivores, les glous dévorent la chair de leurs vaincus.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Glou</big>'''
+|-
+| style="text-align:left;" | TAILLE || 16 || colspan="2" style="text-align:left;" | Vie || 16
+|-
+| style="text-align:left;" | CONSTITUTION || 15 || colspan="2" style="text-align:left;" | Endurance || 31
+|-
+| style="text-align:left;" | FORCE || 15 || colspan="2" style="text-align:left;" | Vitesse || 14/26
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || +2
+|-
+| style="text-align:left;" | VOLONTÉ || 8 || colspan="2" style="text-align:left;" | Protection || 4
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Pierre tenue || 14 || +4 || 11 || +4
+|-
+| style="text-align:left;" | Pierre lancée || 10 || +3 || 8 || +3
+|-
+| style="text-align:left;" | Crète || 15 || +4 || 11 || +4
+|-
+| style="text-align:left;" | Esquive || 9 || +3 || - || -
+|-
+| style="text-align:left;" | Course, saut || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|}
+
+== Goule ==
+==== Description ====
+Créature anthropomorphe, bipède et verticale, la goule ressemble à un cadavre décharné. Sa taille est celle d'un homme. Son cri, un hurlement rauque, glace le sang. Ses griffes sont particulièrement puissantes.
+==== Mœurs. ====
+La goule est un charognard ayant une prédilection pour la chair humaine. Elle hante nécropoles, cimetières et champs de bataille, déterrant les cadavres dont elle se nourrit. Paranos le Moindre affirme qu'elle possède la faculté thanataire de pouvoir jeûner des mois entiers, voire des années, en n'absorbant qu'un peu de terre. Cela ne l'empêche pas de désirer ardemment de la chair, bien au contraire. Et si elle est lâche isolée, elle est très agressive en bande. Pour corser le tout, sa morsure inocule un venin qui paralyse.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Goule</big>'''
+|-
+| style="text-align:left;" | TAILLE || 11 || colspan="2" style="text-align:left;" | Vie || 13
+|-
+| style="text-align:left;" | CONSTITUTION || 14 || colspan="2" style="text-align:left;" | Endurance || 27
+|-
+| style="text-align:left;" | FORCE || 13 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| style="text-align:left;" | VOLONTÉ || 7 || colspan="2" style="text-align:left;" |Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes, dents || 13 || +4 || 10 || +2 (venin)
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|-
+| colspan="5" | &nbsp;
+|-
+| colspan="5" style="text-align:left;" | '''''Venin paralysant'''''
+|-
+| style="text-align:left;" | ''Malignité'' || colspan="4" style="text-align:left;" | 6
+|-
+| style="text-align:left;" | ''Périodicité'' || colspan="4" style="text-align:left;" | 1 round
+|-
+| style="text-align:left;" | ''Dommages'' || colspan="4" style="text-align:left;" | 1 ligne de fatigue
+|-
+| style="text-align:left;" | ''Antidotes'' || colspan="4" style="text-align:left;" | -4 \ Floume-dhu +16
+|-
+| colspan="5" style="text-align:left;" | La paralysie intervient quand toutes
+|-
+| colspan="5" style="text-align:left;" | les lignes de fatigue sont pleines et
+|-
+| colspan="5" style="text-align:left;" | dure 6 heures.
+|-
+| colspan="5" style="text-align:left;" | Le ''floume-dhu'' est obtenu en mélangeant
+|-
+| colspan="5" style="text-align:left;" | en quantités égales gelée de floumette
+|-
+| colspan="5" style="text-align:left;" | et lait humain (pour une dose : une
+|-
+| colspan="5" style="text-align:left;" | demi-mesure de chaque). Puis chauffer le
+|-
+| colspan="5" style="text-align:left;" | mélange jusqu'à couleur bleu-sangue (-2).
+|}
+
+== Grincette ==
+==== Description ====
+La grincette est une petite larve de 1 à 2 cm de long. Elle tire son nom du grincement horripilant qu'elle produit au moment où elle se déplace, en frottant l'une contre l'autre les petites écailles translucides dont est couvert son abdomen : le bruit d'une craie en porte-à-faux sur une ardoise, en cent fois plus fort et plus éprouvant pour les nerfs.
+==== Mœurs ====
+Les grincettes vivent en colonies de plusieurs dizaines d'individus dans les lieux sombres et humides où elles se nourrissent de débris en décomposition. Si elles sont inoffensives en elles-mêmes, leur grincement involontaire est une torture. Toute personne se trouvant dans un rayon de 10 m doit ''manquer'' un jet d'[[Les Caractéristiques#OUÏE|OUÏE]] à +5. Si le jet réussit, perte de 1 point d'endurance, puis jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -5. Si le jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] échoue, le personnage est ''sonné'' jusqu'à la fin du round suivant.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Grincette</big>'''
+|-
+| colspan="5" style="text-align:left;" | Tout coup qui touche la grincette l'extermine.
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Discrétion || 15 || +3 || - || -
+|}
+
+== Grizzal ==
+==== Description ====
+Le grizzal est un carnassier plantigrade de grande taille, au pelage épais, au museau allongé et aux membres armés de puissantes griffes non rétractiles. Pouvant dépasser les 2 m quand il se redresse en position verticale, son poids avoisine les 300 kg.
+==== Mœurs ====
+Carnassier, mais également omnivore, et pouvant se délecter comme l'ours de fruits ou de miel, le grizzal vit essentiellement en forêt, et de préférence en relief rocheux pouvant lui fournir une caverne pour tanière. Solitaires, mâles et femelles ne se rencontrent que brièvement. L'hiver, ils hibernent. Ne recherchant pas systématiquement l'affrontement avec l'homme, le grizzal peut néanmoins être un adversaire fatal. Sa fourrure épaisse est si recherchée que d'aucuns n'hésitent pas à la vendre prématurément. En combat, ses réussites particulières sont usuellement passées en ''force''.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Grizzal</big>'''
+|-
+| style="text-align:left;" | TAILLE || 23 || colspan="2" style="text-align:left;" | Vie || 22
+|-
+| style="text-align:left;" | CONSTITUTION || 20 || colspan="2" style="text-align:left;" | Endurance || 42
+|-
+| style="text-align:left;" | FORCE || 20 || colspan="2" style="text-align:left;" | Vitesse || 12/36
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | +dom || +5
+|-
+| style="text-align:left;" | VOLONTÉ || 8 || colspan="2" style="text-align:left;" | Protection || 3
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes/crocs || 16 || +5 || 13 || +7
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 14 || +3 || - || -
+|-
+| style="text-align:left;" | Escalade || 14 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 11 || +3 || - || -
+|}
+
+== Harpie ==
+==== Description ====
+Créature thanataire, devant son existence aux courants lourds du cauchemar, la harpie n'est néanmoins pas une entité mais un animal réel, à la semblance d'une femme-vautour. De la femme, elle possède la tête et le buste : chevelure emmêlée, yeux hagards, rictus retroussé sur des dents carnassières, seins maigres et décharnés. Du vautour, elle a les membres : de larges ailes en guise de bras, lui permettant de voler, et des serres en guise de jambes. Son cri est un ricanement rauque et insane.
+==== Mœurs. ====
+Les harpies vivent dans les lieux déshérités, les collines stériles et les désolations, en bandes de 5 à 10 individus. Les harpies sont toujours femelles et leur reproduction est assez mystérieuse. À en croire Paranos le Moindre, elles sont le fruit du viol d'un quauquemaire (entité de cauchemar) sur une femme humaine. Le rejeton dévore sa mère de l'intérieur avant de s'expulser. Maléfiques autant qu'agressives, elles possèdent un pouvoir inné de non agressivité s'appliquant aux humanoïdes. S'agissant d'un pouvoir inné, elles n'ont ni à monter dans les TMR, ni à dépenser de points de rêve. La victime doit jouer un jet de résistance standard, r-8, et en cas d'échec, réussir un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3 pour pouvoir attaquer la harpie. Le JR n'est à jouer qu'une seule fois, tandis qu'en cas d'échec, le jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] est à jouer tous les rounds. La non agressivité ne s'applique qu'à l'égard de la harpie qui l'a lancée, et une harpie ne peut pas réutiliser son pouvoir sur un personnage qui a réussi son JR. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Harpie</big>'''
+|-
+| style="text-align:left;" | TAILLE || 9 || colspan="2" style="text-align:left;" | Vie || 10
+|-
+| style="text-align:left;" | CONSTITUTION || 11 || colspan="2" style="text-align:left;" | Endurance || 21
+|-
+| style="text-align:left;" | FORCE || 12 || colspan="2" style="text-align:left;" | Vitesse || 12/36
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 12 || colspan="2" style="text-align:left;" | Protection || 4
+|-
+| style="text-align:left;" | RÊVE || 11 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Serres || 12 || +4 || 10 || +2
+|-
+| style="text-align:left;" | Esquive || 11 || +4 || - || -
+|}
+
+== Jigstang ==
+==== Description ====
+Le jigstang est un animal anthropomorphe, bipède, vertical, à la peau cuireuse gris noir, sans un poil, de la taille d'un homme. On l'appelle parfois ''fausse goule'' ou ''goule noire''. Sa mâchoire a une force capable de broyer les os les plus durs et ses membres supérieurs se terminent par des serres tranchantes. Son cri est un rire hystérique et démentiel.
+==== Mœurs ====
+Le jigstang n'a pas d'habitat spécifique, on le trouve en tout lieu sauvage. Hyper-agressif autant que solitaire, il ne supporte pas la présence d'autrui, et attaque à griffes et à crocs. Son accouplement se termine toujours en un combat où l'un des deux partenaires, généralement le mâle, trouve la mort. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Jigstang</big>'''
+|-
+| style="text-align:left;" | TAILLE || 11 || colspan="2" style="text-align:left;" | Vie || 12
+|-
+| style="text-align:left;" | CONSTITUTION || 13 || colspan="2" style="text-align:left;" | Endurance || 25
+|-
+| style="text-align:left;" | FORCE || 13 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| style="text-align:left;" | VOLONTÉ || 6 || colspan="2" style="text-align:left;" | Protection || 2
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes/crocs || 13 || +3 || 9 || +3
+|-
+| style="text-align:left;" | Esquive || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Course, saut || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 11 || +3 || - || -
+|}
+ 
+== Libelle ==
+==== Description ====
+La libelle est une libellule géante, de 2 m de long sur 3 m d'envergure, avec des ailes résistantes et tranchantes comme des rasoirs, battant à une vitesse prodigieuse. Il en résulte une paire de terribles ''tronçonneuses''.
+==== Mœurs ====
+La libelle vit dans les marais, où elle se nourrit de larves. Elle n'est pas foncièrement agressive, mais néanmoins très curieuse, attirée par tout ce qui bouge, et ses ailes cisaillent tout sur son passage. Elle est capable de tronçonner un bambou de 3 cm de diamètre sans même ralentir son vol. Face à un groupe de libelles, la meilleure défense est encore de rester immobile. Son attaque est toujours considérée comme une ''charge'', et à moins de succomber, elle est toujours ''désengagée'' en fin de round, continuant son vol pour rebrousser chemin le round suivant et revenir examiner ce qui bouge encore.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Libelle</big>'''
+|-
+| style="text-align:left;" | TAILLE || 3 || colspan="2" style="text-align:left;" | Vie || 4
+|-
+| style="text-align:left;" | CONSTITUTION || 4 || colspan="2" style="text-align:left;" | Endurance || 8
+|-
+| style="text-align:left;" | FORCE || 7 || colspan="2" style="text-align:left;" | Vitesse || -/40
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 2 || colspan="2" style="text-align:left;" | Protection || -6
+|-
+| style="text-align:left;" | RÊVE || 2 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Tronçonneuse || 14 || +6 || 13 || +10
+|-
+| style="text-align:left;" | Esquive || 12 || +4 || - || -
+|-
+| style="text-align:left;" | Vol || 14 || +6 || - || -
+|-
+| style="text-align:left;" | Vigilance || 11 || +3 || - || -
+|}
+
+== Lycan ==
+==== Description ====
+Le lycan est un canidé de grande taille, au museau pointu, aux oreilles toujours droites, à la queue touffue et pendante, au pelage gris fauve, avec des yeux aux reflets jaunes. Un adulte pèse en moyenne 55 kg.
+==== Mœurs ====
+Comme les loups, les lycans vivent en hordes hiérarchisées, reconnaissant pour chef le mâle le plus fort. Carnassiers et prédateurs redoutés, ils hantent toutes les sortes de forêts. Rassurés par la force que confère leur nombre, les bandes de lycans n'hésitent pas à s'attaquer à l'homme. Les hivers de famine, des meutes entières vont même jusqu'à effectuer des razzias sur les villages.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Lycan</big>'''
+|-
+| style="text-align:left;" | TAILLE || 8 || colspan="2" style="text-align:left;" | Vie || 10
+|-
+| style="text-align:left;" | CONSTITUTION || 11 || colspan="2" style="text-align:left;" | Endurance || 21
+|-
+| style="text-align:left;" | FORCE || 12 || colspan="2" style="text-align:left;" | Vitesse || 12/38
+|-
+| style="text-align:left;" | PERCEPTION || 13 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 13 || +4 || 10 || +1
+|-
+| style="text-align:left;" | Esquive || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Course, saut || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 13 || +3 || - || -
+|}
+
+== Mariol ==
+====Description ====
+Le mariol est un canidé de taille moyenne (15-25 kg), ressemblant à un épagneul avec un faux air d'écureuil dont il possède la queue en panache. Très agile, il est capable de se tenir en position verticale et même de se déplacer uniquement sur ses membres postérieurs, tandis que ses antérieurs se terminent par des pattes très semblables à des mains de singe.
+==== Mœurs ====
+Social, le mariol vit en bande de plusieurs dizaines d'individus, hantant de préférence les sous-bois clairsemés où les landes de broussaille. Omnivore avec une préférence pour la chair, voire la charogne, il fabrique des pièges ingénieux sous forme de fosses souvent profondes, au fond planté de pieux aiguisés, recouvertes par un treillis de branchage et de mousse. Le camouflage est si parfait qu'il s'y laisse parfois prendre lui-même. En général, un membre de la bande reste à proximité du piège pour avertir les autres dès qu'une créature s'est laissé prendre. Il le signale par un rire aigu et exaspérant. Car c'est une des particularités les plus énervantes du mariol que son cri ressemble à s'y tromper à un rire de dérision. Le reste du groupe accourt alors, et si la proie n'a pas été tuée du premier coup par le piège, ils la lapident à coups de pierres tranchantes, tout en riant à gorge déployée. Certaines de leurs fosses sont assez grandes pour accueillir des hommes.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Mariol</big>'''
+|-
+| style="text-align:left;" | TAILLE || 5 || colspan="2" style="text-align:left;" | Vie || 8
+|-
+| style="text-align:left;" | CONSTITUTION || 11 || colspan="2" style="text-align:left;" | Endurance || 19
+|-
+| style="text-align:left;" | FORCE || 9 || colspan="2" style="text-align:left;" | Vitesse || 12/30
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || -1
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 10 || +3 || 8 || 0
+|-
+| style="text-align:left;" | Pierre jetée || 10 || +3 || 8 || -3
+|-
+| style="text-align:left;" | Esquive || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 10 || 0 || - || -
+|-
+| style="text-align:left;" | Discrétion || 12 || +4 || - || -
+|-
+| style="text-align:left;" | Saut || 12 || +4 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|}
+
+== Oiseau-oracle ==
+==== Description ====
+L'oiseau-oracle, quoique animal réel, a tout de l'entité de rêve. Il possède quatre pattes en plus de ses ailes, et il parle, semblant connaître toutes les langues. Il a au demeurant l'apparence d'un gros faisan au plumage multicolore, et sa chair est réputée délectable.
+==== Mœurs. ====
+À en croire Paranos le Moindre (il n'en rate jamais une, celui-là), l'oiseau-oracle sait non seulement s'exprimer dans toutes les langues, mais il dit toujours la vérité, proférant de véritables oracles, d'où son nom. Il peut répondre de façon assez claire sur le présent ou le passé ; en ce qui concerne le futur, ses réponses sont souvent obscures. L'oiseau-oracle ne tolère qu'une seule question et ne fournit qu'une seule réponse. Si on ne lui pose pas de question, il montre des signes d'impatience, l'air de dire : « Allez-vous vous décider à m'interroger, oui ou non ? Si vous croyez que c'est par hasard que je suis là ! J'ai parcouru un long chemin jusqu'à vous, et je n'ai pas que ça à faire !... » Et si on ne lui pose décidément aucune question, il reprend son vol et on ne le revoit plus. Paranos affirme par ailleurs que tuer un oiseau-oracle porte une terrible malchance.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Oiseau-oracle</big>'''
+|-
+| style="text-align:left;" | TAILLE || 2 || colspan="2" style="text-align:left;" | Vie || 3
+|-
+| style="text-align:left;" | CONSTITUTION || 4 || colspan="2" style="text-align:left;" | Endurance || 7
+|-
+| style="text-align:left;" | FORCE || 1 || colspan="2" style="text-align:left;" | Vitesse || -/40
+|-
+| style="text-align:left;" | PERCEPTION || 15 || colspan="2" style="text-align:left;" | +dom || -
+|-
+| style="text-align:left;" | VOLONTÉ || 17 || colspan="2" style="text-align:left;" | Protection || -8
+|-
+| style="text-align:left;" | RÊVE || 18 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Vol || 15 || +5 || - || -
+|}
+
+== Pantodar ==
+==== Description ====
+Le pantodar est un félin à fourrure rase de couleur jaune sable, de la taille d'une panthère. Sa caractéristique la plus singulière est une longue queue préhensile de plus de 3 m de long, capable de manier une arme légère telle qu'une dague.
+==== Mœurs. ====
+Hôte des plaines et des savanes, rarement des forêts, le pantodar est un carnassier solitaire. Très curieux, mais tout aussi intelligent et prudent, il s'attaque rarement à l'homme de sa propre initiative. Il l'observe pourtant, de loin, et s'il peut dérober une dague sur un cadavre, il ne s'en prive pas. Par quelle singularité arrive-t-il à s'en servir adroitement ? C'est une source d'étonnement. On connaît la célèbre réponse de Paranos le Moindre interrogé à ce sujet : « Vous n'avez qu'à le lui demander vous-même ! » Les jeunes pantodars peuvent assez facilement s'apprivoiser ; devenus adultes, ils sont étonnamment fidèles. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Pantodar</big>'''
+|-
+| style="text-align:left;" | TAILLE || 13 || colspan="2" style="text-align:left;" | Vie || 14
+|-
+| style="text-align:left;" | CONSTITUTION || 14 || colspan="2" style="text-align:left;" | Endurance || 28
+|-
+| style="text-align:left;" | FORCE || 15 || colspan="2" style="text-align:left;" | Vitesse || 14/42
+|-
+| style="text-align:left;" | PERCEPTION || 17 || colspan="2" style="text-align:left;" | +dom || +2
+|-
+| style="text-align:left;" | VOLONTÉ || 15 || colspan="2" style="text-align:left;" | Protection || 2
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes, crocs || 14 || +5 || 10 || +4
+|-
+| style="text-align:left;" | Dague || 11 || +3 || 8 || +3
+|-
+| style="text-align:left;" | Esquive || 13 || +5 || - || -
+|-
+| style="text-align:left;" | Course, saut || 14 || +4 || - || -
+|-
+| style="text-align:left;" | Discrétion || 13 || +5 || - || -
+|-
+| style="text-align:left;" | Vigilance || 17 || +5 || - || -
+|}
+
+== Quileurbist ==
+==== Description ====
+Le quileurbist est une créature simiesque recouverte d'une carapace d'écailles hérissées de piquants. Sa tête plate et triangulaire est dotée d'une large mâchoire plantée de crocs, et ses bras plutôt longs se terminent par des pattes plantées de griffes acérées. Comme les grands singes, il se tient en position semi-verticale. Son cri, rauque et guttural, ressemble à la syllabe ''kill'', d'où, d'après Paranos le Moindre, l'origine de son nom. Il fait en moyenne 1m85 pour 100 kg.
+==== Mœurs ====
+Le quileurbist n'a pas d'habitat spécifique, encore qu'on le rencontre surtout dans les collines rocheuses et peu boisées, mais vagabond itinérant, il change souvent de lieu. Il faut dire que partout où se trouve un quileurbist, la région se dépeuple de toute autre vie animale. La créature semble en effet n'avoir qu'une vocation : tuer, déchirer, éventrer, massacrer toutes les autres formes de vie. Le quilerbist résiste automatiquement au [[Sorts d'Illusion-suggestion#NON-AGRESSIVITÉ|sort de Non agressivité d'Hypnos]]. En combat, ses réussites particulières sont toujours passées en ''rapidité''.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Quileurbist</big>'''
+|-
+| style="text-align:left;" | TAILLE || 14 || colspan="2" style="text-align:left;" | Vie || 14
+|-
+| style="text-align:left;" | CONSTITUTION || 14 || colspan="2" style="text-align:left;" | Endurance || 28
+|-
+| style="text-align:left;" | FORCE || 18 || colspan="2" style="text-align:left;" | Vitesse || 14/28
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || +3
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | Protection || 5
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes, crocs || 15 || +5 || 12 || +5
+|-
+| style="text-align:left;" | Esquive || 13 || +5 || - || -
+|-
+| style="text-align:left;" | Saut, escalade || 15 || +5 || - || -
+|-
+| style="text-align:left;" | Course || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|}
+ 
+== Rananècre ==
+====Description ====
+Le rananècre est un rat géant de la taille d'un chien, au pelage gris moisi, pesant en moyenne 35 kg. Sa morsure inocule une horrible maladie : la ''nécrophase''.
+==== Mœurs ====
+Le rananècre vit dans les désolations, les anciennes ruines, partout où les courants lourds du cauchemar ont laissé leur empreinte. Sa présence s'accompagne souvent d'entités de cauchemar non incarnées (haines, désespoirs).
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Rananècre</big>'''
+|-
+| style="text-align:left;" | TAILLE || 6 || colspan="2" style="text-align:left;" | Vie || 9
+|-
+| style="text-align:left;" | CONSTITUTION || 11 || colspan="2" style="text-align:left;" | Endurance || 20
+|-
+| style="text-align:left;" | FORCE || 10 || colspan="2" style="text-align:left;" | Vitesse || 12/30
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 11 || +3 || 8 || +1 (mal.)
+|-
+| style="text-align:left;" | Esquive || 10 || +2 || - || -
+|-
+| style="text-align:left;" | Course || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|-
+| colspan="5" | &nbsp;
+|-
+| colspan="5" style="text-align:left;" | '''''Nécrophagie'''''
+|-
+| style="text-align:left;" | ''Malignité'' || colspan="4" style="text-align:left;" | 7
+|-
+| style="text-align:left;" | ''Périodicité'' || colspan="4" style="text-align:left;" | 1 heure
+|-
+| style="text-align:left;" | ''Dommages'' || colspan="4" style="text-align:left;" | -2 points de vie
+|-
+| rowspan="2" style="text-align:left;" | ''Antidotes'' || colspan="4" style="text-align:left;" | -4 \ Tournegraisse +16
+|-
+| colspan="4" style="text-align:left;" | Huile de Sélikanthe +6
+|-
+| colspan="5" style="text-align:left;" | Tout autour de la blessure, la chair
+|-
+| colspan="5" style="text-align:left;" | s'enfle, vire au noir et se putréfie,
+|-
+| colspan="5" style="text-align:left;" | puis l'ensemble du corps est gagné peu
+|-
+| colspan="5" style="text-align:left;" | à peu. Si la mort survient, elle donne
+|-
+| colspan="5" style="text-align:left;" | naissance à une entité de cauchemar non
+|-
+| colspan="5" style="text-align:left;" | incarnée ayant le même nombre de points
+|-
+| colspan="5" style="text-align:left;" | de rêve que la caractéristique RÊVE de
+|-
+| colspan="5" style="text-align:left;" | la victime. Tirer 1d2 : 1, haine / 2,
+|-
+| colspan="5" style="text-align:left;" | désespoir.
+|}
+
+== Sanguinox ==
+==== Description ====
+Le sanguinox est un gros chat sauvage au pelage entièrement noir, pouvant faire jusqu'à 45 kg.
+==== Mœurs ====
+Le sanguinox vit dans les forêts, de préférence rocailleuses, tels que les contreforts de montagne, où il peut trouver une caverne pour lui servir de tanière pendant le jour. De mœurs essentiellement nocturnes, c'est un pré-=dateur redouté. Il aime le goût du sang pour lui-même, et, gavé de nourriture, ne se contente parfois que de saigner ses proies. Audacieux jusqu'à la témérité, le sanguinox n'hésite pas à s'attaquer à des créatures nettement plus grosses que lui, et en particulier à l'homme. Sa technique favorite est l'embuscade. La nuit, dissimulé sur une branche d'arbre, il est virtuellement invisible. Quand il attaque en se laissant tomber d'une branche, considérer en termes de règles que c'est une attaque de ''charge''. Au sol, ses réussites particulières sont usuellement passées en ''rapidité''. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Sanguinox</big>'''
+|-
+| style="text-align:left;" | TAILLE || 7 || colspan="2" style="text-align:left;" | Vie || 10
+|-
+| style="text-align:left;" | CONSTITUTION || 13 || colspan="2" style="text-align:left;" | Endurance || 23
+|-
+| style="text-align:left;" | FORCE || 11 || colspan="2" style="text-align:left;" | Vitesse || 12/32
+|-
+| style="text-align:left;" | PERCEPTION || 17 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | VOLONTÉ || 14 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| style="text-align:left;" | RÊVE || 13 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes, morsure || 12 || +5 || 11 || +1
+|-
+| style="text-align:left;" | Esquive || 14 || +5 || - || -
+|-
+| style="text-align:left;" | Discrétion, saut || 16 || +5 || - || -
+|-
+| style="text-align:left;" | Course || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 17 || +5 || - || -
+|}
+
+== Scologriffe ==
+==== Description ====
+Le scologriffe est un scolopendre géant pouvant atteindre 1m20 de long, au venin mortel.
+==== Mœurs. ====
+Le scologriffe vit dans les forêts et les lieux humides, se nourrissant de charogne. Il n'est pas directement agressif, mais attaque dès qu'il est surpris ou se croit en danger.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Scologriffe</big>'''
+|-
+| style="text-align:left;" | TAILLE || 2 || colspan="2" style="text-align:left;" | Vie || 4
+|-
+| style="text-align:left;" | CONSTITUTION || 5 || colspan="2" style="text-align:left;" | Endurance || 9
+|-
+| style="text-align:left;" | FORCE || 2 || colspan="2" style="text-align:left;" | Vitesse || 8/14
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || -3
+|-
+| style="text-align:left;" | VOLONTÉ || 2 || colspan="2" style="text-align:left;" | Protection || -8
+|-
+| style="text-align:left;" | RÊVE || 2 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 10 || +3 || 8 || -3 (venin)
+|-
+| style="text-align:left;" | Esquive || 10 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|-
+| colspan="5" | &nbsp;
+|-
+| colspan="5" style="text-align:left;" | '''''Venin'''''
+|-
+| style="text-align:left;" | ''Malignité'' || colspan="4" style="text-align:left;" | 3
+|-
+| style="text-align:left;" | ''Périodicité'' || colspan="4" style="text-align:left;" | 1 minute
+|-
+| style="text-align:left;" | ''Dommages'' || colspan="4" style="text-align:left;" | -1 point de vie
+|-
+| rowspan="2" style="text-align:left;" | ''Antidotes'' || colspan="4" style="text-align:left;" | -3 \ Liqueur de Bagdol +16
+|-
+| colspan="4" style="text-align:left;" | Topazoïne +8
+|-
+| colspan="5" style="text-align:left;" | Sensation aiguë de déséquilibre. Jouer
+|-
+| colspan="5" style="text-align:left;" | VOLONTÉ à -3. En cas d'échec, on chute
+|-
+| colspan="5" style="text-align:left;" | sans parvenir à se relever.
+|}
+
+== Sirène ==
+==== Description ====
+La sirène est un mammifère aquatique voisin de l'otarie, mais doté d'une mâchoire de requin et de longs membres supérieurs se terminant par des serres. Quoique respirant par des poumons, elle peut tenir sous l'eau plusieurs dizaines de minutes. Sa peau est épaisse, cuireuse. Elle pèse en moyenne 70 kg.
+==== Mœurs ====
+Les sirènes vivent en eau peu profonde, indifféremment douce ou salée (rivages marins. lacs, marais), en colonies pouvant compter jusqu'à une douzaine d'individus. Elles se nourrissent normalement de poissons et de mollusques, mais la chair humaine est ce qu'elles préfèrent. Pour s'en procurer, elles possèdent deux terribles pouvoirs innés, un chant attractif et une illusion, ce qui fait d'elles l'un des plus meurtriers exemples de créatures thanataires.
+==== Chant ====
+La sirène a un chant attractif pouvant porter jusqu'à 50 m. Toute personne, homme ou femme, percevant ce chant, même faible et lointain, doit tenter un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3. Sur toute réussite, le personnage est libre de sa décision ; sur tout échec, il est irrésistiblement attiré vers la source du chant. Quand plusieurs sirènes chantent simultanément, le jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] est global pour tous les chants : soit l'on résiste à tous, soit l'on ne résiste à aucun.
+==== Illusion ====
+La sirène peut lancer sur elle une illusion visuelle faisant croire qu'elle est une jolie fille nue surprise en train de se baigner. L'illusion que donne une sirène est toujours la même, comme programmée une fois pour toutes. Par exemple, une sirène donnant l'illusion d'une fille rousse avec une bouche en cœur, donnera toujours la même illusion, même corps, même visage. Certaines sirènes, plus rarement, donnent des illusions d'hommes. Contrairement aux illusions des [[Illusions Sensorielles|Yeux d'Hypnos]], l'illusion des sirènes donne lieu à un jet de résistance (standard, r-8). Comme pour les chants, ce JR est global : s'il réussit, toutes les sirènes apparaissent sous leur véritable apparence ; s'il échoue, toutes sont perçues sous leur apparence illusoire.
+==== Alternatives. ====
+Si le jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] relatif au chant réussit tandis que le JR relatif à l'illusion échoue, le personnage voit des filles au lieu de monstres, mais est libre de ses décisions. En cas de jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] échoué mais de JR réussi, les sirènes étant vues sous leur jour véritable, le chant n'a plus aucun effet. Dès qu'un personnage est blessé par une sirène, celle-ci (et toutes les autres) reprennent pour lui, et pour lui seul, leur apparence de monstre (et le chant ne fait plus effet non plus sur lui). Quand un personnage croit s'approcher d'une fille et que la sirène l'agresse, il est considéré en ''demi-surprise''. Noter enfin qu'un personnage féminin ne résistant pas au chant (ni à l'illusion) se jette tout de même dans les bras des sirènes, quand bien même un tel personnage n'a (en principe) aucune raison d'être attiré par une fille.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Sirène</big>'''
+|-
+| style="text-align:left;" | TAILLE || 10 || colspan="2" style="text-align:left;" | Vie || 11
+|-
+| style="text-align:left;" | CONSTITUTION || 12 || colspan="2" style="text-align:left;" | Endurance || 23
+|-
+| style="text-align:left;" | FORCE || 12 || colspan="2" style="text-align:left;" | Vitesse sol || 4/-
+|-
+| style="text-align:left;" | PERCEPTION || 11 || colspan="2" style="text-align:left;" | Vitesse eau || 12/24
+|-
+| style="text-align:left;" | VOLONTÉ || 10 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" style="text-align:left;" | Protection || 2
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Serres, crocs || 12 || +3 || 9 || +2
+|-
+| style="text-align:left;" | Esquive eau || 13 || +3 || - || -
+|-
+| style="text-align:left;" | Esquive sol || 8 || +1 || - || -
+|}
+
+== Tigre vert ==
+==== Description & Mœurs ====
+Le tigre vert est un grand félin carnassier vivant indifféremment en plaine herbue ou en forêt, où il se nourrit de gros gibier : antilope, daim, chevreuil. Il doit son nom à ce que sa fourrure est rayée vert et jaune au lieu de jaune et noir, ce qui lui assure un excellent camouflage. Discret, silencieux, sa tactique consiste à s'approcher inaperçu de sa proie, puis à bondir. Sa première attaque, lorsqu'il bondit, est en termes de jeu une ''charge''. Il s'attaque à l'homme comme à n'importe quelle créature plus petite que lui. Sa fourrure magnifique est très recherchée. Un individu adulte pèse dans les 300 kg.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Tigre vert</big>'''
+|-
+| style="text-align:left;" | TAILLE || 23 || colspan="2" style="text-align:left;" | Vie || 22
+|-
+| style="text-align:left;" | CONSTITUTION || 20 || colspan="2" style="text-align:left;" | Endurance || 42
+|-
+| style="text-align:left;" | FORCE || 21 || colspan="2" style="text-align:left;" | Vitesse || 14/48
+|-
+| style="text-align:left;" | PERCEPTION || 15 || colspan="2" style="text-align:left;" | +dom || +5
+|-
+| style="text-align:left;" | VOLONTÉ || 15 || colspan="2" style="text-align:left;" | Protection || 4
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes/crocs || 16 || +5 || 13 || +7
+|-
+| style="text-align:left;" | Esquive || 12 || +4 || - || -
+|-
+| style="text-align:left;" | Course, saut || 14 || +4 || - || -
+|-
+| style="text-align:left;" | Discrétion || 15 || +4 || - || -
+|-
+| style="text-align:left;" | Vigilance || 15 || +4 || - || -
+|}
+
+== Tournedent ==
+==== Description ====
+Le tournedent figure parmi les plus hideux des animaux de cauchemar. C'est une énorme créature bipède, vaguement anthropomorphe, recouverte de plaques cornées extrêmement dures. Le tournedent n'a pas de tête : à la place de celle-ci, rien qu'une boursouflure avec un œil jaune, un œil devant et un autre derrière. En guise de mains, ses bras se terminent par une gueule plantée de crocs pointus. On les appelle ses ''bras-bouches''. Il doit son nom à ce que toutes ses articulations, coude, genou, gueules, peuvent tourner sur elles-mêmes à 360 degrés. Le tournedent fait en moyenne 3 m de haut pour 800 kg. Ses glandes génitales fournissent l'ingrédient principal du remède-antidote appelé ''tournegraisse''.
+==== Mœurs. ====
+Les tournedents sont heureusement rarissimes et ne hantent que les désolations et autres lieux où Thanatos a laissé son empreinte. Ils possèdent le même pouvoir de non agressivité s'appliquant aux humanoïdes que la harpie. La victime doit jouer un jet de résistance standard, r-8, et en cas d'échec, réussir un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3 pour pouvoir attaquer le tournedent. Le JR n'est à jouer qu'une seule fois, et en cas d'échec, le jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] est à jouer tous les rounds. La non agressivité ne s'applique qu'à l'égard du tournedent qui l'a lancée, et il ne peut pas ré-utiliser son pouvoir sur un personnage qui a réussi son JR. En combat, les bras-bouches du tournedent sont capables de parer comme s'ils étaient des épées (mêmes limitations). Ses réussites particulières sont usuellement passées en ''rapidité''.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Tournedent</big>'''
+|-
+| style="text-align:left;" | TAILLE || 28 || colspan="2" style="text-align:left;" | Vie || 26
+|-
+| style="text-align:left;" | CONSTITUTION || 23 || colspan="2" style="text-align:left;" | Endurance || 49
+|-
+| style="text-align:left;" | FORCE || 23 || colspan="2" style="text-align:left;" | Vitesse || 14/30
+|-
+| style="text-align:left;" | PERCEPTION || 14 || colspan="2" style="text-align:left;" | +dom || +7
+|-
+| style="text-align:left;" | VOLONTÉ || 12 || colspan="2" style="text-align:left;" | Protection || 8
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Bras-bouches || 18 || +6 || 14 || +9
+|-
+| style="text-align:left;" | Esquive || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Course || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 14 || +3 || - || -
+|}
+
+== Vipère jaune ==
+==== Description et Mœurs. ====
+La vipère jaune est le plus fréquent des serpents venimeux. Elle peut faire jusqu'à 1 m de long et peut être rencontrée partout, sans habitat de prédilection. Son venin est mortel.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Vipère jaune</big>'''
+|-
+| style="text-align:left;" | TAILLE || 1 || colspan="2" style="text-align:left;" | Vie || 3
+|-
+| style="text-align:left;" | CONSTITUTION || 4 || colspan="2" style="text-align:left;" | Endurance || 7
+|-
+| style="text-align:left;" | FORCE || 2 || colspan="2" style="text-align:left;" | Vitesse || 10/16
+|-
+| style="text-align:left;" | PERCEPTION || 10 || colspan="2" style="text-align:left;" | +dom || -4
+|-
+| style="text-align:left;" | VOLONTÉ || 2 || colspan="2" style="text-align:left;" | Protection || -8
+|-
+| style="text-align:left;" | RÊVE || 3 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Morsure || 10 || +2 || 7 || -3 (venin)
+|-
+| style="text-align:left;" | Esquive || 8 || +3 || - || -
+|-
+| style="text-align:left;" | Discrétion || 12 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 10 || +3 || - || -
+|-
+| colspan="5" | &nbsp;
+|-
+| colspan="5" style="text-align:left;" | '''''Venin'''''
+|-
+| style="text-align:left;" | ''Malignité'' || colspan="4" style="text-align:left;" | 2
+|-
+| style="text-align:left;" | ''Périodicité'' || colspan="4" style="text-align:left;" | 6 rounds
+|-
+| rowspan="2" style="text-align:left;" | ''Dommages'' || colspan="4" style="text-align:left;" | -1 point de vie
+|-
+| colspan="4" style="text-align:left;" | Spasmes musculaires
+|-
+| rowspan="2" style="text-align:left;" | ''Antidotes'' || colspan="4" style="text-align:left;" | -3 \ Liqueur de Bagdol +14
+|-
+| colspan="4" style="text-align:left;" | Topazoïne +10
+|}
+
+== Zomar ==
+==== Description ====
+Le zomar est une écrevisse géante de couleur noirâtre, armée de pinces monstrueuses, vivant en eau peu profonde. lac ou marécage, pesant jusqu'à 75 kg.
+==== Mœurs ====
+Le zomar se nourrit ordinairement de vase et de charogne, mais, extrêmement agressif, il s'attaque à toute proie vivante passant à portée. Apprêté à la ''tortemoque''. il fournit une soupe excellente. En combat, ses pinces sont si résistantes qu'il peut s'en servir pour parer (mêmes limitations que les parades de l'épée).
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Zomar</big>'''
+|-
+| style="text-align:left;" | TAILLE || 12 || colspan="2" style="text-align:left;" | Vie || 13
+|-
+| style="text-align:left;" | CONSTITUTION || 14 || colspan="2" style="text-align:left;" | Endurance || 27
+|-
+| style="text-align:left;" | FORCE || 16 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | PERCEPTION || 9 || colspan="2" style="text-align:left;" | +dom || +2
+|-
+| style="text-align:left;" | VOLONTÉ || 3 || colspan="2" style="text-align:left;" | Protection || 4
+|-
+| style="text-align:left;" | RÊVE || 3 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Pinces || 13 || +2 || 8 || +7
+|-
+| style="text-align:left;" | Esquive || 7 || 0 || - || -
+|}
+
+== Zombrel ==
+==== Description ====
+Le zombrel est un reptile volant apparenté au ptéranodon, pourvu de larges ailes membraneuses. Il possède un long bec corné doté de dents, tandis que son crâne s'orne d'une crête osseuse et creuse, lui servant de balancier. Il peut faire jusqu'à 3 m de long avec des ailes de 12 m d'envergure.
+==== Mœurs. ====
+Le zombrel vit dans les lieux désolés, souvent à proximité des marécages où il pèche en plein vol comme les oiseaux de mer. Mais prédateur féroce, il chasse tout autant les créatures terrestres et les oiseaux. Avec sa science coutumière. Paranos le Moindre explique que le seul avantage du zombrel, lorsqu'il plane au-dessus de votre tête, est de vous protéger efficacement des brûlures du soleil.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Zombrel</big>'''
+|-
+| style="text-align:left;" | TAILLE || 12 || colspan="2" style="text-align:left;" | Vie || 13
+|-
+| style="text-align:left;" | CONSTITUTION || 14 || colspan="2" style="text-align:left;" | Endurance || 27
+|-
+| style="text-align:left;" | FORCE || 14 || colspan="2" style="text-align:left;" | Vitesse vol || 14/40
+|-
+| style="text-align:left;" | PERCEPTION || 14 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| style="text-align:left;" | VOLONTÉ || 5 || colspan="2" style="text-align:left;" | Protection || 2
+|-
+| style="text-align:left;" | RÊVE || 4 || colspan="2" | 
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Bec || 14 || +4 || 11 || +3
+|-
+| style="text-align:left;" | Esquive vol || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 14 || +3 || - || -
+|}
+
+== Zyglute ==
+==== Description ====
+La zyglute est un grand échassier de la taille d'une autruche, dotée de trois pattes parallèles et de deux minuscules ailes qui ne lui servent qu'à voleter. Son bec est arrondi et plat comme celui d'un canard, dont elle possède le cri. Ses plumes sont gris noir, sauf celles de sa queue qui sont d'un splendide rouge vermillon pailleté d'argent.
+==== Mœurs ====
+Les zyglutes vivent en colonies nombreuses dans les plaines à tendance marécageuse. Elles se nourrissent de larves et de plantes aquatiques. Craintives, dépourvues d'agressivité, elles sont en général d’une rare stupidité. Nombre d’échassiers se reposent en repliant alternativement une patte ; les zyglutes, qui en ont trois, replient les deux pattes extérieures pour se reposer sur la patte centrale ; puis quand celle-ci est fatiguée à son tour, replient la patte centrale pour se reposer sur les extérieures. Durant le processus, une zvglute sur deux oublie où elle en est avec ses pattes et replie la centrale avant de déployer les autres, avec pour résultat de se casser la figure dans un concert de coin-coin mortifié. Dans certaines régions, la zyglute est domestiquée pour servir de monture. Toutefois, la captivité lui fait perdre les paillettes argentées de sa queue, que seules possèdent les zyglutes sauvages. Ces paillettes entrent dans la composition de certaines préparations alchimiques. La zyglute ne donne des coups de bec qu'acculée en désespoir de cause.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Zyglute</big>'''
+|-
+| style="text-align:left;" | TAILLE || 12 || colspan="2" style="text-align:left;" | Vie || 12
+|-
+| style="text-align:left;" | CONSTITUTION || 12 || colspan="2" style="text-align:left;" | Endurance || 24
+|-
+| style="text-align:left;" | FORCE || 12 || colspan="2" style="text-align:left;" | Vitesse || 12/36
+|-
+| style="text-align:left;" | PERCEPTION || 9 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| style="text-align:left;" | VOLONTÉ || 4 || colspan="2" style="text-align:left;" | Enc || 12
+|-
+| style="text-align:left;" | RÊVE || 7 || colspan="2" style="text-align:left;" | Protection || 0
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Coup de bec || 9 || 0 || 4 || +1
+|-
+| style="text-align:left;" | Esquive || 9 || 0 || - || -
+|-
+| style="text-align:left;" | Course || 11 || +3 || - || -
+|-
+| style="text-align:left;" | Vigilance || 9 || 0 || - || -
+|}
+
+== Animaux domestiques ==
+Il est parfois utile de posséder les caractéristiques chiffrées d'un animal domestique. Pour le '''chat''', utiliser les caractéristiques du ''[[#Félorn|félorn]]'', en ne tenant évidemment pas compte des ailes. Pour le '''chien''' de taille moyenne (20 kg) utiliser les caractéristiques du ''[[#Mariol|mariol]]'', en oubliant pareillement les compétences spéciales. Pour un plus gros chien (40 kg), utiliser le ''[[#Chiard|chiard]]'' ; et pour un gros berger ou un chien de combat (60 kg), utiliser les caractéristiques du ''[[#Lycan|lycan]]''. Pour l''''âne''' ou un petit '''mulet''', utiliser la ''[[#Chamule|chamule]]''. 
+==== Cheval ====
+Il existe tant de variétés de chevaux, du poney au percheron, qu'il leur faudrait presque un livre exclusivement consacré. L'exemple ci-après correspond à un bon cheval de selle. Avec un encombrement de 22, il peut porter un cavalier actif de [[Les Caractéristiques#TAILLE|TAILLE]] 12 (75 kg) + 10 points de matériel divers avant de souffrir ses premiers malus à la course et au saut. La vitesse indiquée correspond à une allure plutôt lente. Contrairement aux autres animaux pour qui la vitesse de base est fixe, le gardien des rêves peut rajouter jusqu'à 3d6 points à la vitesse de course de chaque individu. Cette nouvelle vitesse de course est rajoutée une fois pour toutes, mais peut être modulée par un jet de course sur la table de Course animale.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="5" style="text-align:center;" | '''<big>Cheval</big>'''
+|-
+| style="text-align:left;" | TAILLE || 25 || colspan="2" style="text-align:left;" | Vie || 22
+|-
+| style="text-align:left;" | CONSTITUTION || 18 || colspan="2" style="text-align:left;" | Endurance || 40
+|-
+| style="text-align:left;" | FORCE || 20 || colspan="2" style="text-align:left;" | Vitesse || 14/58 (+3d6)
+|-
+| style="text-align:left;" | PERCEPTION || 12 || colspan="2" style="text-align:left;" | +dom || +7
+|-
+| style="text-align:left;" | VOLONTÉ || 8 || colspan="2" style="text-align:left;" | Enc || 22
+|-
+| style="text-align:left;" | RÊVE || 10 || colspan="2" style="text-align:left;" | Protection || 2
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Ruade || 14 || +4 || 11 || +11
+|-
+| style="text-align:left;" | Esquive || 9 || +1 || - || -
+|-
+| style="text-align:left;" | Course, saut || 14 || +4 || - || -
+|-
+| style="text-align:left;" | Vigilance || 12 || +3 || - || -
+|}
