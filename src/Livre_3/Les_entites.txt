@@ -62,9 +62,9 @@ Toutes les entités, de cauchemar ou de rêve, incarnées ou non, résistent aut
 == Entités de Cauchemar Incarnées ==
 ''Dans les modèles d'entités présentés, les caractéristiques de [[Les Caractéristiques#TAILLE|TAILLE]] et de [[Les Caractéristiques#RÊVE|RÊVE]] sont les plus usuellement rencontrées. Mais le gardien des rêves est libre de modifier ces deux paramètres sans limitation.''
 === Chien de la mort ===
-==== Description. ====
+==== Description ====
 Le chien de la mort est un énorme chien noir, d'une taille apparente correspondant à 75 kg, hurlant et baveux, babines retroussées sur des crocs luisants (+dom +1).
-==== Mœurs. ====
+==== Mœurs ====
 On dit que les chiens de la mort sont le produit des hurlements à la mort des chiens normaux. Ils ne se matérialisent qu'à la tombée de la nuit, à partir de mi-Lyre, et disparaissent automatiquement au lever du soleil, comme effacés, ne laissant derrière eux que quelques poils de chien. Entre temps, durant la nuit, ils se rassemblent en meutes hurlantes, cherchant à causer le plus grand dommage possible.
 
 {|style="border:1px solid black;text-align:right;"
@@ -83,9 +83,9 @@ On dit que les chiens de la mort sont le produit des hurlements à la mort des c
 |}
 
 === Craque-haine ===
-==== Description. ====
+==== Description ====
 Le craque-haine est une monstrueuse entité aquatique, une pieuvre gigantesque d'un poids apparent de deux tonnes, pourvue de huit tentacules pustuleux (+dom +2).
-==== Mœurs. ====
+==== Mœurs ====
 Le craque-haine s'incarne le plus souvent au cœur d'un marécage ou dans la faille abyssale d'un lac, mais également en mer. Il lui arrive de sortir de sa retraite et de semer l'épouvante sur son passage. En combat, le craque-haine peut utiliser jusqu'à 4 de ses tentacules pour attaquer aussi bien que parer. En contradiction avec la règle générale, il a donc droit à 4 actions par round, pouvant être attaque ou parade. Ses réussites particulières sont toujours passées en ''force''. Le craque-haine n'esquive jamais. Une fois détruit, il ne laisse comme souvenir qu'une flaque d'eau nauséabonde.
 
 {|style="border:1px solid black;text-align:right;"
@@ -102,9 +102,9 @@ Le craque-haine s'incarne le plus souvent au cœur d'un marécage ou dans la fai
 |}
 
 === Darquoine ===
-==== Description. ====
+==== Description ====
 Les darquoines, ou entités polymorphes des ténèbres, n'ont pas de forme précise. Leurs corps est comme une mouvante spirale de ténèbres, s'enflant, se déformant, se distordant sans cesse. Seuls restent fixes ce qui semble être le regard de deux yeux maléfiques, et une paire de serres tranchantes, aiguisées comme de monstrueux rasoirs (+dom +2). Les darquoines se déplacent en flottant à quelques dizaines de centimètres du sol.
-==== Mœurs. ====
+==== Mœurs ====
 Les darquoines ne hantent que les lieux totalement enténébrés. À part leur regard et leurs serres, ils ne semblent eux-mêmes faits que de ténèbres, et sont donc extrêmement difficiles à voir dans la lumière vacillante des torches ou des lanternes. Au premier round de leur manifestation, tous les personnages doivent tenter un jet de [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#VIGILANCE|Vigilance]] ajusté négativement au niveau de l'entité. En cas d'échec, le personnage subit l'attaque du darquoine en état de ''complète surprise''. Les darquoines sont parmi les plus dévastatrices des entités de cauchemar. Leurs réussites particulières sont usuellement passées en ''rapidité''. Une fois détruits, ils ne laissent pour tout vestige qu'une suffocante sensation de froid.
 
 {|style="border:1px solid black;text-align:right;"
@@ -129,7 +129,7 @@ L'esprit thanataire est à coup sûr la plus fatale de toutes les entités de ca
 Les esprits thanataires furent à l'origine des entités invoquées par des haut-rêvants insanes de la fin du [[Les Trois Âges#Le Second Âge|Second Âge]], dans le but de traquer des victimes désignées. Le Grand Réveil ne les pas annihilés, pire encore, privés d'ordres précis, ils chassent maintenant, inexorablement, tout ceux qui ont le malheur de les rencontrer. Dans l'attente, l'esprit thanataire hante usuellement les lieux de son invocation, vieille tour en ruine, salle souterraine, et autre antre de prédilection d'un haut-rêvant de Thanatos. Tant que personne ne vient à lui, il demeure sur place, et pourrait demeurer ainsi pendant des siècles. Mais malheur au voyageur qui vient imprudemment troubler sa sombre retraite ! L'esprit thanataire le prend pour victime désignée et n'aura de cesse qu'il ne l'ait détruit.
 ==== Pouvoirs ====
 En combat, réduire à zéro l'endurance d'un esprit thanataire ne suffit pas à le détruire. Quand il perd son dernier point, il éclate d'un formidable rire moqueur et disparaît sans laisser aucun vestige. Ses adversaires croient l'avoir vaincu, il n'en est rien. L'esprit thanataire s'est simplement désincarné, le temps de reprendre des forces et de retrouver une forme physique. Replié dans une dimension des Limbes où ni le temps ni l'espace n'ont de signification, il regagne alors 1d6 points de [[Les Caractéristiques#TAILLE|TAILLE]] par jour vécu par sa proie. Il peut attendre d'avoir recouvré toute sa taille ou se contenter d'une taille plus petite. Quand il estime être prêt, il refait son apparition et cherche à nouveau à détruire sa victime. Peu importe le chemin parcouru par cette dernière, il la retrouve automatiquement, et peut même la traquer dans un autre rêve. Adorant les effets de surprise, l'esprit thanataire change généralement de forme à chaque fois. C'est tantôt un grand guerrier armuré de noir, tantôt un loup monstrueux, tantôt le passant à qui vous venez imprudemment de demander votre route, tantôt l'aubergiste même de l'auberge où vous croyez avoir enfin trouvé un havre de sécurité - et ainsi de suite dans le pire des cauchemars. Seul signe distinctif montrant que c'est bien lui, toujours lui et encore lui : ses terribles yeux rouges couvant un feu de froide haine. L'esprit thanataire a tout son temps, il a tous les rêves pour retrouver sa proie et la détruire. À la mort de celle-ci, toutefois, il s'estime satisfait et ne cherche pas à poursuivre sa « réincarnation ». En combat, son +dom final est la somme de son +dom personnel et de l'arme utilisée, par exemple une épée. S'il apparaît avec un bouclier, il s'en sert pour parer. Seule l'armure apparemment portée ne joue aucun rôle. Sa seule protection est le jet de rêve de son adversaire, à réussir une seule fois (par apparition) comme pour toutes les autres entités.
-==== Eau lustrale. ====
+==== Eau lustrale ====
 Il n'existe qu'un moyen de se débarrasser définitivement d'un esprit thanataire : l'asperger d'''eau lustrale'' puis le combattre physiquement une fois encore. À la perte de son dernier point d'endurance, il pousse alors un hurlement de démence, et disparaît pour toujours, réellement annihilé. L'eau lustrale est une préparation alchimique très simple, mais dont les ingrédients sont malheureusement problématiques. ''Pour une mesure d'eau lustrale, introduire sept larmes de jeune fille vierge, quoique pubère, dans une mesure d'eau puisée au pied d'un arc-en-ciel, et faire chauffer le tout jusqu'à température bleu-sangue (2).''<BR>
 La forme ci-après est celle assez classique d'un guerrier en armure noire, armé d'une bâtarde et d'un bouclier.
 
@@ -153,7 +153,7 @@ La forme ci-après est celle assez classique d'un guerrier en armure noire, arm�
 === Noyeuse ===
 ==== Description ====
 Les noyeuses sont des entités marines, d'aspect vaguement humanoïde, formées de débris d'épaves, de bouts de coquillage, d'algues et d'arêtes de poisson. Leurs bras se terminent par des galets avec lesquels elles frappent de toute leur force (+dom +1).
-==== Mœurs. ====
+==== Mœurs ====
 Les noyeuses hantent les lieux où des gens ont été noyés, que ce soit des suites d'un combat ou d'un naufrage, en pleine mer ou sur un rivage, et n'ont qu'un seul but : détruire tout ce qui flotte et causer la noyade à leur tour. Elles se déplacent aussi bien dans l'eau que sur terre. Leur tactique consiste à frapper la coque du bateau en dessous de la ligne de flottaison, tandis qu'une partie d'entre elles se hissent à bord pour exterminer l'équipage. Dès qu'une noyeuse est venue à bout de son homme, elle ne se joint pas au reste de la mêlée, mais retourne à la mer en entraînant sa victime. Elle ne revient éventuellement au combat qu'une fois la noyade assurée. À l'égard du bateau, leur pouvoir de destruction est efficace mais lent. Par demi-heure de travail (60 mn), une noyeuse fait directement perdre 1 point de structure (voir ''Navigation''). Si l'effort a duré moins de 60 mn, les dégâts sont négligeables. Faute de bateau à couler, les noyeuses sortent parfois de l'eau pour attaquer les villages côtiers. Une fois détruites, leurs débris constitutifs, bouts d'épaves, galets, etc., s'éparpillent sur le sol.
 
 {|style="border:1px solid black;text-align:right;"
@@ -214,7 +214,7 @@ Les quauquemaires hantent les endroits lugubres et désolés, les ruines princip
 |}
 
 === Squelette === 
-==== Description. ====
+==== Description ====
 Le squelette est une entité qui s'incarne à partir d'un cadavre en décomposition, la chair finit par disparaître et il ne reste que les os. Les squelettes sont généralement humanoïdes, ils se tiennent en position verticale, se déplaçant sur leurs jambes en une parodie de vie réelle. Ils utilisent leurs mains griffues pour attaquer (+dom +1).
 ==== Mœurs ====
 Les squelettes s'incarnent généralement sur les lieux de morts violentes (champs de bataille), ainsi que dans les nécropoles, catacombes et autres lieux de sépulture. Comme les autres entités, leur raison d'être est de détruire. Le spectacle d'un squelette est d'une horreur tellement contre nature qu'il demande un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3. En cas d'échec, le personnage est frappé d'effroi. En termes de règles, il est en ''demi-surprise'' jusqu'à la fin du round suivant. Une fois détruit, les ossements constitutifs du squelette s'éparpillent sur le sol, où ils s'effritent rapidement.

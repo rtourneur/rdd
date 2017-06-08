@@ -1,7 +1,7 @@
 __NOTOC__
  [[Narcos|Retour à Narcos]]
 
-Hormis le cas des objets autonomes, un objet magique est lié à son utilisateur, tel étant l'effet du rituel de Maîtrise. Pour que son pouvoir magique opère, l'utilisateur doit toujours s'en servir de la façon prévue par sa fonction normale. Un anneau doit obligatoirement être passé au doigt, un bracelet au poignet, une boucle d'oreille à l'oreille, un pendentif autour du cou, etc. Un arme magique doit être tenue en main, de même qu'une baguette et tout objet sans fonction apparente : statuette et autre bibelot. Si l'objet se résume à une gemme seule, celle-ci doit être tenue dans le creux de la main nue (non gantée).
+Hormis le cas des objets autonomes, un objet magique est lié à son utilisateur, tel étant l'effet du rituel de Maîtrise. Pour que son pouvoir magique opère, l'utilisateur doit toujours s'en servir de la façon prévue par sa fonction normale. Un anneau doit obligatoirement être passé au doigt, un bracelet au poignet, une boucle d'oreille à l'oreille, un pendentif autour du cou, etc. Une arme magique doit être tenue en main, de même qu'une baguette et tout objet sans fonction apparente : statuette et autre bibelot. Si l'objet se résume à une gemme seule, celle-ci doit être tenue dans le creux de la main nue (non gantée).
 === Efficacité ===
 Un objet magiquement efficace fonctionne spontanément dès qu'on l'utilise normalement, par exemple une épée magique avec laquelle on frappe, même si on ne sait pas qu'elle est magique.
 === Protection ===
@@ -13,18 +13,18 @@ Les objets dotés d'écailles d'activité sont capables de lancer un sort. Pour 
 
 Pour déclencher le sort, il suffit à l'utilisateur d'en exprimer mentalement le désir tout en pointant l'objet sur la cible choisie. L'utilisateur doit rester en état de concentration jusqu'à la fin du round, moment auquel il dépense les points de rêve exigés. Puis le sort est ciblé et fait effet comme n'importe quel sort « naturel » au tout début du round suivant. Si un jet de résistance est possible, il a lieu normalement. 
 === Formes des objets ===
-Un sort devant être ciblé en pointant le doigt, un objet capable de lancer un sort doit avoir une forme analogue, remplaçant le doigt du magicien. L'idéal est une petite baguette. mais ce peut être également une dague, une épée, un bâton, ou tout bibelot plus long que large. capable de pointer. Si l'objet a une autre forme (anneau, boucle, bracelet, gemme seule) le ciblage ne peut opérer. et obligatoirement, que sur l'utilisateur lui-même. Dans tous les cas, l'objet doit pouvoir être en contact avec la peau (nue) de l'utilisateur.<BR>
+Un sort devant être ciblé en pointant le doigt, un objet capable de lancer un sort doit avoir une forme analogue, remplaçant le doigt du magicien. L'idéal est une petite baguette, mais ce peut être également une dague, une épée, un bâton, ou tout bibelot plus long que large, capable de pointer. Si l'objet a une autre forme (anneau, boucle, bracelet, gemme seule) le ciblage ne peut opérer, et obligatoirement, que sur l'utilisateur lui-même. Dans tous les cas, l'objet doit pouvoir être en contact avec la peau (nue) de l'utilisateur.<BR>
 Les amulettes de protection peuvent avoir n'importe quelle forme. Elles ne fonctionnent toutefois que lorsqu'elles sont en contact avec la peau (nue) de leur possesseur. Dans ce but, il est judicieux de leur donner la forme de bijoux : bague, boucle d'oreille, etc.<BR>
 Les objets magiquement efficaces fonctionnent de par leurs propres formes. Ce sont les seuls qui n'exigent pas la peau nue de leur utilisateur : une épée magique peut par exemple être maniée par une main gantée.
 == Maîtrise ==
-Le rituel de Maîtrise opère le lien entre l'objet et son utilisateur. L'accord est équitable : l'objet apporte le pouvoir, l'utilisateur apporte l'énergie pour le mettre en oeuvre (les points de rêve).<BR>
-La toute première fois qu'un personnage utilise un objet magique (efficace, actif, ou que celui-ci fonctionne spontanément pour lui (protection), il doit le ''maîtriser''. Cette maîtrise s'opère automatiquement. sans jet de dés, se traduisant simplement par le fait que l'utilisateur dépense immédiatement un nombre de points de rêve égal au nombre d'écailles de l'objet. Si le personnage n'a pas assez de points de rêve pour effectuer cette dépense, il n'en dépense aucun, mais l'objet n'étant pas maîtrisé, ne fonctionne pas. Les points de rêve de maîtrise sont ''en plus'' du coût normal d'utilisation.<BR>
+Le rituel de Maîtrise opère le lien entre l'objet et son utilisateur. L'accord est équitable : l'objet apporte le pouvoir, l'utilisateur apporte l'énergie pour le mettre en œuvre (les points de rêve).<BR>
+La toute première fois qu'un personnage utilise un objet magique (efficace, actif, ou que celui-ci fonctionne spontanément pour lui (protection), il doit le ''maîtriser''. Cette maîtrise s'opère automatiquement, sans jet de dés, se traduisant simplement par le fait que l'utilisateur dépense immédiatement un nombre de points de rêve égal au nombre d'écailles de l'objet. Si le personnage n'a pas assez de points de rêve pour effectuer cette dépense, il n'en dépense aucun, mais l'objet n'étant pas maîtrisé, ne fonctionne pas. Les points de rêve de maîtrise sont ''en plus'' du coût normal d'utilisation.<BR>
 ''Une épée magique possédant 5 Écailles d'Efficacité, pour un bonus de +5 en combat, coûte 5 points de rêve de maîtrise.''
 == Coût normal ==
 Le coût normal d'un objet magiquement efficace est de 1 point de rêve par heure d'utilisation tant que l'objet ne cesse d'être tenu et utilisé. Une épée magique peut être utilisée pendant une heure pour la dépense d'un seul point de rêve (les combats durant plus d'une heure. 1200 rounds, sont rarissimes) ; mais si l'épée est lâchée ou remise au fourreau avant la fin de l'heure, puis re-dégainée et réutilisée, un nouveau point de rêve doit être dépensé.<BR>
 Le coût normal d'un objet magiquement actif, capable de lancer un sort, est égal au coût normal, paramétré, du sort en question. Une baguette capable de lancer [[Sorts d'Illusions sensorielles#TYMPAN D'HYPNOS|Tympan d'Hypnos]] (r4) coûte normalement 4 points de rêve à chaque utilisation.<BR>
 Le coût normal d'une amulette de protection est de 1 point par heure. Autrement dit, dès qu'une amulette fonctionne, elle coûte un point de rêve à son possesseur, puis peut fonctionner à nouveau un nombre indéfini de fois pendant l'heure qui suit, sans autre coût. Toutefois, l'amulette dépense ''quant à elle'' 1 point par fonctionnement, et non par heure, point qu'elle puise sur ses points actifs.<BR>
-''Soit une amulette de protection contre les lames. Au cours d'un combat d'une dizaine de minutes, son possesseur est touché 4 fois, ayant à jouer 4 jets d'encaissement. Il ne dépense, lui, qu'un seul point de rêve. lors du premier jet d'encaissement, mais l'amulette en dépense 4, un par fonctionnement pour chaque jet d'encaissement.''
+''Soit une amulette de protection contre les lames. Au cours d'un combat d'une dizaine de minutes, son possesseur est touché 4 fois, ayant à jouer 4 jets d'encaissement. Il ne dépense, lui, qu'un seul point de rêve, lors du premier jet d'encaissement, mais l'amulette en dépense 4, un par fonctionnement pour chaque jet d'encaissement.''
 === Potions magiques ===
 La maîtrise des potions magiques est légèrement différente puisqu'il s'agit simultanément d'utiliser la magie et de la subir. Dès que le buveur a bu l'intégralité de la potion, il doit jouer un jet de résistance standard r-8. Si le JR réussit, rien ne se passe : la potion ne fait pas effet magiquement et n'a donc pas non plus à être maîtrisée. Si le JR échoue, la potion fait effet magiquement et demande à être maîtrisée. Comme précédemment, la maîtrise est automatique, sans jet de dés, et coûte au buveur 1 point de rêve quelle que soit la force de la potion.
 == De main en main ==
@@ -32,9 +32,10 @@ Un objet magique peut passer de main en main, c'est-à-dire changer de possesseu
 Chaque fois qu'un objet magique change de main et est utilisé, il doit être maîtrisé par le nouvel utilisateur, les points de rêve de maîtrise étant, comme toujours, dépensés en plus du coût normal d'utilisation. Cependant, la maîtrise est rompue pour l'ancien utilisateur. Si l'objet lui revient entre les mains, il devra le re-maîtriser, et ainsi de suite. Un objet magique ne peut être maîtrisé que par un seul personnage à la fois.<BR>
 Un haut-rêvant n'a pas besoin de maîtriser l'objet magique qu'il vient de créer. En tant que créateur, il en possède la maîtrise tacite. Toutefois, si l'objet passe en d'autres mains, puis lui revient, il doit le maîtriser à son tour selon la règle normale.
 
-''Brucelin accepte le porte-plume des mains de Nitouche, mais non sans froncer les sourcils, comme si l'objet était capable de le mordre — et d'un point de vue onirique, il n'a peut-être pas tort. La jeune fille se met à gratter sa mandoline, et au moment voulu, Brucelin se concentre sur l'effet à obtenir. La maîtrise opère et il dépense 1 point de rêve (coût de maîtrise d'une seule écaille), puis simultanément en dépense 4 autres (coût normal de Tympan d'Hypnos), soit un total de 5. Au tout début du round suivant, le porte-plume étant toujours pointé sur la mandoline, celle-ci se met à jouer avec un son de flûte. Si plus tard Nitouche décide de s'en servir elle-même, elle devra le re-maîtriser.''
+''Brucelin accepte le porte-plume des mains de Nitouche, mais non sans froncer les sourcils, comme si l'objet était capable de le mordre - et d'un point de vue onirique, il n'a peut-être pas tort. La jeune fille se met à gratter sa mandoline, et au moment voulu, Brucelin se concentre sur l'effet à obtenir. La maîtrise opère et il dépense 1 point de rêve (coût de maîtrise d'une seule écaille), puis simultanément en dépense 4 autres (coût normal de Tympan d'Hypnos), soit un total de 5. Au tout début du round suivant, le porte-plume étant toujours pointé sur la mandoline, celle-ci se met à jouer avec un son de flûte. Si plus tard Nitouche décide de s'en servir elle-même, elle devra le re-maîtriser.''
 == Résistance ==
-De par le rêve qu'ils renferment, les objets magiques sont extrêmement résistants et ne se brisent pas aisément. Tout objet magique opérationnel possède une ''protection'' dépendant directement du matériau dont il est fait, selon la table ci-après, quel que soit son pouvoir. Quant un objet est composite, c'est la protection du matériau le plus ''faible'' qui s'applique globalement. 
+De par le rêve qu'ils renferment, les objets magiques sont extrêmement résistants et ne se brisent pas aisément. Tout objet magique opérationnel possède une ''protection'' dépendant directement du matériau dont il est fait, selon la table ci-après, quel que soit son pouvoir. Quand un objet est composite, c'est la protection du matériau le plus ''faible'' qui s'applique globalement. 
+
 {|style="border:1px solid black;text-align:center;"
 |-
 | colspan="2" | '''<big>Résistance</big>'''
@@ -67,32 +68,32 @@ Soumis à une transmutation élémentale, un objet magique a droit à un jet de 
 Il est impossible à plusieurs haut-rêvants de fabriquer un objet magique en commun simultanément, mais ils peuvent se repasser le travail l'un après l'autre. Toutefois, chaque fois que l'on reprend le travail abandonné par un autre, il faut commencer par accomplir sur l'objet une Lecture d'Aura complète. C'est-à-dire accomplir le rituel de Lecture d'Aura dans chaque case spécifique où a été accompli un rituel (Enchantement, Purification, Alliance, Permanence, etc.). Cela fait, on peut continuer l'objet magique comme si c'était le sien depuis toujours. Contrevenir à cette règle fait aboutir à un cas de ''magie impossible''. 
 == Rituels d'Enchantement == 
 ''Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus''
-:[[Rituels d'Enchantement de Narcos#ENCHANTEMENT|ENCHANTEMENT]] (Cité) R-4 rl + 
-:[[Rituels d'Enchantement de Narcos#PURIFICATION|PURIFICATION]] (Nécropole) R-4 r4 
-:[[Rituels d'Enchantement de Narcos#ALLIANCE|ALLIANCE]] (Pont) R-4 r4 
-:[[Rituels d'Enchantement de Narcos#PERMANENCE|PERMANENCE]] * (Sanctuaire) R-5 r5 
-:[[Rituels d'Enchantement de Narcos#MAÎTRISE|MAÎTRISE]] (Fleuve) R-7 r7 
-:[[Rituels d'Enchantement de Narcos#INDIVIDUALITÉ|INDIVIDUALITÉ]] (Désert) R-4 r4 
-:[[Rituels d'Enchantement de Narcos#RESTAURATION|RESTAURATION]] * (Cité) R-6 r 1 + 
-:[[Rituels d'Enchantement de Narcos#AUTONOMIE|AUTONOMIE]] ** (Lac) R-10 r10
-:[[Rituels d'Enchantement de Narcos#ÉCAILLE D'ACTIVITÉ|ÉCAILLE D'ACTIVITÉ]] * (Désolation) R-9 r7
-:[[Rituels d'Enchantement de Narcos#ÉCAILLE D'EFFICACITÉ|ÉCAILLE D'EFFICACITÉ]] * (Monts) R-8 r7 
+:[[Rituels d'Enchantement de Narcos#ENCHANTEMENT|ENCHANTEMENT]] (Cité) R-4 r1+
+:[[Rituels d'Enchantement de Narcos#PURIFICATION|PURIFICATION]] (Nécropole) R-4 r4
+:[[Rituels d'Enchantement de Narcos#ALLIANCE|ALLIANCE]] (Pont) R-4 r4
+:[[Rituels d'Enchantement de Narcos#PERMANENCE *|PERMANENCE]] * (Sanctuaire) R-5 r5
+:[[Rituels d'Enchantement de Narcos#MAÎTRISE|MAÎTRISE]] (Fleuve) R-7 r7
+:[[Rituels d'Enchantement de Narcos#INDIVIDUALITÉ|INDIVIDUALITÉ]] (Désert) R-4 r4
+:[[Rituels d'Enchantement de Narcos#RESTAURATION *|RESTAURATION]] * (Cité) R-6 r1+
+:[[Rituels d'Enchantement de Narcos#AUTONOMIE **|AUTONOMIE]] ** (Lac) R-10 r10
+:[[Rituels d'Enchantement de Narcos#ÉCAILLE D'ACTIVITÉ *|ÉCAILLE D'ACTIVITÉ]] * (Désolation) R-9 r7
+:[[Rituels d'Enchantement de Narcos#ÉCAILLE D'EFFICACITÉ *|ÉCAILLE D'EFFICACITÉ]] * (Monts) R-8 r7
 == Écailles de Protection ==
-:[[Écailles de Protection#CONTRE LE VENIN|CONTRE LE VENIN]] * (Forêt) R-6 r4 
-:[[Écailles de Protection#CONTRE LA MALADIE|CONTRE LA MALADIE]] * (Cité) R-6 r4 
-:[[Écailles de Protection#CONTRE LE FEU|CONTRE LE FEU]] * (Désert) R-6 r4 
-:[[Écailles de Protection#CONTRE LA MAGIE|CONTRE LA MAGIE]] * (Sanctuaire) R-8 r6 
-:[[Écailles de Protection#CONTRE LES PROJECTILES|CONTRE LES PROJECTILES]] * (Gouffre) R-8 r6 
-:[[Écailles de Protection#CONTRE LES LAMES|CONTRE LES LAMES]] * (Lac) R-10 r8 
-:[[Écailles de Protection#CONTRE GRIFFES ET CROCS|CONTRE GRIFFES ET CROCS]] * (Marais) R-10 r8 
+:[[Écailles de Protection#CONTRE LE VENIN *|CONTRE LE VENIN]] * (Forêt) R-6 r4
+:[[Écailles de Protection#CONTRE LA MALADIE *|CONTRE LA MALADIE]] * (Cité) R-6 r4
+:[[Écailles de Protection#CONTRE LE FEU *|CONTRE LE FEU]] * (Désert) R-6 r4
+:[[Écailles de Protection#CONTRE LA MAGIE *|CONTRE LA MAGIE]] * (Sanctuaire) R-8 r6
+:[[Écailles de Protection#CONTRE LES PROJECTILES *|CONTRE LES PROJECTILES]] * (Gouffre) R-8 r6
+:[[Écailles de Protection#CONTRE LES LAMES *|CONTRE LES LAMES]] * (Lac) R-10 r8
+:[[Écailles de Protection#CONTRE GRIFFES ET CROCS *|CONTRE GRIFFES ET CROCS]] * (Marais) R-10 r8
 == Grandes Écailles de Narcos ==
-:[[Grandes Écailles de Narcos#PUITS DE RÊVE|PUITS DE RÊVE]] * (Lac) R-8 r8
-:[[Grandes Écailles de Narcos#BOUILLOIRE DE MÉLIMNOD|BOUILLOIRE DE MÉLIMNOD]] * (Monts Brûlants E5) R-9 r9 
+:[[Grandes Écailles de Narcos#PUITS DE RÊVE *|PUITS DE RÊVE]] * (Lac) R-8 r8
+:[[Grandes Écailles de Narcos#BOUILLOIRE DE MÉLIMNOD *|BOUILLOIRE DE MÉLIMNOD]] * (Monts Brûlants E5) R-9 r9
 == Rituels de Lecture ==
-:[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1 
-:[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3 
+:[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
+:[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3
 == Rituel de Conjuration ==
-:[[Rituels de Conjuration d'Hypnos#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable 
+:[[Rituels de Conjuration d'Hypnos#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
 
 {|style="border:1px solid black;text-align:center;"
 |-

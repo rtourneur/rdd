@@ -7,7 +7,7 @@ __NOTOC__
 '''Cible''' Humanoïde<BR>
 '''Durée''' Une heure<BR>
 '''JR''' Selon HN<BR>
-'''Effet''' L'effet d'Égarement ne s'applique qu'aux humanoïdes. L'apport massif de pseudo-souvenirs, informulés et insaisissables, empêche l'humanoïde visé de se concentrer sur son activité intellectuelle, manuelle ou verbale. Il ne fait plus ou ne dit plus que des ''bêtises'', en termes de jeu des échecs totaux. Un intellectuel devient incapable de lire ou d'écrire, un artisan se tape sur les doigts, un musicien rate tous ses accords, un orateur bafouille, etc. L'état d'égarement dure jusqu'à la fin de l'heure en cours + une heure complète, ou se dissipe de lui-même dès qu'il y a stress, par exemple une agression. Ce sort est donc totalement inutile et inefﬁcace en combat.
+'''Effet''' L'effet d'Égarement ne s'applique qu'aux humanoïdes. L'apport massif de pseudo-souvenirs, informulés et insaisissables, empêche l'humanoïde visé de se concentrer sur son activité intellectuelle, manuelle ou verbale. Il ne fait plus ou ne dit plus que des ''bêtises'', en termes de jeu des échecs totaux. Un intellectuel devient incapable de lire ou d'écrire, un artisan se tape sur les doigts, un musicien rate tous ses accords, un orateur bafouille, etc. L'état d'égarement dure jusqu'à la fin de l'heure en cours + une heure complète, ou se dissipe de lui-même dès qu'il y a stress, par exemple une agression. Ce sort est donc totalement inutile et inefficace en combat.
 
 === FATIGUE ===
 (Nécropole) R-7 r5<BR>
@@ -67,12 +67,12 @@ Quand c'est un personnage de joueur qui lance ce sort sur un PNJ, sa mise en œu
 '''Effet''' L'effet de Peur ne s'applique qu'aux humanoïdes. La suggestion d'une horreur intense cause une peur réelle. La victime doit réussir un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -5 ou être ''sonnée'' en cas d'échec. Le jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] doit être renouvelé de round en round jusqu'à ce qu'il réussisse. Tant qu'il échoue, la victime reste en ''demi-surprise''.
 
 === REPOS ===
-(Cité) R—3 r2+<BR>
+(Cité) R-3 r2+<BR>
 '''Portée''' E1<BR>
 '''Cible''' Toutes créatures<BR>
 '''Durée''' Instantanée<BR>
 '''JR''' Humanoïde selon HN, animal r-8<BR>
-'''Effet''' L'illusion—suggestion d'un grand repos crée la sensation réelle d'être reposé. Pratiquement, la créature visée regagne un segment de fatigue pour chaque 2r dépensés. Si par exemple 6 points de rêve sont dépensés, 3 segments de fatigue sont effacés. En cas de segment entamé, appliquer la règle normale : tout segment entamé de la moitié ou plus compte pour un segment plein.
+'''Effet''' L'illusion-suggestion d'un grand repos crée la sensation réelle d'être reposé. Pratiquement, la créature visée regagne un segment de fatigue pour chaque 2r dépensés. Si par exemple 6 points de rêve sont dépensés, 3 segments de fatigue sont effacés. En cas de segment entamé, appliquer la règle normale : tout segment entamé de la moitié ou plus compte pour un segment plein.
 
 === SÉRÉNITÉ ===
 (Collines) R-3 r3+<BR>

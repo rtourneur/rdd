@@ -5,13 +5,13 @@ Tous les rituels de Thanatos obéissent aux règles standard des rituels.
 '''Portée''' Toucher <BR>
 '''Durée''' Illimitée<BR>
 '''Cible''' Relique<BR> 
-'''JR''' JR Avec HN r-9, sans HN r-8<BR>
-'''Effet''' Pour posséder de corps une victime, le haut-rêvant de Thanatos doit prendre son entière constitution sous son contrôle. Le ciblage du rituel doit s'effectuer en touchant la relique. Pour chaque ensemble de 2 points de rêve dépensés (2r), le haut-rêvant contrôle 1 point de CONSTITUTION de sa victime. Dès qu'il la contrôle entièrement, elle est possédée de corps. Pour posséder une victime ayant une CONSTITUTION de 14, il faut ainsi dépenser 28 points de rêve. Le haut-rêvant peut s'y prendre en plusieurs fois, mais la victime a droit à un JR à chaque fois, et il suffit qu'un seul d'entre eux réussisse pour annuler toute la possession précédemment accomplie ; simultanément, le haut-rêvant de Thanatos doit lui-même réussir un JR r0 (points de rêve à zéro) ou être frappé en retour par un souffle de Dragon.<BR>
-''Note''. Le haut-rêvant ne fait que ''contrôler'' la CONSTITUTION de sa victime, celle-ci n'en perd aucun point. Tant qu'aucun envoûtement n'est à l'oeuvre, il n'y a aucun effet physique, et la victime ne se rend même compte de rien. 
+'''JR''' Avec HN r-9, sans HN r-8<BR>
+'''Effet''' Pour posséder de corps une victime, le haut-rêvant de Thanatos doit prendre son entière constitution sous son contrôle. Le ciblage du rituel doit s'effectuer en touchant la relique. Pour chaque ensemble de 2 points de rêve dépensés (2r), le haut-rêvant contrôle 1 point de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] de sa victime. Dès qu'il la contrôle entièrement, elle est possédée de corps. Pour posséder une victime ayant une [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] de 14, il faut ainsi dépenser 28 points de rêve. Le haut-rêvant peut s'y prendre en plusieurs fois, mais la victime a droit à un JR à chaque fois, et il suffit qu'un seul d'entre eux réussisse pour annuler toute la possession précédemment accomplie ; simultanément, le haut-rêvant de Thanatos doit lui-même réussir un JR r0 (points de rêve à zéro) ou être frappé en retour par un souffle de Dragon.<BR>
+''Note''. Le haut-rêvant ne fait que ''contrôler'' la [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] de sa victime, celle-ci n'en perd aucun point. Tant qu'aucun envoûtement n'est à l'œuvre, il n'y a aucun effet physique, et la victime ne se rend même compte de rien. 
 === POSSESSION D'ESPRIT ===
 (Lac) R-9 r2+ <BR>
 '''Portée''' Toucher <BR>
 '''Durée''' Illimitée<BR>
 '''Cible''' Relique<BR> 
-'''JR''' JR Avec HN r-9, sans HN r-8<BR>
-'''Effet''' Pour posséder d'esprit une victime, le haut-rêvant de Thanatos doit prendre son entière VOLONTÉ sous son contrôle. Ce rituel fonctionne exactement comme le précédent avec VOLONTÉ à la place de CONSTITUTION.
+'''JR''' Avec HN r-9, sans HN r-8<BR>
+'''Effet''' Pour posséder d'esprit une victime, le haut-rêvant de Thanatos doit prendre son entière [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] sous son contrôle. Ce rituel fonctionne exactement comme le précédent avec [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à la place de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]].

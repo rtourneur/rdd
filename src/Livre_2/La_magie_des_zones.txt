@@ -88,7 +88,7 @@ Le septième élément, non transmutable, correspond à toutes les créatures vi
 :[[Rituels de Conjuration d'Oniros#ÉLARGISSEMENT DE ZONE|ÉLARGISSEMENT DE ZONE]] (variable) R-4 r4
 :[[Rituels de Conjuration d'Oniros#ANNULATION DE MAGIE|ANNULATION DE MAGIE]] (Variable) variable
 :[[Rituels de Conjuration d'Oniros#ANNULATION DE SES PROPRES ZONES|ANNULATION DE SES PROPRES ZONES]] (variable) R-4 r2
-:[[Rituels de Conjuration d'Oniros#PERMANENCE DE ZONE|PERMANENCE DE ZONE]] @(variable) R-13 r13
+:[[Rituels de Conjuration d'Oniros#PERMANENCE DE ZONE *|PERMANENCE DE ZONE]] * (variable) R-13 r13
 == Rituels de Lecture ==
 :[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
 :[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3

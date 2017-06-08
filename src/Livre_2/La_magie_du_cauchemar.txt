@@ -1,58 +1,58 @@
 __NOTOC__
  [[Thanatos|Retour à Thanatos]]
 
-À ce que disent les sages, la magie de Thanatos n'est apparue que tardivement, à la fin du Second Âge. Avant elle, l'effet des sorts ne s'appliquait qu'à la matière inanimée, et quand il s'adressait aux créatures, il n'affectait que leur mental. Mais le propre de l'homme étant souvent de parvenir à nuire le plus complètement possible à son voisin, il y eut des haut-rêvants qui se languirent de ne pouvoir les affecter directement dans leur chair. Si le rêve est virtuellement immortel, la chair ne l'est pas. Ayant compris draconiquement sa mortalité, qui est de la nature du cauchemar, ces haut-rêvants purent enfin l'affecter. Ainsi naquit la voie de Thanatos, née de la mort et y reconduisant.<BR>
+À ce que disent les sages, la magie de Thanatos n'est apparue que tardivement, à la fin du [[Les Trois Âges#Le Second Âge|Second Âge]]. Avant elle, l'effet des sorts ne s'appliquait qu'à la matière inanimée, et quand il s'adressait aux créatures, il n'affectait que leur mental. Mais le propre de l'homme étant souvent de parvenir à nuire le plus complètement possible à son voisin, il y eut des haut-rêvants qui se languirent de ne pouvoir les affecter directement dans leur chair. Si le rêve est virtuellement immortel, la chair ne l'est pas. Ayant compris draconiquement sa mortalité, qui est de la nature du cauchemar, ces haut-rêvants purent enfin l'affecter. Ainsi naquit la voie de Thanatos, née de la mort et y reconduisant.<BR>
 La magie de Thanatos est aussi variée que malfaisante. Elle possède des rituels de Possession, mentale et physique, qui, couplés à des sorts d'Envoûtement, permettent d'avilir les victimes de multiples façons. Elle possède des sorts individuels permettant de causer directement la destruction, des rituels de Lecture permettant de faire parler les morts, des rituels d'Invocation permettant de les animer sous forme de zombis, ou de contrôler les entités de cauchemar comme des animaux familiers, ainsi que des écailles d'enchantement, non plus appelées écailles, mais ''griffes'', dont le seul pouvoir est de causer un mal aussi méchant que gratuit. Noire est la joyeuse voie de Thanatos ! 
 == Rituels de Possession ==
 Avant d'envoûter une victime le haut-rêvant de Thanatos doit la ''posséder'' par un rituel de Possession. Il en existe deux façons : de ''corps'' ou d'''esprit''. La possession de corps lui permettra d'agir sur sa chair, la possession d'esprit d'agir sur son mental. Les deux sont possibles simultanément.<BR>
 Pour accomplir l'un ou l'autre rituel, le haut-rêvant de Thanatos doit détenir une ''relique'' de sa victime. Ce terme désigne un fragment de matière organique ayant appartenu à cette dernière : quelques poils ou cheveux, rognures d'ongle, goutte de sueur ou de sang, etc. La relique est indispensable car c'est sur elle que doivent être ciblés les rituels de Possession, puis les sorts d'Envoûtement. Peu importe que le haut-rêvant n'ait jamais vu sa victime, du moment qu'il en détient une relique. Toutefois, s'il en connaît l'heure de naissance, le JR de cette dernière devient r-9 au lieu du standard r-8. La distance séparant le haut-rêvant de Thanatos de sa victime n'a aucune importance, des milliers de kilomètres, mais les deux doivent être dans le même rêve. Aucune magie ne peut fonctionner d'un rêve à un autre.<BR>
 Cibler une possession ailleurs que sur une ''relique'' ou cibler un envoûtement ailleurs que sur la relique d'une personne possédée, aboutit à un cas de ''magie impossible''. Si la victime change de rêve, la possession est brisée sans autre conséquence pour le haut-rêvant de Thanatos. Par contre, s'il accomplit une possession sur la relique d'une personne qui est morte ou qui a déjà changé de rêve, il doit réussir un JR r0 (points de rêve à zéro) ou subir en retour un souffle de Dragon. Même chose s'il accomplit un envoûtement sur la relique d'une personne ayant été possédée, mais maintenant morte ou ayant changé de rêve.<BR>
-La Possession de corps consiste à posséder les points de CONSTITUTION de la victime, la Possession d'esprit à posséder ses points de VOLONTÉ. Le haut-rêvant peut s'y prendre en plusieurs fois, la victime ayant droit à un JR à chaque fois, r-9 ou r-8 selon que son heure de naissance est ou non connue. Toute la possession d'une même victime doit être accomplie depuis la même case spécifique des TMR. Dès que le haut-rêvant y est entièrement parvenu, la possession est définitive, et il peut passer aux envoûtements proprement dits. Ces derniers n'ont droit à aucun jet de résistance. Des envoûtements différents peuvent être cumulés s'ils ne sont pas contradictoires. Possessions et envoûtements peuvent être détectés par Lecture d'Aura et annulés par Annulation de Magie dans les cases spécifiques. Annuler un envoûtement ne brise pas les possessions. Annuler une possession brise en même temps tous les envoûtements qui peuvent s'y rapporter. De même que les possessions peuvent s'accomplir graduellement, l'annulation peut s'accomplir en plusieurs fois. Cependant, tant qu'il reste au moins un point de possession, la victime est considérée comme toujours intégralement possédée. Le haut-rêvant de Thanatos peut vérifier l'état de possession de sa victime par une Lecture d'Aura dans la case spécifique, ciblée sur la relique. S'il se rend compte que des points ont été annulés, il peut revenir à la charge et ré-effectuer un rituel de Possession.<BR>
+La Possession de corps consiste à posséder les points de [[Les Caractéristiques#CONSTITUTION|CONSTITUTION]] de la victime, la Possession d'esprit à posséder ses points de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]. Le haut-rêvant peut s'y prendre en plusieurs fois, la victime ayant droit à un JR à chaque fois, r-9 ou r-8 selon que son heure de naissance est ou non connue. Toute la possession d'une même victime doit être accomplie depuis la même case spécifique des TMR. Dès que le haut-rêvant y est entièrement parvenu, la possession est définitive, et il peut passer aux envoûtements proprement dits. Ces derniers n'ont droit à aucun jet de résistance. Des envoûtements différents peuvent être cumulés s'ils ne sont pas contradictoires. Possessions et envoûtements peuvent être détectés par [[Rituels de Lecture d'Oniros#LECTURE D'AURA|Lecture d'Aura]] et annulés par [[Rituels de Conjuration d'Oniros#ANNULATION DE MAGIE|Annulation de Magie]] dans les cases spécifiques. Annuler un envoûtement ne brise pas les possessions. Annuler une possession brise en même temps tous les envoûtements qui peuvent s'y rapporter. De même que les possessions peuvent s'accomplir graduellement, l'annulation peut s'accomplir en plusieurs fois. Cependant, tant qu'il reste au moins un point de possession, la victime est considérée comme toujours intégralement possédée. Le haut-rêvant de Thanatos peut vérifier l'état de possession de sa victime par une Lecture d'Aura dans la case spécifique, ciblée sur la relique. S'il se rend compte que des points ont été annulés, il peut revenir à la charge et ré-effectuer un rituel de Possession.<BR>
 Victime, un haut-rêvant peut effectuer l'annulation sur lui-même tant qu'aucun envoûtement ne rend cette action impossible. Les possessions permettent les envoûtements suivants : 
 === Possession de corps ===
 cécité, maladie, surdité, métamorphose en bête. 
 === Possession d'esprit ===
 cauchemar, interdiction, tâche, métamorphose en bête. 
 == Contrôle des entités de cauchemar non incarnées ==
-Il s'agit plus d'un pouvoir que d'un sort. Quand une entité de cauchemar non incarnée (ECNI), telle qu'une peur ou une haine, est conjurée par l'utilisation de la voie de Thanatos, et uniquement. elle ne s'annihile pas une fois vaincue. mais reste à la disposition de son vainqueur. Pratiquement, elle continue à l'entourer de son aura (bleue. rouge. etc.), mais si faiblement qu'il faut réussir un jet de VUE à -8 pour la distinguer. Elle est maintenant contrôlée par le haut-rêvant de Thanatos. Dès qu'il le désirera, il pourra la diriger sur la victime de son choix.<BR>
-Pour qu'une telle attaque soit possible, la victime doit se trouver à une distance maximale égale à l'EMPATHIE du haut-rêvant de Thanatos en mètres (E1). L'ECNI se détache alors de lui et se dirige vers la victime désignée pour y livrer une attaque de possession, attaque qui obéit en tous points aux règles normales (voir Livre III, page 225). Si la victime est vaincue, elle est normalement possédée. Si elle est vainqueur, l'entité se dissout. Si la victime se défend avec la voie de Thanatos et vainc l'entité, celle-ci change de propriétaire et peut être renvoyée à l'expéditeur.<BR>
+Il s'agit plus d'un pouvoir que d'un sort. Quand une entité de cauchemar non incarnée ([[Les Entités#Entités de Cauchemar Non Incarnées|ECNI]]), telle qu'une peur ou une haine, est conjurée par l'utilisation de la voie de Thanatos, et uniquement, elle ne s'annihile pas une fois vaincue, mais reste à la disposition de son vainqueur. Pratiquement, elle continue à l'entourer de son aura (bleue. rouge. etc.), mais si faiblement qu'il faut réussir un jet de [[Les Caractéristiques#VUE|VUE]] à -8 pour la distinguer. Elle est maintenant contrôlée par le haut-rêvant de Thanatos. Dès qu'il le désirera, il pourra la diriger sur la victime de son choix.<BR>
+Pour qu'une telle attaque soit possible, la victime doit se trouver à une distance maximale égale à l'[[Les Caractéristiques#EMPATHIE|EMPATHIE]] du haut-rêvant de Thanatos en mètres (E1). L'ECNI se détache alors de lui et se dirige vers la victime désignée pour y livrer une attaque de possession, attaque qui obéit en tous points aux règles normales (voir [[Les Entités#Possession|Livre III]]). Si la victime est vaincue, elle est normalement possédée. Si elle est vainqueur, l'entité se dissout. Si la victime se défend avec la voie de Thanatos et vainc l'entité, celle-ci change de propriétaire et peut être renvoyée à l'expéditeur.<BR>
 La seule chose que l'on puisse faire avec une ECNI que l'on contrôle est de la lancer sur une victime. Dès que cette dernière est désignée, on perd le contrôle de l'entité. Hormis le fait que l'entité n'attaque que la personne désignée, on n'a plus aucun pouvoir sur elle. On n'a pas non plus de pouvoir particulier sur la victime si celle-ci est finalement possédée par l'entité.<BR>
 Les ECNI sont lentes, 6 mètres par round, et permettent facilement la fuite. Si la victime fuit, l'entité la poursuit où qu'elle aille, mettant le temps qu'il faut et pouvant même traverser les murs. Durant tout le temps de la poursuite, elle n'attaque personne d'autre à moins qu'on ne lui barre volontairement le passage. Affronter volontairement une entité contrôlée est le seul moyen qu'elle attaque une personne différente de celle désignée par le haut-rêvant de Thanatos.<BR>
 Un haut-rêvant de Thanatos peut contrôler simultanément plusieurs ECNI différentes. Mais, dans tous les cas, le nombre maximum d'entités contrôlables est limité à son niveau en voie de Thanatos (minimum niveau +1).
 
 == Rituels de Possession ==
-:[[Rituels de Possession#POSSESSION DE CORPS|POSSESSION DE CORPS]] (Marais) R-9 r2+ 
-:[[Rituels de Possession#POSSESSION D'ESPRIT|POSSESSION D'ESPRIT]] (Lac) R-9 r2+ 
-== Sorts d'Envoûtement == 
-:[[Sorts d'Envoûtement#CÉCITÉ|CÉCITÉ]] (Cité) R-8 r2+ 
-:[[Sorts d'Envoûtement#MALADIE|MALADIE]] (Désolation) R-11 r5+ 
-:[[Sorts d'Envoûtement#SURDITÉ|SURDITÉ]] (Gouffre) R-6 r2+ 
-:[[Sorts d'Envoûtement#CAUCHEMAR|CAUCHEMAR]] (Monts) R-5 r5 
-:[[Sorts d'Envoûtement#INTERDICTION|INTERDICTION]] (Désert) R-7 r 7 
-:[[Sorts d'Envoûtement#TÂCHE|TÂCHE]] (Forêt) R-8 r 8 
-:[[Sorts d'Envoûtement#MÉTAMORPHOSE EN BÊTE|MÉTAMORPHOSE EN BÊTE]] (Fleuve) R-10 r10 
+:[[Rituels de Possession#POSSESSION DE CORPS|POSSESSION DE CORPS]] (Marais) R-9 r2+
+:[[Rituels de Possession#POSSESSION D'ESPRIT|POSSESSION D'ESPRIT]] (Lac) R-9 r2+
+== Sorts d'Envoûtement ==
+:[[Sorts d'Envoûtement#CÉCITÉ|CÉCITÉ]] (Cité) R-8 r2+
+:[[Sorts d'Envoûtement#MALADIE|MALADIE]] (Désolation) R-11 r5+
+:[[Sorts d'Envoûtement#SURDITÉ|SURDITÉ]] (Gouffre) R-6 r2+
+:[[Sorts d'Envoûtement#CAUCHEMAR|CAUCHEMAR]] (Monts) R-5 r5
+:[[Sorts d'Envoûtement#INTERDICTION|INTERDICTION]] (Désert) R-7 r7
+:[[Sorts d'Envoûtement#TÂCHE|TÂCHE]] (Forêt) R-8 r8
+:[[Sorts d'Envoûtement#MÉTAMORPHOSE EN BÊTE|MÉTAMORPHOSE EN BÊTE]] (Fleuve) R-10 r10
 == Sorts Individuels ==
-:[[Sorts Individuels#AUTOMÉTAMORPHOSE EN BÊTE|AUTOMÉTAMORPHOSE EN BÊTE]] (Foret) R-7 r7 
-:[[Sorts Individuels#FLÉTRISSEMENT|FLÉTRISSEMENT]] (Fleuve) R-8 r1+ 
-:[[Sorts Individuels#PEUR THANATAIRE|PEUR THANATAIRE]] (Lac) R-9 r1+ 
-:[[Sorts Individuels#POING DE THANATOS|POING DE THANATOS]] (Plaines) R-6 r1+ 
-:[[Sorts Individuels#PUTRESCENCE|PUTRESCENCE]] (Marais) R-8 r1+ 
-:[[Sorts Individuels#THANATOEIL|THANATOEIL]] (Nécropole) R-5 r1+ 
+:[[Sorts Individuels#AUTOMÉTAMORPHOSE EN BÊTE|AUTOMÉTAMORPHOSE EN BÊTE]] (Foret) R-7 r7
+:[[Sorts Individuels#FLÉTRISSEMENT|FLÉTRISSEMENT]] (Fleuve) R-8 r1+
+:[[Sorts Individuels#PEUR THANATAIRE|PEUR THANATAIRE]] (Lac) R-9 r1+
+:[[Sorts Individuels#POING DE THANATOS|POING DE THANATOS]] (Plaines) R-6 r1+
+:[[Sorts Individuels#PUTRESCENCE|PUTRESCENCE]] (Marais) R-8 r1+
+:[[Sorts Individuels#THANATOEIL|THANATOEIL]] (Nécropole) R-5 r1+
 == Rituels d'Invocation ==
-:[[Rituels d'Invocation#ANIMER UN SQUELETTE|ANIMER UN SQUELETTE]] (Nécropole) R-9 rl+ 
-:[[Rituels d'Invocation#ANIMER UN ZOMBI|ANIMER UN ZOMBI]] (Nécropole) R-7 rl+ 
-:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UN DÉSESPOIR]] (Désolation) R-7 r7 
-:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UNE HAINE]] (Marais) R-7 r7 
-:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UNE PEUR]] (Gouffre) R-7 r7 
+:[[Rituels d'Invocation#ANIMER UN SQUELETTE|ANIMER UN SQUELETTE]] (Nécropole) R-9 r1+
+:[[Rituels d'Invocation#ANIMER UN ZOMBI|ANIMER UN ZOMBI]] (Nécropole) R-7 r1+
+:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UN DÉSESPOIR]] (Désolation) R-7 r7
+:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UNE HAINE]] (Marais) R-7 r7
+:[[Rituels d'Invocation#INVOCATION DES ENTITÉS DE CAUCHEMAR NON INCARNÉES|INVOQUER UNE PEUR]] (Gouffre) R-7 r7
 == Rituels de Communication ==
-:[[Rituels de Communication de Thanatos#FAIRE PARLER UN CRÂNE|FAIRE PARLER UN CRÂNE]] (Désert) R-6 r1+ 
-:[[Rituels de Communication de Thanatos#FAIRE PARLER UN MORT|FAIRE PARLER UN MORT]] (Pont) R-4 r1+ 
+:[[Rituels de Communication de Thanatos#FAIRE PARLER UN CRÂNE|FAIRE PARLER UN CRÂNE]] (Désert) R-6 r1+
+:[[Rituels de Communication de Thanatos#FAIRE PARLER UN MORT|FAIRE PARLER UN MORT]] (Pont) R-4 r1+
 == Rituels de Griffe ==
 ''Le nombre d'étoiles (*) correspond au nombre de points de seuil perdus''
-:[[Rituels d'Enchantement de Thanatos#GRIFFE DE THANATOS|GRIFFE DE THANATOS]] * (Nécropole) R-8 r8 
-:[[Rituels d'Enchantement de Thanatos#GRIFFE MORBIDE DE THANATOS|GRIFFE MORBIDE DE THANATOS]] * (Marais) R-11 r11 
+:[[Rituels d'Enchantement de Thanatos#GRIFFE DE THANATOS *|GRIFFE DE THANATOS]] * (Nécropole) R-8 r8
+:[[Rituels d'Enchantement de Thanatos#GRIFFE MORBIDE DE THANATOS *|GRIFFE MORBIDE DE THANATOS]] * (Marais) R-11 r11
 == Grande Griffe de Thanatos ==
-:[[Grandes Griffes de Thanatos#DAGUE DE MEURTRE|DAGUE DE MEURTRE]] ** (Désolation de Sel G9) R-13 r13 
+:[[Grandes Griffes de Thanatos#DAGUE DE MEURTRE **|DAGUE DE MEURTRE]] ** (Désolation de Sel G9) R-13 r13
 == Rituels de Lecture ==
 :[[Rituels de Lecture d'Oniros#DÉTECTION D'AURA|DÉTECTION D'AURA]] (Sanctuaire) R-3 r1
 :[[Rituels de Lecture d'Oniros#LECTURE D'AURA|LECTURE D'AURA]] (Sanctuaire) R-3 r3
