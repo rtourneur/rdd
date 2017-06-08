@@ -1,0 +1,80 @@
+__NOTOC__
+ [[Les Créatures|Retour aux Créatures]]
+
+La chasse est une activité coutumière des voyageurs. Si la plupart des créatures que nous venons de voir joueraient plutôt le rôle de prédateurs, il en est qui sont suffisamment chétives pour n'avoir qu'à craindre et fuir devant nos personnages.<BR>
+La liste suivante peut aider le gardien des rêves à improviser le futur repas des chasseurs. En guise de caractéristiques, on ne trouvera que l'habitat usuel de l'animal, son poids moyen et le nombre de points de sustentation qu'on peut espérer en obtenir. Seules les créatures spécifiques à ''Rêve de Dragon'' sont décrites avec quelques détails. Pour les animaux capables de se rebiffer, un renvoi indique la créature la plus voisine. 
+
+== Gibier à poil ==
+==== Andurak ====
+''Plaine, savane, 30 kg, 70 sust''. L'andurak est une petite antilope des plaines tempérées au pelage gris cendré, vivant en larges troupeaux.
+==== Castor ====
+''Rivage, 10 kg, 20 sust''. Surtout recherché pour sa peau.
+==== Cerf ====
+''Forêt, 150 kg, 370 sust''. Voir le ''[[#Bramart|bramart]]''.
+==== Chamois ====
+''Montagne, 35 k, 80 sust''.
+==== Chèvre ====
+''Colline, montagne, 25 kg, 55 sust''.
+==== Chevreuil ====
+''Forêt, 25 kg, 60 sust.
+==== Clognotte ====
+''Forêt, 2 kg, 4 sust''. La clognotte, surtout recherchée pour sa peau, est un gros écureuil blanc ou gris, rayé de fauve.
+==== Daim ====
+''Forêt, 60 k, 140 sust''.
+==== Flottard ====
+''Rivage, 15 kg, 35 sust''. Le flottard, surtout recherché pour sa peau, est une sorte de gros castor à forme de saucisse, flottant sur les eaux semblable à une bûche qui dérive. Il se nourrit d'insectes et de larves.
+==== Grognuche ====
+''Rivage, 8 kg, 18 sust''. La grognuche doit son nom à ses perpétuels grognements d'insatisfaction. C'est un gros raton-laveur à nez de tapir. Surtout recherchée pour sa peau.
+==== Hérisson ====
+''Forêt, plaine, 1 kg, 2 sust''. Attention, ça pique.
+==== Klampin ====
+''Forêt, plaine, 6 kg, 15 sust''. Le klampin est un gros rongeur de couleur gris fauve, à l'arrière-train extrêmement développé, comme une gerboise géante ou un kangourou minuscule. Sa chair très tendre en fait un des meilleurs gibiers.
+==== Lapin ====
+''Forêt, plaine, 2 kg, 5 sust''.
+==== Lièvre ====
+''Plaine, 4 kg, 8 sust''.
+==== Loup ====
+''Forêt, 55 kg, 100 sust''. Plus évité que recherché. Voir le ''[[#Lycan|lycan]]''.
+==== Loutre ====
+''Rivage, 15 kg, 32 sust''. Surtout recherchée pour sa peau.
+==== Marmotte ====
+''Montagne, 6 kg, 12 sust''. Surtout recherchée pour sa peau. 
+==== Ours ====
+''Forêt, montagne, 300 kg, 600 sust''. Surtout recherché pour sa peau. Voir le ''[[#Grizzal|grizzal]]''.
+==== Poilute ====
+''Forêt, plaine, 3 kg, 6 sust''. Le poilute est une sorte de hérisson gris noir à longs poils souples angoras en guise de piquants.
+==== Sanglier ====
+''Forêt, 150 kg, 360 sust''. Voir le ''[[#Cornicochon|cornicochon]]''.
+==== Sourise ====
+''Forêt, plaine, 500 g, 1 sust''. La sourise est un petit rongeur gris, à tête d'écureuil et à queue de souris.
+== Gibier à plumes ==
+==== Bécasse ====
+''Plaine, 400 g, 1 sust''.
+==== Canard ====
+''Rivage, 1,2 kg, 4 sust''.
+==== Corbeau ====
+''Plaine, 4 kg, 8 sust''.
+==== Crampe ====
+''Forêt, plaine, 10 kg, 25 sust''. La crampe est une grosse dinde sauvage vivant en lisière de forêt ou en sous-bois peu épais. La crampe passe sa vie à essayer de prendre son envol, ce qu'elle ne réussit que rarement et pour quelques mètres. À force de battre inutilement des ailes, les crampes s'écroulent périodiquement, en proie à de terribles douleurs musculaires. C'est évidemment à ce moment qu'elles sont le plus vulnérable.
+==== Faisan ====
+''Plaine, 1,5 kg, 4 sust''.
+==== Grand coq de bruyère ====
+''Montagne, 4 kg, 12 sust''.
+==== Héron ====
+''Rivage, 5 kg, 14 sust''.
+==== Noisot ====
+''Plaine, forêt, rivage, 3 kg, 7 sust''. Le noisot est un assez gros volatile, voisin de la poule d'eau, au plumage gris et noir, ne voletant que par bonds. Les noisots vivent toujours en couple et supportent très mal la solitude. Quand cela arrive, celui qui se retrouve seul se met à crier et à sautiller sans raison apparente, abandonnant tout instinct de survie. On dit alors qu'il cherche noise. Son vacarme attire généralement un prédateur, à commencer par un chasseur, et la solitude du pauvre animal est bien vite achevée. En couple, par contre, il reste silencieux et discret. C'est la raison pour laquelle on peut dire : « j'entends un noisot », mais rarement : « j'entends deux noisots ».
+==== Oie sauvage ====
+''Rivage, 5 kg, 14 sust.''
+==== Outarde ====
+''Plaine, 8 kg, 20 sust.''
+==== Perdrix ====
+''Plaine, 500 g, 1 sust.''
+==== Pigeon ====
+''Plaine, 500 g, 1 sust.''
+==== Plumard ====
+''Plaine, forêt, 3 kg, 7 sust.'' Le plumard est un gros oiseau voisin du faisan, au plumage multicolore et rutilant comme celui d'un perroquet. Sa chair est particulièrement savoureuse.
+==== Poule d'eau ====
+''Rivage, 300 g, 1 sust.''
+==== Sarcelle ====
+''Plaine, 300 g, 1 sust.''

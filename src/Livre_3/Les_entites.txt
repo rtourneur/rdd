@@ -1,0 +1,370 @@
+__NOTOC__
+ [[Les Créatures|Retour aux Créatures]]
+
+Si chaque animal ou humanoïde est rêvé par un Grand Rêveur, il est des créatures qui ne sont rêvées par aucun en particulier : ce sont les entités. Ces créatures résultent des courants du rêve qui, lorsqu'ils acquièrent trop de densité, s'incarnent spontanément. Aucun Grand Rêveur n'en est directement responsable, c'est l'ensemble du rêve (l'inconscient collectif) qui en est la source.<BR>
+Il y a deux sortes d'entités, les entités de rêve et les entités de cauchemar. Ces dernières sont à leur tour subdivisées en entités incarnées et entités non incarnées. Les entités de rêve témoignent de la bonne santé du rêve des Dragons ; les entités de cauchemar témoignent du chaos qui y règne. Au début du [[Les Trois Âges#Le Troisième Âge|Troisième Âge]], les Dragons se sont rendormis mais le grand cauchemar est encore proche, le sommeil est encore agité, l'effroi n'est pas encore tout à fait dissipé. Il en résulte que les entités de cauchemar sont nettement plus nombreuses que celles de rêve.
+==== Caractéristiques ====
+Les entités incarnées, de rêve ou de cauchemar, n'ont que deux caractéristiques : [[Les Caractéristiques#TAILLE|TAILLE]] et [[Les Caractéristiques#RÊVE|RÊVE]]. Elles n'ont pas de points de vie, uniquement des points d'endurance, calculés en faisant la somme de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#RÊVE|RÊVE]]. Leurs caractéristiques de combat et de « course » sont obtenues en faisant la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#RÊVE|RÊVE]], et celle de dérobée en faisant la moyenne de (21 -[[Les Caractéristiques#TAILLE|TAILLE]]) + [[Les Caractéristiques#RÊVE|RÊVE]]. Leur +dom personnel est obtenu sur la table standard d'après la moyenne de [[Les Caractéristiques#TAILLE|TAILLE]] + [[Les Caractéristiques#RÊVE|RÊVE]]. 
+==== Compétences ====
+Le niveau de compétence d'attaque, d'esquive et de « course », des entités incarnées dépend uniquement de leur [[Les Caractéristiques#RÊVE|RÊVE]], selon la table ci-contre.
+
+{| style="border:1px solid black;text-align:center;"
+|-
+| '''''Rêve''''' | '''''Niveau'''''
+|-
+| 2 || -4
+|-
+| 3 || -3
+|-
+| 4 || -2
+|-
+| 5 || -1
+|-
+| 6-10 || 0
+|-
+| 11-12 || +1
+|-
+| 13-14 || +2
+|-
+| 15-16 || +3
+|-
+| 17-18 || +4
+|-
+| 19-20 || +5
+|-
+| 21-22 || +6
+|-
+| 23-24 || +7
+|-
+| 25-26 || +8
+|-
+| 27-28 || +9
+|-
+| 29-30 || +10
+|}
+
+==== Vitesse ====
+Comme les autres créatures, les entités incarnées ont deux vitesses, combat et course. La distance parcourue peut être modulée par un jet de « course » en utilisant la table de Course des humanoïdes, quel que soit le mode de déplacement de l'entité.
+==== Dommages ====
+Le +dom final est la somme du +dom personnel de l'entité et de l'arme naturelle utilisée, même table que pour les animaux.
+==== Combat ====
+Les entités incarnées peuvent être détruites physiquement. Chaque coup qui porte leur cause une perte de points d'endurance, déterminée sur la table des Coups non mortels, sauf que 20+ n'élimine pas toute l'endurance mais cause une perte de 3d6+. Ainsi un jet d'encaissement de 21 cause une perte de 3d6+1 points d'endurance, un encaissement de 22, une perte de 3d6+2, etc. Quand son endurance arrive à zéro, l'entité, vaincue, se dématérialise et disparaît, ne laissant que les débris matériels ayant servi à son incarnation (touffe de poils, ossements, vase, etc.).
+==== Défense ====
+D'être rêvé à la fois par personne et par tout le monde confère un grand avantage de défense aux entités incarnées. Pour pouvoir atteindre leur intégrité et leur causer des dommages, il faut d'abord s'accorder avec les courants oniriques qui les produisent, se mettre en phase. Pratiquement, il faut réussir un jet de RÊVE. Ce jet n'est à réussir qu'une seule fois par entité et par combattant. On utilise comme caractéristique les ''points actuels de rêve'' et comme difficulté le niveau de compétence de l'entité (signe inversé). Le Draconic n'est pas utilisé.
+
+''Nitouche et Brucelin se retrouvent confrontés à un quauquemaire, une entité de cauchemar ayant 18 en TAILLE et 17 en RÊVE. L'entité a donc 18 + 17 = 35 points d'endurance ; (18 + 17)/2 = 17 en Attaque et en « course » ; ((21 - 18) + 17)/2 = 10 en Dérobée ; a un +dom personnel déterminé d'après 17, soit +3 ; et un niveau de compétence, attaque, esquive et course, de +4. Brucelin tire une flèche et obtient une réussite particulière ! Toutefois, pour réellement atteindre l'entité, il doit réussir un jet de points actuels de rêve à -4 (le niveau de l'entité). Il échoue et sa flèche est bizarrement déviée au dernier moment. Nitouche lance sa dague et réussit théoriquement. À son tour, elle joue un jet de Rêve à -4 (sans le Draconic), et réussit : sa dague s'enfonce parmi les plumes mitées. L'encaissement du quauquemaire étant de 17, il perd 2d6 points d'endurance. Pour le reste du combat, Nitouche n'aura plus besoin de tenter le jet de Rêve et occasionnera des dommages chaque fois qu'elle touchera. En ce qui concerne Brucelin, tant qu'il n'aura pas réussi son jet de Rêve, aucun de ses coups (flèche, épée, peu importe) ne portera vraiment. L'injustice est que l'entité n'a pas besoin, elle, de jet de Rêve, et cause toujours directement des dommages.''
+
+==== Surprise ====
+La perception des entités provient directement du rêve qui les anime. Même quand elles semblent avoir des yeux et des oreilles, elles ne perçoivent pas réellement avec ces organes. La conséquence est que les entités ne sont jamais ''surprises'', ni complète ni demi-surprise. Elles ne sont non plus jamais ''sonnées''. 
+==== Magie ====
+Toutes les entités, de cauchemar ou de rêve, incarnées ou non, résistent automatiquement à tous les sorts d'Hypnos et de Thanatos.
+
+== Entités de Cauchemar Incarnées ==
+''Dans les modèles d'entités présentés, les caractéristiques de [[Les Caractéristiques#TAILLE|TAILLE]] et de [[Les Caractéristiques#RÊVE|RÊVE]] sont les plus usuellement rencontrées. Mais le gardien des rêves est libre de modifier ces deux paramètres sans limitation.''
+=== Chien de la mort ===
+==== Description. ====
+Le chien de la mort est un énorme chien noir, d'une taille apparente correspondant à 75 kg, hurlant et baveux, babines retroussées sur des crocs luisants (+dom +1).
+==== Mœurs. ====
+On dit que les chiens de la mort sont le produit des hurlements à la mort des chiens normaux. Ils ne se matérialisent qu'à la tombée de la nuit, à partir de mi-Lyre, et disparaissent automatiquement au lever du soleil, comme effacés, ne laissant derrière eux que quelques poils de chien. Entre temps, durant la nuit, ils se rassemblent en meutes hurlantes, cherchant à causer le plus grand dommage possible.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 11 || colspan="2" style="text-align:left;" | Endurance || 24
+|-
+| style="text-align:left;" | RÊVE || 13 || colspan="2" style="text-align:left;" | Vitesse || 14/38
+|-
+| style="text-align:left;" | Niveau || +2 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Crocs || 12 || +2 || 8 || +2
+|-
+| style="text-align:left;" | Esquive || 11 || +2 || - || -
+|}
+
+=== Craque-haine ===
+==== Description. ====
+Le craque-haine est une monstrueuse entité aquatique, une pieuvre gigantesque d'un poids apparent de deux tonnes, pourvue de huit tentacules pustuleux (+dom +2).
+==== Mœurs. ====
+Le craque-haine s'incarne le plus souvent au cœur d'un marécage ou dans la faille abyssale d'un lac, mais également en mer. Il lui arrive de sortir de sa retraite et de semer l'épouvante sur son passage. En combat, le craque-haine peut utiliser jusqu'à 4 de ses tentacules pour attaquer aussi bien que parer. En contradiction avec la règle générale, il a donc droit à 4 actions par round, pouvant être attaque ou parade. Ses réussites particulières sont toujours passées en ''force''. Le craque-haine n'esquive jamais. Une fois détruit, il ne laisse comme souvenir qu'une flaque d'eau nauséabonde.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 32 || colspan="2" style="text-align:left;" | Endurance || 52
+|-
+| style="text-align:left;" | RÊVE || 20 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | Niveau || +5 || colspan="2" style="text-align:left;" | +dom || +7
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Attaque/parade || 26 || +5 || 18 || +9
+|}
+
+=== Darquoine ===
+==== Description. ====
+Les darquoines, ou entités polymorphes des ténèbres, n'ont pas de forme précise. Leurs corps est comme une mouvante spirale de ténèbres, s'enflant, se déformant, se distordant sans cesse. Seuls restent fixes ce qui semble être le regard de deux yeux maléfiques, et une paire de serres tranchantes, aiguisées comme de monstrueux rasoirs (+dom +2). Les darquoines se déplacent en flottant à quelques dizaines de centimètres du sol.
+==== Mœurs. ====
+Les darquoines ne hantent que les lieux totalement enténébrés. À part leur regard et leurs serres, ils ne semblent eux-mêmes faits que de ténèbres, et sont donc extrêmement difficiles à voir dans la lumière vacillante des torches ou des lanternes. Au premier round de leur manifestation, tous les personnages doivent tenter un jet de [[Les Caractéristiques#VUE|VUE]]/[[Les Compétences#VIGILANCE|Vigilance]] ajusté négativement au niveau de l'entité. En cas d'échec, le personnage subit l'attaque du darquoine en état de ''complète surprise''. Les darquoines sont parmi les plus dévastatrices des entités de cauchemar. Leurs réussites particulières sont usuellement passées en ''rapidité''. Une fois détruits, ils ne laissent pour tout vestige qu'une suffocante sensation de froid.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 12 || colspan="2" style="text-align:left;" | Endurance || 28
+|-
+| style="text-align:left;" | RÊVE || 16 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | Niveau || +3 || colspan="2" style="text-align:left;" | +dom || +2
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes || 14 || +3 || 10 || +4
+|-
+| style="text-align:left;" | Esquive || 12 || +3 || - || -
+|}
+
+=== Esprit Thanataire ===
+==== Description ====
+L'esprit thanataire est à coup sûr la plus fatale de toutes les entités de cauchemar. Il peut adopter physiquement n'importe quelle forme : animale, humanoïde, fantastique. Sa préférence va toutefois à la forme humaine, homme ou femme. Il se présente usuellement vêtu et armé. À première vue, rien ne le distinguerait d'un Humain véritable, si ce n'est ses yeux rouges, qu'il ne peut changer ni dissimuler : des yeux rutilant d'un sombre éclat maléfique.
+==== Mœurs ====
+Les esprits thanataires furent à l'origine des entités invoquées par des haut-rêvants insanes de la fin du [[Les Trois Âges#Le Second Âge|Second Âge]], dans le but de traquer des victimes désignées. Le Grand Réveil ne les pas annihilés, pire encore, privés d'ordres précis, ils chassent maintenant, inexorablement, tout ceux qui ont le malheur de les rencontrer. Dans l'attente, l'esprit thanataire hante usuellement les lieux de son invocation, vieille tour en ruine, salle souterraine, et autre antre de prédilection d'un haut-rêvant de Thanatos. Tant que personne ne vient à lui, il demeure sur place, et pourrait demeurer ainsi pendant des siècles. Mais malheur au voyageur qui vient imprudemment troubler sa sombre retraite ! L'esprit thanataire le prend pour victime désignée et n'aura de cesse qu'il ne l'ait détruit.
+==== Pouvoirs ====
+En combat, réduire à zéro l'endurance d'un esprit thanataire ne suffit pas à le détruire. Quand il perd son dernier point, il éclate d'un formidable rire moqueur et disparaît sans laisser aucun vestige. Ses adversaires croient l'avoir vaincu, il n'en est rien. L'esprit thanataire s'est simplement désincarné, le temps de reprendre des forces et de retrouver une forme physique. Replié dans une dimension des Limbes où ni le temps ni l'espace n'ont de signification, il regagne alors 1d6 points de [[Les Caractéristiques#TAILLE|TAILLE]] par jour vécu par sa proie. Il peut attendre d'avoir recouvré toute sa taille ou se contenter d'une taille plus petite. Quand il estime être prêt, il refait son apparition et cherche à nouveau à détruire sa victime. Peu importe le chemin parcouru par cette dernière, il la retrouve automatiquement, et peut même la traquer dans un autre rêve. Adorant les effets de surprise, l'esprit thanataire change généralement de forme à chaque fois. C'est tantôt un grand guerrier armuré de noir, tantôt un loup monstrueux, tantôt le passant à qui vous venez imprudemment de demander votre route, tantôt l'aubergiste même de l'auberge où vous croyez avoir enfin trouvé un havre de sécurité - et ainsi de suite dans le pire des cauchemars. Seul signe distinctif montrant que c'est bien lui, toujours lui et encore lui : ses terribles yeux rouges couvant un feu de froide haine. L'esprit thanataire a tout son temps, il a tous les rêves pour retrouver sa proie et la détruire. À la mort de celle-ci, toutefois, il s'estime satisfait et ne cherche pas à poursuivre sa « réincarnation ». En combat, son +dom final est la somme de son +dom personnel et de l'arme utilisée, par exemple une épée. S'il apparaît avec un bouclier, il s'en sert pour parer. Seule l'armure apparemment portée ne joue aucun rôle. Sa seule protection est le jet de rêve de son adversaire, à réussir une seule fois (par apparition) comme pour toutes les autres entités.
+==== Eau lustrale. ====
+Il n'existe qu'un moyen de se débarrasser définitivement d'un esprit thanataire : l'asperger d'''eau lustrale'' puis le combattre physiquement une fois encore. À la perte de son dernier point d'endurance, il pousse alors un hurlement de démence, et disparaît pour toujours, réellement annihilé. L'eau lustrale est une préparation alchimique très simple, mais dont les ingrédients sont malheureusement problématiques. ''Pour une mesure d'eau lustrale, introduire sept larmes de jeune fille vierge, quoique pubère, dans une mesure d'eau puisée au pied d'un arc-en-ciel, et faire chauffer le tout jusqu'à température bleu-sangue (2).''<BR>
+La forme ci-après est celle assez classique d'un guerrier en armure noire, armé d'une bâtarde et d'un bouclier.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 13 || colspan="2" style="text-align:left;" | Endurance || 32
+|-
+| style="text-align:left;" | RÊVE || 19 || colspan="2" style="text-align:left;" | Vitesse || 14/26
+|-
+| style="text-align:left;" | Niveau || +5 || colspan="2" style="text-align:left;" | +dom || +3
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Epée bâtarde || 16 || +5 || 13 || +7
+|-
+| style="text-align:left;" | Bouclier || 16 || +5 || - || -
+|-
+| style="text-align:left;" | Esquive || 13 || +5 || - || -
+|}
+
+=== Noyeuse ===
+==== Description ====
+Les noyeuses sont des entités marines, d'aspect vaguement humanoïde, formées de débris d'épaves, de bouts de coquillage, d'algues et d'arêtes de poisson. Leurs bras se terminent par des galets avec lesquels elles frappent de toute leur force (+dom +1).
+==== Mœurs. ====
+Les noyeuses hantent les lieux où des gens ont été noyés, que ce soit des suites d'un combat ou d'un naufrage, en pleine mer ou sur un rivage, et n'ont qu'un seul but : détruire tout ce qui flotte et causer la noyade à leur tour. Elles se déplacent aussi bien dans l'eau que sur terre. Leur tactique consiste à frapper la coque du bateau en dessous de la ligne de flottaison, tandis qu'une partie d'entre elles se hissent à bord pour exterminer l'équipage. Dès qu'une noyeuse est venue à bout de son homme, elle ne se joint pas au reste de la mêlée, mais retourne à la mer en entraînant sa victime. Elle ne revient éventuellement au combat qu'une fois la noyade assurée. À l'égard du bateau, leur pouvoir de destruction est efficace mais lent. Par demi-heure de travail (60 mn), une noyeuse fait directement perdre 1 point de structure (voir ''Navigation''). Si l'effort a duré moins de 60 mn, les dégâts sont négligeables. Faute de bateau à couler, les noyeuses sortent parfois de l'eau pour attaquer les villages côtiers. Une fois détruites, leurs débris constitutifs, bouts d'épaves, galets, etc., s'éparpillent sur le sol.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 11 || colspan="2" style="text-align:left;" | Endurance || 24
+|-
+| style="text-align:left;" | RÊVE || 13 || colspan="2" style="text-align:left;" | Vitesse || 10/24
+|-
+| style="text-align:left;" | Niveau || +2 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Bras-galet || 12 || +2 || 8 || +2
+|-
+| style="text-align:left;" | Esquive || 11 || +2 || - || -
+|}
+
+=== Porte-poisse ===
+==== Description ====
+Le porte-poisse a l'aspect d'un grand vautour aux plumes complètement engluées d'une sorte de colle poisseuse. Bien qu'ayant la forme d'un oiseau, il ne se déplace que sur le sol, à vitesse relativement réduite. Son poids apparent est de 35 kg.
+==== Mœurs ====
+Comme nombre d'entités de cauchemar, le porte-poisse hante les désolations et les ruines. Il combat avec son bec acéré. Outre les dommages qu'il cause (+dom +1), chaque fois qu'il porte un coup, même une simple contusion-éraflure, sa victime doit réussir un jet de ''points actuels de rêve'' ajusté négativement au niveau de l'entité, ou perdre 1 point de chance. Les points de chance ainsi perdus peuvent être regagnés selon la règle normale : automatiquement pour les vrai-rêvants et en dépensant un point de destinée pour les haut-rêvants. Détruite, l'entité ne laisse pour tout vestige que quelques plumes ensanglantées.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 6 || colspan="2" style="text-align:left;" | Endurance || 18
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" style="text-align:left;" | Vitesse || 10/20
+|-
+| style="text-align:left;" | Niveau || +1 || colspan="2" style="text-align:left;" | +dom || 0
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Bec || 9 || +1 || 5 || +1
+|-
+| style="text-align:left;" | Esquive || 13 || +1 || - || -
+|}
+
+=== Quauquemaire ===
+==== Description ====
+Le quauquemaire est un coq géant, au plumage mité de couleur gris poussière, d'un poids apparent de 140 kg, et d'une hauteur pouvant dépasser 3 m. Ses griffes, ergots et bec, sont des armes meurtrières (+dom +2).
+==== Mœurs ====
+Les quauquemaires hantent les endroits lugubres et désolés, les ruines principalement. Ils chantent au coucher du soleil, et leur chant est si lugubre, prometteur d'angoisse et de cauchemar, que quiconque l'entend et manque un jet de ''points actuels de rêve'' ajusté négativement au niveau de l'entité, ne fait que des cauchemars hideux au cours de sa prochaine nuit de sommeil. En termes de règles, cela signifie : pas de souvenir de l'archétype et donc pas de jet de Stress au matin ; pas de montée dans les Hautes Terres du Rêve, et donc pas de récupération de rêve pour les haut-rêvants. Le quauquemaire s'incarne à partir de quelques plumes, qui sont ses seuls vestiges une fois qu'il est détruit.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 18 || colspan="2" style="text-align:left;" | Endurance || 36
+|-
+| style="text-align:left;" | RÊVE || 18 || colspan="2" style="text-align:left;" | Vitesse || 14/32
+|-
+| style="text-align:left;" | Niveau || +4 || colspan="2" style="text-align:left;" | +dom || +4
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Bec, griffes || 18 || +4 || 13 || +6
+|-
+| style="text-align:left;" | Esquive || 10 || +4 || - || -
+|}
+
+=== Squelette === 
+==== Description. ====
+Le squelette est une entité qui s'incarne à partir d'un cadavre en décomposition, la chair finit par disparaître et il ne reste que les os. Les squelettes sont généralement humanoïdes, ils se tiennent en position verticale, se déplaçant sur leurs jambes en une parodie de vie réelle. Ils utilisent leurs mains griffues pour attaquer (+dom +1).
+==== Mœurs ====
+Les squelettes s'incarnent généralement sur les lieux de morts violentes (champs de bataille), ainsi que dans les nécropoles, catacombes et autres lieux de sépulture. Comme les autres entités, leur raison d'être est de détruire. Le spectacle d'un squelette est d'une horreur tellement contre nature qu'il demande un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]] à -3. En cas d'échec, le personnage est frappé d'effroi. En termes de règles, il est en ''demi-surprise'' jusqu'à la fin du round suivant. Une fois détruit, les ossements constitutifs du squelette s'éparpillent sur le sol, où ils s'effritent rapidement.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 11 || colspan="2" style="text-align:left;" | Endurance || 26
+|-
+| style="text-align:left;" | RÊVE || 15 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | Niveau || +3 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes || 13 || +3 || 9 || +2
+|-
+| style="text-align:left;" | Esquive || 12 || +3 || - || -
+|}
+
+=== Vaseux ===
+==== Description ====
+Le vaseux est une entité qui s'incarne à partir de la vase et la boue des marais, comme un grand bonhomme de vase. Son allure est vaguement humanoïde, bipède, avec deux longs tentacules en guise de membres supérieurs (+dom +2).
+==== Mœurs ====
+Les tentacules du vaseux ne causent pas de véritables blessures, mais uniquement des pertes d'endurance. Utiliser la table des Coups non mortels. Toutefois, quand la proie tombe inconsciente, le vaseux la recouvre et commence à la digérer, c'est-à-dire à la transformer en vase à son tour. L'équipement de la victime (armes, sacs, vêtements, etc.) est entièrement transformé en vase en 1 round. La victime, quant à elle, perd automatiquement 1 point de vie par round. Quand son seuil négatif est dépassé, elle n'est plus que vase. Au cours d'un round de combat, le vaseux attaque avec un tentacule et peut parer toutes les armes avec le second. Il n'esquive jamais.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 18 || colspan="2" style="text-align:left;" | Endurance || 36
+|-
+| style="text-align:left;" | RÊVE || 18 || colspan="2" style="text-align:left;" | Vitesse || 8/16
+|-
+| style="text-align:left;" | Niveau || +4 || colspan="2" style="text-align:left;" | +dom || +4
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Attaque/parade || 18 || +4 || 13 || (+6)
+|}
+
+=== Zombi ===
+==== Description ====
+Les zombis sont des entités du même principe que les squelettes, sauf que les cadavres utilisés ne sombrent pas en putréfaction. Les zombis sont usuellement des entités artificielles, voulues, créées par les haut-rêvants qui utilisent la voie de Thanatos (voir Le Haut-Rêve). Leur caractéristique [[Les Caractéristiques#RÊVE|RÊVE]] ne peut jamais être supérieure à leur caractéristique [[Les Caractéristiques#TAILLE|TAILLE]]. Ils combattent avec leurs mains aux ongles étonnamment durs (+dom +1).
+==== Mœurs ====
+Les zombis sont usuellement aux ordres d'un haut-rêvant et n'agissent que par rapport à des ordres donnés. Ils font d'excellents gardes. Moins horribles à voir que les squelettes, ils ne demandent pas de jets de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]. Il arrive que des zombis échappent au contrôle de leur maître. Ils deviennent alors des zombis sauvages, parfois appelés zombars, et se comportent alors comme toute entité de cauchemar, provoquant mort et destruction. Une fois l'entité détruite, le cadavre utilisé se putréfie instantanément.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 12 || colspan="2" style="text-align:left;" | Endurance || 24
+|-
+| style="text-align:left;" | RÊVE || 12 || colspan="2" style="text-align:left;" | Vitesse || 12/24
+|-
+| style="text-align:left;" | Niveau || +1 || colspan="2" style="text-align:left;" | +dom || +1
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes || 12 || +1 || 7 || +2
+|-
+| style="text-align:left;" | Esquive || 10 || +1 || - || -
+|}
+
+== Entités de Cauchemar Non Incarnées ==
+Il est des courants lourds du cauchemar qui cherchent à s'incarner, non pas dans de la matière inerte comme les quauquemaires ou les vaseux, mais dans une créature vivante et consciente. Ces entités sont dites ''non incarnées''. Leur origine est supposément une mort violente intervenant au moment ou un sentiment ou une sensation est exacerbée. Par exemple, un personnage mourant alors qu'il est en proie à la plus grande frayeur, peut donner naissance à une entité de ''peur''. Elles apparaissent sous la forme de spectres fantomatiques de silhouette humanoïde. Pour s'incarner, elles tentent de ''posséder'' leur victime. 
+==== Caractéristique et compétence ====
+Les entités de cauchemar non incarnées (ECNI) n'ont qu'une seule caractéristique, [[Les Caractéristiques#RÊVE|RÊVE]], et une seule compétence, Possession. Le niveau de cette compétence dépend de leur [[Les Caractéristiques#RÊVE|RÊVE]], même table que les entités incarnées. Elles ont toutes la même vitesse de combat, 6 m par round, et n'ont pas de vitesse de course.
+=== Possession ===
+Dès qu'une créature se trouve à moins de 3 m d'une entité non incarnée, celle-ci l'enveloppe instantanément de son spectre, et la tentative de possession commence. 
+==== Initiative ====
+L'entité a toujours l'initiative du premier round. On la détermine ensuite aléatoirement comme pour les combats physiques, en utilisant ici : Rêve + 1d6. L'entité utilise son [[Les Caractéristiques#RÊVE|RÊVE]], la victime utilise ses ''points actuels de rêve''. 
+==== Combat ====
+La possession se déroule de la même façon qu'une empoignade de corps à corps. Le but de l'entité est de totaliser 2 points de possession ; le but de la victime est de contrer la possession et de totaliser quant à elle 2 points de conjuration. L'entité utilise ''[[Les Caractéristiques#RÊVE|RÊVE]]/Possession'', la victime utilise ''Points actuels de rêve/Conjuration''. La Conjuration d'un haut-rêvant est égale à son meilleur niveau de Draconic ; pour un non haut-rêvant, elle est de niveau zéro.<BR>
+Comme en empoignade de corps à corps, les attaques de possession et de conjuration peuvent être contrées, chacun utilisant sa propre caractéristique/ compétence. La victime ne peut marquer des points de conjuration que lorsqu'elle a éliminé les éventuels points de possession, et inversement. Dès que l'un ou l'autre des adversaires totalise en fin de round 2 points non contrés, possession ou conjuration, le combat est terminé. Si l'entité triomphe, la victime est possédée ; si elle est vaincue, elle se dissout, totalement détruite.<BR>
+Une fois engagé, le combat ne peut se terminer que par la victoire de l'un ou de l'autre. Il n'est pas possible de se désengager et les compagnons de la victime ne peuvent rigoureusement rien faire pour elle.
+==== Exorcisme ====
+Une victime possédée ne peut ensuite être libérée que par un ''exorcisme'' que seul peut pratiquer un haut-rêvant. On ne peut s'exorciser soi-même. Pour ce faire, le haut-rêvant doit effectuer une [[Rituels de Lecture d'Oniros#LECTURE D'AURA|Lecture d'Aura]] sur la victime pour déterminer à quelle case des TMR est sensibilisée l'entité. Puis il doit se rendre sur cette case et y pratiquer un rituel d'Annulation de Magie R-7, en dépensant autant de points de rêve que la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]] de l'entité. L'exorcisme peut être accompli en plusieurs fois, mais l'entité regagne automatiquement 1 point de rêve à la fin de chaque heure du Château Dormant. La case de TMR où doit avoir lieu l'exorcisme est à déterminer par le gardien des rêves. Ce peut être n'importe quelle terre à l'exclusion de Fleuve, Lac et Marais. Une fois l'exorcisme accompli, la victime redevient en tout point normale.<BR>
+Tant que dure une possession, aucun point d'expérience ne peut plus être gagné par l'exercice en cas de réussite particulière. (L'expérience due au stress n'est pas affectée.)
+==== Mort d'un possédé ====
+
+À la mort d'un personnage possédé, l'entité se retrouve désincarnée. Recouvrant son autonomie, elle cherche alors à posséder quelqu'un d'autre. Au passage, toutefois, son [[Les Caractéristiques#RÊVE|RÊVE]] augmente de 1. C'est ainsi que, de possession en possession, les ECNI deviennent de plus en plus fortes. 
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| colspan="2" | '''<big>Entités de cauchemar</big>'''
+|-
+| colspan="2" | '''<big>non incarnées</big>'''
+|-
+| colspan="2" style="text-align:left;" | Les ECNI ont usuellement de
+|-
+| colspan="2" style="text-align:left;" | 4 à 24 points de RÊVE (4d6).
+|-
+| colspan="2" style="text-align:left;" | Leur RÊVE moyen est donc de 14.
+|-
+| style="text-align:left;" | RÊVE || 14
+|-
+| style="text-align:left;" Vitesse || 6
+|-
+| style="text-align:left;" Possession || +2
+|}
+
+=== Bêtise ===
+La bêtise est une ECNI présentant l'aspect d'un fantôme jaunâtre, humanoïde, aux traits marqués par l'imbécillité la plus grande.
+==== Possession ====
+La victime d'une bêtise présente elle-même tous les symptômes d'une rare stupidité. Pratiquement, toutes ses Connaissances, y compris les voies de Draconic, retombent au niveau -11. Pour les autres compétences, y compris les compétences de combat, la victime doit préalablement réussir un jet d'[[Les Caractéristiques#INTELLECT|INTELLECT]] à -3. En cas d'échec, au lieu d'agir, elle se contente de ricaner bêtement. 
+=== Désespoir ===
+Le désespoir est une ECNI présentant l'aspect d'un fantôme verdâtre, humanoïde, aux traits ravagés par le chagrin.
+==== Possession ====
+La victime d'un désespoir présente elle-même tous les signes du plus profond désespoir, sanglotant, se frappant la poitrine et s'arrachant les cheveux. Si la règle du Moral est utilisée, celui-ci tombe directement à -3 et ne pourra pas remonter tant que durera la possession. Avant toute action requérant un jet de dés, la victime doit jouer un jet de  [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]/(Moral) à zéro. Si ce jet échoue, la victime n'agit pas et se contente de pleurer. 
+=== Haine ===
+La haine est une ECNI au spectre rouge, avec des traits déformés par la haine.
+==== Possession ====
+Un possédé par la haine se met à haïr tout le monde sans exception, son moral se stabilisant à zéro. Dès qu'il se sent lésé, offensé, victime d'un tort même insignifiant, il faut qu'il se venge et que sa vengeance soit mortelle. Il peut jouer un jet de [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]/(Moral) à zéro. Si le jet réussit, il peut encore laisser couver sa haine ; s'il échoue, il doit agir immédiatement. (Il est conseillé que le gardien des rêves prenne alors le contrôle du personnage s'il s'agit d'un personnage de joueur.)
+=== Peur ===
+La peur est une ECNI présentant la forme d'un spectre bleuâtre aux traits ravagés par l'angoisse et l'effroi.
+==== Possession ====
+Une victime de la peur devient elle-même d'une couardise sans pareille. Si la règle du Moral est utilisée, celui-ci tombe directement à -3 et ne pourra pas remonter tant que durera la possession. Chaque fois qu'une action dangereuse se présente, incluant toute action de combat y compris l'esquive, la victime doit jouer un jet de  [[Les Caractéristiques#VOLONTÉ|VOLONTÉ]]/(Moral) à zéro. Si ce jet échoue, la victime ne fait rien que trembler et claquer des dents.
+
+== Entités de Rêve ==
+Les entités de rêve sont des entités incarnées et appliquent exactement les mêmes règles que les entités de cauchemar, l'unique différence étant qu'elles ne sont pas maléfiques. Il ne faudrait pas croire, toutefois, qu'elles sont ''bonnes''. Elles le sont, certes, mais uniquement vis à vis du rêve des Dragons. Et ce rêve, quant à lui, n'est pas forcément ''bon'' vis à vis des créatures rêvées. 
+
+=== Chimère ===
+==== Description ====
+La chimère est une entité de rêve incarnée possédant le poitrail et la tête d'un lion, l'arrière-train d'une chèvre, une longue queue fourchue et des ailes de « dragon », généralement de très grande taille (poids apparent 700 kg). Douée de parole, elle s'exprime couramment dans la langue du voyage. Toutes les chimères ont un nom, usuellement de sept syllabes.
+==== Mœurs ====
+La chimère se nourrit de rêve et aucune magie ne fonctionne autour d'elle dans un rayon égal son [[Les Caractéristiques#RÊVE|RÊVE]] x 100 m. Tous les points de rêve dépensés, à commencer par celui nécessaire pour monter dans les TMR, sont absorbés par elle. En conséquence, il est impossible de monter en TMR dans le voisinage d'une chimère et aucun objet ni potion magique ne fonctionne plus. Le premier aspect de la chimère est ainsi celui d'une nuisance, d'une empêcheuse de haut-rêver en rond. Cependant, la chimère n'est pas foncièrement agressive et n'attaque jamais de sa propre initiative. Agressée, elle peut fuir en s'envolant, ou se rebiffer. Elle devient alors extrêmement redoutable, et seuls des irresponsables ont la folie de s'attaquer à une chimère.<BR>
+Il est bien plus ingénieux de tenter de l'amadouer. La chimère adore les histoires, la musique, la jonglerie, etc. Quand elle s'en sent d'humeur (ce qui est entièrement à la discrétion du gardien des rêves en fonction des ressorts de son scénario), elle peut accepter de se laisser monter. Sa taille lui permet de porter jusqu'à 6 cavaliers. Pour accepter de se laisser monter, elle demande aussi parfois qu'on lui rende un certain service ou qu'on accomplisse une certaine quête (toujours en fonction de chaque scénario spécifique). Une fois montée, la chimère peut vous emporter à travers les airs jusqu'à un certain lieu géographique qu'on lui indique, ou mieux encore, peut vous emporter dans un autre rêve !<BR>
+Elle possède en effet le don de franchir les Limbes, comme si elle était un rêve autonome en elle-même. Il n'y a théoriquement aucun rêve qui lui soit inaccessible. Si les cavaliers souhaitent aller dans un rêve particulier qu'ils connaissent, ils peuvent le lui communiquer empathiquement. Toutefois, dans ce cas, ils n'ont aucun contrôle sur le lieu géographique d'atterrissage. Tout en étant dans le rêve souhaité, ils peuvent atterrir à des centaines de kilomètres de l'endroit où ils voudraient aller. Un petit inconvénient au passage : traverser les Limbes est une épreuve si éprouvante pour le mental, que chacun doit jouer un jet de résistance r-8 (points actuels de rêve à -8). En cas d'échec, le personnage reçoit une [[Queues, Souffles et Têtes de Dragon#Queues de Dragon|queue de Dragon]].<BR>
+Agressée, la chimère se défend par griffes et morsure (+dom +2), et peut également cracher un cône de flammes d'une longueur égale à son [[Les Caractéristiques#RÊVE|RÊVE]], en mètres, et d'un diamètre final de 3 m (+dom +5). Chaque round, la chimère a ainsi droit à deux attaques : une de griffe ou morsure, une de feu. Le cône de flammes peut être esquivé, mais ne peut être paré d'aucune manière. Enfin, ne pas oublier que pour lui causer réellement des pertes d'endurance, il faut réussir un jet de Rêve ajusté négativement à son niveau.<BR>
+Thlamaïanémithlaïath, une jolie chimère aux yeux verts, a accepté de nous servir ici d'exemple. La vitesse indiquée est celle au sol. En vol, des chiffres précis n'auraient aucun sens.
+
+{|style="border:1px solid black;text-align:right;"
+|-
+| style="text-align:left;" | TAILLE || 27 || colspan="2" style="text-align:left;" | Endurance || 57
+|-
+| style="text-align:left;" | RÊVE || 30 || colspan="2" style="text-align:left;" | Vitesse || 14/40
+|-
+| style="text-align:left;" | Niveau || +10 || colspan="2" style="text-align:left;" | +dom || +8
+|-
+| colspan="2" | || ''<small>niv</small>'' || ''<small>init</small>'' || ''<small>+dom</small>''
+|-
+| style="text-align:left;" | Griffes, morsure || 28 || +10 || 24 || +10
+|-
+| style="text-align:left;" | Cône de flammes || 28 || +10 || 24 || +5
+|-
+| style="text-align:left;" | Esquive || 12 || +10 || - || -
+|}
+
+''En attaquant à -10, Thlamaïanémithlaïath a 140% de chances de réussite normale et 28% de particulière.''
+
+=== Licorne ===
+==== Description ====
+Entités de rêve incarnées, les licornes de ''Rêve de Dragon'' ont l'apparence traditionnelle de gracieux chevaux blancs, à la crinière argentée, et au front muni d'une longue corne torsadée. Douées de parole, elles connaissent la langue du voyage.
+==== Mœurs ====
+Les licornes vivent dans les forêts profondes et sont extrêmement difficiles à approcher. Pour ce faire, il faut être seul et animé d'intentions pures. (C'est naturellement au gardien des rêves d'en juger la pureté.) Si l'on est plusieurs, la licorne fuit ; si elle est acculée ou cernée, elle se dématérialise et disparaît spontanément, mais non sans proférer une malédiction. Il n'est jamais profitable d'être maudit par une licorne. (Ici encore, la teneur et le fonctionnement de la malédiction sont à la discrétion du gardien des rêves en fonction de son scénario.) La licorne ne combat jamais.<BR>
+Si par contre un personnage, seul, est jugé digne de l'approcher, la licorne peut lui laisser toucher sa corne. Le personnage doit alors jouer un jet de points actuels de rêve à zéro. S'il échoue, la licorne s'effraie et s'enfuit. Mais s'il réussit, elle lui accorde un don.<BR>
+C'est toujours au gardien des rêves de décider du don accordé. Il peut se manifester sous des formes très diverses, mais ne peut jamais être un don matériel. Ce peut être la guérison d'une maladie autrement incurable, la libération d'une possession, un renseignement capital par rapport à la quête du personnage. Ce peut être également une tête de Dragon plus ou moins temporaire. Il est préférable que le don ait un rapport direct avec le scénario, qu'il soit un moyen, une aide pour résoudre autre chose, et non une fin en soi. Enfin, il est inutile de préciser que les rencontres de licornes sont extrêmement rares. Les licornes ne combattant jamais, leurs caractéristiques chiffrées n'ont aucune importance.
