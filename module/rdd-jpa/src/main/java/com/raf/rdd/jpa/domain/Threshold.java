@@ -11,30 +11,38 @@ import lombok.Setter;
 
 /**
  * Class for thresholds.
- * 
- * @author RAF
  *
+ * @author RAF
  */
 @Getter
 @Setter
 @NoArgsConstructor
 public final class Threshold implements Serializable {
 
+  /** Serial UID. */
+  private static final long serialVersionUID = -4373654549914580449L;
+
   /** The health value. */
   private int health;
 
   /** The stamina value. */
   private int stamina;
-  
+
   /** The constitution threshold. */
   private int constThreshold;
 
   /** The sustentation threshold. */
   private int sustThreshold;
-  
+
   /** The damage bonus. */
   private int bonusDom;
 
+  /**
+   * Calculate the derived values.
+   *
+   * @param values
+   *          the characteristics map
+   */
   public void caculate(final Map<CharacteristicEnum, Integer> values) {
     final int stature = getValue(values.get(CharacteristicEnum.STATURE));
     final int constitution = getValue(values.get(CharacteristicEnum.CONSTITUTION));
@@ -49,8 +57,10 @@ public final class Threshold implements Serializable {
   }
 
   private int getValue(final Integer integer) {
-    int value = 0;
-    if (integer != null) {
+    final int value;
+    if (integer == null) {
+      value = 0;
+    } else {
       value = integer.intValue();
     }
     return value;

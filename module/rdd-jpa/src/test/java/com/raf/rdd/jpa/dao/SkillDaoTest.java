@@ -10,13 +10,12 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
-import com.raf.rdd.jpa.domain.Skill;
+import com.raf.rdd.jpa.domain.skill.Skill;
 import com.raf.rdd.jpa.enums.SkillTypeEnum;
 
 /**
- * 
  * Test class for {@link SkillDao}.
- * 
+ *
  * @author RAF
  */
 public class SkillDaoTest extends AbstractDaoTest {
@@ -32,8 +31,8 @@ public class SkillDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testGetById() {
-    String name = "Chant";
-    Skill skill = this.skillDao.getById(name);
+    final String name = "Chant";
+    final Skill skill = this.skillDao.getById(name);
     assertNotNull(skill);
     assertEquals(name, skill.getIdentifier());
     assertEquals(SkillTypeEnum.GENERAL, skill.getSkillTypeEnum());
@@ -44,8 +43,8 @@ public class SkillDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testFindByExample() {
-    String name = "Chant";
-    Skill example = new Skill();
+    final String name = "Chant";
+    final Skill example = new Skill();
     example.setIdentifier(name);
     List<Skill> result = this.skillDao.findByExample(example);
     assertNotNull(result);
@@ -62,7 +61,7 @@ public class SkillDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testListAll() {
-    List<Skill> result = this.skillDao.listAll();
+    final List<Skill> result = this.skillDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }

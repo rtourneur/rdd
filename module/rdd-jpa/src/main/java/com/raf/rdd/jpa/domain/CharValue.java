@@ -13,19 +13,21 @@ import javax.persistence.ManyToOne;
 import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
  * The embeddable class for the CHARACTERISTIC_VALUE database table.
- * 
+ *
  * @author RAF
  */
 @Embeddable
 @Getter
 @Setter
 @NoArgsConstructor
+@EqualsAndHashCode
 public class CharValue implements Serializable, Comparable<CharValue> {
 
   /** Serial UID. */
@@ -40,16 +42,19 @@ public class CharValue implements Serializable, Comparable<CharValue> {
   @Column(name = "VALUE", nullable = false, precision = 2)
   private int value;
 
+  /** The current value. */
+  @Column(name = "CURRENT", nullable = false, precision = 2)
+  private int current;
+
   /** The experience points. */
   @Column(name = "EXPERIENCE", nullable = false, precision = 2)
   private int experience;
 
   /**
    * Compare the characteristic values using the rank in the characteristic.
-   * 
+   *
    * @param charValue
    *          the characteristic value to compare
-   * 
    * @see Comparable#compareTo(Object)
    */
   @Override
@@ -59,7 +64,7 @@ public class CharValue implements Serializable, Comparable<CharValue> {
 
   /**
    * Return the string representation for this object.
-   * 
+   *
    * @see Object#toString()
    */
   @Override
@@ -68,7 +73,7 @@ public class CharValue implements Serializable, Comparable<CharValue> {
     if (this.characteristic != null && Characteristic.class.equals(this.characteristic.getClass())) {
       builder.append("characteristic", this.characteristic);
     }
-    builder.append("value", this.value).append("experience", this.experience);
+    builder.append("value", this.value).append("current", this.current).append("experience", this.experience);
     return builder.toString();
   }
 

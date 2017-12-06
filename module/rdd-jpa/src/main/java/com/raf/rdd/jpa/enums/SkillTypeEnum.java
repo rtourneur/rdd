@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * Enum for Skill types.
- * 
+ *
  * @author RAF
  */
 @Getter
@@ -33,10 +33,9 @@ public enum SkillTypeEnum {
   /**
    * Map for enum conversion.
    */
-  private static final Map<String, SkillTypeEnum> SKILL_TYPES = new HashMap<>(
-      SkillTypeEnum.values().length);
+  private static final Map<String, SkillTypeEnum> SKILL_TYPES = new HashMap<>(SkillTypeEnum.values().length);
   static {
-    for (SkillTypeEnum skillTypeEnum : SkillTypeEnum.values()) {
+    for (final SkillTypeEnum skillTypeEnum : SkillTypeEnum.values()) {
       SKILL_TYPES.put(skillTypeEnum.name, skillTypeEnum);
     }
   }
@@ -49,7 +48,7 @@ public enum SkillTypeEnum {
 
   /**
    * Return the enum corresponding to the name.
-   * 
+   *
    * @param name
    *          Name of the enum
    * @return the enum.

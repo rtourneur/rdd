@@ -1,0 +1,21 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-item_type-1">
+    <createTable tableName="ITEM_TYPE" schemaName="RDD" remarks="Table for item types">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the item type">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="ITEM_TYPE_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the item type">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-item_type-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/item-type.csv" separator="|" tableName="ITEM_TYPE" />
+  </changeSet>
+</databaseChangeLog>

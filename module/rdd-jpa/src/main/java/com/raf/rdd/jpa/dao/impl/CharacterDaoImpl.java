@@ -16,12 +16,11 @@ import com.raf.rdd.jpa.domain.Character;
 
 /**
  * Implementation DAO for {@link Character}.
- * 
+ *
  * @author RAF
  */
 @Repository
-public final class CharacterDaoImpl extends AbstractDao<Character, Integer>
-    implements CharacterDao {
+public final class CharacterDaoImpl extends AbstractDao<Character, Integer> implements CharacterDao {
 
   /**
    * Constructor.
@@ -54,7 +53,7 @@ public final class CharacterDaoImpl extends AbstractDao<Character, Integer>
 
   /**
    * Returns the criteria default order.
-   * 
+   *
    * @param builder
    *          the criteria builder
    * @param root

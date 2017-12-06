@@ -14,13 +14,12 @@ import com.raf.rdd.jpa.domain.DraconicHour;
 import com.raf.rdd.jpa.enums.DraconicHourEnum;
 
 /**
- * 
  * Test class for {@link DraconicHourDao}.
- * 
+ *
  * @author RAF
  */
 public class DraconicHourDaoTest extends AbstractDaoTest {
-  
+
   @Resource
   private DraconicHourDao draconicHourDao;
 
@@ -29,11 +28,11 @@ public class DraconicHourDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testGetById() {
-    DraconicHourEnum draconicHourEnum = DraconicHourEnum.CROWN;
-    
-    DraconicHour draconicHour =  this.draconicHourDao.getById(draconicHourEnum.getName());
+    final DraconicHourEnum draconicHourEnum = DraconicHourEnum.CROWN;
+
+    final DraconicHour draconicHour = this.draconicHourDao.getById(draconicHourEnum.getCode());
     assertNotNull(draconicHour);
-    assertEquals(DraconicHourEnum.CROWN.getName(), draconicHour.getIdentifier());
+    assertEquals(DraconicHourEnum.CROWN.getCode(), draconicHour.getIdentifier());
   }
 
   /**
@@ -41,11 +40,11 @@ public class DraconicHourDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testFindByExample() {
-    DraconicHourEnum draconicHourEnum = DraconicHourEnum.CROWN;
-    DraconicHour example = new DraconicHour();
-    example.setIdentifier(draconicHourEnum.getName());
-    
-    List<DraconicHour> result = this.draconicHourDao.findByExample(example);
+    final DraconicHourEnum draconicHourEnum = DraconicHourEnum.CROWN;
+    final DraconicHour example = new DraconicHour();
+    example.setIdentifier(draconicHourEnum.getCode());
+
+    final List<DraconicHour> result = this.draconicHourDao.findByExample(example);
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }
@@ -55,7 +54,7 @@ public class DraconicHourDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testListAll() {
-    List<DraconicHour> result = this.draconicHourDao.listAll();
+    final List<DraconicHour> result = this.draconicHourDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }

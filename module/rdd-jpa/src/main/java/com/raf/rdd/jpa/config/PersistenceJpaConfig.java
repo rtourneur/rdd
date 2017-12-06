@@ -29,7 +29,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * Spring configuration class for persistence.
- * 
+ *
  * @author RAF
  */
 @Configuration
@@ -42,11 +42,11 @@ public class PersistenceJpaConfig {
 
   /** Spring environment. */
   @Autowired
-  private Environment env;
+  private transient Environment env;
 
   /**
    * Initialize the entity manager factory.
-   * 
+   *
    * @return entity manager factory
    * @throws NamingException
    *           if datasource not found in context
@@ -67,7 +67,7 @@ public class PersistenceJpaConfig {
 
   /**
    * Set up the datasource.
-   * 
+   *
    * @return the datasource
    * @throws NamingException
    *           if datasource not found in context
@@ -80,7 +80,7 @@ public class PersistenceJpaConfig {
 
   /**
    * Add the transaction manager.
-   * 
+   *
    * @param emf
    *          the entity manager factory
    * @return the transaction manager
@@ -95,7 +95,7 @@ public class PersistenceJpaConfig {
 
   /**
    * Returns the Persistence Exception Translation Processor.
-   * 
+   *
    * @return the Persistence Exception Translation Processor
    */
   @Bean
@@ -105,7 +105,7 @@ public class PersistenceJpaConfig {
 
   /**
    * Returns the additional properties for hibernate.
-   * 
+   *
    * @return the additional properties
    */
   private Properties additionalProperties() {

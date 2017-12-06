@@ -17,7 +17,7 @@ import lombok.Setter;
 
 /**
  * The persistent class for the DRACONIC HOUR database table.
- * 
+ *
  * @author RAF
  */
 @Entity
@@ -45,16 +45,14 @@ public class DraconicHour extends AbstractNamedEntity {
 
   /**
    * Append object values for the toString.
-   * 
+   *
    * @param builder
    *          the to string builder
-   * 
    * @see AbstractNamedEntity#appendNamed(ToStringBuilder)
    */
   @Override
   protected final void appendNamed(final ToStringBuilder builder) {
-    builder.append("hour", this.draconicHour)
-        .append("descriptionCode", this.descriptionCode).append("icon", this.icon);
+    builder.append("hour", this.draconicHour).append("descriptionCode", this.descriptionCode).append("icon", this.icon);
 
   }
 

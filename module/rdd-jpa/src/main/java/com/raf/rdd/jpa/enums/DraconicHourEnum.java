@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * Enum for Draconic Hours.
- * 
+ *
  * @author RAF
  */
 @Getter
@@ -42,26 +42,25 @@ public enum DraconicHourEnum {
   /**
    * Map for enum conversion.
    */
-  private static final Map<String, DraconicHourEnum> DRACONIC_HOURS = new HashMap<>(
-      DraconicHourEnum.values().length);
+  private static final Map<String, DraconicHourEnum> DRACONIC_HOURS = new HashMap<>(DraconicHourEnum.values().length);
   static {
-    for (DraconicHourEnum draconicHourEnum : DraconicHourEnum.values()) {
-      DRACONIC_HOURS.put(draconicHourEnum.name, draconicHourEnum);
+    for (final DraconicHourEnum draconicHourEnum : DraconicHourEnum.values()) {
+      DRACONIC_HOURS.put(draconicHourEnum.code, draconicHourEnum);
     }
   }
 
-  /** Name for the enum. */
-  private final String name;
+  /** Code for the enum. */
+  private final String code;
 
   /**
-   * Return the enum corresponding to the name.
-   * 
-   * @param name
-   *          Name of the enum
+   * Return the enum corresponding to the code.
+   *
+   * @param code
+   *          Code of the enum
    * @return the enum.
    */
-  public static DraconicHourEnum get(final String name) {
-    return DRACONIC_HOURS.get(name);
+  public static DraconicHourEnum get(final String code) {
+    return DRACONIC_HOURS.get(code);
   }
 
 }

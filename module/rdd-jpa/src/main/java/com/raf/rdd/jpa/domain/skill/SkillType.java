@@ -1,4 +1,4 @@
-package com.raf.rdd.jpa.domain;
+package com.raf.rdd.jpa.domain.skill;
 
 import javax.persistence.Column;
 import javax.persistence.Convert;
@@ -17,7 +17,7 @@ import lombok.Setter;
 
 /**
  * The persistent class for the SKILL TYPE database table.
- * 
+ *
  * @author RAF
  */
 @Entity
@@ -37,10 +37,9 @@ public class SkillType extends AbstractNamedEntity {
 
   /**
    * Append object values for the toString.
-   * 
+   *
    * @param builder
    *          the to string builder
-   * 
    * @see AbstractNamedEntity#appendNamed(ToStringBuilder)
    */
   @Override

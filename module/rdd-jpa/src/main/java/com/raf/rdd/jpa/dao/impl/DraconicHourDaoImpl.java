@@ -8,12 +8,11 @@ import com.raf.rdd.jpa.domain.DraconicHour;
 
 /**
  * Implementation DAO for {@link DraconicHour}.
- * 
+ *
  * @author RAF
  */
 @Repository
-public final class DraconicHourDaoImpl extends AbstractNamedDao<DraconicHour>
-    implements DraconicHourDao {
+public final class DraconicHourDaoImpl extends AbstractNamedDao<DraconicHour> implements DraconicHourDao {
 
   /**
    * Constructor.

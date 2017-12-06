@@ -10,17 +10,16 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
-import com.raf.rdd.jpa.domain.SkillType;
+import com.raf.rdd.jpa.domain.skill.SkillType;
 import com.raf.rdd.jpa.enums.SkillTypeEnum;
 
 /**
- * 
  * Test class for {@link SkillTypeDao}.
- * 
+ *
  * @author RAF
  */
 public class SkillTypeDaoTest extends AbstractDaoTest {
-  
+
   @Resource
   private SkillTypeDao skillTypeDao;
 
@@ -29,9 +28,9 @@ public class SkillTypeDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testGetById() {
-    SkillTypeEnum skillTypeEnum = SkillTypeEnum.GENERAL;
-    
-    SkillType skillType =  this.skillTypeDao.getById(skillTypeEnum.getName());
+    final SkillTypeEnum skillTypeEnum = SkillTypeEnum.GENERAL;
+
+    final SkillType skillType = this.skillTypeDao.getById(skillTypeEnum.getName());
     assertNotNull(skillType);
     assertEquals(SkillTypeEnum.GENERAL.getName(), skillType.getIdentifier());
   }
@@ -41,11 +40,11 @@ public class SkillTypeDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testFindByExample() {
-    SkillTypeEnum skillTypeEnum = SkillTypeEnum.GENERAL;
-    SkillType example = new SkillType();
+    final SkillTypeEnum skillTypeEnum = SkillTypeEnum.GENERAL;
+    final SkillType example = new SkillType();
     example.setIdentifier(skillTypeEnum.getName());
-    
-    List<SkillType> result = this.skillTypeDao.findByExample(example);
+
+    final List<SkillType> result = this.skillTypeDao.findByExample(example);
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }
@@ -55,7 +54,7 @@ public class SkillTypeDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testListAll() {
-    List<SkillType> result = this.skillTypeDao.listAll();
+    final List<SkillType> result = this.skillTypeDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }

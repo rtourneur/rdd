@@ -5,7 +5,7 @@ import com.raf.rdd.jpa.domain.DraconicHour;
 
 /**
  * Interface DAO for {@link DraconicHour}.
- * 
+ *
  * @author RAF
  */
 public interface DraconicHourDao extends EntityNamedDao<DraconicHour> {

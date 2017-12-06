@@ -1,0 +1,40 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-armor-1">
+    <createTable tableName="ARMOR" schemaName="RDD" remarks="Table for armors">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the armor">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="ARMOR_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the armor">
+        <constraints nullable="false" />
+      </column>
+      <column name="ITEM_TYPE" type="VARCHAR(30)" remarks="Type code of the armor">
+        <constraints nullable="false" foreignKeyName="FK_ARMOR_ITEM_TYPE" references="RDD.ITEM_TYPE(NAME)" />
+      </column>
+      <column name="ENC" type="numeric(3, 1)" remarks="Encumbrance code of the armor" />
+      <column name="PRIX_MIN" type="INTEGER" remarks="Min price code of the armor" />
+      <column name="PRIX_MAX" type="INTEGER" remarks="Max price code of the armor" />
+      <column name="PROTECTION" type="INTEGER" remarks="Protection of the armor">
+        <constraints nullable="false" />
+      </column>
+      <column name="MALUS" type="INTEGER" remarks="Malus of the armor">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-armor-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/armor.csv"
+      separator="|" tableName="ARMOR">
+      <column name="ENC" type="NUMERIC" />
+      <column name="PRIX_MIN" type="NUMERIC" />
+      <column name="PRIX_MAX" type="NUMERIC" />
+      <column name="PROTECTION" type="NUMERIC" />
+      <column name="MALUS" type="NUMERIC" />
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

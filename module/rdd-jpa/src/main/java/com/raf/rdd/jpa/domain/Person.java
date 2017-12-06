@@ -24,7 +24,7 @@ import lombok.Setter;
 
 /**
  * The embeddable fields describe a person.
- * 
+ *
  * @author RAF
  */
 @Embeddable
@@ -77,7 +77,7 @@ public class Person implements Serializable {
 
   /**
    * Return the string representation for this object.
-   * 
+   *
    * @see Object#toString()
    */
   @Override
@@ -87,8 +87,8 @@ public class Person implements Serializable {
       builder.append("birthTime", this.birthTime);
     }
     builder.append("gender", this.gender).append("age", this.age).append("weight", this.weight)
-        .append("size", this.size).append("hairs", this.hairs).append("eyes", this.eyes)
-        .append("beauty", this.beauty).append("hand", this.hand);
+        .append("size", this.size).append("hairs", this.hairs).append("eyes", this.eyes).append("beauty", this.beauty)
+        .append("hand", this.hand);
     return builder.toString();
   }
 

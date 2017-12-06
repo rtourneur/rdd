@@ -11,13 +11,14 @@ import com.raf.fwk.jpa.domain.AbstractNamedEntity;
 import com.raf.rdd.jpa.enums.CharacteristicConverter;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
  * The persistent class for the CHARACTERISTIC database table.
- * 
+ *
  * @author RAF
  */
 @Entity
@@ -25,8 +26,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-public class Characteristic extends AbstractNamedEntity
-    implements Comparable<Characteristic> {
+@EqualsAndHashCode(callSuper = true)
+public class Characteristic extends AbstractNamedEntity implements Comparable<Characteristic> {
 
   /** Serial UID. */
   private static final long serialVersionUID = -1552039760014328014L;
@@ -42,10 +43,9 @@ public class Characteristic extends AbstractNamedEntity
 
   /**
    * Compare the characteristics using the rank.
-   * 
+   *
    * @param compare
    *          the characteristic to compare
-   * 
    * @see Comparable#compareTo(Object)
    */
   @Override
@@ -55,10 +55,9 @@ public class Characteristic extends AbstractNamedEntity
 
   /**
    * Append object values for the toString.
-   * 
+   *
    * @param builder
    *          the to string builder
-   * 
    * @see AbstractNamedEntity#appendNamed(ToStringBuilder)
    */
   @Override

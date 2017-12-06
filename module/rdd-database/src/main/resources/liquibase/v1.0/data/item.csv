@@ -1,0 +1,139 @@
+NAME|MESSAGE_CODE|ITEM_TYPE|ENC|PRIX_MIN|PRIX_MAX|CONTAINER|SCALABLE
+Sac à dos|item.sac-a-dos|Cuir et Bagages|0.4|100|null|true|false
+Besace|item.besace|Cuir et Bagages|0.2|50|null|true|false
+Aumônière|item.aumôniere|Cuir et Bagages|0.1|20|null|true|false
+Bourse|item.bourse|Cuir et Bagages|null|10|null|true|false
+Outre 2 litres|item.outre-2-litres|Cuir et Bagages|null|20|null|true|false
+Tube à parchemins|item.tube-a-parchemins|Cuir et Bagages|0.1|50|null|true|false
+Étui à luth|item.etui-a-luth|Cuir et Bagages|0.2|100|null|true|false
+Carquois|item.carquois|Cuir et Bagages|0.1|50|null|true|false
+Lacet 1 mètre|item.lacet-1-metre|Cuir et Bagages|null|6|null|false|true
+Sac en jute 50 litres|item.sac-en-jute-50-litres|Jute Fil et Corde|0.1|8|null|true|false
+Sac en jute 20 litres|item.sac-en-jute-20-litres|Jute Fil et Corde|null|4|null|true|false
+Bâche 1 m2|item.bache-1-m2|Jute Fil et Corde|0.5|20|null|false|true
+Toile de voile 1 m2|item.toile-de-voile-1-m2|Jute Fil et Corde|0.2|10|null|false|true
+Tresse de crins|item.tresse-de-crins|Jute Fil et Corde|null|10|null|false|false
+Bobineau de fil|item.bobineau-de-fil|Jute Fil et Corde|null|10|null|false|false
+Ficelle 10 m|item.ficelle-10-m|Jute Fil et Corde|null|10|null|false|true
+Cordelette 10 m|item.cordelette-10-m|Jute Fil et Corde|0.2|20|null|false|true
+Corde 10 m|item.corde-10-m|Jute Fil et Corde|1|30|null|false|true
+1 m2 tissu de laine|item.1-m2-tissu-de-laine|Laine et Lin|0.1|10|null|false|true
+1 m2 tissu de lin|item.1-m2-tissu-de-lin|Laine et Lin|null|15|null|false|true
+Couverture de laine|item.couverture-de-laine|Laine et Lin|0.6|30|null|false|false
+1 ml soie ou velours|item.1-ml-soie-ou-velours|Laine et Lin|null|300|null|false|true
+Chandelle de suif|item.chandelle-de-suif|Feux|0.1|2|null|false|false
+Bougie de cire|item.bougie-de-cire|Feux|0.1|5|null|false|false
+Torche|item.torche|Feux|0.3|2|null|false|false
+Huile 20 cl|item.huile-20-cl|Feux|0.1|4|null|false|true
+Lanterne à huile|item.lanterne-a-huile|Feux|1|500|null|false|false
+Lanterne à bougie|item.lanterne-a-bougie|Feux|1|300|null|false|false
+Briquet à silex|item.briquet-a-silex|Feux|null|40|null|false|false
+Soufflet|item.soufflet|Feux|0.2|40|null|false|false
+Pot à braise|item.pot-a-braise|Feux|0.1|20|null|false|false
+Pipe en bois|item.pipe-en-bois|Feux|null|10|null|false|false
+Fiole de grès 20 cl|item.fiole-de-gres-20-cl|Poterie et Cuisine|0.1|10|null|false|false
+Fiole de verre 20 cl|item.fiole-de-verre-20-cl|Poterie et Cuisine|null|20|null|false|false
+Mortier en marbre|item.mortier-en-marbre|Poterie et Cuisine|0.3|20|null|false|false
+Pilon en marbre|item.pilon-en-marbre|Poterie et Cuisine|0.1|10|null|false|false
+Pichet de grès 1 litre|item.pichet-de-gres-1-litre|Poterie et Cuisine|0.2|15|null|false|false
+Chope de grès 20 cl|item.chope-de-gres-20-cl|Poterie et Cuisine|0.1|10|null|false|false
+Chope de fer 20cl|item.chope-de-fer-20cl|Poterie et Cuisine|null|15|null|false|false
+Écuelle de grès|item.ecuelle-de-gres|Poterie et Cuisine|0.1|10|null|false|false
+Écuelle de fer|item.ecuelle-de-fer|Poterie et Cuisine|0.1|15|null|false|false
+Poêle à frire 40cm|item.poele-a-frire-40cm|Poterie et Cuisine|0.3|50|null|false|false
+Casserole de fer 1 litre|item.casserole-de-fer-1-litre|Poterie et Cuisine|0.2|30|null|false|false
+Marmite de fer 3 litres|item.marmite-de-fer-3-litres|Poterie et Cuisine|0.6|60|null|false|false
+Marmite de fer 5 litres|item.marmite-de-fer-5-litres|Poterie et Cuisine|1|100|null|false|false
+Bouilloire de fer 2 litres|item.bouilloire-de-fer-2-litres|Poterie et Cuisine|0.5|50|null|false|false
+Entonnoir de fer|item.entonnoir-de-fer|Poterie et Cuisine|0.1|15|null|false|false
+Cuillère de fer|item.cuillere-de-fer|Poterie et Cuisine|null|10|null|false|false
+Cuillère de bois|item.cuillere-de-bois|Poterie et Cuisine|null|3|null|false|false
+Seau de fer et bois 10 litres|item.seau-de-fer-et-bois-10-litres|Poterie et Cuisine|1|20|null|false|false
+Tonnelet 10 litres|item.tonnelet-10-litres|Poterie et Cuisine|1|25|null|false|false
+Charbon de bois 1 kg|item.charbon-de-bois-1-kg|Poterie et Cuisine|0.5|6|null|false|true
+Hachette|item.hachette|Outillage|1|400|null|false|false
+Grappin|item.grappin|Outillage|0.5|200|null|false|false
+Pelle|item.pelle|Outillage|1|100|null|false|false
+Marteau|item.marteau|Outillage|0.3|100|null|false|false
+Maillet|item.maillet|Outillage|0.1|5|null|false|false
+Burin|item.burin|Outillage|0.2|30|null|false|false
+Lime|item.lime|Outillage|0.2|50|null|false|false
+Scie|item.scie|Outillage|1|100|null|false|false
+Gros clou|item.gros-clou|Outillage|0.1|5|null|false|false
+Alêne|item.alene|Outillage|null|10|null|false|false
+Aiguille à coudre|item.aiguille-a-coudre|Outillage|null|10|null|false|false
+Hameçon|item.hameçon|Outillage|null|10|null|false|false
+Couteau de cuisine|item.couteau-de-cuisine|Outillage|0.2|100|null|false|false
+Pierre à aiguiser|item.pierre-a-aiguiser|Outillage|0.2|30|null|false|false
+Crochets de serrurier|item.crochets-de-serrurier|Outillage|0.2|300|null|false|false
+Graisse à bottes 500 g|item.graisse-a-bottes-500-g|Outillage|null|5|null|false|true
+Cire d abeille 500g|item.cire-d-abeille-500g|Outillage|null|15|null|false|true
+Miroir de cuivre 20 cm|item.miroir-de-cuivre-20-cm|Toilette|0.2|100|null|false|false
+Brosse à cheveux|item.brosse-a-cheveux|Toilette|null|100|null|false|false
+Peigne en corne|item.peigne-en-corne|Toilette|null|40|null|false|false
+Éponge|item.eponge|Toilette|null|100|null|false|false
+Savon 500 g|item.savon-500-g|Toilette|0.2|20|null|false|true
+Petit pot de fard|item.petit-pot-de-fard|Toilette|null|30|null|false|false
+Matériel de chirurgie|item.materiel-de-chirurgie|Toilette|null|100|null|false|false
+Rasoir|item.rasoir|Toilette|0.1|200|null|false|false
+Parchemin 1 feuille|item.parchemin-1-feuille|Écriture|null|20|null|false|true
+Encre 20 cl|item.encre-20-cl|Écriture|0.1|10|null|false|true
+Crayon à mine de plomb|item.crayon-a-mine-de-plomb|Écriture|null|30|null|false|false
+Écritoire|item.ecritoire|Écriture|1|100|null|false|false
+Plume de fer|item.plume-de-fer|Écriture|null|10|null|false|false
+Porte-plume en bois|item.porte-plume-en-bois|Écriture|null|5|null|false|false
+Cire à cacheter|item.cire-a-cacheter|Écriture|null|20|null|false|false
+Craie 1 bâton|item.craie-1-baton|Écriture|null|1|null|false|true
+Sablier 15 minutes|item.sablier-15-minutes|Écriture|0.1|200|null|false|false
+Verre grossissant|item.verre-grossissant|Écriture|null|200|null|false|false
+Cristal alchimique|item.cristal-alchimique|Écriture|null|400|null|false|false
+Flûte à bec|item.flute-a-bec|Loisir|null|100|null|false|false
+Luth viole|item.luth-viole|Loisir|1|700|null|false|false
+Harpe|item.harpe|Loisir|1|500|null|false|false
+Tambourin|item.tambourin|Loisir|0.1|50|null|false|false
+Cor en corne|item.cor-en-corne|Loisir|0.1|60|null|false|false
+Dé à jouer en os|item.de-a-jouer-en-os|Loisir|null|10|null|false|false
+Échecs draconics en bois|item.echecs-draconics-en-bois|Loisir|0.5|200|null|false|false
+Provisions non cuites|item.provisions-non-cuites|Alimentation|0.1|1|null|false|true
+Provisions cuites|item.provisions-cuites|Alimentation|0.1|2|null|false|true
+Vin 20 cl|item.vin-20-cl|Alimentation|0.1|1|null|false|true
+Bière 20 cl|item.biere-20-cl|Alimentation|0.1|1|null|false|true
+Hydromel 20 cl|item.hydromel-20-cl|Alimentation|0.1|4|null|false|true
+Brandevin 10 cl|item.brandevin-10-cl|Alimentation|0.05|10|null|false|true
+Lait 20 cl|item.lait-20-cl|Alimentation|0.1|1|null|false|true
+Repas moyen à l auberge|item.repas-moyen-a-l-auberge|Alimentation|null|3|null|false|false
+Fausse Suppure|item.fausse-suppure|Herbes de soin|null|2|null|false|true
+Suppure|item.suppure|Herbes de soin|null|3|null|false|true
+Méritoine|item.meritoine|Herbes de soin|null|6|null|false|true
+Ortigal|item.ortigal|Herbes de soin|null|10|null|false|true
+Ortigal noir|item.ortigal-noir|Herbes de soin|null|20|null|false|true
+Belidane|item.belidane|Herbes de soin|null|30|null|false|true
+Faux Murus|item.faux-murus|Herbes de soin|null|40|null|false|true
+Murus|item.murus|Herbes de soin|null|60|null|false|true
+Tanemiel|item.tanemiel|Herbes de soin|null|90|null|false|true
+Tanemiel doré|item.tanemiel-dore|Herbes de soin|null|200|null|false|true
+Herbe de Lune 7 brins|item.herbe-de-lune-7-brins|Herbes diverses|null|100|1000|false|true
+Mercurion|item.mercurion|Herbes diverses|null|2|null|false|true
+Sarum|item.sarum|Herbes diverses|null|3|null|false|true
+Névropenthe|item.nevropenthe|Herbes diverses|null|6|null|false|true
+Chronophile 3 brins|item.chronophile-3-brins|Herbes diverses|null|60|null|false|true
+Herbe à pipe 1 dose|item.herbe-a-pipe-1-dose|Herbes diverses|null|1|null|false|true
+Bitume de Camphre|item.bitume-de-camphre|Remèdes|null|200|null|false|false
+Gelée royale|item.gelee-royale|Remèdes|null|20|null|false|false
+Tournegraisse|item.tournegraisse|Remèdes|null|200|null|false|false
+Perle de Bjwal|item.perle-de-bjwal|Remèdes|null|100|null|false|false
+Sable-Poudre|item.sable-poudre|Remèdes|null|200|null|false|false
+Topazoïne|item.topazoine|Remèdes|null|200|null|false|false
+Élixir des Gnomes|item.elixir-des-gnomes|Remèdes|null|100|null|false|false
+Lait de lune|item.lait-de-lune|Remèdes|null|100|null|false|false
+Liqueur de Bagdol|item.liqueur-de-bagdol|Remèdes|null|50|null|false|false
+Mirobolant|item.mirobolant|Remèdes|null|200|null|false|false
+Teinture d Érozonne|item.teinture-d-erozonne|Remèdes|null|200|null|false|false
+Huile de Sélikanthe|item.huile-de-selikanthe|Remèdes|null|100|null|false|false
+Candique|item.candique|Sels alchimiques|null|2|null|false|true
+Boralm|item.boralm|Sels alchimiques|null|3|null|false|true
+Qbyssum vert|item.qbyssum-vert|Sels alchimiques|null|5|null|false|true
+Obyssum gris|item.obyssum-gris|Sels alchimiques|null|10|null|false|true
+Obbadion|item.obbadion|Sels alchimiques|null|20|null|false|true
+Nartha|item.nartha|Sels alchimiques|null|40|null|false|true
+Chramaelium|item.chramaelium|Sels alchimiques|null|50|null|false|true

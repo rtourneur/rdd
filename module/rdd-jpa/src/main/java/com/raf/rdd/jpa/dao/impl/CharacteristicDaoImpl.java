@@ -8,12 +8,11 @@ import com.raf.rdd.jpa.domain.Characteristic;
 
 /**
  * Implementation DAO for {@link Characteristic}.
- * 
+ *
  * @author RAF
  */
 @Repository
-public final class CharacteristicDaoImpl extends AbstractNamedDao<Characteristic>
-    implements CharacteristicDao {
+public final class CharacteristicDaoImpl extends AbstractNamedDao<Characteristic> implements CharacteristicDao {
 
   /**
    * Constructor.

@@ -29,9 +29,8 @@ import lombok.Setter;
 
 /**
  * The persistent class for the CHARACTER database table.
- * 
- * @author RAF
  *
+ * @author RAF
  */
 @Entity
 @Table(name = "CHARACTER", schema = "RDD")
@@ -39,6 +38,9 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 public class Character extends AbstractIdEntity {
+
+  /** Serial UID. */
+  private static final long serialVersionUID = 928198246094267685L;
 
   /** The name. */
   @Column(name = "NAME", length = 50, nullable = false)
@@ -54,15 +56,17 @@ public class Character extends AbstractIdEntity {
 
   /** The characteristics. */
   @ElementCollection(fetch = FetchType.EAGER)
-  @CollectionTable(name = "CHARACTERISTIC_VALUE", schema = "RDD",
-      joinColumns = { @JoinColumn(name = "CHARACTER") })
+  @CollectionTable(name = "CHARACTERISTIC_VALUE", schema = "RDD", joinColumns = { @JoinColumn(name = "CHARACTER") })
   private Set<CharValue> charValues;
 
   /** The skills. */
   @ElementCollection(fetch = FetchType.EAGER)
-  @CollectionTable(name = "SKILL_VALUE", schema = "RDD",
-      joinColumns = { @JoinColumn(name = "CHARACTER") })
+  @CollectionTable(name = "SKILL_VALUE", schema = "RDD", joinColumns = { @JoinColumn(name = "CHARACTER") })
   private Set<SkillValue> skillValues;
+
+  /** The wealth. */
+  @Column(name = "WEALTH", nullable = false, precision = 6)
+  private int wealth;
 
   /** The derived characteristics. */
   @Transient
@@ -81,13 +85,12 @@ public class Character extends AbstractIdEntity {
     this.threshold = new Threshold();
     final Map<CharacteristicEnum, Integer> values = new EnumMap<>(CharacteristicEnum.class);
 
-    Characteristic characteristic;
-    for (CharValue charValue : this.charValues) {
-      characteristic = charValue.getCharacteristic();
+    this.charValues.forEach(charValue -> {
+      final Characteristic characteristic = charValue.getCharacteristic();
       if (characteristic != null) {
         values.put(characteristic.getCharacteristic(), Integer.valueOf(charValue.getValue()));
       }
-    }
+    });
     caculateDerived(values);
     // Health
     this.threshold.caculate(values);
@@ -95,10 +98,9 @@ public class Character extends AbstractIdEntity {
 
   /**
    * Append the object values for the to string builder.
-   * 
+   *
    * @param builder
    *          the to string builder
-   * 
    * @see AbstractIdEntity#appendId(ToStringBuilder)
    */
   @Override
@@ -109,7 +111,7 @@ public class Character extends AbstractIdEntity {
 
   /**
    * Calculates the derived characteristics.
-   * 
+   *
    * @param values
    *          the map of characteristics
    */

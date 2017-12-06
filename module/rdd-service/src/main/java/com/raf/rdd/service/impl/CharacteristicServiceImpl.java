@@ -40,7 +40,7 @@ public final class CharacteristicServiceImpl extends AbstractService<Characteris
     Characteristic characteristic;
     for (final CharacteristicEnum charEnum : CharacteristicEnum.values()) {
       if (charEnum.isCharacter() && !charEnum.isDerived()) {
-        characteristic = getEntityDao().getById(charEnum.getName());
+        characteristic = getEntityDao().getById(charEnum.getCode());
         charValue = create(characteristic);
         values.add(charValue);
       }

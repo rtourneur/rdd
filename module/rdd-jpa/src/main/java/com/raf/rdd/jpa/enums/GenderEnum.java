@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * Enum for gender.
- * 
+ *
  * @author RAF
  */
 @Getter
@@ -22,26 +22,25 @@ public enum GenderEnum {
   /**
    * Map for enum conversion.
    */
-  private static final Map<String, GenderEnum> GENDERS = new HashMap<>(
-      GenderEnum.values().length);
+  private static final Map<String, GenderEnum> GENDERS = new HashMap<>(GenderEnum.values().length);
   static {
-    for (GenderEnum genderEnum : GenderEnum.values()) {
-      GENDERS.put(genderEnum.name, genderEnum);
+    for (final GenderEnum genderEnum : GenderEnum.values()) {
+      GENDERS.put(genderEnum.code, genderEnum);
     }
   }
 
-  /** Name for the enum. */
-  private final String name;
+  /** Code for the enum. */
+  private final String code;
 
   /**
-   * Return the enum corresponding to the name.
-   * 
-   * @param name
-   *          Name of the enum
+   * Return the enum corresponding to the code.
+   *
+   * @param code
+   *          Code of the enum
    * @return the enum.
    */
-  public static GenderEnum get(final String name) {
-    return GENDERS.get(name);
+  public static GenderEnum get(final String code) {
+    return GENDERS.get(code);
   }
 
 }

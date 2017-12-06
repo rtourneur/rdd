@@ -1,0 +1,54 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-weapon-1">
+    <createTable tableName="WEAPON" schemaName="RDD" remarks="Table for weapons">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the weapon">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="WEAPON_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the weapon">
+        <constraints nullable="false" />
+      </column>
+      <column name="ITEM_TYPE" type="VARCHAR(30)" remarks="Type code of the weapon">
+        <constraints nullable="false" foreignKeyName="FK_WEAPON_ITEM_TYPE" references="RDD.ITEM_TYPE(NAME)" />
+      </column>
+      <column name="ENC" type="numeric(3, 1)" remarks="Encumbrance code of the weapon" />
+      <column name="PRIX_MIN" type="INTEGER" remarks="Min price code of the weapon" />
+      <column name="PRIX_MAX" type="INTEGER" remarks="Max price code of the weapon" />
+      <column name="SKILL_1" type="VARCHAR(30)" remarks="Skill with one hand of the weapon">
+        <constraints foreignKeyName="FK_WEAPON_SKILL_1" references="RDD.SKILL(NAME)" />
+      </column>
+      <column name="SKILL_2" type="VARCHAR(30)" remarks="Skill with two hands of the weapon">
+        <constraints foreignKeyName="FK_WEAPON_SKILL_2" references="RDD.SKILL(NAME)" />
+      </column>
+      <column name="HAND" type="VARCHAR(12)" remarks="Hand usage of the weapon">
+        <constraints nullable="false" />
+      </column>
+      <column name="RES" type="INTEGER" remarks="Resistance of the weapon" />
+      <column name="BONUS_DOM_1" type="INTEGER" remarks="Bonus damage with one hand of the weapon" />
+      <column name="BONUS_DOM_2" type="INTEGER" remarks="Bonus damage with two hands of the weapon" />
+      <column name="STRENGTH_1" type="INTEGER" remarks="Min Strength required with one hand of the weapon" />
+      <column name="STRENGTH_2" type="INTEGER" remarks="Min Strength required with two hand of the weapon" />
+      <column name="NON_LETHAL" type="BOOLEAN" remarks="Non lethal weapon">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-weapon-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/weapon.csv"
+      separator="|" tableName="WEAPON">
+      <column name="ENC" type="NUMERIC" />
+      <column name="PRIX_MIN" type="NUMERIC" />
+      <column name="PRIX_MAX" type="NUMERIC" />
+      <column name="RES" type="NUMERIC" />
+      <column name="BONUS_DOM_1" type="NUMERIC" />
+      <column name="BONUS_DOM_2" type="NUMERIC" />
+      <column name="STRENGTH_1" type="NUMERIC" />
+      <column name="STRENGTH_2" type="NUMERIC" />
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

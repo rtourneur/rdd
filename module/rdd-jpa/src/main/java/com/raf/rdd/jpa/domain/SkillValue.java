@@ -12,13 +12,15 @@ import javax.persistence.ManyToOne;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
+import com.raf.rdd.jpa.domain.skill.Skill;
+
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
  * The embeddable class for the SKILL_VALUE database table.
- * 
+ *
  * @author RAF
  */
 @Embeddable
@@ -49,7 +51,7 @@ public class SkillValue implements Serializable {
 
   /**
    * Return the string representation for this object.
-   * 
+   *
    * @see Object#toString()
    */
   @Override

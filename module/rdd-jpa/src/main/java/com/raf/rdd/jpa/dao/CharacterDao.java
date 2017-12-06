@@ -5,7 +5,7 @@ import com.raf.rdd.jpa.domain.Character;
 
 /**
  * Interface DAO for {@link Character}.
- * 
+ *
  * @author RAF
  */
 public interface CharacterDao extends EntityDao<Character, Integer> {

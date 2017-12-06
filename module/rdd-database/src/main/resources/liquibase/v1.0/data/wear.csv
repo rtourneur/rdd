@@ -1,0 +1,31 @@
+NAME|MESSAGE_CODE|ITEM_TYPE|ENC|PRIX_MIN|PRIX_MAX|ARMOR|ENC_COUNT|LOCALIZATION
+Pourpoint de cuir souple|wear.pourpoint-de-cuir-souple|Cuir et Bagages|0.3|200|null|true|false|26
+Cotte de cuir souple|wear.cotte-de-cuir-souple|Cuir et Bagages|0.4|200|null|true|false|58
+Culottes de cuir souple|wear.culottes-de-cuir-souple|Cuir et Bagages|0.2|200|null|true|false|48
+Bottes de cuir souple|wear.bottes-de-cuir-souple|Cuir et Bagages|0.4|200|null|true|false|64
+Sandales|wear.sandales|Cuir et Bagages|0.1|30|null|false|false|64
+Gants|wear.gants|Cuir et Bagages|null|100|null|false|false|4
+Ceinturon|wear.ceinturon|Cuir et Bagages|0.1|50|null|false|false|16
+Chapeau|wear.chapeau|Cuir et Bagages|null|50|null|false|false|1
+Manteau de fourrure|wear.manteau-de-fourrure|Cuir et Bagages|1|100|2000|false|true|58
+Pourpoint de drap matelassé|wear.pourpoint-de-drap-matelasse|Laine et Lin|0.2|100|null|true|false|26
+Cotte de drap matelassé|wear.cotte-de-drap-matelasse|Laine et Lin|0.3|100|null|true|false|58
+Culottes de drap matelassé|wear.culottes-de-drap-matelasse|Laine et Lin|0.1|200|null|true|false|48
+Bas de laine|wear.bas-de-laine|Laine et Lin|null|10|null|false|false|96
+Chemise de laine|wear.chemise-de-laine|Laine et Lin|0.1|20|null|false|false|26
+Chemise de lin|wear.chemise-de-lin|Laine et Lin|null|30|null|false|false|26
+Culottes de laine|wear.culottes-de-laine|Laine et Lin|0.1|20|null|false|false|48
+Robe de laine|wear.robe-de-laine|Laine et Lin|0.2|40|null|false|false|58
+Robe de lin|wear.robe-de-lin|Laine et Lin|0.1|60|null|false|false|58
+Cotte de laine|wear.cotte-de-laine|Laine et Lin|0.1|30|null|false|false|58
+Bonnet de laine|wear.bonnet-de-laine|Laine et Lin|null|6|null|false|false|1
+Chaperon de laine|wear.chaperon-de-laine|Laine et Lin|0.1|20|null|false|false|9
+Manteau de laine|wear.manteau-de-laine|Laine et Lin|0.8|60|null|false|true|58
+Chemise de soie|wear.chemise-de-soie|Velours et Soies|null|600|null|false|false|26
+Robe de soie|wear.robe-de-soie|Velours et Soies|null|1000|null|false|false|58
+Robe de velours|wear.robe-de-velours|Velours et Soies|0.3|1000|null|false|false|58
+Culottes de velours|wear.culottes-de-velours|Velours et Soies|0.2|600|null|false|false|48
+Pourpoint de velours|wear.pourpoint-de-velours|Velours et Soies|0.2|800|null|false|false|26
+Manteau de velours|wear.manteau-de-velours|Velours et Soies|1|1000|null|false|true|58
+Béret de velours|wear.beret-de-velours|Velours et Soies|null|300|null|false|false|1
+Bas de soie|wear.bas-de-soie|Velours et Soies|null|300|null|false|false|96

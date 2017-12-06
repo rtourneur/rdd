@@ -14,7 +14,7 @@ import lombok.Setter;
 
 /**
  * Class for derived values.
- * 
+ *
  * @author RAF
  */
 @Getter
@@ -33,7 +33,7 @@ public class DerivedValue implements Serializable {
 
   /**
    * Return the string representation for this object.
-   * 
+   *
    * @see Object#toString()
    */
   @Override

@@ -1,4 +1,4 @@
-package com.raf.rdd.jpa.domain;
+package com.raf.rdd.jpa.domain.item;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * The persistent class for the ITEM_TYPE database table.
- * 
+ *
  * @author RAF
  */
 @Entity

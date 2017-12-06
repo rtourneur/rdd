@@ -14,13 +14,12 @@ import com.raf.rdd.jpa.domain.Characteristic;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 
 /**
- * 
  * Test class for {@link CharacteristicDao}.
- * 
+ *
  * @author RAF
  */
 public class CharacteristicDaoTest extends AbstractDaoTest {
-  
+
   @Resource
   private CharacteristicDao characteristicDao;
 
@@ -29,11 +28,11 @@ public class CharacteristicDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testGetById() {
-    CharacteristicEnum characteristicEnum = CharacteristicEnum.CONSTITUTION;
-    
-    Characteristic characteristic =  this.characteristicDao.getById(characteristicEnum.getName());
+    final CharacteristicEnum characteristicEnum = CharacteristicEnum.CONSTITUTION;
+
+    final Characteristic characteristic = this.characteristicDao.getById(characteristicEnum.getCode());
     assertNotNull(characteristic);
-    assertEquals(CharacteristicEnum.CONSTITUTION.getName(), characteristic.getIdentifier());
+    assertEquals(CharacteristicEnum.CONSTITUTION.getCode(), characteristic.getIdentifier());
   }
 
   /**
@@ -41,11 +40,11 @@ public class CharacteristicDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testFindByExample() {
-    CharacteristicEnum characteristicEnum = CharacteristicEnum.CONSTITUTION;
-    Characteristic example = new Characteristic();
-    example.setIdentifier(characteristicEnum.getName());
-    
-    List<Characteristic> result = this.characteristicDao.findByExample(example);
+    final CharacteristicEnum characteristicEnum = CharacteristicEnum.CONSTITUTION;
+    final Characteristic example = new Characteristic();
+    example.setIdentifier(characteristicEnum.getCode());
+
+    final List<Characteristic> result = this.characteristicDao.findByExample(example);
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }
@@ -55,7 +54,7 @@ public class CharacteristicDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testListAll() {
-    List<Characteristic> result = this.characteristicDao.listAll();
+    final List<Characteristic> result = this.characteristicDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
   }

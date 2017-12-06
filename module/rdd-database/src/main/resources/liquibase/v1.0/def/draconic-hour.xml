@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
          http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
 
-  <changeSet author="RAF" id="table-rdd-draconic-hour-1">
+  <changeSet author="RAF" id="table-rdd-draconic_hour-1">
     <createTable tableName="DRACONIC_HOUR" schemaName="RDD" remarks="Table for draconic hours">
       <column name="NAME" type="VARCHAR(30)" remarks="Name of the draconic hour">
         <constraints nullable="false" primaryKey="true" primaryKeyName="DRACONIC_HOUR_PK" />
@@ -21,7 +21,7 @@
       </column>
     </createTable>
   </changeSet>
-  <changeSet author="RAF" id="load-rdd-draconic-hour-1">
+  <changeSet author="RAF" id="load-rdd-draconic_hour-1">
     <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/draconic-hour.csv" separator="|" tableName="DRACONIC_HOUR" />
   </changeSet>
 </databaseChangeLog>

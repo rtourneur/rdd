@@ -1,0 +1,33 @@
+NAME|MESSAGE_CODE|ITEM_TYPE|ENC|PRIX_MIN|PRIX_MAX|SKILL_1|SKILL_2|HAND|RES|BONUS_DOM_1|BONUS_DOM_2|STRENGTH_1|STRENGTH_2|NON_LETHAL
+Pugilat|weapon.pugilat|Armes de mêlée|null|null|null|Corps à corps|null|1 main|null|null|null|null|null|true
+Dague|weapon.dague|Armes de mêlée|0.5|300|null|Dague|null|1 main|8|1|null|7|null|false
+Épée gnome|weapon.epee-gnome|Armes de mêlée|1|1200|null|Épée à une main|null|1 main|12|2|null|8|null|false
+Esparlongue|weapon.esparlongue|Armes de mêlée|1.5|2000|null|Épée à une main|null|1 main|9|3|null|10|null|false
+Épée cyane|weapon.epee-cyane|Armes de mêlée|2|2500|null|Épée à une main|null|1 main|12|3|null|11|null|false
+Épée dragonne|weapon.epee-dragonne|Armes de mêlée|2|2000|null|Épée à une main|null|1 main|12|3|null|11|null|false
+Épée sorde|weapon.epee-sorde|Armes de mêlée|2|2000|null|Épée à une main|Épée à deux mains|1 / 2 mains|15|3|4|12|11|false
+Épée bâtarde|weapon.epee-batarde|Armes de mêlée|3|3000|null|Épée à une main|Épée à deux mains|1 / 2 mains|14|4|5|13|12|false
+Double dragonne|weapon.double-dragonne|Armes de mêlée|4|5000|null|null|Épée à deux mains|2 mains|13|null|5|null|13|false
+Hachette|weapon.hachette|Armes de mêlée|1|400|null|Hache à une main|null|1 main|6|2|null|8|null|false
+Hache de bataille|weapon.hache-de-bataille|Armes de mêlée|2|1000|null|Hache à une main|Hache à deux mains|1 / 2 mains|8|3|4|12|11|false
+Grande hache|weapon.grande-hache|Armes de mêlée|3|1500|null|null|Hache à deux mains|2 mains|8|null|4|null|13|false
+Gourdin|weapon.gourdin|Armes de mêlée|1|null|null|Masse à une main|null|1 main|8|1|null|7|null|true
+Bâton|weapon.baton|Armes de mêlée|2|5|null|null|Masse à deux mains|2 mains|8|null|1|null|9|false
+Massette|weapon.massette|Armes de mêlée|1|200|null|Masse à une main|null|1 main|8|2|null|9|null|false
+Masse lourde|weapon.masse-lourde|Armes de mêlée|3|400|null|Masse à une main|Masse à deux mains|1 / 2 mains|10|3|4|12|11|false
+Fléau léger|weapon.fleau-leger|Armes de mêlée|2|1200|null|Fléau|null|1 main|10|3|null|12|null|false
+Fléau lourd|weapon.fleau-lourd|Armes de mêlée|3|1500|null|Fléau|null|1 main|10|4|null|13|null|false
+Lance courte|weapon.lance-courte|Armes de mêlée|2|300|null|Lance|null|1 main|5|2|null|8|null|false
+Javeline|weapon.javeline|Armes de mêlée|1|100|null|Lance|null|1 main|5|1|null|7|null|false
+Arme d hast|weapon.arme-d-hast|Armes de mêlée|4|1000|null|null|Arme d'hast|2 mains|8|null|4|null|12|false
+Bouclier léger|weapon.bouclier-leger|Armes de mêlée|1|400|null|Bouclier|null|1 main|13|null|null|8|null|false
+Bouclier moyen|weapon.bouclier-moyen|Armes de mêlée|2|600|null|Bouclier|null|1 main|15|null|null|11|null|false
+Bouclier lourd|weapon.bouclier-lourd|Armes de mêlée|3|800|null|Bouclier|null|1 main|20|null|null|13|null|false
+Arbalète|weapon.arbalete|Armes de tir|3|3000|null|null|Arbalète|2 mains|null|null|3|null|null|false
+Arc|weapon.arc|Armes de tir|1|1000|null|null|Arc|2 mains|null|null|2|null|null|false
+Fronde|weapon.fronde|Armes de tir|0|60|null|Fronde|null|1 main|null|1|null|null|null|false
+Flèche|weapon.fleche|Armes de tir|0.1|10|null|null|null|1 main|null|null|null|null|null|false
+Carreau|weapon.carreau|Armes de tir|0.1|10|null|null|null|1 main|null|null|null|null|null|false
+Dague de jet|weapon.dague-de-jet|Armes de lancer|0.5|300|null|Dague de jet|null|1 main|null|1|null|null|null|false
+Javelot|weapon.javelot|Armes de lancer|1|100|null|Javelot|null|1 main|null|1|null|null|null|false
+Fouet|weapon.fouet|Armes de lancer|0.5|100|null|Fouet|null|1 main|null|2|null|null|null|true

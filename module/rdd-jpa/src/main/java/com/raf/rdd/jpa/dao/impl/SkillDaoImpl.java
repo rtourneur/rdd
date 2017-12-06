@@ -9,16 +9,15 @@ import org.springframework.stereotype.Repository;
 
 import com.raf.fwk.jpa.dao.AbstractNamedDao;
 import com.raf.rdd.jpa.dao.SkillDao;
-import com.raf.rdd.jpa.domain.Skill;
+import com.raf.rdd.jpa.domain.skill.Skill;
 
 /**
  * Implementation DAO for {@link Skill}.
- * 
+ *
  * @author RAF
  */
 @Repository
-public final class SkillDaoImpl extends AbstractNamedDao<Skill>
-    implements SkillDao {
+public final class SkillDaoImpl extends AbstractNamedDao<Skill> implements SkillDao {
 
   /**
    * Constructor.
@@ -29,7 +28,7 @@ public final class SkillDaoImpl extends AbstractNamedDao<Skill>
 
   /**
    * Append the predicates for the findByExample request.
-   * 
+   *
    * @param predicatesList
    *          the list of predicates
    * @param root

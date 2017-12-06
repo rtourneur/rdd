@@ -1,8 +1,8 @@
 NAME|MESSAGE_CODE
-Général|skill_type.general
-Mêlée|skill_type.melee
-Particulière|skill_type.particuliere
-Tir et Lancer|skill_type.tir-lancer
-Spécialisée|skill_type.specialisee
-Connaissance|skill_type.connaissance
-Draconic|skill_type.draconic
+Général|skill-type.general
+Mêlée|skill-type.melee
+Particulière|skill-type.particuliere
+Tir et Lancer|skill-type.tir-et-lancer
+Spécialisée|skill-type.specialisee
+Connaissance|skill-type.connaissance
+Draconic|skill-type.draconic

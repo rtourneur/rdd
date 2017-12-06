@@ -20,7 +20,7 @@ public class DatasourceConfig {
 
   /** Spring environment. */
   @Autowired
-  private Environment env;
+  private transient Environment env;
 
   /**
    * Configure the data source.

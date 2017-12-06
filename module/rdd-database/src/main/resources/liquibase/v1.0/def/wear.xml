@@ -1,0 +1,42 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-wear-1">
+    <createTable tableName="WEAR" schemaName="RDD" remarks="Table for wears">
+      <column name="NAME" type="VARCHAR(30)" remarks="Name of the wear">
+        <constraints nullable="false" primaryKey="true" primaryKeyName="WEAR_PK" />
+      </column>
+      <column name="MESSAGE_CODE" type="VARCHAR(40)" remarks="Message code of the wear">
+        <constraints nullable="false" />
+      </column>
+      <column name="ITEM_TYPE" type="VARCHAR(30)" remarks="Type code of the wear">
+        <constraints nullable="false" foreignKeyName="FK_WEAR_ITEM_TYPE" references="RDD.ITEM_TYPE(NAME)" />
+      </column>
+      <column name="ENC" type="numeric(3, 1)" remarks="Encumbrance code of the wear" />
+      <column name="PRIX_MIN" type="INTEGER" remarks="Min price code of the wear" />
+      <column name="PRIX_MAX" type="INTEGER" remarks="Max price code of the wear" />
+      <column name="ARMOR" type="BOOLEAN" remarks="Armor indicator of the wear">
+        <constraints nullable="false" />
+      </column>
+      <column name="ENC_COUNT" type="BOOLEAN" remarks="Encumbrance count indicator of the wear">
+        <constraints nullable="false" />
+      </column>
+      <column name="LOCALIZATION" type="INTEGER" remarks="Localization of the wear">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-wear-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/wear.csv"
+      separator="|" tableName="WEAR">
+      <column name="ENC" type="NUMERIC" />
+      <column name="PRIX_MIN" type="NUMERIC" />
+      <column name="PRIX_MAX" type="NUMERIC" />
+      <column name="LOCALIZATION" type="NUMERIC" />
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

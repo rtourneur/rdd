@@ -8,7 +8,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * Enum for right and left hand.
- * 
+ *
  * @author RAF
  */
 @Getter
@@ -24,26 +24,25 @@ public enum HandEnum {
   /**
    * Map for enum conversion.
    */
-  private static final Map<String, HandEnum> HANDS = new HashMap<>(
-      HandEnum.values().length);
+  private static final Map<String, HandEnum> HANDS = new HashMap<>(HandEnum.values().length);
   static {
-    for (HandEnum handEnum : HandEnum.values()) {
-      HANDS.put(handEnum.name, handEnum);
+    for (final HandEnum handEnum : HandEnum.values()) {
+      HANDS.put(handEnum.code, handEnum);
     }
   }
 
-  /** Name for the enum. */
-  private final String name;
+  /** Code for the enum. */
+  private final String code;
 
   /**
-   * Return the enum corresponding to the name.
-   * 
-   * @param name
-   *          Name of the enum
+   * Return the enum corresponding to the code.
+   *
+   * @param code
+   *          Code of the enum
    * @return the enum.
    */
-  public static HandEnum get(final String name) {
-    return HANDS.get(name);
+  public static HandEnum get(final String code) {
+    return HANDS.get(code);
   }
 
 }
