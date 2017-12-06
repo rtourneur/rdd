@@ -20,6 +20,7 @@ import com.raf.rdd.jpa.enums.CharacteristicEnum;
  */
 public class CharacteristicDaoTest extends AbstractDaoTest {
 
+  /** The dao. */
   @Resource
   private CharacteristicDao characteristicDao;
 

@@ -20,6 +20,7 @@ import com.raf.rdd.jpa.enums.DraconicHourEnum;
  */
 public class DraconicHourDaoTest extends AbstractDaoTest {
 
+  /** The dao. */
   @Resource
   private DraconicHourDao draconicHourDao;
 

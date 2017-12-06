@@ -20,9 +20,11 @@ import com.raf.rdd.jpa.enums.SkillTypeEnum;
  */
 public class SkillDaoTest extends AbstractDaoTest {
 
+  /** The dao. */
   @Resource
   private SkillDao skillDao;
 
+  /** The skill type dao. */
   @Resource
   private SkillTypeDao skillTypeDao;
 
