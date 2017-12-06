@@ -88,35 +88,35 @@ Noter que bien souvent un contenant figurera dans un autre contenant, lui-même 
 |-
 | style="text-align:left;" | Corde ''10 m'' || 1 || 30d 
 |-
-| style="text-align:left;" | '''LAINE, LIN''' || '''enc''' || '''prix''' 
+| style="text-align:left;" | '''LAINE, LIN''' || '''enc''' || '''prix'''
 |-
-| style="text-align:left;" | Pourpoint de drap matelassé || 0,2 || 1s 
+| style="text-align:left;" | Pourpoint de drap matelassé || 0,2 || 1s
 |-
-| style="text-align:left;" | Cotte de drap matelassé || 0,3 || 1s 
+| style="text-align:left;" | Cotte de drap matelassé || 0,3 || 1s
 |-
-| style="text-align:left;" | Culottes de drap matelassé || 0,1 || 2s 
+| style="text-align:left;" | Culottes de drap matelassé || 0,1 || 2s
 |-
-| style="text-align:left;" | 1 m² tissu de laine || 0,1 || 10d 
+| style="text-align:left;" | 1 m² tissu de laine || 0,1 || 10d
 |-
-| style="text-align:left;" | 1 m² tissu de lin || - || 1 5d 
+| style="text-align:left;" | 1 m² tissu de lin || - || 15d
 |-
-| style="text-align:left;" | Bas de laine || - || 10d 
+| style="text-align:left;" | Bas de laine || - || 10d
 |-
-| style="text-align:left;" | Chemise de laine || 0,1 || 20d 
+| style="text-align:left;" | Chemise de laine || 0,1 || 20d
 |-
-| style="text-align:left;" | Chemise de lin || - || 30d 
+| style="text-align:left;" | Chemise de lin || - || 30d
 |-
-| style="text-align:left;" | Culottes de laine || 0,1 || 20d 
+| style="text-align:left;" | Culottes de laine || 0,1 || 20d
 |-
-| style="text-align:left;" | Robe de laine || 0,2 || 40d 
+| style="text-align:left;" | Robe de laine || 0,2 || 40d
 |-
-| style="text-align:left;" | Robe de lin || 0,1 || 60d 
+| style="text-align:left;" | Robe de lin || 0,1 || 60d
 |-
-| style="text-align:left;" | Cotte de laine || 0,1 || 30d 
+| style="text-align:left;" | Cotte de laine || 0,1 || 30d
 |-
-| style="text-align:left;" | Bonnet de laine || - || 6d 
+| style="text-align:left;" | Bonnet de laine || - || 6d
 |-
-| style="text-align:left;" | Chaperon de laine || 0,1 || 20d 
+| style="text-align:left;" | Chaperon de laine || 0,1 || 20d
 |-
 | style="text-align:left;" | Manteau de laine || 0,8 || 60d 
 |-
@@ -178,7 +178,7 @@ Noter que bien souvent un contenant figurera dans un autre contenant, lui-même 
 |-
 | style="text-align:left;" | Chope de grès 20 cl || 0,1 || 10d 
 |-
-| style="text-align:left;" | Chope de fer 20cl || - || l5d 
+| style="text-align:left;" | Chope de fer 20cl || - || 15d 
 |-
 | style="text-align:left;" | Écuelle de grès || 0,1 || 10d 
 |-
@@ -214,7 +214,7 @@ Noter que bien souvent un contenant figurera dans un autre contenant, lui-même 
 |-
 | style="text-align:left;" | Pelle || 1 || 1s 
 |-
-| style="text-align:left;" | Marteau || 0,3 || ls 
+| style="text-align:left;" | Marteau || 0,3 || 1s 
 |-
 | style="text-align:left;" | Maillet || 0,1 || 5d 
 |-
@@ -344,7 +344,7 @@ Noter que bien souvent un contenant figurera dans un autre contenant, lui-même 
 |-
 | style="text-align:left;" colspan="2" | Bière ''20 cl'' (F-1)  || 1d
 |-
-| style="text-align:left;" colspan="2" | Hydromel ''20 cl''( P-4)  || 4d
+| style="text-align:left;" colspan="2" | Hydromel ''20 cl''( F-4)  || 4d
 |-
 | style="text-align:left;" colspan="2" | Brandevin ''10 cl'' (F-5)  || 10d
 |-
