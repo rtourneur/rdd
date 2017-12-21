@@ -1,4 +1,4 @@
-package com.raf.rdd.jpa.domain;
+package com.raf.rdd.jpa.domain.character;
 
 import static org.apache.commons.lang3.builder.ToStringStyle.SHORT_PREFIX_STYLE;
 

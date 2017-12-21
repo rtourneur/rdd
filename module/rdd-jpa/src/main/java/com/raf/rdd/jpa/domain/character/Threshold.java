@@ -1,4 +1,4 @@
-package com.raf.rdd.jpa.domain;
+package com.raf.rdd.jpa.domain.character;
 
 import java.io.Serializable;
 import java.util.Map;

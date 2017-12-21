@@ -3,7 +3,9 @@ package com.raf.rdd.jpa.dao;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertNull;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 import javax.annotation.Resource;
@@ -35,7 +37,15 @@ public class ArmorDaoTest extends AbstractDaoTest {
     final String name = "Cuir souple";
     final Armor item = this.armorDao.getById(name);
     assertNotNull(item);
+    assertNotNull(item.toString());
     assertEquals(name, item.getIdentifier());
+    assertEquals("Armures", item.getItemTypeName());
+    assertNotNull(item.getGenericItem());
+    assertEquals(new BigDecimal("0.0"), item.getGenericItem().getEncumbrance());
+    assertEquals(Integer.valueOf(600), item.getGenericItem().getMinPrice());
+    assertNull(item.getGenericItem().getMaxPrice());
+    assertEquals(2, item.getProtection());
+    assertEquals(0, item.getMalus());
   }
 
   /**

@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
          http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
 
-  <changeSet author="RAF" id="table-rdd-skill-type-1">
+  <changeSet author="RAF" id="table-rdd-skill-1">
     <createTable tableName="SKILL" schemaName="RDD" remarks="Table for skills">
       <column name="NAME" type="VARCHAR(30)" remarks="Name of the skill">
         <constraints nullable="false" primaryKey="true" primaryKeyName="SKILL_PK" />

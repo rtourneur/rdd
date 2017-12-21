@@ -9,8 +9,8 @@ import com.raf.fwk.service.AbstractService;
 import com.raf.fwk.service.ServiceException;
 import com.raf.fwk.util.aop.Loggable;
 import com.raf.rdd.jpa.dao.CharacteristicDao;
-import com.raf.rdd.jpa.domain.CharValue;
 import com.raf.rdd.jpa.domain.Characteristic;
+import com.raf.rdd.jpa.domain.character.CharValue;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 import com.raf.rdd.service.CharacteristicService;
 

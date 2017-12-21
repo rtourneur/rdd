@@ -1,7 +1,7 @@
 package com.raf.rdd.jpa.dao;
 
 import com.raf.fwk.jpa.dao.EntityDao;
-import com.raf.rdd.jpa.domain.Character;
+import com.raf.rdd.jpa.domain.character.Character;
 
 /**
  * Interface DAO for {@link Character}.

@@ -3,7 +3,9 @@ package com.raf.rdd.jpa.dao;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertNull;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 import javax.annotation.Resource;
@@ -32,10 +34,30 @@ public class WeaponDaoTest extends AbstractDaoTest {
    */
   @Test
   public void testGetById() {
-    final String name = "Épée gnome";
+    final String name = "Épée bâtarde";
     final Weapon item = this.weaponDao.getById(name);
     assertNotNull(item);
+    assertNotNull(item.toString());
     assertEquals(name, item.getIdentifier());
+    assertEquals("Armes de mêlée", item.getItemTypeName());
+    assertNotNull(item.getGenericItem());
+    assertEquals(new BigDecimal("3.0"), item.getGenericItem().getEncumbrance());
+    assertEquals(Integer.valueOf(3000), item.getGenericItem().getMinPrice());
+    assertNull(item.getGenericItem().getMaxPrice());
+    assertNotNull(item.getSkill1());
+    assertEquals("Épée à une main", item.getSkillName1());
+    assertNotNull(item.getSkill2());
+    assertEquals("Épée à deux mains", item.getSkillName2());
+    assertNotNull(item.getHandWeapon());
+    assertEquals("1 / 2 mains", item.getHandWeapon().getCode());
+    assertEquals(Integer.valueOf(14), item.getRes());
+    assertEquals(Integer.valueOf(4), item.getBonusDom1());
+    assertEquals(Integer.valueOf(5), item.getBonusDom2());
+    assertEquals(Integer.valueOf(13), item.getStrength1());
+    assertEquals(Integer.valueOf(12), item.getStrength2());
+    assertFalse(item.isNonlethal());
+    
+    
   }
 
   /**

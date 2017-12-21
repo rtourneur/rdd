@@ -23,7 +23,7 @@ public final class SkillTypeConverter implements AttributeConverter<SkillTypeEnu
     if (attribute == null) {
       throw new IllegalArgumentException("SkillTypeEnum is null");
     }
-    return attribute.toString();
+    return attribute.getCode();
   }
 
   /**

@@ -34,10 +34,16 @@ public class SkillDaoTest extends AbstractDaoTest {
   @Test
   public void testGetById() {
     final String name = "Chant";
-    final Skill skill = this.skillDao.getById(name);
+    Skill skill = this.skillDao.getById(name);
     assertNotNull(skill);
     assertEquals(name, skill.getIdentifier());
     assertEquals(SkillTypeEnum.GENERAL, skill.getSkillTypeEnum());
+    assertEquals("skill.chant.description", skill.getDescriptionCode());
+    
+    skill = this.skillDao.getById("Corps à corps");
+    assertNotNull(skill);
+    assertNotNull(skill.getRule());
+    assertNotNull(skill.getGroup());
   }
 
   /**
@@ -52,10 +58,17 @@ public class SkillDaoTest extends AbstractDaoTest {
     assertNotNull(result);
     assertFalse(result.isEmpty());
     example.setName(null);
-    example.setSkillType(this.skillTypeDao.getById(SkillTypeEnum.GENERAL.getName()));
+    example.setSkillType(this.skillTypeDao.getById(SkillTypeEnum.GENERAL.getCode()));
     result = this.skillDao.findByExample(example);
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    
+    example.setSkillType(null);
+    example.setSkillTypeEnum(SkillTypeEnum.DRACONIC);
+    result = this.skillDao.findByExample(example);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(4, result.size());
   }
 
   /**

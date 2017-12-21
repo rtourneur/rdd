@@ -12,4 +12,7 @@
   <include file="liquibase/v1.0/def/wear.xml" />
   <include file="liquibase/v1.0/def/armor.xml" />
   <include file="liquibase/v1.0/def/weapon.xml" />
+  <include file="liquibase/v1.0/def/breed.xml" />
+  <include file="liquibase/v1.0/def/breed-charac.xml" />
+  <include file="liquibase/v1.0/def/breed-skill.xml" />
 </databaseChangeLog>

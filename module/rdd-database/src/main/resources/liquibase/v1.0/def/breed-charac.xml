@@ -1,0 +1,30 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-breed_charac-1">
+    <createTable tableName="BREED_CHARAC" schemaName="RDD" remarks="Table for breed characteristics">
+      <column name="BREED" type="VARCHAR(30)" remarks="Name of the breed">
+        <constraints nullable="false" foreignKeyName="FK_BREED_BREED_CHARAC" references="RDD.BREED(NAME)" />
+      </column>
+      <column name="CHARACTERISTIC" type="VARCHAR(30)" remarks="Name of the characteristic">
+        <constraints nullable="false" foreignKeyName="FK_CHARACTERISTIC_BREED_CHARAC" references="RDD.CHARACTERISTIC(NAME)" />
+      </column>
+      <column name="MODIFIER" type="INTEGER" remarks="Modifier value of the characteristic">
+        <constraints nullable="false" />
+      </column>
+      <column name="LIMIT" type="INTEGER" remarks="Maximum value of the characteristic"/>
+    </createTable>
+    <createIndex schemaName="RDD" indexName="IDX_BREED_CHARAC" tableName="BREED_CHARAC" unique="true">
+      <column name="BREED" />
+      <column name="CHARACTERISTIC" />
+    </createIndex>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-breed_charac-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/breed-charac.csv"
+      separator="|" tableName="BREED_CHARAC">
+      <column name="MODIFIER" type="NUMERIC"/>
+      <column name="LIMIT" type="NUMERIC"/>
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

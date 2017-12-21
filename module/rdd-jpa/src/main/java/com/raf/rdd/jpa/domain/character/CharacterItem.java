@@ -1,6 +1,4 @@
-package com.raf.rdd.jpa.domain;
-
-import java.util.Set;
+package com.raf.rdd.jpa.domain.character;
 
 import javax.persistence.Column;
 import javax.persistence.Convert;

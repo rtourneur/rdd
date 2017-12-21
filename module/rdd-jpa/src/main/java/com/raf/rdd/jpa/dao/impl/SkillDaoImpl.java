@@ -42,6 +42,9 @@ public final class SkillDaoImpl extends AbstractNamedDao<Skill> implements Skill
     if (example.getSkillType() != null) {
       predicatesList.add(getEquals(root, "skillType", example.getSkillType()));
     }
+    if (example.getSkillTypeEnum() != null) {
+      predicatesList.add(getEquals(root, "skillTypeEnum", example.getSkillTypeEnum()));
+    }
   }
 
 }

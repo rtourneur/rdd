@@ -34,6 +34,9 @@ public class DraconicHourDaoTest extends AbstractDaoTest {
     final DraconicHour draconicHour = this.draconicHourDao.getById(draconicHourEnum.getCode());
     assertNotNull(draconicHour);
     assertEquals(DraconicHourEnum.CROWN.getCode(), draconicHour.getIdentifier());
+    assertEquals(DraconicHourEnum.CROWN, draconicHour.getDraconicHour());
+    assertEquals("draconic-hour.couronne.desc", draconicHour.getDescriptionCode());
+    assertEquals("couronne.jpg", draconicHour.getIcon());
   }
 
   /**

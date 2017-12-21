@@ -31,9 +31,10 @@ public class SkillTypeDaoTest extends AbstractDaoTest {
   public void testGetById() {
     final SkillTypeEnum skillTypeEnum = SkillTypeEnum.GENERAL;
 
-    final SkillType skillType = this.skillTypeDao.getById(skillTypeEnum.getName());
+    final SkillType skillType = this.skillTypeDao.getById(skillTypeEnum.getCode());
     assertNotNull(skillType);
-    assertEquals(SkillTypeEnum.GENERAL.getName(), skillType.getIdentifier());
+    assertEquals(SkillTypeEnum.GENERAL.getCode(), skillType.getIdentifier());
+    assertEquals(-4, skillType.getSkillType().getBase());
   }
 
   /**
@@ -43,7 +44,7 @@ public class SkillTypeDaoTest extends AbstractDaoTest {
   public void testFindByExample() {
     final SkillTypeEnum skillTypeEnum = SkillTypeEnum.GENERAL;
     final SkillType example = new SkillType();
-    example.setIdentifier(skillTypeEnum.getName());
+    example.setIdentifier(skillTypeEnum.getCode());
 
     final List<SkillType> result = this.skillTypeDao.findByExample(example);
     assertNotNull(result);

@@ -1,4 +1,4 @@
-package com.raf.rdd.jpa.domain;
+package com.raf.rdd.jpa.domain.character;
 
 import static org.apache.commons.lang3.builder.ToStringStyle.SHORT_PREFIX_STYLE;
 
@@ -13,6 +13,7 @@ import javax.persistence.ManyToOne;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
+import com.raf.rdd.jpa.domain.DraconicHour;
 import com.raf.rdd.jpa.enums.GenderConverter;
 import com.raf.rdd.jpa.enums.GenderEnum;
 import com.raf.rdd.jpa.enums.HandConverter;

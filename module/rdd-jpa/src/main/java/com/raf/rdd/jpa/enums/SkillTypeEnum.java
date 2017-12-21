@@ -36,25 +36,25 @@ public enum SkillTypeEnum {
   private static final Map<String, SkillTypeEnum> SKILL_TYPES = new HashMap<>(SkillTypeEnum.values().length);
   static {
     for (final SkillTypeEnum skillTypeEnum : SkillTypeEnum.values()) {
-      SKILL_TYPES.put(skillTypeEnum.name, skillTypeEnum);
+      SKILL_TYPES.put(skillTypeEnum.code, skillTypeEnum);
     }
   }
 
-  /** Name for the enum. */
-  private final String name;
+  /** Code for the enum. */
+  private final String code;
 
   /** Base value. */
   private final int base;
 
   /**
-   * Return the enum corresponding to the name.
+   * Return the enum corresponding to the code.
    *
-   * @param name
+   * @param code
    *          Name of the enum
    * @return the enum.
    */
-  public static SkillTypeEnum get(final String name) {
-    return SKILL_TYPES.get(name);
+  public static SkillTypeEnum get(final String code) {
+    return SKILL_TYPES.get(code);
   }
 
 }

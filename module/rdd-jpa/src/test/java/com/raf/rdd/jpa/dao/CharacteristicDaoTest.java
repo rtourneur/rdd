@@ -3,6 +3,7 @@ package com.raf.rdd.jpa.dao;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertTrue;
 
 import java.util.List;
 
@@ -34,6 +35,16 @@ public class CharacteristicDaoTest extends AbstractDaoTest {
     final Characteristic characteristic = this.characteristicDao.getById(characteristicEnum.getCode());
     assertNotNull(characteristic);
     assertEquals(CharacteristicEnum.CONSTITUTION.getCode(), characteristic.getIdentifier());
+    assertTrue(characteristic.getCharacteristic().isAnimal());
+    assertTrue(characteristic.getCharacteristic().isCharacter());
+    assertTrue(characteristic.getCharacteristic().isExperience());
+    assertFalse(characteristic.getCharacteristic().isDerived());
+
+    final Characteristic characteristic2 = this.characteristicDao.getById(CharacteristicEnum.STATURE.getCode());
+    assertNotNull(characteristic2);
+    assertFalse(characteristic2.equals(characteristic));
+    assertTrue(characteristic2.compareTo(characteristic) < 0);
+
   }
 
   /**

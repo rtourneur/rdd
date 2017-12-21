@@ -1,4 +1,4 @@
-package com.raf.rdd.jpa.domain;
+package com.raf.rdd.jpa.domain.character;
 
 import static com.raf.fwk.util.CalculUtils.average;
 
@@ -21,6 +21,7 @@ import javax.persistence.Transient;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
 import com.raf.fwk.jpa.domain.AbstractIdEntity;
+import com.raf.rdd.jpa.domain.Characteristic;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 
 import lombok.Getter;
