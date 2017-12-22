@@ -36,9 +36,11 @@ public class SkillDaoTest extends AbstractDaoTest {
     final String name = "Chant";
     Skill skill = this.skillDao.getById(name);
     assertNotNull(skill);
+    assertNotNull(skill.toString());
     assertEquals(name, skill.getIdentifier());
     assertEquals(SkillTypeEnum.GENERAL, skill.getSkillTypeEnum());
     assertEquals("skill.chant.description", skill.getDescriptionCode());
+    assertNotNull(skill.toString());
     
     skill = this.skillDao.getById("Corps à corps");
     assertNotNull(skill);

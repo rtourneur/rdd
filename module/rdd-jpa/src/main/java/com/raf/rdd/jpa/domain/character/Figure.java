@@ -7,13 +7,14 @@ import java.util.LinkedHashSet;
 import java.util.Map;
 import java.util.Set;
 
-import javax.persistence.CollectionTable;
 import javax.persistence.Column;
-import javax.persistence.ElementCollection;
 import javax.persistence.Embedded;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 import javax.persistence.PostLoad;
 import javax.persistence.Table;
 import javax.persistence.Transient;
@@ -22,6 +23,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 
 import com.raf.fwk.jpa.domain.AbstractIdEntity;
 import com.raf.rdd.jpa.domain.Characteristic;
+import com.raf.rdd.jpa.domain.breed.Breed;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 
 import lombok.Getter;
@@ -29,16 +31,16 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * The persistent class for the CHARACTER database table.
+ * The persistent class for the FIGURE database table.
  *
  * @author RAF
  */
 @Entity
-@Table(name = "CHARACTER", schema = "RDD")
+@Table(name = "FIGURE", schema = "RDD")
 @Getter
 @Setter
 @NoArgsConstructor
-public class Character extends AbstractIdEntity {
+public class Figure extends AbstractIdEntity {
 
   /** Serial UID. */
   private static final long serialVersionUID = 928198246094267685L;
@@ -55,17 +57,26 @@ public class Character extends AbstractIdEntity {
   @Embedded
   private Person person;
 
+  /** The breed name. */
+  @Column(name = "BREED", length = 30, nullable = false)
+  private String breedName;
+
+  /** The breed. */
+  @ManyToOne(fetch = FetchType.LAZY)
+  @JoinColumn(name = "BREED", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_FIGURE_BREED"))
+  private Breed breed;
+
   /** The characteristics. */
-  @ElementCollection(fetch = FetchType.EAGER)
-  @CollectionTable(name = "CHARACTERISTIC_VALUE", schema = "RDD", joinColumns = { @JoinColumn(name = "CHARACTER") })
+  @OneToMany(fetch = FetchType.EAGER)
+  @JoinColumn(name = "FIGURE_ID", referencedColumnName = "ID")
   private Set<CharValue> charValues;
 
   /** The skills. */
-  @ElementCollection(fetch = FetchType.EAGER)
-  @CollectionTable(name = "SKILL_VALUE", schema = "RDD", joinColumns = { @JoinColumn(name = "CHARACTER") })
+  @OneToMany(fetch = FetchType.EAGER)
+  @JoinColumn(name = "FIGURE_ID", referencedColumnName = "ID")
   private Set<SkillValue> skillValues;
 
-  /** The wealth. */
+  /** The wealth in deniers. */
   @Column(name = "WEALTH", nullable = false, precision = 6)
   private int wealth;
 
@@ -106,8 +117,9 @@ public class Character extends AbstractIdEntity {
    */
   @Override
   protected final void appendId(final ToStringBuilder builder) {
-    builder.append("name", this.name).append("dreamer", this.dreamer).append(this.person).append("characteristics",
-        this.charValues);
+    builder.append("name", this.name).append("breedName", this.breedName).append("dreamer", this.dreamer)
+        .append(this.person).append("characteristics", this.charValues).append("derived", this.derivedValue)
+        .append("threshold", this.threshold).append("skills", this.skillValues).append("wealth", this.wealth);
   }
 
   /**

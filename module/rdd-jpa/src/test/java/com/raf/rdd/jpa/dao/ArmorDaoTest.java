@@ -12,6 +12,7 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
+import com.raf.fwk.util.Paged;
 import com.raf.rdd.jpa.domain.item.Armor;
 
 /**
@@ -75,6 +76,18 @@ public class ArmorDaoTest extends AbstractDaoTest {
     final List<Armor> result = this.armorDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    assertEquals(6, result.size());
+  }
+
+  /**
+   * Test method for {@link ArmorDao#list(int, int)}.
+   */
+  @Test
+  public void testList() {
+    final Paged<Armor> result = this.armorDao.list(10, 1);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(6, result.size());
   }
 
 }

@@ -7,9 +7,11 @@ import javax.persistence.Column;
 import javax.persistence.ElementCollection;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
@@ -39,17 +41,17 @@ public class Breed extends AbstractNamedEntity {
   /** The natural defense. */
   @Column(name = "DEFENSE", nullable = false, precision = 1)
   private int defense;
-  
+
   /** The characteristics. */
-  @ElementCollection(fetch = FetchType.EAGER)
-  @CollectionTable(name = "BREED_CHARAC", schema = "RDD", joinColumns = { @JoinColumn(name = "BREED") })
+  @OneToMany(fetch = FetchType.EAGER)
+  @JoinColumn(name = "BREED", referencedColumnName = "NAME")
   private Set<BreedCharac> charBreeds;
 
   /** The forbidden skills. */
   @ManyToMany(fetch = FetchType.EAGER)
   @JoinTable(name = "BREED_SKILL", schema = "RDD", joinColumns = {
-      @JoinColumn(name = "BREED", referencedColumnName = "NAME") }, inverseJoinColumns = {
-          @JoinColumn(name = "SKILL", referencedColumnName = "NAME") })
+      @JoinColumn(name = "BREED", referencedColumnName = "NAME", foreignKey = @ForeignKey(name = "FK_BREED_SKILL_BREED")) }, inverseJoinColumns = {
+          @JoinColumn(name = "SKILL", referencedColumnName = "NAME", foreignKey = @ForeignKey(name = "FK_BREED_SKILL_SKILL")) })
   private Set<Skill> forbiddens;
 
   /**

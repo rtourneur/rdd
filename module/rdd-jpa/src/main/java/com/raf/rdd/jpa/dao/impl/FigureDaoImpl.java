@@ -11,22 +11,22 @@ import javax.persistence.criteria.Root;
 import org.springframework.stereotype.Repository;
 
 import com.raf.fwk.jpa.dao.AbstractDao;
-import com.raf.rdd.jpa.dao.CharacterDao;
-import com.raf.rdd.jpa.domain.character.Character;
+import com.raf.rdd.jpa.dao.FigureDao;
+import com.raf.rdd.jpa.domain.character.Figure;
 
 /**
- * Implementation DAO for {@link Character}.
+ * Implementation DAO for {@link Figure}.
  *
  * @author RAF
  */
 @Repository
-public final class CharacterDaoImpl extends AbstractDao<Character, Integer> implements CharacterDao {
+public final class FigureDaoImpl extends AbstractDao<Figure, Integer> implements FigureDao {
 
   /**
    * Constructor.
    */
-  public CharacterDaoImpl() {
-    super(Character.class);
+  public FigureDaoImpl() {
+    super(Figure.class);
   }
 
   /**
@@ -43,7 +43,7 @@ public final class CharacterDaoImpl extends AbstractDao<Character, Integer> impl
    * @see AbstractDao#getPredicates(Root, com.raf.fwk.jpa.domain.DomainEntity)
    */
   @Override
-  protected Predicate[] getPredicates(final Root<Character> root, final Character example) {
+  protected Predicate[] getPredicates(final Root<Figure> root, final Figure example) {
     final List<Predicate> predicatesList = new ArrayList<>();
     if (example.getName() != null) {
       predicatesList.add(getLike(root, NAME, example.getName()));
@@ -62,7 +62,7 @@ public final class CharacterDaoImpl extends AbstractDao<Character, Integer> impl
    * @see AbstractDao#getOrder(CriteriaBuilder, Root)
    */
   @Override
-  protected List<Order> getOrder(final CriteriaBuilder builder, final Root<Character> root) {
+  protected List<Order> getOrder(final CriteriaBuilder builder, final Root<Figure> root) {
     final List<Order> orders = new ArrayList<>();
     orders.add(builder.asc(root.get(NAME)));
     orders.add(builder.asc(root.get(IDENT)));

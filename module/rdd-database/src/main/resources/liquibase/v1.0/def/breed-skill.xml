@@ -5,16 +5,13 @@
   <changeSet author="RAF" id="table-rdd-breed_skill-1">
     <createTable tableName="BREED_SKILL" schemaName="RDD" remarks="Table for breed forbidden skills">
       <column name="BREED" type="VARCHAR(30)" remarks="Name of the breed">
-        <constraints nullable="false" foreignKeyName="FK_BREED_BREED_SKILL" references="RDD.BREED(NAME)" />
+        <constraints nullable="false" foreignKeyName="FK_BREED_SKILL_BREED" references="RDD.BREED(NAME)" />
       </column>
       <column name="SKILL" type="VARCHAR(30)" remarks="Name of the skill">
-        <constraints nullable="false" foreignKeyName="FK_SKILL_BREED_SKILL" references="RDD.SKILL(NAME)" />
+        <constraints nullable="false" foreignKeyName="FK_BREED_SKILL_SKILL" references="RDD.SKILL(NAME)" />
       </column>
     </createTable>
-    <createIndex schemaName="RDD" indexName="IDX_BREED_SKILL" tableName="BREED_SKILL" unique="true">
-      <column name="BREED" />
-      <column name="SKILL" />
-    </createIndex>
+    <addPrimaryKey schemaName="RDD" constraintName="BREED_SKILL_PK" tableName="BREED_SKILL" columnNames="BREED, SKILL" />
   </changeSet>
   <changeSet author="RAF" id="load-rdd-breed_skill-1">
     <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/breed-skill.csv"

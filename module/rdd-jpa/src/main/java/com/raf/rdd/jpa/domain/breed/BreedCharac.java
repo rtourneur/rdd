@@ -1,18 +1,18 @@
 package com.raf.rdd.jpa.domain.breed;
 
-import static org.apache.commons.lang3.builder.ToStringStyle.SHORT_PREFIX_STYLE;
-
-import java.io.Serializable;
-
 import javax.persistence.Column;
-import javax.persistence.Embeddable;
+import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.Table;
 
-import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
+import com.raf.fwk.jpa.domain.AbstractEntity;
+import com.raf.fwk.jpa.domain.DomainEntity;
 import com.raf.rdd.jpa.domain.Characteristic;
 
 import lombok.EqualsAndHashCode;
@@ -21,23 +21,33 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * The embeddable class for the BREED_CHARAC database table.
+ * The persistent class for the BREED_CHARAC database table.
  *
  * @author RAF
  */
-@Embeddable
+@Entity
+@Table(name = "BREED_CHARAC", schema = "RDD")
 @Getter
 @Setter
 @NoArgsConstructor
-@EqualsAndHashCode
-public class BreedCharac implements Serializable, Comparable<BreedCharac> {
+@EqualsAndHashCode(of = "identifier", callSuper = false)
+public class BreedCharac extends AbstractEntity implements DomainEntity<BreedCharacPk>, Comparable<BreedCharac> {
 
   /** Serial UID. */
   private static final long serialVersionUID = 6984559951156074320L;
 
+  /** The identifier. */
+  @EmbeddedId
+  private BreedCharacPk identifier;
+
+  /** The breed. */
+  @ManyToOne(fetch = FetchType.EAGER)
+  @JoinColumn(name = "BREED", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_BREED_CHARAC_BREED"))
+  private Breed breed;
+
   /** The characteristic. */
   @ManyToOne(fetch = FetchType.EAGER)
-  @JoinColumn(name = "CHARACTERISTIC", nullable = false)
+  @JoinColumn(name = "CHARACTERISTIC", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_BREED_CHARAC_CHARACTERISTIC"))
   private Characteristic characteristic;
 
   /** The modifier value. */
@@ -49,30 +59,32 @@ public class BreedCharac implements Serializable, Comparable<BreedCharac> {
   private Integer limit;
 
   /**
-   * Compare the characteristic values using the rank in the characteristic.
+   * Compare breed characteristics using the rank in the characteristic.
    *
-   * @param charValue
-   *          the characteristic value to compare
+   * @param breedCharac
+   *          the breed characteristic to compare
    * @see Comparable#compareTo(Object)
    */
   @Override
-  public final int compareTo(final BreedCharac charValue) {
-    return CompareToBuilder.reflectionCompare(this.characteristic, charValue.characteristic);
+  public final int compareTo(final BreedCharac breedCharac) {
+    return this.characteristic.compareTo(breedCharac.characteristic);
   }
 
   /**
-   * Return the string representation for this object.
-   *
-   * @see Object#toString()
+   * Append the properties for the to string builder.
+   * 
+   * @param builder
+   *          the builder
+   * @see AbstractEntity#append(ToStringBuilder)
    */
   @Override
-  public final String toString() {
-    final ToStringBuilder builder = new ToStringBuilder(this, SHORT_PREFIX_STYLE);
+  protected void append(final ToStringBuilder builder) {
+    builder.append("identifier", this.identifier);
     if (this.characteristic != null && Characteristic.class.equals(this.characteristic.getClass())) {
       builder.append("characteristic", this.characteristic);
     }
     builder.append("modifier", this.modifier).append("limit", this.limit);
-    return builder.toString();
+
   }
 
 }

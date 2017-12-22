@@ -1,7 +1,7 @@
 package com.raf.rdd.service;
 
 /**
- * Service interface for managing {@link Character}.
+ * Service interface for managing {@link Figure}.
  * 
  * @author RAF
  */

@@ -4,6 +4,7 @@ import javax.persistence.Column;
 import javax.persistence.Convert;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
@@ -72,12 +73,12 @@ public class Weapon extends AbstractItem {
 
   /** The skill for 1 hand. */
   @ManyToOne(fetch = FetchType.LAZY)
-  @JoinColumn(name = "SKILL_1", insertable = false, updatable = false)
+  @JoinColumn(name = "SKILL_1", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_WEAPON_SKILL_1"))
   private Skill skill1;
 
   /** The skill for 2 hands. */
   @ManyToOne(fetch = FetchType.LAZY)
-  @JoinColumn(name = "SKILL_2", insertable = false, updatable = false)
+  @JoinColumn(name = "SKILL_2", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_WEAPON_SKILL_2"))
   private Skill skill2;
 
   /**

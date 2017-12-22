@@ -33,6 +33,7 @@ public class SkillTypeDaoTest extends AbstractDaoTest {
 
     final SkillType skillType = this.skillTypeDao.getById(skillTypeEnum.getCode());
     assertNotNull(skillType);
+    assertNotNull(skillType.toString());
     assertEquals(SkillTypeEnum.GENERAL.getCode(), skillType.getIdentifier());
     assertEquals(-4, skillType.getSkillType().getBase());
   }

@@ -3,13 +3,17 @@ package com.raf.rdd.jpa.dao;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertNull;
+import static org.junit.Assert.assertTrue;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 import javax.annotation.Resource;
 
 import org.junit.Test;
 
+import com.raf.fwk.util.Paged;
 import com.raf.rdd.jpa.domain.item.Item;
 
 /**
@@ -35,7 +39,15 @@ public class ItemDaoTest extends AbstractDaoTest {
     final String name = "Sac à dos";
     final Item item = this.itemDao.getById(name);
     assertNotNull(item);
+    assertNotNull(item.toString());
     assertEquals(name, item.getIdentifier());
+    assertEquals("Cuir et Bagages", item.getItemTypeName());
+    assertNotNull(item.getGenericItem());
+    assertEquals(new BigDecimal("0.4"), item.getGenericItem().getEncumbrance());
+    assertEquals(Integer.valueOf(100), item.getGenericItem().getMinPrice());
+    assertNull(item.getGenericItem().getMaxPrice());
+    assertTrue(item.isContainer());
+    assertFalse(item.isScalable());
   }
 
   /**
@@ -65,6 +77,18 @@ public class ItemDaoTest extends AbstractDaoTest {
     final List<Item> result = this.itemDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    assertEquals(138, result.size());
+  }
+
+  /**
+   * Test method for {@link ItemDao#list(int, int)}.
+   */
+  @Test
+  public void testList() {
+    final Paged<Item> result = this.itemDao.list(10, 1);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(10, result.size());
   }
 
 }

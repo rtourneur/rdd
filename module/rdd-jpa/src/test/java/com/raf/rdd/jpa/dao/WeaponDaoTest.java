@@ -12,6 +12,7 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
+import com.raf.fwk.util.Paged;
 import com.raf.rdd.jpa.domain.item.Weapon;
 
 /**
@@ -56,8 +57,6 @@ public class WeaponDaoTest extends AbstractDaoTest {
     assertEquals(Integer.valueOf(13), item.getStrength1());
     assertEquals(Integer.valueOf(12), item.getStrength2());
     assertFalse(item.isNonlethal());
-    
-    
   }
 
   /**
@@ -87,6 +86,18 @@ public class WeaponDaoTest extends AbstractDaoTest {
     final List<Weapon> result = this.weaponDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    assertEquals(32, result.size());
+  }
+
+  /**
+   * Test method for {@link WeaponDao#list(int, int)}.
+   */
+  @Test
+  public void testList() {
+    final Paged<Weapon> result = this.weaponDao.list(10, 1);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(10, result.size());
   }
 
 }

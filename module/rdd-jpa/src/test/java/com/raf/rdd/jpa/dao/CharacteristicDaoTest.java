@@ -34,6 +34,7 @@ public class CharacteristicDaoTest extends AbstractDaoTest {
 
     final Characteristic characteristic = this.characteristicDao.getById(characteristicEnum.getCode());
     assertNotNull(characteristic);
+    assertNotNull(characteristic.toString());
     assertEquals(CharacteristicEnum.CONSTITUTION.getCode(), characteristic.getIdentifier());
     assertTrue(characteristic.getCharacteristic().isAnimal());
     assertTrue(characteristic.getCharacteristic().isCharacter());

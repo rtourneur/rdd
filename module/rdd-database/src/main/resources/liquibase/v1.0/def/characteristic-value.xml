@@ -1,0 +1,35 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-characteristic_value-1">
+    <createTable tableName="CHARACTERISTIC_VALUE" schemaName="RDD" remarks="Table for characteristic values">
+      <column name="FIGURE_ID" type="INTEGER" remarks="Identifier of the character">
+        <constraints nullable="false" foreignKeyName="FK_CHARAC_VALUE_FIGURE" references='RDD.FIGURE(ID)' />
+      </column>
+      <column name="CHARACTERISTIC" type="VARCHAR(30)" remarks="Name of the characteristic">
+        <constraints nullable="false" foreignKeyName="FK_CHARAC_VALUE_CHARACTERISTIC" references="RDD.CHARACTERISTIC(NAME)" />
+      </column>
+      <column name="VALUE" type="INTEGER" remarks="Value of the characteristic">
+        <constraints nullable="false" />
+      </column>
+      <column name="CURRENT_VALUE" type="INTEGER" remarks="Current value of the characteristic">
+        <constraints nullable="false" />
+      </column>
+      <column name="EXPERIENCE" type="INTEGER" remarks="Experience of the characteristic" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-characteristic_value-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/characteristic-value.csv"
+      separator="|" tableName="CHARACTERISTIC_VALUE">
+      <column name="FIGURE_ID" type="NUMERIC" />
+      <column name="VALUE" type="NUMERIC" />
+      <column name="CURRENT_VALUE" type="NUMERIC" />
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

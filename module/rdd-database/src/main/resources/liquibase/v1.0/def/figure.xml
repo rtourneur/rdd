@@ -1,0 +1,65 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-figure-1">
+    <createTable tableName="FIGURE" schemaName="RDD" remarks="Table for figures">
+      <column autoIncrement="true" name="ID" type="INTEGER" remarks="Identifier (generated) of the figure">
+        <constraints primaryKey="true" primaryKeyName="CHARACTER_PK" />
+      </column>
+      <column name="NAME" type="VARCHAR(50)" remarks="Name of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="DREAMER" type="BOOLEAN" remarks="Dreamer indocator of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="BREED" type="VARCHAR(30)" remarks="Breed of the figure">
+        <constraints nullable="false" foreignKeyName="FK_CHARACTER_BREED" references="RDD.BREED(NAME)" />
+      </column>
+      <column name="WEALTH" type="INTEGER" remarks="Wealth of the figure, in deniers">
+        <constraints nullable="false" />
+      </column>
+      <column name="BIRTH_TIME" type="VARCHAR(30)" remarks="Birth time of the figure">
+        <constraints nullable="false" foreignKeyName="FK_CHARACTER_BIRTH_TIME" references="RDD.DRACONIC_HOUR(NAME)"/>
+      </column>
+      <column name="GENDER" type="VARCHAR(1)" remarks="Gender (M, F) of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="AGE" type="INTEGER"  remarks="Age of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="WEIGHT" type="INTEGER" remarks="Weight in kg of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="SIZE" type="INTEGER" remarks="Size in cm of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="HAIRS" type="VARCHAR(50)" remarks="Hairs of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="EYES" type="VARCHAR(50)" remarks="Eyes of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="BEAUTY" type="INTEGER" remarks="Beauty of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="HAND" type="VARCHAR(1)" remarks="Guiding hand of the figure">
+        <constraints nullable="false" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-figure-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/figure.csv"
+      separator="|" tableName="FIGURE">
+      <column name="ID" type="NUMERIC" />
+      <column name="WEALTH" type="NUMERIC" />
+      <column name="AGE" type="NUMERIC" />
+      <column name="WEIGHT" type="NUMERIC" />
+      <column name="SIZE" type="NUMERIC" />
+      <column name="BEAUTY" type="NUMERIC" />
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

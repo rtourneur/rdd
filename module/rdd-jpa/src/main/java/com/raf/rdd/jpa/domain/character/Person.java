@@ -38,7 +38,7 @@ public class Person implements Serializable {
   private static final long serialVersionUID = 2625990522310463618L;
 
   /** The Time of Birth. */
-  @ManyToOne(fetch = FetchType.LAZY)
+  @ManyToOne(fetch = FetchType.EAGER)
   @JoinColumn(name = "BIRTH_TIME", nullable = false)
   private DraconicHour birthTime;
 

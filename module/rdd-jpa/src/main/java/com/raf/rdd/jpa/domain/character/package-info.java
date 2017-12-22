@@ -1,5 +1,5 @@
 /**
- * Package for domain objects of type Character.
+ * Package for domain objects of type Figure.
  *
  * @author RAF
  */

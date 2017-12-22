@@ -12,6 +12,7 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
+import com.raf.fwk.util.Paged;
 import com.raf.rdd.jpa.domain.item.Wear;
 
 /**
@@ -76,6 +77,17 @@ public class WearDaoTest extends AbstractDaoTest {
     final List<Wear> result = this.wearDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    assertEquals(30, result.size());
   }
 
+  /**
+   * Test method for {@link WearDao#list(int, int)}.
+   */
+  @Test
+  public void testList() {
+    final Paged<Wear> result = this.wearDao.list(10, 1);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(10, result.size());
+  }
 }

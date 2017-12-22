@@ -11,8 +11,10 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
+import com.raf.fwk.util.Paged;
 import com.raf.rdd.jpa.domain.breed.Breed;
 import com.raf.rdd.jpa.domain.breed.BreedCharac;
+import com.raf.rdd.jpa.domain.breed.BreedCharacPk;
 import com.raf.rdd.jpa.domain.skill.Skill;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 
@@ -50,7 +52,9 @@ public class BreedDaoTest extends AbstractDaoTest {
     assertNotNull(breed.getCharBreeds());
     assertEquals(14, breed.getCharBreeds().size());
     final BreedCharac breedCharac = new BreedCharac();
-    breedCharac.setCharacteristic(this.characteristicDao.getById(CharacteristicEnum.STATURE.getCode()));
+    breedCharac.setIdentifier(new BreedCharacPk());
+    breedCharac.getIdentifier().setCharacName(CharacteristicEnum.STATURE.getCode());
+    breedCharac.getIdentifier().setBreedName(breed.getName());
     breedCharac.setModifier(8);
     breedCharac.setLimit(Integer.valueOf(23));
     assertTrue(breed.getCharBreeds().contains(breedCharac));
@@ -58,7 +62,6 @@ public class BreedDaoTest extends AbstractDaoTest {
     assertEquals(11, breed.getForbiddens().size());
     final Skill skill = this.skillDao.getById("Survie en cité");
     assertTrue(breed.getForbiddens().contains(skill));
-
   }
 
   /**
@@ -83,6 +86,17 @@ public class BreedDaoTest extends AbstractDaoTest {
     final List<Breed> result = this.breedDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    assertEquals(15, result.size());
   }
 
+  /**
+   * Test method for {@link BreedDao#list(int, int)}.
+   */
+  @Test
+  public void testList() {
+    final Paged<Breed> result = this.breedDao.list(10, 1);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(10, result.size());
+  }
 }

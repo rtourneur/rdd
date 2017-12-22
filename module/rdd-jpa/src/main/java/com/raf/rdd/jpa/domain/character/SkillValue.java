@@ -1,40 +1,53 @@
 package com.raf.rdd.jpa.domain.character;
 
-import static org.apache.commons.lang3.builder.ToStringStyle.SHORT_PREFIX_STYLE;
-
-import java.io.Serializable;
-
 import javax.persistence.Column;
-import javax.persistence.Embeddable;
+import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.Table;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
+import com.raf.fwk.jpa.domain.AbstractEntity;
+import com.raf.fwk.jpa.domain.DomainEntity;
 import com.raf.rdd.jpa.domain.skill.Skill;
 
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * The embeddable class for the SKILL_VALUE database table.
+ * The persistent class for the SKILL_VALUE database table.
  *
  * @author RAF
  */
-@Embeddable
+@Entity
+@Table(name = "SKILL_VALUE", schema = "RDD")
 @Getter
 @Setter
 @NoArgsConstructor
-public class SkillValue implements Serializable {
+@EqualsAndHashCode(of = "identifier", callSuper = false)
+public class SkillValue extends AbstractEntity implements DomainEntity<SkillValuePk> {
 
   /** Serial UID. */
   private static final long serialVersionUID = 6407723377668612038L;
 
+  /** The identifier. */
+  @EmbeddedId
+  private SkillValuePk identifier;
+
+  /** The character. */
+  @ManyToOne(fetch = FetchType.LAZY)
+  @JoinColumn(name = "FIGURE_ID", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_SKILL_VALUE_FIGURE"))
+  private Figure character;
+
   /** The characteristic. */
-  @ManyToOne(fetch = FetchType.EAGER)
-  @JoinColumn(name = "SKILL", nullable = false)
+  @ManyToOne(fetch = FetchType.LAZY)
+  @JoinColumn(name = "SKILL", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_SKILL_VALUE_SKILL"))
   private Skill skill;
 
   /** The value. */
@@ -50,18 +63,19 @@ public class SkillValue implements Serializable {
   private int spell;
 
   /**
-   * Return the string representation for this object.
-   *
-   * @see Object#toString()
+   * Append the properties for the to string builder.
+   * 
+   * @param builder
+   *          the builder
+   * @see AbstractEntity#append(ToStringBuilder)
    */
   @Override
-  public final String toString() {
-    final ToStringBuilder builder = new ToStringBuilder(this, SHORT_PREFIX_STYLE);
+  protected void append(final ToStringBuilder builder) {
+    builder.append("identifier", this.identifier);
     if (this.skill != null && Skill.class.equals(this.skill.getClass())) {
       builder.append("skill", this.skill);
     }
     builder.append("value", this.value).append("experience", this.experience).append("spell", this.spell);
-    return builder.toString();
   }
 
 }

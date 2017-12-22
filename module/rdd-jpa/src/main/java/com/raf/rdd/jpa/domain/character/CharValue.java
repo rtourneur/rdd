@@ -1,18 +1,18 @@
 package com.raf.rdd.jpa.domain.character;
 
-import static org.apache.commons.lang3.builder.ToStringStyle.SHORT_PREFIX_STYLE;
-
-import java.io.Serializable;
-
 import javax.persistence.Column;
-import javax.persistence.Embeddable;
+import javax.persistence.EmbeddedId;
+import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.Table;
 
-import org.apache.commons.lang3.builder.CompareToBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
+import com.raf.fwk.jpa.domain.AbstractEntity;
+import com.raf.fwk.jpa.domain.DomainEntity;
 import com.raf.rdd.jpa.domain.Characteristic;
 
 import lombok.EqualsAndHashCode;
@@ -21,23 +21,33 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * The embeddable class for the CHARACTERISTIC_VALUE database table.
+ * The persistent class for the CHARACTERISTIC_VALUE database table.
  *
  * @author RAF
  */
-@Embeddable
+@Entity
+@Table(name = "CHARACTERISTIC_VALUE", schema = "RDD")
 @Getter
 @Setter
 @NoArgsConstructor
-@EqualsAndHashCode
-public class CharValue implements Serializable, Comparable<CharValue> {
+@EqualsAndHashCode(of = "identifier", callSuper = false)
+public class CharValue extends AbstractEntity implements DomainEntity<CharValuePk>, Comparable<CharValue> {
 
   /** Serial UID. */
   private static final long serialVersionUID = 6407723377668612038L;
 
+  /** The identifier. */
+  @EmbeddedId
+  private CharValuePk identifier;
+
+  /** The character. */
+  @ManyToOne(fetch = FetchType.LAZY)
+  @JoinColumn(name = "FIGURE_ID", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_CHARAC_VALUE_FIGURE"))
+  private Figure character;
+
   /** The characteristic. */
-  @ManyToOne(fetch = FetchType.EAGER)
-  @JoinColumn(name = "CHARACTERISTIC", nullable = false)
+  @ManyToOne(fetch = FetchType.LAZY)
+  @JoinColumn(name = "CHARACTERISTIC", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_CHARAC_VALUE_CHARACTERISTIC"))
   private Characteristic characteristic;
 
   /** The value. */
@@ -45,7 +55,7 @@ public class CharValue implements Serializable, Comparable<CharValue> {
   private int value;
 
   /** The current value. */
-  @Column(name = "CURRENT", nullable = false, precision = 2)
+  @Column(name = "CURRENT_VALUE", nullable = false, precision = 2)
   private int current;
 
   /** The experience points. */
@@ -61,22 +71,23 @@ public class CharValue implements Serializable, Comparable<CharValue> {
    */
   @Override
   public final int compareTo(final CharValue charValue) {
-    return CompareToBuilder.reflectionCompare(this.characteristic, charValue.characteristic);
+    return this.characteristic.compareTo(charValue.characteristic);
   }
 
   /**
-   * Return the string representation for this object.
-   *
-   * @see Object#toString()
+   * Append the properties for the to string builder.
+   * 
+   * @param builder
+   *          the builder
+   * @see AbstractEntity#append(ToStringBuilder)
    */
   @Override
-  public final String toString() {
-    final ToStringBuilder builder = new ToStringBuilder(this, SHORT_PREFIX_STYLE);
+  protected void append(final ToStringBuilder builder) {
+    builder.append("identifier", this.identifier);
     if (this.characteristic != null && Characteristic.class.equals(this.characteristic.getClass())) {
       builder.append("characteristic", this.characteristic);
     }
     builder.append("value", this.value).append("current", this.current).append("experience", this.experience);
-    return builder.toString();
   }
 
 }

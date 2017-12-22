@@ -4,6 +4,7 @@ import javax.persistence.Column;
 import javax.persistence.Convert;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
+import javax.persistence.ForeignKey;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
@@ -52,7 +53,7 @@ public class Skill extends AbstractNamedEntity {
 
   /** The skill type. */
   @ManyToOne(fetch = FetchType.LAZY)
-  @JoinColumn(name = "SKILL_TYPE", insertable = false, updatable = false)
+  @JoinColumn(name = "SKILL_TYPE", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_SKILL_SKILL_TYPE"))
   private SkillType skillType;
 
   /**

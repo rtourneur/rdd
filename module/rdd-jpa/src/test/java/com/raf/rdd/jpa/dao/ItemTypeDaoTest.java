@@ -10,6 +10,7 @@ import javax.annotation.Resource;
 
 import org.junit.Test;
 
+import com.raf.fwk.util.Paged;
 import com.raf.rdd.jpa.domain.item.ItemType;
 
 /**
@@ -32,6 +33,7 @@ public class ItemTypeDaoTest extends AbstractDaoTest {
 
     final ItemType itemType = this.itemTypeDao.getById(itemTypeName);
     assertNotNull(itemType);
+    assertNotNull(itemType.toString());
     assertEquals(itemTypeName, itemType.getIdentifier());
   }
 
@@ -58,6 +60,18 @@ public class ItemTypeDaoTest extends AbstractDaoTest {
     final List<ItemType> result = this.itemTypeDao.listAll();
     assertNotNull(result);
     assertFalse(result.isEmpty());
+    assertEquals(20, result.size());
+  }
+
+  /**
+   * Test method for {@link ItemTypeDao#list(int, int)}.
+   */
+  @Test
+  public void testList() {
+    final Paged<ItemType> result = this.itemTypeDao.list(10, 1);
+    assertNotNull(result);
+    assertFalse(result.isEmpty());
+    assertEquals(10, result.size());
   }
 
 }
