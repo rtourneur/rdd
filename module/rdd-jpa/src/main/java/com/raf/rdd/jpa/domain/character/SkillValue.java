@@ -55,11 +55,11 @@ public class SkillValue extends AbstractEntity implements DomainEntity<SkillValu
   private int value;
 
   /** The experience points. */
-  @Column(name = "EXPERIENCE", nullable = false, precision = 3)
+  @Column(name = "EXPERIENCE", nullable = false, precision = 3, columnDefinition = "INT default 0")
   private int experience;
 
   /** The spell experience points. */
-  @Column(name = "SPELL", nullable = false, precision = 3)
+  @Column(name = "SPELL", nullable = false, precision = 3, columnDefinition = "INT default 0")
   private int spell;
 
   /**

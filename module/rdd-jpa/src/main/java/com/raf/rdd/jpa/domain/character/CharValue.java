@@ -59,7 +59,7 @@ public class CharValue extends AbstractEntity implements DomainEntity<CharValueP
   private int current;
 
   /** The experience points. */
-  @Column(name = "EXPERIENCE", nullable = false, precision = 2)
+  @Column(name = "EXPERIENCE", nullable = false, precision = 2, columnDefinition = "INT default 0")
   private int experience;
 
   /**

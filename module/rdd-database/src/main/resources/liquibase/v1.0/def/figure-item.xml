@@ -1,0 +1,48 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
+
+  <changeSet author="RAF" id="table-rdd-figure_item-1">
+    <createTable tableName="FIGURE_ITEM" schemaName="RDD" remarks="Table for figure's items">
+      <column autoIncrement="true" name="ID" type="INTEGER" remarks="Identifier (generated) of the figure's item">
+        <constraints primaryKey="true" primaryKeyName="FIGURE_ITEM_PK" />
+      </column>
+      <column name="FIGURE_ID" type="INTEGER" remarks="Identifier of the figure">
+        <constraints nullable="false" foreignKeyName="FK_FIGURE_ITEM_FIGURE" references='RDD.FIGURE(ID)' />
+      </column>
+      <column name="ITEM" type="VARCHAR(30)" remarks="Name of the item">
+        <constraints foreignKeyName="FK_FIGURE_ITEM_ITEM" references="RDD.ITEM(NAME)" />
+      </column>
+      <column name="WEAR" type="VARCHAR(30)" remarks="Name of the wear">
+        <constraints foreignKeyName="FK_FIGURE_ITEM_WEAR" references="RDD.WEAR(NAME)" />
+      </column>
+      <column name="ARMOR" type="VARCHAR(30)" remarks="Name of the armor">
+        <constraints foreignKeyName="FK_FIGURE_ITEM_ARMOR" references="RDD.ARMOR(NAME)" />
+      </column>
+      <column name="WEAPON" type="VARCHAR(30)" remarks="Name of the weapon">
+        <constraints foreignKeyName="FK_FIGURE_ITEM_WEAPON" references="RDD.WEAPON(NAME)" />
+      </column>
+      <column name="COUNT" type="INTEGER" remarks="Number of items">
+        <constraints nullable="false" />
+      </column>
+      <column name="ITEM_CATEGORY" type="VARCHAR(9)" remarks="Category of the item">
+        <constraints nullable="false" />
+      </column>
+      <column name="CONTAINER_ID" type="INTEGER" remarks="Parent contener of the item">
+        <constraints foreignKeyName="FK_FIGURE_ITEM_CONTAINER" references="RDD.FIGURE_ITEM(ID)" />
+      </column>
+      <column name="VERSION" type="INT" remarks="Version control" defaultValue="0">
+        <constraints nullable="false" />
+      </column>
+    </createTable>
+  </changeSet>
+  <changeSet author="RAF" id="load-rdd-figure_item-1">
+    <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/figure-item.csv"
+      separator="|" tableName="FIGURE_ITEM">
+      <column name="ID" type="NUMERIC" />
+      <column name="FIGURE_ID" type="NUMERIC" />
+      <column name="COUNT" type="NUMERIC" />
+      <column name="CONTAINER_ID" type="NUMERIC" />
+    </loadData>
+  </changeSet>
+</databaseChangeLog>

@@ -4,7 +4,7 @@
 
   <changeSet author="RAF" id="table-rdd-skill_value-1">
     <createTable tableName="SKILL_VALUE" schemaName="RDD" remarks="Table for skill values">
-      <column name="FIGURE_ID" type="INTEGER" remarks="Identifier of the character">
+      <column name="FIGURE_ID" type="INTEGER" remarks="Identifier of the figure">
         <constraints nullable="false" foreignKeyName="FK_SKILL_VALUE_FIGURE" references='RDD.FIGURE(ID)' />
       </column>
       <column name="SKILL" type="VARCHAR(30)" remarks="Name of the skill">
@@ -23,6 +23,7 @@
         <constraints nullable="false" />
       </column>
     </createTable>
+    <addPrimaryKey schemaName="RDD" constraintName="SKILL_VALUE_PK" tableName="SKILL_VALUE" columnNames="FIGURE_ID, SKILL" />
   </changeSet>
   <changeSet author="RAF" id="load-rdd-skill_value-1">
     <loadData schemaName="RDD" relativeToChangelogFile="true" encoding="UTF-8" file="../data/skill-value.csv"

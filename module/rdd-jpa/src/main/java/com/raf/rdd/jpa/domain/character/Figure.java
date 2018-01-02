@@ -76,6 +76,11 @@ public class Figure extends AbstractIdEntity {
   @JoinColumn(name = "FIGURE_ID", referencedColumnName = "ID")
   private Set<SkillValue> skillValues;
 
+  /** The items. */
+  @OneToMany(fetch = FetchType.EAGER)
+  @JoinColumn(name = "FIGURE_ID", referencedColumnName = "ID")
+  private Set<FigureItem> items;
+
   /** The wealth in deniers. */
   @Column(name = "WEALTH", nullable = false, precision = 6)
   private int wealth;
@@ -119,7 +124,8 @@ public class Figure extends AbstractIdEntity {
   protected final void appendId(final ToStringBuilder builder) {
     builder.append("name", this.name).append("breedName", this.breedName).append("dreamer", this.dreamer)
         .append(this.person).append("characteristics", this.charValues).append("derived", this.derivedValue)
-        .append("threshold", this.threshold).append("skills", this.skillValues).append("wealth", this.wealth);
+        .append("threshold", this.threshold).append("skills", this.skillValues).append("wealth", this.wealth)
+        .append("items", this.items);
   }
 
   /**

@@ -5,7 +5,7 @@
   <changeSet author="RAF" id="table-rdd-figure-1">
     <createTable tableName="FIGURE" schemaName="RDD" remarks="Table for figures">
       <column autoIncrement="true" name="ID" type="INTEGER" remarks="Identifier (generated) of the figure">
-        <constraints primaryKey="true" primaryKeyName="CHARACTER_PK" />
+        <constraints primaryKey="true" primaryKeyName="FIGURE_PK" />
       </column>
       <column name="NAME" type="VARCHAR(50)" remarks="Name of the figure">
         <constraints nullable="false" />

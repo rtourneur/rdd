@@ -28,11 +28,11 @@ import lombok.Setter;
  * @author RAF
  */
 @Entity
-@Table(name = "CHARACTER_ITEM", schema = "RDD")
+@Table(name = "FIGURE_ITEM", schema = "RDD")
 @Getter
 @Setter
 @NoArgsConstructor
-public class CharacterItem extends AbstractIdEntity {
+public class FigureItem extends AbstractIdEntity {
 
   /** Serial UID. */
   private static final long serialVersionUID = -40806065267264408L;
@@ -70,7 +70,7 @@ public class CharacterItem extends AbstractIdEntity {
   /** The parent container (of type item). */
   @ManyToOne
   @JoinColumn(name = "CONTAINER_ID", foreignKey = @ForeignKey(name = "FK_CHAR_ITEM_PARENT"))
-  private CharacterItem container;
+  private FigureItem container;
 
   /** The item. */
   @ManyToOne
@@ -114,7 +114,7 @@ public class CharacterItem extends AbstractIdEntity {
       builder.append("weaponName", this.weaponName);
     }
     builder.append("count", this.count).append("category", this.itemCategory.getCode());
-    if (this.container != null && CharacterItem.class.equals(this.container.getClass())) {
+    if (this.container != null && FigureItem.class.equals(this.container.getClass())) {
       builder.append("container", this.container.getItemName());
     }
     appendItem(builder);
