@@ -40,10 +40,10 @@ public class CharValue extends AbstractEntity implements DomainEntity<CharValueP
   @EmbeddedId
   private CharValuePk identifier;
 
-  /** The character. */
+  /** The figure. */
   @ManyToOne(fetch = FetchType.LAZY)
   @JoinColumn(name = "FIGURE_ID", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_CHARAC_VALUE_FIGURE"))
-  private Figure character;
+  private Figure figure;
 
   /** The characteristic. */
   @ManyToOne(fetch = FetchType.LAZY)

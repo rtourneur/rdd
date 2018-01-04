@@ -18,4 +18,5 @@
   <include file="liquibase/v1.0/def/figure.xml" />
   <include file="liquibase/v1.0/def/characteristic-value.xml" />
   <include file="liquibase/v1.0/def/skill-value.xml" />
+  <include file="liquibase/v1.0/def/figure-item.xml" />
 </databaseChangeLog>

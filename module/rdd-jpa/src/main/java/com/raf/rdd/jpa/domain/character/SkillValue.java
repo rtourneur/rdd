@@ -40,10 +40,10 @@ public class SkillValue extends AbstractEntity implements DomainEntity<SkillValu
   @EmbeddedId
   private SkillValuePk identifier;
 
-  /** The character. */
+  /** The figure. */
   @ManyToOne(fetch = FetchType.LAZY)
   @JoinColumn(name = "FIGURE_ID", insertable = false, updatable = false, foreignKey = @ForeignKey(name = "FK_SKILL_VALUE_FIGURE"))
-  private Figure character;
+  private Figure figure;
 
   /** The characteristic. */
   @ManyToOne(fetch = FetchType.LAZY)
