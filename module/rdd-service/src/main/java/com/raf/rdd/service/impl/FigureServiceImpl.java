@@ -13,6 +13,7 @@ import com.raf.fwk.util.aop.Loggable;
 import com.raf.rdd.jpa.dao.FigureDao;
 import com.raf.rdd.jpa.domain.breed.Breed;
 import com.raf.rdd.jpa.domain.breed.BreedCharac;
+import com.raf.rdd.jpa.domain.character.CharValue;
 import com.raf.rdd.jpa.domain.character.Figure;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 import com.raf.rdd.service.CharacteristicService;
@@ -69,7 +70,8 @@ public final class FigureServiceImpl extends AbstractService<FigureDao, Figure, 
     breed.getCharBreeds().forEach(breedCharac -> {
       map.put(breedCharac.getCharacteristic().getCharacteristic(), breedCharac);
     });
-    figure.getCharValues().forEach(charValue -> {
+    int stature = 0;
+    for (final CharValue charValue : figure.getCharValues()) {
       final CharacteristicEnum characteristic = charValue.getCharacteristic().getCharacteristic();
       if (map.containsKey(characteristic)) {
         final BreedCharac breedCharac = map.get(characteristic);
@@ -81,8 +83,23 @@ public final class FigureServiceImpl extends AbstractService<FigureDao, Figure, 
             breed.getName(), charValue.getCurrent(), current);
         charValue.setCurrent(current);
       }
-
-    });
+      switch (characteristic) {
+      case STATURE:
+        stature = charValue.getCurrent();
+        break;
+      case STRENGTH:
+        int current = charValue.getCurrent();
+        if (stature > 0 && current > stature + 4) {
+          current = stature + 4;
+          log.debug("Limit characteristic {} for breed {} previous {} current {}", characteristic.getCode(),
+              breed.getName(), charValue.getCurrent(), current);
+          charValue.setCurrent(current);
+        }
+        break;
+      default:
+        break;
+      }
+    }
   }
 
 }

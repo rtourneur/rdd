@@ -46,21 +46,61 @@ public final class CostUtils {
     case 14:
       cost = 9;
       break;
-    case 15:
-      cost = 10;
-      break;
-    case 16:
-      cost = 20;
-      break;
-    case 17:
-      cost = 30;
-      break;
-    case 18:
-      cost = 40;
-      break;
     default:
-      cost = 50;
+      cost = (value - 14) * 10;
       break;
+    }
+    return cost;
+  }
+
+  /**
+   * Return the experience cost of the level for the skill value.
+   *
+   * @param current
+   *          the current value of the skill
+   * @param newValue
+   *          the new value of the skill
+   * @return the cost
+   * @throws ServiceException
+   *           when the value is out of range
+   */
+  public static int getSkillLevelCost(final int current, final int newValue) throws ServiceException {
+    if (newValue <= current) {
+      throw new ServiceException("error.value.toolow", Integer.valueOf(newValue));
+    }
+    int cost = 0;
+    for (int index = current + 1; index <= newValue; index++) {
+      cost += getSkillLevelCost(index);
+    }
+
+    return cost;
+  }
+
+  /**
+   * Return the experience cost of the level for the skill value.
+   *
+   * @param value
+   *          the value
+   * @return the cost
+   */
+  public static int getSkillLevelCost(final int value) {
+    final int cost;
+    if (value <= -8) {
+      cost = 5;
+    } else if (value <= -4) {
+      cost = 10;
+    } else if (value <= 0) {
+      cost = 15;
+    } else if (value <= 4) {
+      cost = 20;
+    } else if (value <= 6) {
+      cost = 30;
+    } else if (value <= 8) {
+      cost = 40;
+    } else if (value <= 10) {
+      cost = 60;
+    } else {
+      cost = 100;
     }
     return cost;
   }

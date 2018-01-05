@@ -62,7 +62,11 @@ public class FigureServiceTest extends AbstractServiceTest {
         charValue.setCurrent(15);
         break;
       case APPEARANCE:
-        charValue.setCurrent(13);
+      case AGILITY:
+        charValue.setCurrent(10);
+        break;
+      case STRENGTH:
+        charValue.setCurrent(15);
         break;
       default:
         charValue.setCurrent(11);
@@ -78,11 +82,10 @@ public class FigureServiceTest extends AbstractServiceTest {
         assertEquals(10, charValue.getCurrent());
         break;
       case APPEARANCE:
-        assertEquals(11, charValue.getCurrent());
+        assertEquals(8, charValue.getCurrent());
         break;
+      case STRENGTH:
       case AGILITY:
-        assertEquals(15, charValue.getCurrent());
-        break;
       case SMELL_TASTE:
       case HEARING:
         assertEquals(14, charValue.getCurrent());
