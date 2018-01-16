@@ -18,7 +18,7 @@ import com.raf.rdd.jpa.domain.character.SkillValue;
 /**
  * Test class for {@link SkillService}.
  * 
- * @author tourneur
+ * @author RAF
  */
 public class SkillServiceTest extends AbstractServiceTest {
 
