@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 /**
  * Utility class for experience costs.
  *
- * @author tourneur
+ * @author RAF
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public final class CostUtils {

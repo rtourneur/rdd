@@ -16,7 +16,7 @@ import com.raf.rdd.jpa.domain.character.Figure;
 /**
  * Test class for {@link CharacteristicService}.
  * 
- * @author tourneur
+ * @author RAF
  */
 public class CharacteristicServiceTest extends AbstractServiceTest {
 
