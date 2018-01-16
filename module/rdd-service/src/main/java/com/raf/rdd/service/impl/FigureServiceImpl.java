@@ -1,6 +1,7 @@
 package com.raf.rdd.service.impl;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import javax.annotation.Resource;
@@ -35,6 +36,21 @@ public final class FigureServiceImpl extends AbstractService<FigureDao, Figure, 
   /** The Characteristic Service. */
   @Resource
   private transient CharacteristicService characService;
+
+  /**
+   * Return the list of figures corresponding to the name.
+   * 
+   * @param name
+   *          the searched name
+   * @return the list of figures
+   * @see FigureService#find(String)
+   */
+  @Override
+  public List<Figure> find(final String name) {
+    final Figure example = new Figure();
+    example.setName(name);
+    return getEntityDao().findByExample(example);
+  }
 
   /**
    * Create a new figure with base value for characteristics, and no breed.

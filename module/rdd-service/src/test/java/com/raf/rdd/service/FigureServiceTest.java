@@ -5,6 +5,8 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
+import java.util.List;
+
 import javax.annotation.Resource;
 
 import org.junit.Test;
@@ -16,7 +18,7 @@ import com.raf.rdd.jpa.domain.character.Figure;
 /**
  * Test class for {@link FigureService}.
  * 
- * @author tourneur
+ * @author RAF
  */
 public class FigureServiceTest extends AbstractServiceTest {
 
@@ -27,6 +29,20 @@ public class FigureServiceTest extends AbstractServiceTest {
   /** The breed dao. */
   @Resource
   private BreedDao breedDao;
+
+  /**
+   * Test method for {@link FigureService#find(String)}.
+   */
+  @Test
+  public void testFind() {
+    final String name = "Nit";
+    final List<Figure> figures = this.figureService.find(name);
+    assertNotNull(figures);
+    assertFalse(figures.isEmpty());
+    final Figure figure = figures.get(0);
+    assertNotNull(figure);
+    assertEquals("Nitouche", figure.getName());
+  }
 
   /**
    * Test method for {@link FigureService#create()}.

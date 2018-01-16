@@ -1,5 +1,5 @@
 /**
- * Package for Spring Persistence Configuration.
+ * Package for Spring Service Configuration.
  *
  * @author RAF
  */

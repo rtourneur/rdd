@@ -1,5 +1,5 @@
 /**
- * Package for service implementation.
+ * Package for Business Service implementation.
  *
  * @author RAF
  */

@@ -1,6 +1,6 @@
 /**
  * Package for utility classes.
  *
- * @author tourneur
+ * @author RAF
  */
 package com.raf.rdd.service.utils;

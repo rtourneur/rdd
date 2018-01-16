@@ -1,5 +1,7 @@
 package com.raf.rdd.service;
 
+import java.util.List;
+
 import com.raf.rdd.jpa.domain.breed.Breed;
 import com.raf.rdd.jpa.domain.character.Figure;
 
@@ -9,6 +11,15 @@ import com.raf.rdd.jpa.domain.character.Figure;
  * @author RAF
  */
 public interface FigureService {
+
+  /**
+   * Return the list of figures corresponding to the name.
+   * 
+   * @param name
+   *          the searched name
+   * @return the list of figures
+   */
+  List<Figure> find(String name);
 
   /**
    * Create a new figure with base value for characteristics, and no breed.

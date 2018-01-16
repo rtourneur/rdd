@@ -1,5 +1,5 @@
 /**
- * Package for Service interfaces.
+ * Package for Business Service interfaces.
  *
  * @author RAF
  */
