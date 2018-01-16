@@ -138,7 +138,7 @@ Lâches et rusés, les Chafouins n'attaquent jamais de front, mais toujours par 
 |-
 | colspan="6" | ''Corps à corps, Dague, Esquive et Masse à une main /''
 |-
-| colspan="6" | ''Comédie / Commerce / Équitation Musique /''
+| colspan="6" | ''Comédie / Commerce / Équitation / Musique /''
 |-
 | colspan="6" | ''Chirurgie / Jeu / Métallurgie / Navigation /''
 |-
@@ -193,7 +193,7 @@ Vêtus de cuir souple, les Chèvres-Pieds utilisent la lance courte, le javelot,
 |-
 | colspan="6" | ''Prohibées : Équitation / Maçonnerie /''
 |-
-| colspan="6" | ''Srv Cité / Navigation Chfevrerie /''
+| colspan="6" | ''Srv Cité / Navigation / Orfèvrerie /''
 |-
 | colspan="6" | ''Serrurerie / Draconic''.
 |}
