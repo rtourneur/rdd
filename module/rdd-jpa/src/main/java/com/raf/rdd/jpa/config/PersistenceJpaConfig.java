@@ -2,8 +2,7 @@ package com.raf.rdd.jpa.config;
 
 import java.util.Properties;
 
-import javax.naming.Context;
-import javax.naming.InitialContext;
+import javax.annotation.Resource;
 import javax.naming.NamingException;
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
@@ -44,6 +43,10 @@ public class PersistenceJpaConfig {
   @Autowired
   private transient Environment env;
 
+  /** The datasource. */
+  @Resource
+  private transient DataSource dataSource;
+
   /**
    * Initialize the entity manager factory.
    *
@@ -54,7 +57,7 @@ public class PersistenceJpaConfig {
   @Bean
   public LocalContainerEntityManagerFactoryBean entityManagerFactory() throws NamingException {
     final LocalContainerEntityManagerFactoryBean emf = new LocalContainerEntityManagerFactoryBean();
-    emf.setDataSource(dataSource());
+    emf.setDataSource(dataSource);
     emf.setPackagesToScan(new String[] { this.env.getProperty("package.scan") });
 
     final JpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();
@@ -63,19 +66,6 @@ public class PersistenceJpaConfig {
     emf.setPersistenceUnitName(this.env.getProperty("persistence.name"));
 
     return emf;
-  }
-
-  /**
-   * Set up the datasource.
-   *
-   * @return the datasource
-   * @throws NamingException
-   *           if datasource not found in context
-   */
-  @Bean
-  public DataSource dataSource() throws NamingException {
-    final Context ctx = new InitialContext();
-    return (DataSource) ctx.lookup("java:/comp/env/jdbc/rdd");
   }
 
   /**
