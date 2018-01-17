@@ -14,6 +14,8 @@ import org.eclipse.swt.widgets.Shell;
 import org.springframework.stereotype.Component;
 
 import com.raf.fwk.service.ServiceException;
+import com.raf.rdd.jpa.domain.character.Figure;
+import com.raf.rdd.service.FigureService;
 import com.raf.rdd.swt.service.RecentService;
 
 import lombok.NoArgsConstructor;
@@ -31,14 +33,28 @@ public class RddDisplay extends AbstractUi {
 
   /** The search folder. */
   @Resource
-  private transient SearchFolder searchFolder; 
+  private transient SearchFolder searchFolder;
+
+  /** The figure folder. */
+  @Resource
+  private transient FigureFolder figureFolder;
 
   /** The recent figure service. */
   @Resource
   private transient RecentService recentService;
 
-  private Shell shell;
+  /** The figure service. */
+  @Resource
+  private transient FigureService figureService;
 
+  /** The shell. */
+  private transient Shell shell;
+
+  /**
+   * Init the display of the application.
+   * 
+   * @return the display
+   */
   public Display init() {
     final Display display = new Display();
     shell = new Shell(display);
@@ -63,11 +79,17 @@ public class RddDisplay extends AbstractUi {
           display.sleep();
         }
       } catch (SWTException e) {
-        log.warn(e.getMessage());
+        log.warn(e.getMessage(), e);
         showErrorDialog(e, shell);
       }
     }
     display.dispose();
+  }
+
+  public void showFigure(final Figure figure, final FolderState folderState) {
+    Display.getDefault().asyncExec(() -> {
+      figureFolder.display(shell, folderState, figure);
+    });
   }
 
   private void createMenuBar() {
@@ -142,13 +164,17 @@ public class RddDisplay extends AbstractUi {
   }
 
   private void newFigure() {
-    // TODO Auto-generated method stub
-
+    final Figure figure = this.figureService.create();
+    showFigure(figure, FolderState.CREATE);
   }
 
   private void loadFigure(final String name) {
-    // TODO Auto-generated method stub
-
+    try {
+      final Figure figure = this.figureService.get(name);
+      showFigure(figure, FolderState.READ);
+    } catch (ServiceException e) {
+      showErrorDialog(e, shell);
+    }
   }
 
 }
