@@ -10,12 +10,14 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.raf.fwk.service.AbstractService;
+import com.raf.fwk.service.ServiceException;
 import com.raf.fwk.util.aop.Loggable;
 import com.raf.rdd.jpa.dao.FigureDao;
 import com.raf.rdd.jpa.domain.breed.Breed;
 import com.raf.rdd.jpa.domain.breed.BreedCharac;
 import com.raf.rdd.jpa.domain.character.CharValue;
 import com.raf.rdd.jpa.domain.character.Figure;
+import com.raf.rdd.jpa.domain.character.Person;
 import com.raf.rdd.jpa.enums.CharacteristicEnum;
 import com.raf.rdd.service.CharacteristicService;
 import com.raf.rdd.service.FigureService;
@@ -52,6 +54,19 @@ public final class FigureServiceImpl extends AbstractService<FigureDao, Figure, 
     return getEntityDao().findByExample(example);
   }
 
+
+  @Override
+  public Figure get(final String name) throws ServiceException {
+    final List<Figure> figures = find(name);
+    if (figures.size() == 1) {
+      final Figure figure = figures.get(0);
+      if (name.equals(figure.getName())) {
+        return figure;
+      }
+    }
+    throw new ServiceException("error.figure.notfound", name);
+  }
+
   /**
    * Create a new figure with base value for characteristics, and no breed.
    *
@@ -64,6 +79,8 @@ public final class FigureServiceImpl extends AbstractService<FigureDao, Figure, 
   public Figure create() {
     final Figure figure = new Figure();
     figure.setCharValues(this.characService.initCharacteristics(figure));
+    figure.setPerson(new Person());
+    figure.calculateValues();
     return figure;
   }
 
@@ -117,5 +134,6 @@ public final class FigureServiceImpl extends AbstractService<FigureDao, Figure, 
       }
     }
   }
+
 
 }

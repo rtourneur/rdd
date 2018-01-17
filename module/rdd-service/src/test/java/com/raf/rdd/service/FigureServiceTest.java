@@ -51,6 +51,9 @@ public class FigureServiceTest extends AbstractServiceTest {
   public void testCreate() {
     final Figure figure = this.figureService.create();
     assertNotNull(figure);
+    assertNotNull(figure.getCharValues());
+    assertNotNull(figure.getPerson());
+    assertNotNull(figure.getThreshold());
     assertFalse(figure.getCharValues().isEmpty());
     assertEquals(14, figure.getCharValues().size());
     assertNull(figure.getSkillValues());
