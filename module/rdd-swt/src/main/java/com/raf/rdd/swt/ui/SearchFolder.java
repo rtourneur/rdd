@@ -5,10 +5,11 @@ import java.util.List;
 import javax.annotation.Resource;
 
 import org.eclipse.swt.SWT;
+import org.eclipse.swt.custom.CTabFolder;
+import org.eclipse.swt.custom.CTabItem;
 import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.widgets.Button;
 import org.eclipse.swt.widgets.Composite;
-import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.Table;
 import org.eclipse.swt.widgets.TableColumn;
@@ -38,17 +39,19 @@ public class SearchFolder extends AbstractUi {
   @Resource
   private transient FigureService figureService;
 
-  private transient Composite search;
-
   /**
    * Display the search folder.
    * 
    * @param parent
    *          the parent composite
    */
-  public void display(final Composite parent) {
-    search = new Composite(parent, SWT.BORDER);
+  public void display(final CTabFolder parent) {
+    final CTabItem tabItem = new CTabItem(parent, SWT.NONE);
+    tabItem.setText(getMessage("folder.search.title"));
+    
+    final Composite search = new Composite(parent, SWT.BORDER);
     search.setLayout(new GridLayout());
+    tabItem.setControl(search);
 
     final Composite action = new Composite(search, SWT.NONE);
     action.setLayout(new GridLayout(4, false));
@@ -88,16 +91,8 @@ public class SearchFolder extends AbstractUi {
       open.setEnabled(table.getSelectionIndex() >= 0);
     });
 
+    parent.setSelection(tabItem);
     parent.layout();
-  }
-
-  /**
-   * Hide the folder.
-   */
-  public void hide() {
-    Display.getDefault().asyncExec(() -> {
-      this.search.dispose();
-    });
   }
 
   private void showFigure(final Table table) {
@@ -105,7 +100,6 @@ public class SearchFolder extends AbstractUi {
     final TableItem tableItem = table.getItem(index);
     final Figure figure = (Figure) tableItem.getData();
     this.rddDisplay.showFigure(figure, FolderState.READ);
-    hide();
   }
 
   private void showResult(final Table table, final Text text) {

@@ -6,7 +6,9 @@ import javax.annotation.Resource;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.SWTException;
-import org.eclipse.swt.layout.FillLayout;
+import org.eclipse.swt.custom.CTabFolder;
+import org.eclipse.swt.layout.GridData;
+import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Menu;
 import org.eclipse.swt.widgets.MenuItem;
@@ -50,6 +52,9 @@ public class RddDisplay extends AbstractUi {
   /** The shell. */
   private transient Shell shell;
 
+  /** The folder. */
+  private transient CTabFolder folder;
+
   /**
    * Init the display of the application.
    * 
@@ -59,9 +64,10 @@ public class RddDisplay extends AbstractUi {
     final Display display = new Display();
     shell = new Shell(display);
     shell.setText(getMessageService().getMessage("main.title"));
-    shell.setLayout(new FillLayout(SWT.VERTICAL));
+    shell.setLayout(new GridLayout(1, true));
     createMenuBar();
-
+    folder = new CTabFolder(shell, SWT.CLOSE);
+    folder.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true));
     return display;
   }
 
@@ -86,9 +92,17 @@ public class RddDisplay extends AbstractUi {
     display.dispose();
   }
 
+  /**
+   * Display the figure folder.
+   * 
+   * @param figure
+   *          the figure
+   * @param folderState
+   *          the folder state
+   */
   public void showFigure(final Figure figure, final FolderState folderState) {
     Display.getDefault().asyncExec(() -> {
-      figureFolder.display(shell, folderState, figure);
+      figureFolder.display(folder, folderState, figure);
     });
   }
 
@@ -158,7 +172,7 @@ public class RddDisplay extends AbstractUi {
 
   private void searchFigure() {
     Display.getDefault().asyncExec(() -> {
-      searchFolder.display(shell);
+      searchFolder.display(folder);
     });
 
   }

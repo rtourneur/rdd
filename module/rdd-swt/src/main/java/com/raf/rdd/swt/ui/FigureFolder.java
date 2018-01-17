@@ -1,6 +1,8 @@
 package com.raf.rdd.swt.ui;
 
 import org.eclipse.swt.SWT;
+import org.eclipse.swt.custom.CTabFolder;
+import org.eclipse.swt.custom.CTabItem;
 import org.eclipse.swt.layout.GridData;
 import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.widgets.Combo;
@@ -23,20 +25,35 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class FigureFolder extends AbstractUi {
 
-  private transient Composite mainPanel;
-
   /**
    * Display the search folder.
    * 
    * @param parent
    *          the parent composite
    */
-  public void display(final Composite parent, final FolderState folderState, final Figure figure) {
-    mainPanel = new Composite(parent, SWT.BORDER);
+  public void display(final CTabFolder parent, final FolderState folderState, final Figure figure) {
+    final CTabItem tabItem = new CTabItem(parent, SWT.NONE);
+    final String titleCode;
+    switch (folderState) {
+    case CREATE:
+      titleCode = "folder.figure.title.create";
+      break;
+    case UPDATE:
+      titleCode = "folder.figure.title.update";
+      break;
+    default:
+      titleCode = "folder.figure.title.read";
+      break;
+    }
+    tabItem.setText(getMessage(titleCode));
+
+    final Composite mainPanel = new Composite(parent, SWT.BORDER);
     mainPanel.setLayout(new GridLayout());
+    tabItem.setControl(mainPanel);
 
     final Composite identity = createIdentity(mainPanel, folderState, figure);
 
+    parent.setSelection(tabItem);
     parent.layout();
   }
 
