@@ -24,4 +24,39 @@ public interface CharacteristicService {
    * @return the set of characteristics
    */
   Set<CharValue> initCharacteristics(Figure figure);
+
+  /**
+   * Increment if possible the value of the characteristic.
+   * 
+   * @param figure
+   *          the figure
+   * @param characteristic
+   *          the characteristic
+   * @param value
+   *          the value
+   * @return the new value
+   */
+  int increment(Figure figure, Characteristic characteristic, int value);
+
+  /**
+   * Decrement if possible the value of the characteristic.
+   * 
+   * @param figure
+   *          the figure
+   * @param characteristic
+   *          the characteristic
+   * @param value
+   *          the value
+   * @return the new value
+   */
+  int decrement(Figure figure, Characteristic characteristic, int value);
+
+  /**
+   * Return the total cost points of the figure's characteristics.
+   * 
+   * @param figure
+   *          the figure
+   * @return the total cost points
+   */
+  int getInitialCost(Figure figure);
 }
