@@ -1,5 +1,7 @@
 package com.raf.rdd.swt.ui;
 
+import javax.annotation.Resource;
+
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.custom.CTabFolder;
 import org.eclipse.swt.custom.CTabItem;
@@ -12,7 +14,9 @@ import org.eclipse.swt.widgets.Text;
 import org.springframework.stereotype.Component;
 
 import com.raf.rdd.jpa.domain.character.Figure;
+import com.raf.rdd.jpa.enums.DraconicHourEnum;
 import com.raf.rdd.jpa.enums.GenderEnum;
+import com.raf.rdd.service.DraconicHourService;
 
 import lombok.NoArgsConstructor;
 
@@ -24,6 +28,10 @@ import lombok.NoArgsConstructor;
 @Component
 @NoArgsConstructor
 public class FigureFolder extends AbstractUi {
+
+  /** The draconic hour service. */
+  @Resource
+  private transient DraconicHourService draconicHourService;
 
   /**
    * Display the search folder.
@@ -51,7 +59,8 @@ public class FigureFolder extends AbstractUi {
     mainPanel.setLayout(new GridLayout());
     tabItem.setControl(mainPanel);
 
-    final Composite identity = createIdentity(mainPanel, folderState, figure);
+    // final Composite identity =
+    createIdentity(mainPanel, folderState, figure);
 
     parent.setSelection(tabItem);
     parent.layout();
@@ -96,6 +105,7 @@ public class FigureFolder extends AbstractUi {
       }
     } else {
       gender.add(figure.getPerson().getGender().getCode());
+      gender.select(0);
     }
 
     new Label(identity, SWT.NONE).setText(getMessage("action.figure.label.weight"));
@@ -146,13 +156,36 @@ public class FigureFolder extends AbstractUi {
 
     new Label(identity, SWT.NONE).setText(getMessage("action.figure.label.hairs"));
     final Text hairs = new Text(identity, SWT.NONE);
-    setText(eyes, figure.getPerson().getHairs());
+    setText(hairs, figure.getPerson().getHairs());
     hairs.setTextLimit(50);
     hairs.setLayoutData(new GridData(SWT.CENTER, SWT.CENTER, true, true, 2, 1));
     hairs.setEditable(folderState.isEditable());
     hairs.addListener(SWT.DefaultSelection, event -> {
       figure.getPerson().setHairs(hairs.getText());
     });
+
+    final Label hourLabel = new Label(identity, SWT.NONE);
+    hourLabel.setText(getMessage("action.figure.label.draconichour"));
+    hourLabel.setLayoutData(new GridData(SWT.CENTER, SWT.CENTER, true, true, 3, 1));
+    final Combo hour = new Combo(identity, SWT.READ_ONLY);
+    hour.setLayoutData(new GridData(SWT.CENTER, SWT.CENTER, true, true, 5, 1));
+    if (folderState.isEditable()) {
+      for (final DraconicHourEnum draconicHourEnum : DraconicHourEnum.values()) {
+        hour.add(getMessage("label.draconichour." + draconicHourEnum.name()));
+      }
+      if (figure.getPerson().getBirthTime() != null) {
+        hour.select(figure.getPerson().getBirthTime().getDraconicHour().ordinal());
+        hour.addListener(SWT.DefaultSelection, event -> {
+          final DraconicHourEnum draconicHourEnum = DraconicHourEnum.get(hour.getItem(hour.getSelectionIndex()));
+          figure.getPerson().setBirthTime(this.draconicHourService.get(draconicHourEnum));
+        });
+      }
+    } else {
+      final DraconicHourEnum draconicHourEnum = figure.getPerson().getBirthTime().getDraconicHour();
+      hour.add(getMessage("label.draconichour." + draconicHourEnum.name()));
+      hour.select(0);
+    }
+
     return identity;
   }
 
