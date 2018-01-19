@@ -31,6 +31,14 @@ public class Application {
     return messageSource;
   }
 
+  /** The Labels source. */
+  @Bean
+  public MessageSource labelSource() {
+    final ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
+    messageSource.setBasename("label.labels");
+    return messageSource;
+  }
+
   /** The Errors source. */
   @Bean
   public MessageSource errorSource() {

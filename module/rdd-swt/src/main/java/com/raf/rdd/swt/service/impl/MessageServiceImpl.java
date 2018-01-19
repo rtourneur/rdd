@@ -24,17 +24,20 @@ public class MessageServiceImpl implements MessageService {
   @Resource
   private transient MessageSource messageSource;
 
+  /** The label source. */
+  @Resource
+  private transient MessageSource labelSource;
+
   /** The error source. */
   @Resource
   private transient MessageSource errorSource;
 
   /**
-   * Return the i18n message label from the property file.
+   * Return the i18n message from the property file.
    * 
    * @param code
    *          the code of the message
-   * @return the i18n message label
-   * @see MessageService#getMessage(String)
+   * @return the i18n message * @see MessageService#getMessage(String)
    */
   @Override
   public String getMessage(final String code) {
@@ -42,13 +45,13 @@ public class MessageServiceImpl implements MessageService {
   }
 
   /**
-   * Return the i18n message label from the property file.
+   * Return the i18n message from the property file.
    * 
    * @param code
    *          the code of the message
    * @param args
    *          the args for the message
-   * @return the i18n message label
+   * @return the i18n message
    * @see MessageService#getMessage(String, String[])
    */
   @Override
@@ -57,11 +60,24 @@ public class MessageServiceImpl implements MessageService {
   }
 
   /**
-   * Return the i18n error label from the property file.
+   * Return the i18n label from the property file.
+   * 
+   * @param code
+   *          the code of the label
+   * @return the i18n label
+   * @see MessageService#getLabel(String)
+   */
+  @Override
+  public String getLabel(final String code) {
+    return getText(labelSource, code, (String[]) null);
+  }
+
+  /**
+   * Return the i18n error from the property file.
    * 
    * @param code
    *          the code of the error
-   * @return the i18n error label
+   * @return the i18n error
    * @see MessageService#getError(String)
    */
   @Override
@@ -70,13 +86,13 @@ public class MessageServiceImpl implements MessageService {
   }
 
   /**
-   * Return the i18n error label from the property file.
+   * Return the i18n error from the property file.
    * 
    * @param code
    *          the code of the error
    * @param args
    *          the args for the error
-   * @return the i18n error label
+   * @return the i18n error
    * @see MessageService#getError(String, String[])
    */
   @Override

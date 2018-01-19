@@ -7,15 +7,18 @@ import org.eclipse.swt.custom.CTabFolder;
 import org.eclipse.swt.custom.CTabItem;
 import org.eclipse.swt.layout.GridData;
 import org.eclipse.swt.layout.GridLayout;
+import org.eclipse.swt.widgets.Button;
 import org.eclipse.swt.widgets.Combo;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Label;
 import org.eclipse.swt.widgets.Text;
 import org.springframework.stereotype.Component;
 
+import com.raf.rdd.jpa.domain.character.CharValue;
 import com.raf.rdd.jpa.domain.character.Figure;
 import com.raf.rdd.jpa.enums.DraconicHourEnum;
 import com.raf.rdd.jpa.enums.GenderEnum;
+import com.raf.rdd.service.CharacteristicService;
 import com.raf.rdd.service.DraconicHourService;
 
 import lombok.NoArgsConstructor;
@@ -32,6 +35,10 @@ public class FigureFolder extends AbstractUi {
   /** The draconic hour service. */
   @Resource
   private transient DraconicHourService draconicHourService;
+
+  /** The Characteristic service. */
+  @Resource
+  private CharacteristicService characteristicService;
 
   /**
    * Display the search folder.
@@ -62,6 +69,8 @@ public class FigureFolder extends AbstractUi {
     // final Composite identity =
     createIdentity(mainPanel, folderState, figure);
 
+    createCharacteristics(mainPanel, folderState, figure);
+
     parent.setSelection(tabItem);
     parent.layout();
   }
@@ -73,23 +82,30 @@ public class FigureFolder extends AbstractUi {
     final Text name = new Text(identity, SWT.NONE);
     setText(name, figure.getName());
     name.setTextLimit(50);
-    name.setLayoutData(new GridData(SWT.CENTER, SWT.CENTER, true, true, 8, 1));
+    name.setLayoutData(new GridData(SWT.BEGINNING, SWT.CENTER, true, true, 8, 1));
     name.setEditable(folderState.isEditable());
-    name.addListener(SWT.DefaultSelection, event -> {
+    name.addListener(SWT.Modify, event -> {
       figure.setName(name.getText());
     });
 
     new Label(identity, SWT.NONE).setText(getMessage("action.figure.label.age"));
-    final Text age = new Text(identity, SWT.NONE);
-    age.setText(String.valueOf(figure.getPerson().getAge()));
-    age.setTextLimit(2);
-    age.setEditable(folderState.isEditable());
-    age.addListener(SWT.DefaultSelection, event -> {
-      figure.getPerson().setAge(Integer.parseInt(age.getText()));
-    });
-    age.addListener(SWT.Verify, event -> {
-      checkInteger(event);
-    });
+    final Combo age = new Combo(identity, SWT.READ_ONLY);
+    final int figureAge = figure.getPerson().getAge();
+    if (folderState.isEditable()) {
+      for (int index = 18; index <= 40; index++) {
+        age.add(String.valueOf(index));
+      }
+      if (figureAge > 0) {
+        age.select(age.indexOf(String.valueOf(figureAge)));
+      }
+      age.addListener(SWT.Selection, event -> {
+        final String text = ((Combo) event.widget).getText();
+        figure.getPerson().setAge(Integer.parseInt(text));
+      });
+    } else {
+      age.add(String.valueOf(figureAge));
+      age.select(0);
+    }
 
     new Label(identity, SWT.NONE).setText(getMessage("action.figure.label.gender"));
     final Combo gender = new Combo(identity, SWT.READ_ONLY);
@@ -99,10 +115,11 @@ public class FigureFolder extends AbstractUi {
       }
       if (figure.getPerson().getGender() != null) {
         gender.select(figure.getPerson().getGender().ordinal());
-        gender.addListener(SWT.DefaultSelection, event -> {
-          figure.getPerson().setGender(GenderEnum.get(gender.getItem(gender.getSelectionIndex())));
-        });
       }
+      gender.addListener(SWT.Selection, event -> {
+        final String text = ((Combo) event.widget).getText();
+        figure.getPerson().setGender(GenderEnum.get(text));
+      });
     } else {
       gender.add(figure.getPerson().getGender().getCode());
       gender.select(0);
@@ -113,7 +130,7 @@ public class FigureFolder extends AbstractUi {
     weight.setText(String.valueOf(figure.getPerson().getWeight()));
     weight.setTextLimit(3);
     weight.setEditable(folderState.isEditable());
-    weight.addListener(SWT.DefaultSelection, event -> {
+    weight.addListener(SWT.Modify, event -> {
       figure.getPerson().setWeight(Integer.parseInt(weight.getText()));
     });
     weight.addListener(SWT.Verify, event -> {
@@ -125,7 +142,7 @@ public class FigureFolder extends AbstractUi {
     size.setText(String.valueOf(figure.getPerson().getSize()));
     size.setTextLimit(3);
     size.setEditable(folderState.isEditable());
-    size.addListener(SWT.DefaultSelection, event -> {
+    size.addListener(SWT.Modify, event -> {
       figure.getPerson().setSize(Integer.parseInt(size.getText()));
     });
     size.addListener(SWT.Verify, event -> {
@@ -137,7 +154,7 @@ public class FigureFolder extends AbstractUi {
     beauty.setText(String.valueOf(figure.getPerson().getBeauty()));
     beauty.setTextLimit(2);
     beauty.setEditable(folderState.isEditable());
-    beauty.addListener(SWT.DefaultSelection, event -> {
+    beauty.addListener(SWT.Modify, event -> {
       figure.getPerson().setBeauty(Integer.parseInt(beauty.getText()));
     });
     beauty.addListener(SWT.Verify, event -> {
@@ -150,7 +167,7 @@ public class FigureFolder extends AbstractUi {
     eyes.setTextLimit(50);
     eyes.setLayoutData(new GridData(SWT.CENTER, SWT.CENTER, true, true, 2, 1));
     eyes.setEditable(folderState.isEditable());
-    eyes.addListener(SWT.DefaultSelection, event -> {
+    eyes.addListener(SWT.Modify, event -> {
       figure.getPerson().setEyes(eyes.getText());
     });
 
@@ -160,7 +177,7 @@ public class FigureFolder extends AbstractUi {
     hairs.setTextLimit(50);
     hairs.setLayoutData(new GridData(SWT.CENTER, SWT.CENTER, true, true, 2, 1));
     hairs.setEditable(folderState.isEditable());
-    hairs.addListener(SWT.DefaultSelection, event -> {
+    hairs.addListener(SWT.Modify, event -> {
       figure.getPerson().setHairs(hairs.getText());
     });
 
@@ -175,8 +192,9 @@ public class FigureFolder extends AbstractUi {
       }
       if (figure.getPerson().getBirthTime() != null) {
         hour.select(figure.getPerson().getBirthTime().getDraconicHour().ordinal());
-        hour.addListener(SWT.DefaultSelection, event -> {
-          final DraconicHourEnum draconicHourEnum = DraconicHourEnum.get(hour.getItem(hour.getSelectionIndex()));
+        hour.addListener(SWT.Selection, event -> {
+          final String text = ((Combo) event.widget).getText();
+          final DraconicHourEnum draconicHourEnum = DraconicHourEnum.get(text);
           figure.getPerson().setBirthTime(this.draconicHourService.get(draconicHourEnum));
         });
       }
@@ -189,10 +207,51 @@ public class FigureFolder extends AbstractUi {
     return identity;
   }
 
+  private void createCharacteristics(final Composite parent, final FolderState folderState, final Figure figure) {
+    final Composite characPanel = new Composite(parent, SWT.NONE);
+    characPanel.setLayout(new GridLayout(4, false));
+
+    figure.getCharValues().forEach(charValue -> {
+      final Label label = new Label(characPanel, SWT.NONE);
+      label.setText(getLabel(charValue.getCharacteristic().getMessageCode()));
+      final Label text = new Label(characPanel, SWT.BORDER);
+      text.setText(String.valueOf(charValue.getValue()));
+      final GridData gridData = new GridData();
+      gridData.widthHint = 30;
+      text.setLayoutData(gridData);
+      final Button minus = new Button(characPanel, SWT.PUSH);
+      minus.setText("-");
+      minus.addListener(SWT.Selection, event -> {
+        text.setText(decrement(figure, charValue, text.getText()));
+        text.getText();
+      });
+      final Button plus = new Button(characPanel, SWT.PUSH);
+      plus.setText("+");
+      plus.addListener(SWT.Selection, event -> {
+        text.setText(increment(figure, charValue, text.getText()));
+        text.getText();
+      });
+    });
+
+  }
+
   private void setText(final Text text, final String value) {
     if (value != null) {
       text.setText(value);
     }
   }
 
+  private String increment(final Figure figure, final CharValue charValue, final String text) {
+    final int value = Integer.valueOf(text);
+    final int newValue = this.characteristicService.increment(figure, charValue.getCharacteristic(), value);
+    charValue.setValue(newValue);
+    return String.valueOf(newValue);
+  }
+
+  private String decrement(final Figure figure, final CharValue charValue, final String text) {
+    final int value = Integer.valueOf(text);
+    final int newValue = this.characteristicService.decrement(figure, charValue.getCharacteristic(), value);
+    charValue.setValue(newValue);
+    return String.valueOf(newValue);
+  }
 }

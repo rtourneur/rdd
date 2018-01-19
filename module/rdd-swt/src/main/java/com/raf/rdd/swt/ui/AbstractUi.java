@@ -52,6 +52,17 @@ public abstract class AbstractUi {
   }
 
   /**
+   * Delagating method for getting i18n label.
+   * 
+   * @param code
+   *          the message code
+   * @return the message
+   */
+  protected final String getLabel(final String code) {
+    return this.messageService.getLabel(code);
+  }
+
+  /**
    * Check if the text of the event is numeric.
    * 
    * @param event
