@@ -88,7 +88,7 @@ La vitesse maximum d'une Bulle Volante est de 50 m par round (50 km/60mn). Il n'
 '''Effet''' Permet d'altérer illusoirement la géographie de la zone, y compris sa végétation : nier un rocher ou en inventer un, un gouffre, un bosquet, un talus, etc. L'illusion n'existe que pour les créatures situées en dehors de la zone et se dissipe dès qu'on y pénètre. Pour les créatures situées hors de la zone, celle qui vient d'y entrer semble avoir un comportement ''logique'' par rapport à l'illusion. Par exemple, elle semble tomber dans le gouffre ou disparaître derrière le rocher de l'illusion. En cas de litige d'interprétation, c'est au gardien des rêves de statuer.
 
 === ILLUSION HUMANOÏDE ===
-(Cité) R-6 r2+<BR>
+(Cité) R-6 r2<BR>
 '''Portée''' E1<BR>
 '''Durée''' HN<BR>
 '''JR''' Aucun<BR>

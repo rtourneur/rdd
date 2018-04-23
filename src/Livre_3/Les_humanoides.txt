@@ -375,7 +375,7 @@ Les Fièrabras ignorent la subtilité des armes de tir ou de jet et ne combatten
 |-
 | colspan="6" | &nbsp;
 |-
-| colspan="2" | Masse à 2 mains || niv +5 || Init 9 || colspan="2" | +dom +5
+| colspan="2" | Masse à 2 mains || niv +5 || Init 11 || colspan="2" | +dom +5
 |-
 | colspan="2" | Esquive || colspan="4" | niv +5
 |-
@@ -416,13 +416,13 @@ Surtout chasseurs, les Gigants manient excellemment le javelot. Au contact. ils 
 |-
 | VUE || style="text-align:right;" | 0 || Tir || style="text-align:right;" | 10 || Vitesse || style="text-align:right;" | 16
 |-
-| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 13 || Protection || style="text-align:right;" | 4
+| OUÏE || style="text-align:right;" | 0 || Lancer || style="text-align:right;" | 12 || Protection || style="text-align:right;" | 4
 |-
 | ODORAT-GOÛT || style="text-align:right;" | 0 || Dérobée || style="text-align:right;" | 7 || colspan="2" | 
 |-
 | colspan="6" | &nbsp;
 |-
-| colspan="2" | Masse à 2 mains || niv +3 || Init 9 || colspan="2" | +dom +6
+| colspan="2" | Masse à 2 mains || niv +3 || Init 9 || colspan="2" | +dom +7
 |-
 | colspan="2" | Javelot || niv +3 || Init 9 || colspan="2" | +dom +2
 |-

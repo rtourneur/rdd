@@ -27,7 +27,7 @@ Aucun point de vie ne peut être récupéré, même par une potion enchantée, t
 * possède encore une ou plusieurs blessures, critique, graves ou légères, non entièrement guéries (les contusions-éraflures ne comptent pas).
 
 
-Le premier test de récupération de point de vie peut avoir lieu le lendemain du jour où disparaît la maladie ou la dernière blessure. Ce test a toujours lieu au moment privilégié de l'extrême fin du Château Dormant (voir ''[[Au Fil Des Jours]]''). Si le jet échoue, un second pourra avoir lieu le lendemain au même moment c'est-à-dire 12 heures plus tard, et ainsi de suite jusqu'à ce que tous les points de vie aient été récupérés. Même chose si le jet réussit, mais qu'il manque encore des points de vie. Noter que toute nouvelle blessure, même si elle ne cause pas de perte de points de vie, interrompt le processus journalier de récupération de ces derniers tant qu'elle n'est pas elle-même guérie.
+Le premier test de récupération de point de vie peut avoir lieu le lendemain du jour où disparaît la maladie ou la dernière blessure. Ce test a toujours lieu au moment privilégié de l'extrême fin du Château Dormant (voir ''[[Au Fil des Jours]]''). Si le jet échoue, un second pourra avoir lieu le lendemain au même moment c'est-à-dire 12 heures plus tard, et ainsi de suite jusqu'à ce que tous les points de vie aient été récupérés. Même chose si le jet réussit, mais qu'il manque encore des points de vie. Noter que toute nouvelle blessure, même si elle ne cause pas de perte de points de vie, interrompt le processus journalier de récupération de ces derniers tant qu'elle n'est pas elle-même guérie.
 
 {|style="border:1px solid black;text-align:center;"
 |-

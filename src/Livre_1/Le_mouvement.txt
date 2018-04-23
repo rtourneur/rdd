@@ -135,7 +135,7 @@ Le personnage commence à se noyer, voir ''[[La Santé]]''.
 En barbotant, le personnage peut nager pendant 2 x SC minutes, puis il applique la règle de course en ce qui concerne perte d'endurance et fatigue. En nage rapide appliquer directement la règle de course concernant l'endurance et la fatigue.
 
 == Monture ==
-C'est la monture qui se fatigue. Chaque heure de monte ne coûte qu'un point de fatigue au cavalier. Voir les vitesses des différentes montures au ''[[Le Livre des Mondes|Livre des Mondes]]''.
+C'est la monture qui se fatigue. Chaque heure de monte ne coûte qu'un point de fatigue au cavalier. Voir les vitesses des différentes montures (voir les ''[[Les Animaux|Animaux]]'').
 
 == Saut ==
 Pour sauter par dessus un obstacle, on utilise ''[[Les Caractéristiques#Mêlée|Mêlée]]/[[Les Compétences#SAUT|Saut]]. La difficulté dépend de la hauteur et peut être extrapolée d'après la table de Saut en hauteur. Mêmes règles pour le saut en longueur. Ces deux sauts sont supposés avec élan. Sans élan, la distance sautée est divisée par deux pour une même difficulté. Pour
@@ -199,7 +199,7 @@ le saut en contrebas, on utilise ''[[Les Caractéristiques#AGILITÉ|AGILITÉ]]/[
 ! scope="row" width="50%" style="text-align:left;" | 6m
 | -8
 |-
-! scope="row" style="text-align:left;" |'5m
+! scope="row" style="text-align:left;" | 5m
 | -6
 |-
 ! scope="row" style="text-align:left;" | 4m

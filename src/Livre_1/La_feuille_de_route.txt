@@ -13,7 +13,7 @@ Le bas de la feuille est un calendrier mensuel ou les astrologues peuvent noter 
 == Partie droite ==
 
 === Rêve ===
-C'est le compteur de points de rêve. Les points de rêve sont au départ égaux à la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]]. (Voir ''[[Le Livre du Haut-Rêve]]'').
+C'est le compteur de points de rêve. Les points de rêve sont au départ égaux à la caractéristique [[Les Caractéristiques#RÊVE|RÊVE]]. (Voir ''[[Rêve de Dragon Seconde Édition#Le Livre du Haut-Rêve|Le Livre du Haut-Rêve]]'').
 
 === Endurance ===
 C'est le compteur des points d'endurance.

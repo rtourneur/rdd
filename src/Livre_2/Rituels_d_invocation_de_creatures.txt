@@ -60,9 +60,9 @@ Les créatures invoquées ne sont pas des hologrammes sans substance mais des pr
 |-
 | colspan="6" | &nbsp;
 |-
-| style="text-align:left;" | Dague Mêlée || 12 || style="text-align:left;" | niv +5 || init 12 || +dom +1 ||
+| style="text-align:left;" | Dague Mêlée || 12 || style="text-align:left;" | niv +5 || init 11 || +dom +1 ||
 |-
-| style="text-align:left;" | Corps à corps || 12 || style="text-align:left;" | niv +5 || init 12 || +dom (0) ||
+| style="text-align:left;" | Corps à corps || 12 || style="text-align:left;" | niv +5 || init 11 || +dom (0) ||
 |-
 | style="text-align:left;" | Esquive || 11 || style="text-align:left;" | niv +5 || colspan="3" |
 |-
